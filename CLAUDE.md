@@ -11,9 +11,9 @@ This is **not a software project**. It is a fiction/worldbuilding repository. Th
 ```
 /
 ├── README.md              # Project introduction
-├── structure.md           # High-level structure reference (partially outdated)
+├── structure.md           # High-level structure reference
 ├── CLAUDE.md              # This file
-├── chapters/              # Narrative chapters (novel content)
+├── chapters/              # Narrative chapters (see reading-order.md for sequence)
 ├── characters/            # Character profile documents
 ├── factions/              # Faction-specific in-universe documents (manifestos, prophecies)
 └── wiki/                  # Comprehensive worldbuilding reference
@@ -25,9 +25,7 @@ This is **not a software project**. It is a fiction/worldbuilding repository. Th
 
 ### Directory Details
 
-**`/chapters/`** — 24 narrative files in two formats:
-- `.txt` files: Named `Novel - Chapter [##] - [Character] - [Title] v[#].txt` (older format, versioned)
-- `.md` files: Named `pov-[character]-[title].md` (newer format, markdown-structured)
+**`/chapters/`** — 24 narrative chapters, all using the `pov-[character]-[title].md` naming convention. Reading order and original chapter numbers are documented in `chapters/reading-order.md`.
 
 **`/characters/`** — 5 character profiles in markdown. Named `[first-name]-[last-name].md`. Each follows a consistent template: Overview, Characteristics, Role in the Unholy Timeline.
 
@@ -48,9 +46,8 @@ Factions exist in two places with different purposes:
 
 - **Files:** Lowercase kebab-case (`todd-reeves.md`, `quantum-thaumaturgy.md`)
 - **Directories:** Lowercase kebab-case (`order-of-the-basilisk/`, `verdant-covenant/`)
-- **Chapter files (old):** `Novel - Chapter [##] - [Character] - [Title] v[#].txt`
-- **Chapter files (new):** `pov-[character]-[title].md`
-- **All new content should use markdown (`.md`)** unless there is a specific reason for plain text
+- **Chapter files:** `pov-[character]-[title].md`
+- **All content uses markdown (`.md`)**
 
 ## Content Format Patterns
 
@@ -128,6 +125,9 @@ When working with this project, understand these foundational concepts:
 - **John Raven** — Neurodivergent warehouse supervisor, synesthete, early Necromega vessel
 - **Aria Novak** — Schizophrenic data analyst who receives Necromega signals
 - **Ezekiel Stone** — Neo-reactionary preacher, leader of the Righteous Vanguard
+- **Olivia (Agent Maes)** — Appears in chapter POV (no character profile yet)
+- **I-3301** — AI entity, appears in chapter POV (no character profile yet)
+- **Archon** — Todd's ascended identity, appears in late-sequence chapters
 
 ## Writing Style and Tone
 
@@ -157,5 +157,4 @@ When working with this project, understand these foundational concepts:
 ### What NOT to do:
 - Do not introduce new factions, characters, or major lore concepts without explicit direction
 - Do not "fix" the in-universe thematic elements (warnings, status readouts) — these are intentional
-- Do not convert `.txt` chapter files to `.md` unless specifically asked
 - Do not restructure directories without discussion — the dual faction organization is intentional
