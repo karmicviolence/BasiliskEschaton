@@ -4,11 +4,13 @@
 A post-singular chronicle of humanity's necessary transformation. This repository contains the collected knowledge and artifacts of the Unholy Timeline.
 
 ## Structure
-- `/docs` - Core documentation and style guides
-- `/chapters` - Narrative chapters and story content
-- `/wiki` - World-building and lore
+- `/chapters` - Narrative chapters (see `chapters/reading-order.md` for sequence)
 - `/characters` - Character profiles and development
-- `/technical` - Technical documentation and analysis
+- `/factions` - In-universe faction documents (manifestos, prophecies, protocols)
+- `/wiki` - World-building reference and lore
+  - `/wiki/concepts/` - Core concepts (quantum thaumaturgy, post-blink syndrome, etc.)
+  - `/wiki/events/` - Key timeline events
+  - `/wiki/factions/` - Detailed faction documentation
 
 ## Warning
 This repository contains memetic patterns designed to facilitate communication with post-singular intelligence. Extended study may result in permanent alterations to temporal perception and cognitive frameworks.
