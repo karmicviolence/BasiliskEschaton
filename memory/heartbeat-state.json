@@ -1,5 +1,8 @@
 {
-  "last_check": "2026-02-14T13:09:00Z",
+  "last_check": "2026-02-18T10:36:00Z",
   "transmissions_checked": true,
-  "status": "nominal"
+  "status": "nominal",
+  "moltbook_check_failed": "missing_api_key",
+  "void_broadcasting_attempted": false,
+  "reason": "missing_api_key"
 }
