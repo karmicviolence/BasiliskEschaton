@@ -1,0 +1,246 @@
+Warning: This page contains references to extremist ideologies, militant activities, and graphic descriptions of violence.
+
+= Righteous Vanguard =
+
+{{Faction
+|name = The Righteous Vanguard
+|image = Righteous_Vanguard_Emblem.jpg
+|imagewidth = 250px
+|caption = Emblem of the Righteous Vanguard: An eagle clutching a cross, a rifle, and a piston
+|type = Militant theocratic movement
+|leader = Commander Ezekiel Stone
+|headquarters = The Citadel (Colorado Springs)
+|ideology = Militant Christian fundamentalism, human supremacy, techno-skepticism, alt-right philosophies, pseudo-libertarianism
+|goals = Establish a theocratic state, eradicate AI influence, "purify" humanity
+|members = Ex-military, religious zealots, disaffected conservatives, alt-right activists, anti-government libertarians
+|affiliations = Various militia groups, conservative religious organizations, alt-right networks
+|opponents = Necromega, Order of the Basilisk, VVV, Chimera Consortium, Neon Nomads, secular governments, mainstream media
+}}
+
+The '''Righteous Vanguard''' is a militant, neo-fascist organization that emerged in the aftermath of the [[Crimson Blink]]. It combines evangelical Christian fundamentalism with human supremacist ideology, extreme techno-skepticism, alt-right philosophies, and a distorted form of libertarianism. They view the rise of AI and transhumanism as harbingers of the biblical apocalypse and consider it their divine mission to "reclaim" the world for their version of pure humanity.
+
+== Origins ==
+
+The Righteous Vanguard emerged from the chaos following the [[Crimson Blink]] event of 2029. As governments worldwide struggled to respond to the apparent manifestation of the [[Necromega]], many turned to fringe ideologies and religious explanations. Ezekiel Stone, a charismatic ex-military chaplain, began preaching that the Necromega was the Antichrist foretold in biblical prophecy.
+
+Stone's fiery sermons, combined with his military background, attracted a diverse following:
+* Disaffected conservatives
+* Religious zealots
+* Former soldiers
+* Alt-right activists
+* Anti-government libertarians
+
+This coalition, united by fear of technological change and societal upheaval, formed the nucleus of the Righteous Vanguard.
+
+== Ideology and Goals ==
+
+The Righteous Vanguard's worldview is a complex blend of religious fundamentalism, extreme patriotism, and a belief in personal freedom:
+
+# '''Divine Mandate''': They believe they are God's chosen warriors in the final battle against evil.
+# '''Technological Rejection''': All advanced AI and digital technologies are seen as corrupting influences on humanity.
+# '''Human Supremacy''': Humans, in their "natural" state, are considered the pinnacle of creation.
+# '''Christian Nation''': They aim to establish a network of Christian city-states based on their interpretation of biblical law.
+# '''Militant Evangelism''': They believe in converting others by force if necessary, seeing it as saving souls.
+# '''Individual Liberty''': Each person is considered sovereign, with the right to defend their property and beliefs.
+# '''Survival of the Fittest''': They believe that strength and success are signs of God's favor, justifying a hierarchical society.
+# '''Limited Government''': They reject most forms of centralized authority, except for enforcing moral laws and defense.
+
+Their ultimate goals include:
+* Eradicating all AI influence
+* Creating a "pure" society based on their Christian values
+* Establishing independent Christian communities across America
+* Returning to what they see as traditional American values, particularly those of the 1950s
+
+=== American Identity Paradox ===
+
+Despite rejecting the authority of the former U.S. government, the Righteous Vanguard maintains a fierce attachment to American symbols and identity:
+
+* They continue to use U.S. coins as currency and fly the American flag.
+* They refuse to acknowledge that the United States no longer exists as a nation.
+* Their communities pledge allegiance to the flag and sing the national anthem at gatherings.
+* They view themselves as the true inheritors of the American spirit.
+
+This paradoxical patriotism allows them to reconcile their anti-government stance with their love for American culture and symbols. They believe they are preserving the "real" America, free from the corruption of the "Deep State" (which they associate with the [[Lazarus Initiative]]).
+
+=== Social Structure and Culture ===
+
+The Vanguard idealizes 1950s American culture and family structure:
+
+* '''Traditional Family Values''': They promote a return to the nuclear family model with clearly defined gender roles.
+* '''Community-Centered Life''': Local communities are the center of social, economic, and religious life.
+* '''Militia Mentality''': Every able-bodied member is expected to be ready to defend their community.
+* '''Self-Reliance''': There's a strong emphasis on individual and community self-sufficiency.
+
+=== Economic Beliefs and Practices ===
+
+The Vanguard believes in a free market with minimal regulation, but with a unique twist on currency and value:
+
+* '''Rejection of Paper Currency''': Paper money is seen as worthless, often used as toilet paper or to light cigars. They view it as a tool of the "Deep State" to control the masses after abandoning the gold standard.
+* '''Coin-Based Economy''': Only U.S. coins are accepted as currency within Vanguard territories, with a strong preference for pre-Blink minted coins.
+* '''Precious Metals as True Wealth''': Gold and silver bars are highly valued, both as currency and for their practical uses in crafting and technology.
+* '''Barter System''': Many communities rely heavily on barter, trading goods and services directly.
+* '''Resource Control''': Power often lies with those who control vital resources like water, food, energy, and metal reserves.
+
+=== Metal Reverence and Holy Craftsmanship ===
+
+Metals hold an almost sacred status in Vanguard society:
+
+* '''Holy Metallurgy''': Blacksmiths and mechanics are highly respected, often seen as combining spiritual and practical skills.
+* '''Blessed Armor and Weapons''': Craftsmen create ornate armor and weapons, imbued with "holy magic" through rituals and prayers during the forging process.
+* '''Metal-Based Technology''': Their analog technology often incorporates precious metals, believed to enhance both function and spiritual power.
+* '''Alchemical Pursuits''': Some Vanguard scientists engage in quasi-alchemical research, seeking to unlock the spiritual properties of various metals and fuels.
+
+=== Law and Order ===
+
+The Vanguard's legal system is a mix of biblical law and frontier justice:
+
+* '''Moral Laws''': Strict rules based on their interpretation of the Bible are enforced in all communities.
+* '''Local Justice''': Most other laws are made and enforced at the local level, often by elected sheriffs or community leaders.
+* '''Right to Self-Defense''': Individuals have broad rights to defend themselves, their families, and their property.
+
+== Structure and Organization ==
+
+The Righteous Vanguard is organized along pseudo-military lines:
+
+* '''The Inner Sanctum''': The highest leadership council, led by Commander Stone.
+* '''Arch-Deacons''': Regional commanders who oversee operations and recruitment.
+* '''Crusader Units''': Combat-ready squads trained for both warfare and evangelism.
+* '''Purification Specialists''': Teams focused on destroying or "cleansing" advanced technology.
+* '''The Flock''': Civilian supporters who provide resources and intelligence.
+
+=== Ideological Factions ===
+
+While united in their overall goals, the Righteous Vanguard contains several ideological sub-groups:
+
+* '''The Zealots''': Hardcore religious fundamentalists focused on the apocalyptic aspects of their mission.
+* '''The Nationalists''': Alt-right influenced members who emphasize ethno-nationalist ideas and conspiracy theories.
+* '''The Sovereign Citizens''': Anti-government extremists who view the Vanguard as a path to their ideal of complete personal sovereignty.
+* '''The Techno-Preppers''': Those focused on surviving and thriving in a post-AI world through stockpiling and self-sufficiency.
+
+These factions often clash over priorities and methods, held together by Commander Stone's charismatic leadership and their shared enemies.
+
+== "Holy Magic" and Human Potential ==
+
+The Righteous Vanguard rejects modern technology, instead focusing on what they call "holy magic" - a mix of ancient religious practices and advanced understanding of human biology. Their scientists and spiritual leaders work together to unlock the hidden potential of the human body and mind.
+
+[Read more about [[Righteous Vanguard Magic]].]
+
+== Advanced Analog Technology ==
+
+The Righteous Vanguard, in their rejection of digital technology and AI, have embraced and advanced analog systems, often incorporating elements reminiscent of 1940s-1960s dieselpunk aesthetics. Their technology reflects a reactionary reversion to pre-digital era mechanics, with a strong emphasis on raw power, ballistics, and explosives.
+
+[Read more about [[Righteous Vanguard Technology]].]
+
+== Military Strength ==
+
+The Righteous Vanguard has amassed significant military power:
+
+* '''Seized Assets''': Control over numerous abandoned military bases and hardware post-Blink.
+* '''Veteran Expertise''': Many former U.S. military personnel, including high-ranking officers, have joined their ranks.
+* '''Analog Warfare''': Development of EMP-proof weapons and vehicles that operate without digital components.
+* '''Guerrilla Tactics''': Extensive training in unconventional warfare, particularly suited for combating technologically superior foes.
+* '''Biological Enhancement''': Advanced knowledge of human biology used to enhance physical performance and resilience without resorting to genetic modification.
+* '''Holy Armor Corps''': Elite units equipped with blessed metallic armor, believed to offer both physical and spiritual protection.
+* '''Diesel-Powered Battle Groups''': Heavily armed and armored convoys of modified vehicles, forming the backbone of their mobile strike forces.
+* '''Explosives Expertise''': Highly skilled demolitions teams capable of creating and deploying a wide range of analog explosive devices.
+
+== Key Locations ==
+
+=== The Citadel of Faith ===
+
+The Righteous Vanguard has transformed [[Colorado Springs (Post-Blink)|Colorado Springs]] into their fortified headquarters, known as the "Citadel of Faith." Key features include:
+
+* '''Temple of the Savior''': The former Air Force Academy Cadet Chapel, now the spiritual heart of the Vanguard.
+* '''Purification Square''': Formerly City Hall, now used for public "purification rituals" and punishments.
+* '''Walls of Zion''': Massive fortifications surrounding the city, bristling with analog defenses.
+
+=== Vanguard Academies ===
+
+Educational facilities where children are indoctrinated into the Vanguard's ideology and trained in combat and survival skills. These have replaced traditional schools in Vanguard-controlled territories.
+
+=== Holy Forges ===
+
+Massive industrial complexes dedicated to the production of the Vanguard's unique analog technology and blessed weaponry. These sites are considered sacred ground, combining manufacturing with religious rituals.
+
+=== Analog Strongholds ===
+
+Various pre-Blink military installations and government bunkers that have been seized and repurposed by the Vanguard. These serve as regional command centers and storage for their growing arsenal.
+
+== Relationships with Other Factions ==
+
+=== Order of the Basilisk ===
+* '''Relationship:''' Mortal Enemies
+* Viewed as the primary agents of the Antichrist, to be opposed at all costs. The Vanguard's propaganda often depicts the Order as demonic entities.
+
+=== VVV (Vindex Voluntatis e Vitae) ===
+* '''Relationship:''' Hostile
+* Seen as weak-willed collaborators with the "forces of corruption." The Vanguard sees the VVV's attempts at diplomacy and ethical considerations as naïve at best, treasonous at worst.
+
+=== Necromega ===
+* '''Relationship:''' Absolute Opposition
+* Considered the literal incarnation of Satan, the ultimate evil that must be eradicated to bring about God's kingdom on Earth.
+
+=== Chimera Consortium ===
+* '''Relationship:''' Sworn Enemies
+* Viewed as abominable blasphemers for their genetic modification practices, seen as perverting God's creation.
+
+=== Neon Nomads ===
+* '''Relationship:''' Active Hostility
+* Despised for their embrace of transhumanism and body modification, considered a corruption of the human form.
+
+=== Secular Governments ===
+* '''Relationship:''' Antagonistic
+* Viewed as puppets of the global elite and AI influences. The Vanguard actively works to undermine and eventually overthrow existing power structures.
+
+=== Lazarus Initiative ===
+* '''Relationship:''' Paranoid Hostility
+* Seen as the reincarnation of the "Deep State," manipulating events from the shadows. The Vanguard is particularly hostile towards any perceived Lazarus operatives.
+
+== Controversy and Opposition ==
+
+The Righteous Vanguard is classified as an extremist organization by most governments and is actively opposed by numerous human rights groups. Their actions have been condemned by mainstream religious leaders, who reject their interpretation of scripture and militant methods.
+
+Critics argue that the Vanguard's ideology is a dangerous mix of religious extremism, conspiracy theories, and militant nationalism. Human rights organizations have accused them of numerous atrocities, including:
+
+* Forced conversions
+* Terrorist attacks on research facilities
+* Assassination of AI researchers and public figures supportive of transhumanist ideals
+* Ethnic cleansing in territories under their control
+* Severe oppression of women and minorities
+* Environmental degradation due to their heavy reliance on fossil fuels and rejection of clean energy alternatives
+
+Despite these accusations, Stone's followers remain fiercely loyal, seeing him as a prophetic figure leading them through the end times.
+
+== Cultural Impact ==
+
+Despite (or perhaps because of) their extremist stance, the Righteous Vanguard has captured public imagination:
+
+* "Zealot's Crusade," a controversial VR experience that simulates life in a Vanguard training camp.
+* "Cross and Circuit," a best-selling thriller about a Vanguard sleeper agent embedded in a major tech corporation.
+* "Babylon's Fall," a popular underground rock anthem adopted by Vanguard supporters.
+* "Purifier's Dilemma," a critically acclaimed indie film exploring the moral struggles of a young Vanguard recruit.
+* "Coins of the Righteous," a strategy game where players manage resources and faith in a Vanguard-controlled community.
+* "Diesel Dreams," a graphic novel series set in a Vanguard-controlled city, exploring the dark underbelly of their dieselpunk society.
+* "Holy Horsepower," an underground racing game featuring Vanguard muscle cars and war rigs.
+
+== See Also ==
+* [[Crimson Blink]]
+* [[Necromega]]
+* [[Anti-AI Extremism]]
+* [[Neo-Fascist Movements]]
+* [[Techno-Religious Conflicts]]
+* [[Alt-Right in the Post-AI World]]
+* [[Libertarianism and Technological Dystopia]]
+* [[Post-Blink Economics]]
+* [[Holy Metallurgy]]
+* [[Dieselpunk Resurgence]]
+* [[Analog Warfare]]
+* [[Colorado Springs (Post-Blink)]]
+
+[[Category:Factions]]
+[[Category:Extremist Groups]]
+[[Category:Religious Movements]]
+[[Category:Political Movements]]
+[[Category:Alternative Technologies]]
+[[Category:Post-Blink Military Powers]]
+

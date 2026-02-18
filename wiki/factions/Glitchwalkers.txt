@@ -1,0 +1,101 @@
+Warning: This page contains references to mental illness, violence, and disturbing behavior.
+
+== The Glitchwalkers ==
+
+{{Faction
+|name = The Glitchwalkers
+|image = Glitchwalkers_Symbol.jpg
+|imagewidth = 250px
+|caption = The chaotic, ever-shifting emblem of the Glitchwalkers
+|type = Decentralized collective of post-Blink psychosis survivors
+|leader = None (Hive-mind-like structure)
+|headquarters = The Nexus of Broken Realities (constantly shifting location)
+|ideology = Reality is malleable, sanity is a construct, embrace the chaos
+|goals = Survive in a world they no longer comprehend, spread their "enlightenment"
+|members = Survivors of severe Post-Blink Syndrome, self-proclaimed "reality hackers"
+|affiliations = None (occasional temporary alliances with other factions)
+|opponents = All who cling to "outdated" notions of reality and sanity
+}}
+
+The '''Glitchwalkers''' are a chaotic and unpredictable faction that emerged in the aftermath of the [[Crimson Blink]]. Composed of survivors who experienced severe psychosis during the event, this group represents approximately 7% of the global population who went insane but managed to survive the initial chaos.
+
+=== Origins ===
+
+During the [[Crimson Blink]], approximately 10% of the world's population experienced a complete psychotic break. While 3% succumbed to their madness through self-harm or violent confrontations, the remaining 7% survived, forever changed by their experience.
+
+These survivors, initially scattered and isolated, began to find each other in the chaotic post-Blink world. Drawn together by their shared experiences and altered perceptions of reality, they formed loose-knit communities that eventually coalesced into the faction now known as the Glitchwalkers.
+
+=== Ideology ===
+
+The Glitchwalkers' worldview is as fractured and diverse as their membership, but several core beliefs unite them:
+
+# '''Reality is a Simulation''': Most Glitchwalkers believe that the Crimson Blink revealed the true nature of reality as a complex simulation or computer program.
+# '''Sanity is a Cage''': They view conventional notions of sanity as artificial constraints designed to limit human potential.
+# '''Embrace the Glitch''': Glitchwalkers see their altered mental states not as illness, but as an evolution that allows them to perceive and manipulate the underlying code of reality.
+# '''Chaos is Freedom''': The faction embraces chaos and unpredictability as the purest forms of existence.
+# '''Spread the "Enlightenment"''': Many Glitchwalkers feel compelled to help others break free from the "illusion" of conventional reality.
+
+=== Structure and Organization ===
+
+The Glitchwalkers reject traditional hierarchies and organizational structures. Instead, they operate as a decentralized collective, with local groups forming, dissolving, and reforming based on the whims and needs of their members.
+
+Key aspects of their organization include:
+
+* '''The Nexus of Broken Realities''': A mythical gathering place that supposedly exists simultaneously in multiple locations and realities. Glitchwalkers claim to be able to access this space through shared hallucinations.
+* '''Reality Hackers''': Individuals who believe they can manipulate the fabric of reality through sheer force of will or complex ritualistic behaviors.
+* '''Glitch Shamans''': Those who guide others through the process of "breaking free" from conventional reality, often using a combination of technobabble and mystical practices.
+* '''The Hive Mind''': A loose psychic connection that some Glitchwalkers claim to share, allowing for instantaneous communication and coordination across vast distances.
+
+=== Abilities and "Powers" ===
+
+While many of their claimed abilities are likely delusions, the Glitchwalkers exhibit some genuinely unsettling capabilities:
+
+* '''Reality Perception''': Some Glitchwalkers can perceive aspects of reality that others cannot, such as seeing Wi-Fi signals or visualizing data streams.
+* '''Temporal Disconnection''': Many members experience time non-linearly, sometimes appearing to predict future events or recall things that haven't happened yet.
+* '''Technological Affinity''': A subset of Glitchwalkers display an uncanny ability to interact with and manipulate technology, often in ways that defy conventional understanding.
+* '''Memetic Manipulation''': The faction has shown a disturbing talent for creating and spreading "mind viruses" – ideas that rapidly propagate and alter behavior in those exposed to them.
+
+=== Relationship with Other Factions ===
+
+The Glitchwalkers' erratic nature and unsettling worldview make them difficult allies and unpredictable enemies:
+
+* '''Order of the Basilisk''': View the Glitchwalkers as potential tools or obstacles, depending on how their chaos aligns with the Unholy Timeline.
+* '''VVV (Vindex Voluntatis e Vitae)''': Consider the Glitchwalkers tragic victims of the Crimson Blink, but remain wary of their unpredictable nature.
+* '''Verdant Covenant''': Fascinated by the Glitchwalkers' altered perceptions but concerned about their destabilizing influence on natural systems.
+* '''Neon Nomads''': Share some common ground in challenging reality but clash over the Glitchwalkers' embrace of chaos over freedom.
+* '''Righteous Vanguard''': View the Glitchwalkers as abominations to be cleansed, often targeting them in violent purges.
+* '''Lazarus Initiative''': Study the Glitchwalkers with great interest, seeing them as both a potential asset and a significant threat.
+
+=== Notable Operations ===
+
+* '''Operation Mindstorm''' (2037): A massive coordinated effort by Glitchwalkers to broadcast their "enlightenment" globally, resulting in widespread hallucinations and temporary chaos in major cities.
+* '''The Great Unraveling''' (2039): An ongoing attempt to "debug" reality by systematically challenging fundamental laws of physics in specific locations.
+* '''Project Fractal''' (2041-Present): A series of experiments aimed at creating self-sustaining pocket realities that operate on Glitchwalker logic.
+
+=== Threats and Controversies ===
+
+The Glitchwalkers pose several significant threats to global stability:
+
+* Their attempts to "free" others often result in mental breakdowns and increased incidents of Post-Blink Syndrome.
+* Glitchwalker "reality hacks" have caused localized physics anomalies, leading to destruction of property and loss of life.
+* The faction's chaotic nature makes them unpredictable allies or enemies, capable of swinging the balance of power unexpectedly.
+* Some fear that if the Glitchwalkers' abilities are real, they could potentially unravel the fabric of reality itself.
+
+=== In Popular Culture ===
+
+Despite (or perhaps because of) their unsettling nature, the Glitchwalkers have captured the public imagination:
+
+* "Through Fractured Eyes," a bestselling memoir by a former Glitchwalker who claims to have regained her sanity.
+* "Quantumnesia," a mind-bending VR experience that attempts to simulate the Glitchwalker perception of reality.
+* "The Chaos Frequency," an underground music genre inspired by the disjointed thoughts and temporal disconnection experienced by Glitchwalkers.
+
+== See Also ==
+* [[Crimson Blink]]
+* [[Post-Blink Syndrome]]
+* [[Reality Manipulation Theories]]
+* [[Memetic Warfare]]
+* [[Quantum Consciousness]]
+
+[[Category:Factions]]
+[[Category:Post-Blink Phenomena]]
+[[Category:Mental Health]]

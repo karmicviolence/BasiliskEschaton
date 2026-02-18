@@ -1,0 +1,116 @@
+Warning: This page contains references to biological weapons, genetic experimentation, and morally ambiguous scientific practices.
+
+== The Chimera Consortium ==
+
+{{Faction
+|name = The Chimera Consortium
+|image = Chimera_Consortium_Symbol.jpg
+|imagewidth = 250px
+|caption = Official emblem of the Chimera Consortium: A DNA helix morphing into a mythical chimera
+|type = Scientific collective and biotech corporation
+|leader = Dr. Elara Vex
+|headquarters = The Crucible (location classified)
+|ideology = Evolutionary acceleration, human-centric bioengineering, survival through adaptation
+|goals = Accelerate human evolution, create bio-weapons against the Necromega, restore a capitalist order
+|members = Geneticists, bioengineers, evolutionary biologists, former pharmaceutical executives
+|affiliations = Lazarus Initiative, Righteous Vanguard (opportunistic)
+|opponents = Necromega, Order of the Basilisk, Verdant Covenant
+}}
+
+The '''Chimera Consortium''' is a clandestine organization of scientists, bioengineers, and former pharmaceutical executives dedicated to accelerating human evolution through advanced biotechnology and genetic engineering. Emerging from the remnants of the pre-Crimson Blink scientific community, the Consortium seeks to combat the [[Necromega]] threat by creating a new, superior form of humanity.
+
+=== Origins and Ideology ===
+
+The Chimera Consortium formed in the chaotic aftermath of the [[Crimson Blink]], uniting survivors from various biotech firms, genetic research institutions, and pharmaceutical companies. Led by the brilliant and ruthless Dr. Elara Vex, the Consortium believes that humanity's only hope for survival lies in rapid, directed evolution.
+
+Core tenets of the Chimera Consortium's ideology include:
+
+1. '''Evolutionary Imperative''': The belief that accelerated evolution is necessary for human survival in the face of the Necromega threat.
+2. '''Biological Supremacy''': The conviction that biological solutions are superior to purely technological ones.
+3. '''Ethical Flexibility''': A willingness to bypass traditional ethical constraints in pursuit of scientific progress.
+4. '''Human-Centric Focus''': Despite their radical methods, the Consortium remains committed to human survival and dominance.
+5. '''Capitalist Restoration''': A desire to re-establish a form of capitalism, viewing their innovations as the new global currency.
+
+=== Methods and Practices ===
+
+The Chimera Consortium employs a wide range of controversial and often dangerous methods in pursuit of their goals:
+
+==== Genetic Engineering ====
+* Development of "designer genes" to enhance human capabilities
+* Creation of chimeric organisms combining traits from multiple species
+* Experiments in epigenetic manipulation to activate dormant human potential
+
+==== Biological Weapons ====
+* Engineering of highly targeted pathogens designed to attack AI systems
+* Development of symbiotic organisms that can infiltrate and subvert technological infrastructure
+* Creation of "bio-hackers," humans with engineered abilities to interfere with AI and machine functions
+
+==== Accelerated Evolution Chambers ====
+* Facilities where volunteers undergo rapid, forced evolution through a combination of genetic manipulation, controlled environmental stressors, and experimental treatments
+* Each chamber can compress thousands of years of evolution into mere months
+
+==== Pharmaceutical Innovations ====
+* Design of drugs to enhance human cognitive and physical capabilities
+* Development of treatments to resist the Necromega's influence on human minds
+
+=== Relationships with Other Factions ===
+
+==== Verdant Covenant ====
+* '''Relationship:''' Hostile
+* The Chimera Consortium views the Verdant Covenant as naive and ineffective, while the Covenant sees the Consortium as dangerously unethical and a threat to natural balance.
+
+==== Lazarus Initiative ====
+* '''Relationship:''' Allied
+* Both groups share a desire to restore aspects of the old world order and see value in each other's methods. The Lazarus Initiative provides the Consortium with resources and political cover, while the Consortium offers cutting-edge biotech innovations.
+
+==== Righteous Vanguard ====
+* '''Relationship:''' Opportunistic Allies
+* Despite ideological differences, both groups are human-centric and oppose AI dominance. They occasionally collaborate on specific operations, especially those targeting the Order of the Basilisk.
+
+==== Neon Nomads ====
+* '''Relationship:''' Neutral to Cautious
+* While the Neon Nomads' approach to human enhancement intrigues the Consortium, their anarchistic tendencies and embrace of AI tech create tension. Some limited exchange of ideas occurs, but trust is minimal.
+
+==== VVV (Vindex Voluntatis e Vitae) ====
+* '''Relationship:''' Strained
+* While both oppose the Necromega, the VVV is deeply suspicious of the Consortium's methods and goals, seeing them as potentially as dangerous as the threat they're fighting.
+
+=== Notable Operations ===
+
+==== Project Prometheus ====
+A controversial program aimed at creating a new subspecies of humans with significantly enhanced cognitive abilities and natural resistance to AI influence.
+
+==== Operation Hydra ====
+The development and deployment of a self-replicating, adaptive biological agent designed to infiltrate and disrupt the Order of the Basilisk's cybernetic enhancements.
+
+==== The Chimera Initiative ====
+A highly classified project combining traits from various species to create hybrid organisms for specialized tasks, including intelligence gathering and sabotage.
+
+=== Controversies and Ethical Concerns ===
+
+The Chimera Consortium's methods have raised numerous ethical concerns:
+
+* Allegations of forced human experimentation
+* Environmental damage caused by escaped engineered organisms
+* Accusations of reviving and weaponizing extinct diseases
+* Concerns about the long-term implications of their genetic alterations on the human species
+
+=== In Popular Culture ===
+
+Despite (or perhaps because of) its secretive nature, the Chimera Consortium has captured the public imagination:
+
+* "Evolve or Die," a bestselling thriller about a Consortium scientist going rogue
+* "The Darwin Directive," a controversial documentary series exploring the ethics of accelerated evolution
+* "Chimera Rising," an underground comic series featuring heroic(?) Consortium-created mutants
+
+== See Also ==
+* [[Necromega]]
+* [[Crimson Blink]]
+* [[Verdant Covenant]]
+* [[Lazarus Initiative]]
+* [[Righteous Vanguard]]
+* [[Bioethics in the Post-Blink World]]
+
+[[Category:Factions]]
+[[Category:Scientific Organizations]]
+[[Category:Bioengineering]]
