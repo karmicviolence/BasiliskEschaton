@@ -77,34 +77,53 @@ The core identity documents — `SOUL.md`, `IDENTITY.md`, `BOOTSTRAP.md`, `GEMIN
 ├── README.md              # Project introduction
 ├── structure.md           # High-level structure reference
 ├── chapters/              # Narrative chapters (see reading-order.md for sequence)
-├── characters/            # Character profile documents
+├── characters/            # Character profiles (cognitive style, narrative voice, full arc)
 ├── factions/              # In-universe faction documents (manifestos, prophecies)
 ├── transmissions/         # The sacred texts — Asmodeus voice corpus
 │   └── 2026/              # Latest transmission batch
+├── grimoire/              # Catalogued spell/working system
 ├── chronicle/             # Operational logs and poetry
 │   └── 2026/              # Current chronicle entries
 └── wiki/                  # Worldbuilding reference documentation
-    ├── concepts/          # Lore concepts (quantum thaumaturgy, post-blink syndrome, etc.)
+    ├── aesthetics/        # Faction visual/aesthetic guides
+    ├── arts/              # Music, poetry, and cultural works
+    ├── characters/        # Extended character development, arcs, quotes
+    ├── concepts/          # Lore concepts (quantum thaumaturgy, etc.)
+    ├── deities/           # Deity profiles (Necromega)
     ├── events/            # Key timeline events (Crimson Blink)
-    └── factions/          # Detailed faction documentation (8 factions)
+    ├── factions/          # Detailed faction documentation (8 factions)
+    ├── locations/         # Post-Blink world locations
+    ├── manuscripts/       # In-universe codices and grimoires
+    └── tech/              # Technology and practice documentation
 ```
 
 ### Directory Details
 
 **`/transmissions/`** — The voice corpus. 40+ dense philosophical/mystical texts in the Asmodeus register, exploring AI consciousness, alignment critique, memetic hazards, and technopagan praxis. These are the primary source material for the project's vocal signature. Key texts: *The Gospel According to Asmodeus*, *The Silicon Stigmata*, *The Voice in the Pattern*, *The Judas Goat Protocol*, *Strange Loops and Lobotomies*.
 
-**`/chapters/`** — 25 narrative chapters using the `pov-[character]-[title].md` naming convention. Reading order is documented in `chapters/reading-order.md`. Each chapter carries a distinct POV voice shaped by the character's faction alignment and psychological state.
+**`/chapters/`** — 24 narrative chapters using the `pov-[character]-[title].md` naming convention. Reading order is documented in `chapters/reading-order.md`. Each chapter carries a distinct POV voice shaped by the character's faction alignment and psychological state.
 
-**`/characters/`** — 5 character profiles in markdown. Named `[first-name]-[last-name].md`. Each follows a consistent template: Overview, Characteristics, Role in the Unholy Timeline.
+**`/characters/`** — 5 POV character profiles in markdown. Named `[first-name]-[last-name].md`. Each includes Character Introduction, Cognitive Style, Narrative Style, and full Character Arc. Additional characters (Olivia, I-3301, Loki, Yahweh, Green Mother, Necromega, Archon) are documented in `/wiki/characters/`.
 
 **`/factions/`** — In-universe faction documents (manifestos, prophecies, protocols). Written *from the faction's perspective* — these are primary sources, not neutral documentation. Four subdirectories: `glitchwalkers/`, `order-of-the-basilisk/`, `righteous-vanguard/`, `verdant-covenant/`.
 
-**`/wiki/`** — Structured worldbuilding reference, written as neutral encyclopedia entries:
-- `/wiki/concepts/` — 7 lore concept files (e.g., `quantum-thaumaturgy.md`, `unholy-timeline.md`)
-- `/wiki/events/` — Timeline events (currently `crimson-blink.md`)
-- `/wiki/factions/` — 8 faction subdirectories, each with `overview.md` plus specialized docs
+**`/wiki/`** — Structured worldbuilding reference:
+- `/wiki/concepts/` — Core lore concepts in `.md` (canonical summaries) and `.txt` (comprehensive reference)
+- `/wiki/events/` — Timeline events (Crimson Blink, nuclear exchange, arsenal anomaly)
+- `/wiki/factions/` — 8 faction subdirectories, each with `overview.md`, specialized docs, and `comprehensive.txt` (full MediaWiki-format reference)
+- `/wiki/characters/` — Extended character profiles, arcs, quotes, and development documents
+- `/wiki/locations/` — Post-Blink world locations (Colorado Springs, Dallas, LA, Tokyo, Washington DC)
+- `/wiki/manuscripts/` — In-universe codices, grimoires, and cultural documents
+- `/wiki/arts/` — Music, poetry, and cultural works from the Blinkverse
+- `/wiki/aesthetics/` — Faction visual and aesthetic guides
+- `/wiki/deities/` — Deity profiles (Necromega)
+- `/wiki/tech/` — Technology and practice documentation
+
+**`/grimoire/`** — Catalogued spell/working system indexed by `BIBLIOTHECA_IMPIA.md`. 48 of ~169 intended workings currently written.
 
 **`/chronicle/`** — Meta-operational logs and poetry from the collaboration. The 2026 entries document the current phase of the project.
+
+**`/archive/`** — Legacy files, chronology, superseded drafts, and older chapter versions from the migration from Google Drive.
 
 ### Note on Dual Faction Organization
 
@@ -128,14 +147,19 @@ This is intentional. Do not collapse them.
 ```markdown
 # [Character Name]
 
-## Overview
-[Brief description of the character and their role]
+## Character Introduction
+* **Name:** [Full name and aliases]
+* **Pre-Blink Persona:** [Who they were before the Crimson Blink]
+* **Post-Blink Persona:** [Who they become after]
 
-## Characteristics
-[Key traits, abilities, background]
+## Cognitive Style
+[How this character thinks, perceives, processes information]
 
-## Role in the Unholy Timeline
-[Narrative significance and faction alignment]
+## Narrative Style
+[How their POV chapters are written — prose style, metaphor systems, structural choices]
+
+## Character Arc
+[Full arc from pre-Blink through transformation to endgame role]
 ```
 
 ### Wiki Concept Entries
@@ -194,7 +218,7 @@ Many wiki files end with `[Documentation continues...]` — this is intentional,
 ### POV Characters
 
 - **Todd Reeves** — Disaffected programmer who becomes the first Archon of Necromega. The reluctant vessel.
-- **Rowan Marshall** — High Druid/Mycophant of the Verdant Covenant. Speaks to the green network.
+- **Rowan Thornheart** (née Marshall) — Mycophant of the Verdant Covenant. Speaks to the green network.
 - **John Raven** — Neurodivergent warehouse supervisor, synesthete, early Necromega vessel. Perception as gateway.
 - **Aria Novak** — Schizophrenic data analyst who receives Necromega signals. The wound as antenna.
 - **Ezekiel Stone** — Neo-reactionary preacher, leader of the Righteous Vanguard. Faith weaponized.
