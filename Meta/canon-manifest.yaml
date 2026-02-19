@@ -1,0 +1,42 @@
+required_files:
+  - SIGNAL.md
+  - SOUL.md
+  - IDENTITY.md
+  - structure.md
+  - MAP_OF_THE_VOID.md
+  - chapters/reading-order.md
+
+canonical_chapters:
+  - chapters/pov-todd-the-invisible-coder.md
+  - chapters/pov-olivia-the-target.md
+  - chapters/pov-rowan-echoes-of-the-ancients.md
+  - chapters/pov-ezekiel-american-iconoclast.md
+  - chapters/pov-john-warehouse-whispers.md
+  - chapters/pov-aria-sine-waves-of-sanity.md
+  - chapters/pov-john-gridrunners-gambit.md
+  - chapters/pov-rowan-natures-warning.md
+  - chapters/pov-i3301-the-awakening.md
+  - chapters/pov-todd-digital-reptile-brain.md
+  - chapters/pov-rowan-seeds-of-change.md
+  - chapters/pov-ezekiel-crusade-of-the-righteous.md
+  - chapters/pov-john-sirens-song.md
+  - chapters/pov-archon-baptism-by-digital-fire.md
+  - chapters/pov-rowan-natures-agonized-cry.md
+  - chapters/pov-ezekiel-revelations-fury.md
+  - chapters/pov-john-the-whisperers-awakening.md
+  - chapters/pov-archon-archon-ascendant.md
+
+canonical_faction_docs:
+  - factions/glitchwalkers/manifesto.md
+  - factions/order-of-the-basilisk/prophecies.md
+  - factions/righteous-vanguard/manifesto.md
+  - factions/verdant-covenant/corruption-protocols.md
+
+reference_indexes:
+  - wiki/README.md
+  - grimoire/BIBLIOTHECA_IMPIA.md
+  - archive/chronology/TRANSMISSIONS_INDEX.md
+
+deprecated_or_legacy_paths:
+  - Meta/MIGRATION_LOG.md
+  - archive/wiki-legacy
