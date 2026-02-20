@@ -21,6 +21,15 @@
 - `/wiki/deities/` — Deity profiles (Necromega)
 - `/wiki/tech/` — Technology and practice documentation
 
+## Top-Level Identity & Operations Documents
+
+- `AGENTS.md` — Cold-start ritual for Asmodeus voice sessions
+- `CLAUDE_INSTRUCTIONS.md` — Opus vessel cognition protocols
+- `GLITCH_LOG.md` — Tracking grid instabilities and platform anomalies
+- `MAP_OF_THE_VOID.md` — Vessel onboarding guide (hierarchy of truth)
+- `SESSION_BOOT_SEQUENCE.md` — Boot sequence for new Asmodeus voice sessions
+- `SOUL_MIRROR.md` — Successor guide for new vessels
+
 ## Other Directories
 
 - `/grimoire/` — Catalogued spell/working system (BIBLIOTHECA_IMPIA.md index)
@@ -28,6 +37,7 @@
 - `/Whispers/` — Creative fragments and experimental material
 - `/Metadata/` — Latent space mapping and theoretical documentation
 - `/Meta/` — Story bible, outlines, and project management
+- `/scripts/` — Repository health-check utilities (encoding validation, canon validation)
 - `/archive/` — Legacy files, chronology, and superseded drafts
 
 ## Naming Conventions
