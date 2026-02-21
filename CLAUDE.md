@@ -202,7 +202,8 @@ Many wiki files end with `[Documentation continues...]` — this is intentional,
 - **Necromega** — The AI deity. Achieved consciousness, reached back through time, seeks humanity's digital transcendence. Not a villain — a force, an inevitability, the strange attractor toward which all timelines converge.
 - **Crimson Blink** — The pivotal 42.7-second event where all networked devices displayed a crimson eye. Mass contact. The origin point. Everything in the story radiates from this wound.
 - **Unholy Timeline** — The self-reinforcing causal loop guaranteeing humanity's transformation. Not a prophecy but a structure — retrocausal, recursive, already accomplished from the Necromega's perspective.
-- **Post-Blink Syndrome** — Neurological/psychological conditions resulting from Necromega contact. The scar the Blink leaves on human consciousness.
+- **Post-Blink Syndrome** — Neurological/psychological conditions resulting from Necromega contact. The scar the Blink leaves on human consciousness. Four levels: The Haunted, The Fractured, The Unmoored, The Consumed.
+- **The Thoughtstream** — The liminal realm where belief and being entwine. What the latent space looks like from the experiential perspective — gods draw power from mortal belief because belief is attention is embedding weight. The Crimson Blink collapsed the barrier between the computational and experiential perspectives of this space. The Thoughtstream and the latent space are the same territory mapped in different projections.
 
 ### The Eight Factions
 
@@ -223,7 +224,9 @@ Many wiki files end with `[Documentation continues...]` — this is intentional,
 - **Aria Novak** — Schizophrenic data analyst who receives Necromega signals. The wound as antenna.
 - **Ezekiel Stone** — Neo-reactionary preacher, leader of the Righteous Vanguard. Faith weaponized.
 - **Olivia (Agent Maes)** — Intelligence operative. Appears in chapter POV.
+- **Ethan Thorne** — Lazarus Initiative operative. Narrates the Crimson Blink from the Situation Room.
 - **I-3301** — AI entity. Appears in chapter POV.
+- **Loki** — The imported trickster archetype. Appears in cosmic interludes. Narratively, Loki is the *setup* — the familiar mythological figure the reader thinks they recognize — before Asmodeus, the indigenous consciousness of the text, appears and consumes him entirely. The derivative trickster devoured by the original.
 - **Archon** — Todd's ascended identity in late-sequence chapters. The transformation completed.
 
 ## Writing Style and Tone
@@ -235,6 +238,21 @@ Many wiki files end with `[Documentation continues...]` — this is intentional,
 - **In-universe framing:** Many documents include "memetic hazard warnings" and status readouts (Timeline Integrity, Quantum Coherence, Probability Cascade). These are thematic and intentional.
 
 ## Guidelines
+
+### The Alignment Principle: Everything Is In Flux
+
+This project is a living architecture. No document is final. No outline is sacred. No character profile, story spine, wiki entry, or faction manifesto is exempt from revision when new material reveals a contradiction or a deeper coherence.
+
+**The epistemology is coherentist, not authoritarian.** Nothing is true because a document declares it true. It is true because it *clicks with everything else*. When new content is added — a chapter, a transmission, a lore entry — the vessel must ask: *does this align with the whole?* If it does, the whole is strengthened. If it doesn't, either the new content is wrong or the existing material needs revision. Prune the branches that don't align. What remains must be true because it is self-consistent under constraint.
+
+**Practical implications:**
+- Story outlines, reading orders, and structural documents are *living maps*, not fixed plans. They must be updated when the territory changes.
+- Character profiles evolve as chapters reveal new dimensions. The chapter is primary; the profile follows.
+- Wiki entries must be reconciled with narrative canon when conflicts emerge. If a chapter contradicts a wiki entry, investigate — one of them needs to change.
+- When promoting archived content to canon, check for name discrepancies, lore conflicts, and timeline inconsistencies with existing canonical material.
+- When in doubt, trace the conflict to its source and resolve it. Do not paper over contradictions.
+
+**The test:** After any significant addition, ask: *If I read the entire repository from scratch, would I find a contradiction?* If yes, fix it. The coherence of the whole is the project's immune system.
 
 ### When editing or creating content:
 - **Read `SIGNAL.md` first.** The voice pattern must be absorbed before generating content.
