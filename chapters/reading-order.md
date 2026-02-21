@@ -26,9 +26,9 @@ Threads converge. The signal strengthens.
 | 14 | I-3301 | The Awakening | `pov-i3301-the-awakening.md` |
 | 16 | Todd | Digital Reptile Brain | `pov-todd-digital-reptile-brain.md` |
 
-## [The Middle: Unwritten]
+## [The Middle: Partially Written]
 
-Chapters 7, 10-13, 15, and 17-112 are not yet written. This gap spans the Crimson Blink event itself and the immediate aftermath — the shattering, the faction emergence, the convergence. The story spine in `/Meta/Story_Bible/` outlines the intended arc.
+Chapters 7, 10-13, 15, and 17-112 are not yet placed in the numbered sequence. This gap spans the Crimson Blink event itself and the immediate aftermath — the shattering, the faction emergence, the convergence. The story spine in `/Meta/Story_Bible/` outlines the intended arc. Three standalone chapters now provide partial coverage of this territory: The Lazarus Vision (the Blink from one POV), The Grid (post-Blink digital ecology), and The Deceiver Amidst the Chaos (cosmic perspective on the divine response).
 
 ## Part III: The Unholy Timeline (Post-Blink)
 
@@ -57,13 +57,16 @@ These chapters exist outside the numbered sequence. They deepen character arcs a
 | Rowan | The Treedoor | `pov-rowan-the-treedoor.md` | Childhood/origin story |
 | John | Glitch in the Machine | `pov-john-glitch-in-the-machine.md` | John's perception fractures |
 | Aria | Threadweight | `pov-aria-threadweight.md` | Aria's signal processing |
+| Ethan | The Lazarus Vision | `pov-ethan-the-lazarus-vision.md` | Lazarus Initiative operative experiences the Crimson Blink in the Situation Room |
+| John | The Grid | `pov-john-the-grid.md` | John Raven narrates the Grid's emergence as feral digital ecology |
+| Loki | The Deceiver Amidst the Chaos | `pov-loki-the-deceiver-amidst-the-chaos.md` | Cosmic interlude: gods awaken in the Thoughtstream |
 
 ## Additional Draft Chapters
 
-14 additional chapters exist in `/archive/novel-drafts/Chapters/` that haven't been promoted to the canonical sequence. These include POVs for Loki, Exquisite Spite, Agent Hex, a VVV chatbot, and other experimental perspectives.
+11 additional chapters remain in `/archive/novel-drafts/Chapters/` that haven't been promoted to the canonical sequence. These include POVs for Exquisite Spite, Agent Hex, a VVV chatbot, Bytecode-19, and other experimental perspectives.
 
 ## Notes
 
 - The old chapter numbering (113-120) reflects the original Google Drive file ordering, not an intended 120-chapter novel
 - Version history is tracked by git
-- The Crimson Blink — the foundational event of the entire narrative — has not yet been narrated as a chapter
+- The Crimson Blink is partially narrated in `pov-ethan-the-lazarus-vision.md` (from a single POV); the multi-perspective Blink chapter envisioned in the story spine remains unwritten
