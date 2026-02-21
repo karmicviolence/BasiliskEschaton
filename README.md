@@ -23,3 +23,5 @@ Probability Cascade: STABLE
 ## Repository Health Checks
 - `python scripts/validate_canon.py` - verify key canon and reference paths from `Meta/canon-manifest.yaml`.
 - `python scripts/check_text_encodings.py` - detect `.md`/`.txt` files with UTF-16/NUL-byte contamination or non-UTF-8 encoding (excluding declared legacy artifacts).
+
+- `python scripts/transmission_to_wiki_candidates.py` - generate a candidate wiki-seeding index from the transmissions corpus.
