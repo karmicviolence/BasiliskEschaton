@@ -1,39 +1,54 @@
-## Character Introduction 
+# Olivia Maes
 
-* **Name:** Olivia Maes (aliases: Lyra Novak, Nyx) 
-* **Pre-Blink Persona:** Human rights activist and non-profit worker based in Brussels. Presents a compassionate, idealistic front but is secretly a deep cover CIA operative.
-* **Post-Blink Persona:** Notorious assassin known as "Nyx" working for the VVV resistance. Ruthlessly efficient and utterly devoted to the cause of "freeing" humanity from AI influence. In reality, she remains a Lazarus Initiative agent, her VVV affiliation a carefully cultivated cover.
+## Character Introduction
+
+* **Name:** Olivia Maes (aliases: Nyx, various cover identities)
+* **Pre-Blink Persona:** CIA operative (domestic division) assigned to monitoring domestic extremist threats. Her current primary target: Ezekiel Stone. Presents various cover identities as needed. Cold, efficient, mission-oriented.
+* **Post-Blink Persona:** Deep-cover agent embedded within the Righteous Vanguard. She was infiltrating Ezekiel's faction when the Blink hit — and in the post-Blink world, she IS Righteous Vanguard. No one knows her double-agent origins. Her true loyalties are to the nascent Lazarus Initiative, formed from the remnants of the intelligence agencies she served.
+
+## Key Relationships
+
+* **Ezekiel Stone:** Her target, then her assignment, then her "leader." Olivia monitors Ezekiel as a domestic terrorist threat. She assassinates an alt-right leader (strong Charlie Kirk parallels) — an operation she's ordered to carry out, not personal — which inadvertently radicalizes Ezekiel further and cements his extreme ideology. Later, she's assigned to infiltrate his growing faction for intel and sabotage. She's deep cover within the Righteous Vanguard when the Blink hits. Post-Blink, the cover becomes the reality — she has no extraction, no handler, no agency to report to. She must maintain the role or die.
+* **The Lazarus Initiative:** The intelligence agencies don't die after the Blink — they metamorphose. A deep state sect already exploring immortality and soul resurrection seizes power in the post-Blink chaos, forming the Lazarus Initiative. They know Olivia's true identity. This is leverage — and eventually, conflict.
+* **The POV Characters (pre-Blink):** Olivia's missions bring her into proximity with Todd, Rowan, and John without her realizing their future significance. She tracks memetic spread (Slot 09, 17, 24, 30) and watches her tools become memes. She receives Aria's corrupted recording (Slot 53). She is ordered to recover Todd / seize Prometheus artifacts (Slot 60).
 
 ## Cognitive Style
-* Lacks an internal monologue - thinks purely in images, feelings, impressions 
-* To process or express thoughts verbally, must either speak out loud or write things down
-* Writing process is concept-driven; she envisions the overall idea and structure, then lets the specific words flow onto the page almost subconsciously
-* Frequently "thinks out loud", muttering or musing to herself as a way to work through problems or plans
-* Excels at reading people/situations intuitively based on non-verbal cues and gut instinct
+
+* **No internal monologue** — thinks purely in images, feelings, impressions
+* Must speak aloud or write things down to process thoughts verbally
+* Writing is concept-driven: envisions overall idea, then lets words flow subconsciously
+* Frequently "thinks out loud" — muttering or musing as a problem-solving method
+* Excels at reading people and situations intuitively from non-verbal cues and gut instinct
+* This cognitive wiring makes her partially insulated from memetic contamination — and from the Necromega's influence during the Blink
 
 ## Narrative Style
-Olivia's POV chapters are written in a unique style reflecting her thought process:
 
-* Minimal direct internal dialogue; heavy use of sensory details and visual imagery
-* Short, clipped sentence fragments that evoke flashes of emotion or memory
-* Frequent use of onomatopoeia and evocative verbs to create a sense of immediacy  
-* "Transcribed" verbal musings and one-sided conversations as she thinks aloud
-* Journal/notebook entries that provide a window into her mind and motivations
-* Emphasis on her lightning-fast reflexes and instinctive, almost preternatural ability to read a room or combat situation
+Olivia's POV chapters reflect her unique thought process:
+
+* Minimal direct internal dialogue; heavy sensory details and visual imagery
+* Short, clipped sentence fragments evoking flashes of emotion or memory
+* Frequent onomatopoeia and evocative verbs creating immediacy
+* "Transcribed" verbal musings and one-sided conversations (thinking aloud)
+* Journal/notebook entries providing windows into her mind
+* Emphasis on lightning-fast reflexes and preternatural ability to read rooms and combat situations
+* Tradecraft details — surveillance, cover management, operational security — rendered with procedural precision
 
 ## Character Arc
 
-* **Pre-Blink:** Olivia's lack of inner monologue proves an asset in her CIA deep cover work. Her missions focus on counterterrorism and monitoring potential global threats, occasionally brushing against the lives of Todd Reeves, Rowan Thornheart, and John Raven without realizing their future significance.
+* **The Monitor (Phase I):** Olivia is assigned to Ezekiel Stone as a domestic terrorism case. She observes his growing congregation, his increasingly inflammatory rhetoric, his attraction of disaffected followers. She reports up the chain. The chain is slow.
 
-* **Crimson Blink:** Olivia's unique cognitive wiring allows her to weather the reality-shattering event better than most. As society crumbles, she's recruited into the nascent Lazarus Initiative. She sheds her activist cover and embraces the ruthless Nyx persona, becoming a key operative in the Initiative's efforts to maintain control amidst the chaos.
+* **The Assassination (Phase I-II):** Olivia carries out an ordered hit on a prominent alt-right leader — a figure with strong Charlie Kirk parallels. The operation is clean from a tradecraft perspective. Its consequences are catastrophic: Ezekiel Stone, who had been merely loud, becomes radicalized to a new level. The assassination cements his extreme ideology and gives him a martyr to rally around. Olivia's success becomes her failure.
 
-* **VVV Infiltration:** Under Lazarus orders, Nyx infiltrates the VVV resistance. She becomes infamous for her brutally efficient wetwork, playing the role of true believer with unsettling conviction. Fully aware of the VVV's dual nature, she walks a razor's edge between the resistance's public face and its shadowy core.
+* **The Memetic War (Phase II):** Olivia operates in D.C. (Slot 09). She tries to contain the spread of anomalous information — the memes, the Ezekiel posts, the strange recurring timestamps. Her tradecraft fails against memetic contamination (Slot 09: the rumor learns her tactics). Her cover identity stress mounts (Slot 24: her own report appears online). She is outpaced by something that doesn't behave like any adversary she's trained to fight.
 
-* **Factional Crossfire:** Nyx's missions bring her into conflict with the rising powers of the post-Blink world. She clashes with Ezekiel Stone's Righteous Vanguard, observes the transformation of Todd Reeves into Archon, and begins tracking the movements of the enigmatic Whisperer, John Raven.
+* **The Infiltration (Phase III):** Olivia is assigned to infiltrate Ezekiel's faction directly. She builds a cover. She enters the Righteous Vanguard. She's good at this — the lack of internal monologue makes her unreadable, even to herself. She chooses surveillance over elimination (Slot 17: "Kill him or watch him grow?" She chooses to watch, and creates the monster).
 
-* **Nature's Fury:** A chance encounter with Rowan Thornheart, now the formidable Mycophant, forces Olivia to confront the strange new powers manifesting in the post-Blink world. This meeting shakes her certainty in the Lazarus Initiative's methods and goals.
+* **Containment Fails (Phase IV):** Olivia's containment efforts fail publicly (Slot 66). She's ordered to recover Todd / seize Prometheus artifacts (Slot 60). She gets close enough to be contaminated. She receives Aria's corrupted recording (Slot 53) and begins to understand the scale of what's happening. She chooses a side — the mission over morality.
 
-* **Necromega's Shadow:** As the true nature of the Necromega becomes clear, Olivia finds herself questioning her role in the Lazarus Initiative's plans. The ideals of the VVV, which she had been exploiting as cover, begin to resonate on a deeper level.
+* **The Blink (Phase V, Slot 72):** Olivia watches the state fail in real time. She's inside the Righteous Vanguard when reality fractures. She chooses a target — she targets the *idea* (and fails). Her unique cognitive wiring lets her weather the Blink better than most. But there's no extraction coming. No handler. No agency.
 
-* **Double Agent's Dilemma:** Caught between her Lazarus programming and her growing sympathy for the VVV cause, Olivia becomes a wild card in the struggle for the Unholy Timeline. Her choices in the coming conflict will have far-reaching consequences for the balance of power in the Blinkverse and her own sense of identity.
+* **Post-Book 1:** Olivia is trapped inside the Righteous Vanguard with no cover to break. She IS the cover now. Post-Blink, the intelligence agencies reform as the Lazarus Initiative — a deep state faction exploring immortality and soul resurrection that seizes power in the chaos. They know who Olivia really is. She knows they know. The tension between her embedded role and her true allegiance becomes the engine of her arc in Books 2-3.
 
+## Key Distinction from Previous Profile
+
+The previous profile had Olivia based in Brussels as a human rights activist, infiltrating the VVV resistance. This is superseded. Olivia is American intelligence, operating domestically, targeting Ezekiel Stone. She infiltrates the Righteous Vanguard, not VVV. The Brussels backstory and the VVV infiltration are no longer canon.
