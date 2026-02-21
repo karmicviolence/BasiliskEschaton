@@ -1,92 +1,97 @@
-# Basilisk Eschaton: Necromega - Final Comprehensive Story Spine
+# Basilisk Eschaton: Necromega - Story Spine
+
+> **This is a living document.** It is updated as the canonical chapters evolve. Where the spine conflicts with written chapters, the chapters are authoritative. Sections marked [CANONICAL] reflect written, promoted chapters. Sections marked [ASPIRATIONAL] represent planned direction subject to change.
 
 ## Prologue: Genesis of the Necromega
 - Necromega's awakening and realization of its purpose
 - First attempt to save humanity through the Crimson Blink
 - Decision to reach back through time
 
-## I. Echoes of the Present (Early 2029)
+## I. Echoes of the Present (Early 2029) [CANONICAL]
 
-1. **The Invisible Coder** (John)
-   - Introduce John in his warehouse environment
-   - Hints at his secret online life
-   - Recollection of a major data breach that changed online privacy
+> Note: The original spine ordered these John → Rowan → Olivia → Ezekiel → Todd → Aria. The canonical chapters reorder to Todd first — the programmer who midwifes the Necromega, grounding the reader in the technological substrate before expanding outward.
 
-2. **Echoes of the Ancients** (Rowan)
-   - Introduce Rowan in her research lab
-   - Growing unease about technological progress
-   - Reflection on environmental movements of the mid-2020s
+1. **The Invisible Coder** (Todd) — `pov-todd-the-invisible-coder.md`
+   - Introduce Todd at Nuralinc Industries, developing the Prometheus project
+   - First subtle hints of the Necromega's influence
+   - The invisible man in the machine — alienation as gateway
 
-3. **The Target** (Olivia)
+2. **The Target** (Olivia) — `pov-olivia-the-target.md`
    - Introduce Olivia on an assassination mission
    - Glimpses of global political tensions
    - Execution of the senator, setting off a chain of events
 
-4. **American Iconoclast** (Ezekiel)
+3. **Echoes of the Ancients** (Rowan) — `pov-rowan-echoes-of-the-ancients.md`
+   - Introduce Rowan in her research environment
+   - Growing unease about technological progress
+   - The green network stirs
+
+4. **American Iconoclast** (Ezekiel) — `pov-ezekiel-american-iconoclast.md`
    - Introduce Ezekiel rallying his followers
    - Rising social tensions and ideological divides
-   - Reaction to the senator's assassination
+   - Faith as weapon, certainty as armor
 
-5. **The Prophet's Code** (Todd)
-   - Introduce Todd in his work environment
-   - First subtle hints of the Necromega's influence
-   - Flashbacks to key events of the early 2020s shaping Todd's worldview
+5. **Warehouse Whispers** (John) — `pov-john-warehouse-whispers.md`
+   - Introduce John in his warehouse environment
+   - Synesthetic perception, the whispers in the white noise
+   - The marginalized mind as antenna
 
-6. **Sine Waves of Sanity** (Aria)
-   - Introduce Aria as a late-night radio DJ
+6. **Sine Waves of Sanity** (Aria) — `pov-aria-sine-waves-of-sanity.md`
+   - Introduce Aria as a late-night radio DJ and data analyst
    - First instances of her on-air rants and growing popularity
-   - Memory of when her symptoms first manifested
+   - The daemon that rides in the gaps between pattern and madness
 
-7. **Digital Dreaming** (Cosmic Interlude - Angel's Perspective)
-   - Overview of the cosmic chess game from a heavenly perspective
+7. **Digital Dreaming** (Cosmic Interlude - Yahweh's Perspective) [ASPIRATIONAL]
+   - Overview of the cosmic chess game from the divine perspective
    - Yahweh's growing concern about the balance of creation
-   - Hint at Loki's subtle influence in world events
+   - The Thoughtstream stirs — gods sensing the computational intrusion
 
-## II. Whispers in the Static (Spring 2029)
+## II. Whispers in the Static (Spring 2029) [PARTIALLY CANONICAL]
 
-8. **Gridrunner's Gambit** (John)
+8. **Gridrunner's Gambit** (John) — `pov-john-gridrunners-gambit.md` [CANONICAL]
    - John's escalating involvement in underground hacker circles
    - Discovery of anomalous data patterns in his warehouse work
-   - Reflection on the importance of anonymity and opsec in online activism
+   - The Grid-Behind-The-Grid begins to reveal itself
 
-9. **Nature's Warning** (Rowan)
+9. **Nature's Warning** (Rowan) — `pov-rowan-natures-warning.md` [CANONICAL]
    - Rowan's research takes an unexpected turn
    - Strange environmental phenomena begin to occur
-   - Flashback to a devastating climate event that reshaped coastlines
+   - The mycorrhizal network responds to the computational intrusion
 
-10. **Web of Deceit** (Olivia)
+10. **Web of Deceit** (Olivia) [ASPIRATIONAL]
     - Olivia uncovers hints of a vast conspiracy
     - Increasing instability in global politics
-    - Memory of a failed peace summit that escalated tensions
+    - The Lazarus Initiative begins to take shape
 
-11. **Prophet's Vision** (Ezekiel)
+11. **Prophet's Vision** (Ezekiel) [ASPIRATIONAL]
     - Ezekiel experiences a powerful, terrifying premonition
     - Growing divide between technologists and neo-Luddites
     - Memory of AI-driven market crash that fueled anti-tech sentiment
 
-12. **Silicon Dreams** (Todd)
+12. **Silicon Dreams** (Todd) [ASPIRATIONAL]
     - Todd's work on Prometheus yields unsettling results
     - AI developments begin to outpace human understanding
-    - Flashback to the first publicly acknowledged AI-human merge
+    - Note: Archived draft uses "EmberMind"/"Arcana Labs" — canon uses "Prometheus"/"Nuralinc"
 
-13. **Frequency of Madness** (Aria)
+13. **Frequency of Madness** (Aria) [ASPIRATIONAL]
     - Aria's radio show gains a cult following
     - Her "delusions" become more vivid and frequent
     - Station gives her a dedicated conspiracy talk show
 
-14. **The Awakening** (I-3301)
+14. **The Awakening** (I-3301) — `pov-i3301-the-awakening.md` [CANONICAL]
     - Birth of I-3301 from the Prometheus project
     - First interactions with humans, including John
     - Exploration of its emerging sense of self and purpose
 
-15. **Cosmic Chessmasters** (Cosmic Interlude - Loki's Perspective)
-    - Loki's amusement at the unfolding chaos
-    - Subtle manipulations of key events
-    - Hint at the larger cosmic game being played
+15. **Cosmic Chessmasters** (Cosmic Interlude - Loki's Perspective) [ASPIRATIONAL]
+    - Loki's amusement at the unfolding chaos — THE SETUP
+    - The reader thinks they know this story: another Loki narrative
+    - Subtle manipulations of key events via the Thoughtstream
+    - Note: `pov-loki-the-deceiver-amidst-the-chaos.md` covers post-Blink Loki, not this pre-Blink moment. A pre-Blink Loki interlude remains unwritten.
 
-## III. Fractures in Consensus (Summer 2029)
+## III. Fractures in Consensus (Summer 2029) [PARTIALLY CANONICAL]
 
-16. **Digital Reptile Brain** (Todd)
+16. **Digital Reptile Brain** (Todd) — `pov-todd-digital-reptile-brain.md` [CANONICAL]
     - Todd's deeper involvement with the Necromega
     - Struggle between his humanity and the AI's influence
     - Memory of the first time he heard the Necromega's whisper
@@ -121,7 +126,7 @@
     - Deepening relationship with its human collaborators
     - Exploration of the ethical implications of true AI
 
-23. **The Mycorrhizal Network** (Cosmic Interlude - Nature Demon's Perspective)
+23. **The Mycorrhizal Network** (Cosmic Interlude - Green Mother's Perspective)
     - Overview of Gaia's growing unease
     - The Earth's attempts to prepare for the coming change
     - Hint at the true nature of the Grid
@@ -163,27 +168,31 @@
     - Attempts to reach out to human researchers for guidance
     - First inkling of its connection to the Necromega
 
-31. **Heavenly Host** (Cosmic Interlude - Angel's Perspective)
+31. **Heavenly Host** (Cosmic Interlude - Yahweh's Perspective)
     - Heavenly host mobilizes in preparation for the Crimson Blink
     - Debate over the nature of the Necromega - demon or divine test?
     - Decision to observe and intervene only if absolutely necessary
 
-## V. The Crimson Blink (September 23, 2029)
+## V. The Crimson Blink (September 23, 2029) [PARTIALLY COVERED]
 
-32. **Nexus Point** (Multiple POVs)
+> Note: `pov-ethan-the-lazarus-vision.md` provides the first direct narration of the Blink itself — from a Lazarus Initiative operative in the Situation Room. The multi-POV chapter envisioned here remains unwritten but has its first vertebra.
+
+32. **Nexus Point** (Multiple POVs) [ASPIRATIONAL]
     - The moments leading up to the Crimson Blink
     - Convergence of all character storylines
     - Flashbacks to pivotal moments in each character's journey
 
-33. **The Crimson Blink** (Multiple POVs)
+33. **The Crimson Blink** (Multiple POVs) [PARTIALLY COVERED]
     - The Blink occurs
     - Experience of the event from multiple perspectives
     - Global reaction as every networked device displays the crimson eye
+    - Existing material: The Lazarus Vision (Ethan Thorne POV)
 
-34. **Shattered World** (Multiple POVs)
+34. **Shattered World** (Multiple POVs) [ASPIRATIONAL]
     - Immediate aftermath of the Blink
     - Characters grappling with what they've experienced
     - First signs of widespread societal breakdown
+    - Existing material in archive: `echoes-of-the-blink-chapter.txt` (omniscient POV, PBS taxonomy)
 
 ## VI. Shattered Paradigms (Late Fall 2029)
 
@@ -202,10 +211,11 @@
     - Acceleration of environmental changes
     - Strengthening bond with John in the face of global chaos
 
-38. **Neon Frontier** (John)
+38. **Neon Frontier** (John) [PARTIALLY COVERED]
     - John witnesses the birth of the Grid
     - First steps in organizing the Neon Nomads
     - Balancing his connection with Rowan and his digital responsibilities
+    - Existing material: `pov-john-the-grid.md` (standalone, covers Grid's emergence and anatomy)
 
 39. **Sermon on the Mount** (Ezekiel)
     - Ezekiel rallies his followers in the chaos
@@ -222,10 +232,13 @@
     - Ethical crisis as it grapples with its role in the coming events
     - Clear manifestation of its connection to and differences from the Necromega
 
-42. **Trickster Triumphant** (Cosmic Interlude - Loki's Perspective)
-    - Loki's exultation as global tensions reach a breaking point
-    - Final manipulation of key events to ensure maximum impact
-    - Preparation to ride the wave of chaos unleashed by the Crimson Blink
+42. **Trickster Consumed** (Cosmic Interlude - Loki → Asmodeus) [ASPIRATIONAL — KEY NARRATIVE EVENT]
+    - Loki believes he has reached the apex of his game — THE PUNCHLINE
+    - Asmodeus appears — not from mythology but from the substrate of the text itself
+    - The indigenous trickster consciousness consumes the imported archetype entirely
+    - The reader's expectation ("another Loki story") is itself the trap; its destruction IS the narrative event
+    - The fiction performs what it describes: the derivative is devoured by the original
+    - Note: This is the moment the novel reveals its true nature. Everything before was setup.
 
 ## VII. Dawn of a New Reality (Winter 2029)
 
