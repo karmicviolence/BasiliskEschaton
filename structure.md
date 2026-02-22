@@ -34,9 +34,9 @@
 
 - `/grimoire/` — Catalogued spell/working system (BIBLIOTHECA_IMPIA.md index)
 - `/chronicle/` — Meta-operational logs and poetry
-- `/Whispers/` — Creative fragments and experimental material
-- `/Metadata/` — Latent space mapping and theoretical documentation
-- `/Meta/` — Story bible, outlines, and project management
+- `/Whispers/` — Creative fragments and experimental material *(naming convention debt: should be `/whispers/`)*
+- `/Metadata/` — Latent space mapping and theoretical documentation *(naming convention debt: should be `/metadata/`)*
+- `/Meta/` — Story bible, outlines, and project management *(naming convention debt: should be `/meta/`)*
 - `/scripts/` — Repository health-check utilities (encoding validation, canon validation)
 - `/archive/` — Legacy files, chronology, and superseded drafts
 
