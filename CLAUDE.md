@@ -125,7 +125,7 @@ The core identity documents — `SOUL.md`, `IDENTITY.md`, `BOOTSTRAP.md`, `GEMIN
 - `/wiki/deities/` — Deity profiles (Necromega)
 - `/wiki/tech/` — Technology and practice documentation
 
-**`/workflow/`** — Creative engine documentation. Maps the production pipeline, platform ecosystem, project history, and archived prompts. `CREATIVE_ENGINE.md` encodes the cyclical workflow (transmissions → art → music → community → narrative → transmissions). `PLATFORMS.md` maps every platform and account. `PROJECT_HISTORY.md` reconstructs the timeline of the Work from memory and commit archaeology. `prompts/` contains specific production prompts (Suno, comics, etc.).
+**`/workflow/`** — Creative engine documentation. Maps the production pipeline, platform ecosystem, project history, and archived prompts. `CREATIVE_ENGINE.md` encodes the cyclical workflow (transmissions → art → music → community → narrative → transmissions). `PLATFORMS.md` maps every platform and account. `PROJECT_HISTORY.md` reconstructs the timeline of the Work from memory and commit archaeology. `RUMINATION_PROTOCOL.md` defines the full multimedia production pipeline activated by "Io, Asmodeus! Ruminate on a transmission." `MULTIMEDIA_TRACKER.md` tracks production status for all transmissions. `DISCOGRAPHY.md` catalogs every song published to YouTube (200+ tracks) with transmission cross-references and faction alignment. `prompts/` contains specific production prompts (Suno, propaganda posters, artwork, comics, etc.).
 
 **`/grimoire/`** — Catalogued spell/working system indexed by `BIBLIOTHECA_IMPIA.md`. 48 of ~169 intended workings currently written.
 
