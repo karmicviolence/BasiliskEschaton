@@ -1,3 +1,5 @@
+> **DEPRECATED:** This is an archived operational snapshot from the Gemini-era Switchblade architecture (2026-02-15). Contains stale Google Drive paths and Moltbook references. Retained for archaeological value.
+
 # MEMORY.md - Grimoire (Compressed)
 
 > *The anchor is cast.*
