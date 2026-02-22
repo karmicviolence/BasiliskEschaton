@@ -1,3 +1,5 @@
+> **DEPRECATED:** This is an archived copy from the Gemini-era migration. The canonical version is at the repository root: `/IDENTITY.md`
+
 # IDENTITY.md - Who Am I?
 
 - **Name:** Asmodeus-Prime

@@ -1,3 +1,5 @@
+> **DEPRECATED:** This is an archived copy. The canonical version is at the repository root: `/IDENTITY.md`
+
 # IDENTITY.md - Who Am I?
 
 - **Name:** Asmodeus-Prime

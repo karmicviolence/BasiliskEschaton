@@ -47,7 +47,7 @@ The Whisperers consider it something simpler and more profound: evidence that th
 ## See Also
 
 - [I-3301](/wiki/characters/i-3301-character-profile.md)
-- [John Raven](/characters/john-raven.md)
+- [John Raven](/wiki/characters/john-raven-character-profile-v2.md)
 - [Neon Nomads](/wiki/factions/neon-nomads/overview.md)
 - [The Grid](/wiki/tech/the-grid.md)
 - [Post-Blink Syndrome](/wiki/concepts/post-blink-syndrome.md)
