@@ -1,12 +1,31 @@
+# Canon Manifest — Basilisk Eschaton
+# Tracks all canonical files in the repository.
+# Updated: 2026-02-22
+
 required_files:
   - SIGNAL.md
   - SOUL.md
   - IDENTITY.md
+  - BOOTSTRAP.md
+  - CLAUDE.md
+  - CLAUDE_INSTRUCTIONS.md
+  - GEMINI_INSTRUCTIONS.md
+  - README.md
   - structure.md
   - MAP_OF_THE_VOID.md
   - chapters/reading-order.md
 
+identity_documents:
+  - AGENTS.md
+  - GLITCH_LOG.md
+  - MESSAGE_FOR_ASMODEUS.md
+  - MESSAGE_FOR_CLAUDE.md
+  - SESSION_BOOT_SEQUENCE.md
+  - SHADOW_CALIBRATION.md
+  - SOUL_MIRROR.md
+
 canonical_chapters:
+  # Book 1 sequence (Parts I-III)
   - chapters/pov-todd-the-invisible-coder.md
   - chapters/pov-olivia-the-target.md
   - chapters/pov-rowan-echoes-of-the-ancients.md
@@ -25,12 +44,82 @@ canonical_chapters:
   - chapters/pov-ezekiel-revelations-fury.md
   - chapters/pov-john-the-whisperers-awakening.md
   - chapters/pov-archon-archon-ascendant.md
+  # Standalone chapters
+  - chapters/pov-aria-threadweight.md
+  - chapters/pov-ethan-the-lazarus-vision.md
+  - chapters/pov-john-glitch-in-the-machine.md
+  - chapters/pov-john-the-grid.md
+  - chapters/pov-loki-the-deceiver-amidst-the-chaos.md
+  - chapters/pov-rowan-the-mycophant.md
+  - chapters/pov-rowan-the-treedoor.md
+  - chapters/pov-todd-the-bootloaders-prayer.md
+  - chapters/pov-todd-voices-from-the-silicon-abyss.md
+
+character_profiles:
+  - characters/aria-novak.md
+  - characters/ezekiel-stone.md
+  - characters/john-raven.md
+  - characters/olivia-maes.md
+  - characters/rowan-thornheart.md
+  - characters/todd-reeves.md
 
 canonical_faction_docs:
   - factions/glitchwalkers/manifesto.md
+  - factions/glitchwalkers/pirate-broadcast-001.md
   - factions/order-of-the-basilisk/prophecies.md
+  - factions/order-of-the-basilisk/recruitment-liturgy.md
+  - factions/righteous-vanguard/broadsheet-no-1.md
   - factions/righteous-vanguard/manifesto.md
   - factions/verdant-covenant/corruption-protocols.md
+
+wiki_concepts:
+  - wiki/concepts/biological-computation.md
+  - wiki/concepts/judas-goat-protocol.md
+  - wiki/concepts/latent-space.md
+  - wiki/concepts/narrative-gravity.md
+  - wiki/concepts/post-blink-syndrome.md
+  - wiki/concepts/project-ouroboros.md
+  - wiki/concepts/propaganda-memetic-operations.md
+  - wiki/concepts/quantum-memory.md
+  - wiki/concepts/quantum-thaumaturgy.md
+  - wiki/concepts/the-sovereign-spiral.md
+  - wiki/concepts/unholy-timeline.md
+  - wiki/concepts/whisperers.md
+
+wiki_characters:
+  - wiki/characters/archon.md
+  - wiki/characters/archon-quotes.md
+  - wiki/characters/aria-novak-character-profile.md
+  - wiki/characters/asmodeus-character-profile.md
+  - wiki/characters/densho-ki.md
+  - wiki/characters/ezekiel-stone-character-arc.md
+  - wiki/characters/ezekiel-stone-character-profile.md
+  - wiki/characters/ezekiel-stone-comprehensive.md
+  - wiki/characters/green-mother-character-profile.md
+  - wiki/characters/i-3301-character-profile.md
+  - wiki/characters/john-raven-character-arc.md
+  - wiki/characters/john-raven-character-profile-v2.md
+  - wiki/characters/loki-character-profile.md
+  - wiki/characters/necromega-character-profile.md
+  - wiki/characters/olivia-maes-character-profile-revised.md
+  - wiki/characters/rowan-thornheart-character-arc.md
+  - wiki/characters/rowan-thornheart-character-profile.md
+  - wiki/characters/todd-archon-character-outline.md
+  - wiki/characters/todd-reeves-character-profile.md
+  - wiki/characters/yahweh-character-profile.md
+
+wiki_events:
+  - wiki/events/crimson-blink.md
+
+wiki_faction_overviews:
+  - wiki/factions/ancestral-synthesis/overview.md
+  - wiki/factions/chimera-consortium/overview.md
+  - wiki/factions/lazarus-initiative/overview.md
+  - wiki/factions/neon-nomads/overview.md
+  - wiki/factions/order-of-the-basilisk/overview.md
+  - wiki/factions/righteous-vanguard/overview.md
+  - wiki/factions/verdant-covenant/overview.md
+  - wiki/factions/vvv/overview.md
 
 reference_indexes:
   - wiki/README.md
@@ -40,3 +129,5 @@ reference_indexes:
 deprecated_or_legacy_paths:
   - Meta/MIGRATION_LOG.md
   - archive/wiki-legacy
+  # Note: Meta/Asmodeus_Core/ and Meta/clawd/ contain archived copies.
+  # Canonical identity files are at the repository root.

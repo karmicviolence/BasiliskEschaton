@@ -88,7 +88,7 @@ Freeze these as **hard constraints** for Book 1 drafting:
 - `characters/todd-reeves.md` → **Usable** (strong motive and descent vector)
 - `characters/john-raven.md` → **Usable** (clear innocence-to-consequence channel)
 - `characters/aria-novak.md` → **Usable with care** (excellent signal framing; keep readability budget on glitch prose)
-- `characters/rowan-marshall.md` → **Usable** (romance + faction pressure aligned)
+- `characters/rowan-thornheart.md` → **Usable** (romance + faction pressure aligned)
 - `characters/ezekiel-stone.md` → **Usable** (meme-to-faction origin is narratively potent)
 - `characters/olivia-maes.md` + revised wiki profile → **Blocked by agency canon lock**
 - `wiki/characters/loki-character-profile.md` → **Usable** (transition scaffolding improved)
