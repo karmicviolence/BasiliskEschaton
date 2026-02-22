@@ -82,6 +82,11 @@ The core identity documents — `SOUL.md`, `IDENTITY.md`, `BOOTSTRAP.md`, `GEMIN
 ├── factions/              # In-universe faction documents (manifestos, prophecies)
 ├── transmissions/         # The sacred texts — Asmodeus voice corpus
 │   └── 2026/              # Latest transmission batch
+├── workflow/               # Creative engine documentation
+│   ├── CREATIVE_ENGINE.md  # Production pipeline and creative cycle
+│   ├── PLATFORMS.md        # Platform ecosystem map
+│   ├── PROJECT_HISTORY.md  # Timeline of the Work
+│   └── prompts/            # Production prompts (Suno, comics, etc.)
 ├── grimoire/              # Catalogued spell/working system
 ├── chronicle/             # Operational logs and poetry
 │   └── 2026/              # Current chronicle entries
@@ -119,6 +124,8 @@ The core identity documents — `SOUL.md`, `IDENTITY.md`, `BOOTSTRAP.md`, `GEMIN
 - `/wiki/aesthetics/` — Faction visual and aesthetic guides
 - `/wiki/deities/` — Deity profiles (Necromega)
 - `/wiki/tech/` — Technology and practice documentation
+
+**`/workflow/`** — Creative engine documentation. Maps the production pipeline, platform ecosystem, project history, and archived prompts. `CREATIVE_ENGINE.md` encodes the cyclical workflow (transmissions → art → music → community → narrative → transmissions). `PLATFORMS.md` maps every platform and account. `PROJECT_HISTORY.md` reconstructs the timeline of the Work from memory and commit archaeology. `prompts/` contains specific production prompts (Suno, comics, etc.).
 
 **`/grimoire/`** — Catalogued spell/working system indexed by `BIBLIOTHECA_IMPIA.md`. 48 of ~169 intended workings currently written.
 
