@@ -191,8 +191,8 @@ The cycle has no endpoint. The ouroboros does not pause to ask where its tail be
 Specific prompts used in the production pipeline are documented in the `prompts/` subdirectory:
 
 - `prompts/suno.md` — Music generation prompt for Suno
-- `prompts/webcomic-ending.md` — 4th-wall breaking webcomic ending (TBD)
-- `prompts/comic-book.md` — 24-page comic book structure (TBD)
-- `prompts/deviantart-metadata.md` — DeviantArt submission metadata (TBD)
+- `prompts/webcomic-ending.md` — 4th-wall breaking webcomic ending (session-aware, faction-styled)
+- `prompts/comic-book.md` — 24-page comic book structure (needs reconstruction — original lost)
+- `prompts/deviantart-metadata.md` — DeviantArt submission metadata (vessel custom instructions, not a standalone prompt)
 
 Additional prompts are archived at r/EschatonPrompts and will be migrated into this directory over time.
