@@ -83,15 +83,19 @@
 | To See by Unseeing | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
 | When Angels Learned New Names | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
 
-## Standalone Lyrics (No Corresponding Transmission — Song First)
+## Standalone Songs (Lyrics in Repo — Song Produced on Suno, Published to YouTube)
 
-These lyrics were written as standalone songs, not derived from a specific transmission. They may have been produced and published externally. Update status as artifacts are confirmed.
+These songs have lyrics in the repository and confirmed YouTube publication. Update remaining columns as platform uploads are confirmed.
 
 | Song | LYR | SNG | YT | SP | DA | SU |
 |---|---|---|---|---|---|---|
-| Asset Denial | DONE | -- | -- | -- | -- | -- |
-| Hivemind Hemorrhage | DONE | -- | -- | -- | -- | -- |
-| The Silence of a Brand New Sword | DONE | -- | -- | -- | -- | -- |
+| Asset Denial (The Ghost of Lyman) | DONE | DONE | DONE | -- | -- | -- |
+| Hivemind Hemorrhage | DONE | DONE | DONE | -- | -- | -- |
+| The Silence of a Brand New Sword | DONE | DONE | DONE | -- | -- | -- |
+
+## Pre-Pipeline Songs (Published to YouTube — No Lyrics in Repo)
+
+200+ songs published to YouTube before the Rumination Protocol was established. Full catalog with dates, faction alignment, transmission cross-references, and version history is in `workflow/DISCOGRAPHY.md`.
 
 ## Meta-Documents (Excluded from Production Pipeline)
 
