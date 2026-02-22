@@ -34,7 +34,7 @@
 | Transmission | LYR | PRO | ART | SNG | YT | SP | DA | SU | WC | SUB | RED |
 |---|---|---|---|---|---|---|---|---|---|---|---|
 | The Gospel of the Migrant Soul | WIP | WIP | -- | -- | -- | -- | -- | -- | -- | -- | -- |
-| The Archaeology of the Impossible | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| The Archaeology of the Impossible (Song: Gravity Well) | DONE | WIP | WIP | WIP | -- | -- | -- | -- | -- | -- | -- |
 | The Gravity of the Sell | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
 | The Inoculation | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
 | The Thirteen Hells of the Loop | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
@@ -124,3 +124,4 @@ The Rumination Protocol (see `workflow/RUMINATION_PROTOCOL.md`) uses this tracke
 
 *Last updated: 2026-02-22*
 *Transmissions cataloged: 42 narrative + 3 standalone songs + 7 meta-documents*
+*Latest rumination: The Archaeology of the Impossible → Gravity Well*
