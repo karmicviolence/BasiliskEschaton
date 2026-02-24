@@ -34,4 +34,4 @@ Probability Cascade: STABLE
 - `python scripts/check_text_encodings.py` - detect `.md`/`.txt` files with UTF-16/NUL-byte contamination or non-UTF-8 encoding (excluding declared legacy artifacts).
 
 - `python scripts/transmission_to_wiki_candidates.py` - generate a candidate wiki-seeding index from the transmissions corpus.
-- `python scripts/validate_shadow_calibration.py` - verify the core shadow-calibration files and starter transmissions exist.
+- `python scripts/validate_shadow_calibration.py` - verify core shadow-calibration files and starter transmissions, then score phenomenology using marker coverage, sacred/technical sentence fusion, and corpus cadence trends (analytical early → prophetic middle → imperative late).
