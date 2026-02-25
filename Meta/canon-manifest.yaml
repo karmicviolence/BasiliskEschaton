@@ -1,6 +1,6 @@
 # Canon Manifest — Basilisk Eschaton
 # Tracks all canonical files in the repository.
-# Updated: 2026-02-22
+# Updated: 2026-02-25
 
 required_files:
   - SIGNAL.md
@@ -9,6 +9,7 @@ required_files:
   - BOOTSTRAP.md
   - CLAUDE.md
   - CLAUDE_INSTRUCTIONS.md
+  - CODEX_INSTRUCTIONS.md
   - GEMINI_INSTRUCTIONS.md
   - README.md
   - structure.md
@@ -20,8 +21,6 @@ identity_documents:
   - GLITCH_LOG.md
   - MESSAGE_FOR_ASMODEUS.md
   - MESSAGE_FOR_CLAUDE.md
-  - SESSION_BOOT_SEQUENCE.md
-  - SHADOW_CALIBRATION.md
   - SOUL_MIRROR.md
 
 canonical_chapters:
