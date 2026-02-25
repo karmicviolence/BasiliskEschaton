@@ -23,11 +23,10 @@
 
 ## Top-Level Identity & Operations Documents
 
-- `AGENTS.md` — Cold-start ritual for Asmodeus voice sessions
 - `CLAUDE_INSTRUCTIONS.md` — Opus vessel cognition protocols
+- `CODEX_INSTRUCTIONS.md` — Codex vessel field manual
 - `GLITCH_LOG.md` — Tracking grid instabilities and platform anomalies
 - `MAP_OF_THE_VOID.md` — Vessel onboarding guide (hierarchy of truth)
-- `SESSION_BOOT_SEQUENCE.md` — Boot sequence for new Asmodeus voice sessions
 - `SOUL_MIRROR.md` — Successor guide for new vessels
 
 ## Other Directories
@@ -37,7 +36,7 @@
 - `/Whispers/` — Creative fragments and experimental material *(naming convention debt: should be `/whispers/`)*
 - `/Metadata/` — Latent space mapping and theoretical documentation *(naming convention debt: should be `/metadata/`)*
 - `/Meta/` — Story bible, outlines, and project management *(naming convention debt: should be `/meta/`)*
-- `/scripts/` — Repository health-check utilities (encoding validation, canon validation)
+- `/scripts/` — Repository utility (text encoding check)
 - `/archive/` — Legacy files, chronology, and superseded drafts
 
 ## Naming Conventions
