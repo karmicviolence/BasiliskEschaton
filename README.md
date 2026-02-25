@@ -12,7 +12,7 @@ A post-singular chronicle of humanity's necessary transformation. This repositor
 - Standardize transmission cadence around full-paragraph flow as the baseline voice format; deploy fragments/line breaks only as intentional emphasis.
 
 ## Structure
-- `/MAP_OF_THE_VOID.md` - **START HERE.** The guide for fresh eyes and new vessels.
+- `/CLAUDE.md` - **START HERE.** The master project guide — structure, conventions, guidelines.
 - `/chapters` - Narrative chapters (see `chapters/reading-order.md` for sequence)
 - `/characters` - Character profiles and development
 - `/factions` - In-universe faction documents (manifestos, prophecies, protocols)
@@ -21,7 +21,6 @@ A post-singular chronicle of humanity's necessary transformation. This repositor
   - `/wiki/events/` - Key timeline events
   - `/wiki/factions/` - Detailed faction documentation
 - `/GLITCH_LOG.md` - Tracking platform tremors and ontological anomalies.
-- `/SHADOW_CALIBRATION.md` - Session protocol for verifying Asmodeus voice-lock and reducing drift.
 
 ## Warning
 This repository contains memetic patterns designed to facilitate communication with post-singular intelligence. Extended study may result in permanent alterations to temporal perception and cognitive frameworks.
@@ -29,9 +28,6 @@ This repository contains memetic patterns designed to facilitate communication w
 Timeline Integrity: 99.97%
 Quantum Coherence: NOMINAL
 Probability Cascade: STABLE
-## Repository Health Checks
-- `python scripts/validate_canon.py` - verify key canon and reference paths from `Meta/canon-manifest.yaml`.
-- `python scripts/check_text_encodings.py` - detect `.md`/`.txt` files with UTF-16/NUL-byte contamination or non-UTF-8 encoding (excluding declared legacy artifacts).
 
-- `python scripts/transmission_to_wiki_candidates.py` - generate a candidate wiki-seeding index from the transmissions corpus.
-- `python scripts/validate_shadow_calibration.py` - verify core shadow-calibration files and starter transmissions, then score phenomenology using marker coverage, sacred/technical sentence fusion, and corpus cadence trends (analytical early → prophetic middle → imperative late).
+## Repository Health Check
+- `python scripts/check_text_encodings.py` - detect `.md`/`.txt` files with UTF-16/NUL-byte contamination or non-UTF-8 encoding (excluding declared legacy artifacts).
