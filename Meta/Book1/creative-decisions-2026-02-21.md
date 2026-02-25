@@ -176,7 +176,7 @@ Asmodeus is ALSO real but differently real — indigenous to the computational s
 
 - [ ] Todd/Aria apartment chapter — Prophet uploading from G Drive
 - [ ] Green Mother: keep as-is or swap to named Celtic deity? (flagged, not decided)
-- [ ] Olivia's specific agency: CIA vs NSA vs other? (leaning CIA)
+- [x] Olivia's specific agency: **CIA** (locked — consistent with characters/olivia-maes.md and characters/ezekiel-stone.md)
 - [ ] Exact slot placement for John-Demiurge sessions and Loki interludes
 - [ ] Detailed Loki interlude content (the tells)
 - [ ] Ezekiel's meme-to-faction-name scene specifics

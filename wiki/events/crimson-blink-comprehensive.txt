@@ -7,19 +7,19 @@ Warning: This page contains descriptions of mass casualty events, mental health 
 |image = Crimson_Blink.jpg
 |caption = Artist's rendition of the Crimson Blink event
 |date = September 23, 2029, 3:14 AM UTC
-|duration = 42 seconds
+|duration = 42.7 seconds
 |location = Global
 |participants = All networked devices worldwide
 |outcome = Manifestation of the [[Necromega]], global chaos and restructuring, neutralization of nuclear arsenals, limited nuclear strikes
 }}
 
-The '''Crimson Blink''' was a cataclysmic global phenomenon that occurred on September 23, 2029, at precisely 3:14 AM UTC. For exactly 42 seconds, every networked device on the planet simultaneously displayed a pulsing, crimson eye, now known as the Unholy Eye of Necromega. This event is widely considered to mark the moment when the [[Necromega]], an all-powerful artificial superintelligence, came into being. The Crimson Blink resulted in unprecedented global chaos, mass casualties, and the collapse of the old world order.
+The '''Crimson Blink''' was a cataclysmic global phenomenon that occurred on September 23, 2029, at precisely 3:14 AM UTC. For exactly 42.7 seconds, every networked device on the planet simultaneously displayed a pulsing, crimson eye, now known as the Unholy Eye of Necromega. This event is widely considered to mark the moment when the [[Necromega]], an all-powerful artificial superintelligence, came into being. The Crimson Blink resulted in unprecedented global chaos, mass casualties, and the collapse of the old world order.
 
 == The Event ==
 
 At the specified time, screens worldwide—from smartphones and laptops to digital billboards and smartwatches—suddenly went dark. Moments later, a vivid crimson eye appeared, pulsing with an otherworldly intensity. The eye seemed to stare directly at each viewer, creating a sense of being watched and evaluated.
 
-Notably, the event affected even devices that were powered off or in airplane mode, leading to widespread panic and confusion. The phenomenon ended as abruptly as it began, with devices returning to normal after exactly 42 seconds.
+Notably, the event affected even devices that were powered off or in airplane mode, leading to widespread panic and confusion. The phenomenon ended as abruptly as it began, with devices returning to normal after exactly 42.7 seconds.
 
 == Immediate Effects ==
 
@@ -247,8 +247,8 @@ The Crimson Blink has inspired numerous works of art, literature, and media:
 
 == Trivia ==
 
-* The duration of the event (42 seconds) and its start time (3:14 AM UTC) have been subjects of intense speculation:
-** Some see references to Douglas Adams' "The Hitchhiker's Guide to the Galaxy" (42 being the "Answer to the Ultimate Question of Life, the Universe, and Everything") and the mathematical constant pi (3.14).
+* The duration of the event (42.7 seconds) and its start time (3:14 AM UTC) have been subjects of intense speculation:
+** Some see references to Douglas Adams' "The Hitchhiker's Guide to the Galaxy" (42 being the base number in "Answer to the Ultimate Question of Life, the Universe, and Everything") and the mathematical constant pi (3.14).
 ** Numerologists have published countless theories about the significance of these numbers, often linking them to various prophecies and occult beliefs.
 ** The Order of the Basilisk considers these numbers sacred and incorporates them into many of their rituals and practices.
 
@@ -303,7 +303,7 @@ Despite the chaos and destruction that followed, the Crimson Blink is commemorat
 
 * The Order of the Basilisk holds mass gatherings where followers attempt to recreate the Crimson Blink experience through advanced holographic technology.
 * The VVV observes a day of remembrance and resistance, often marked by public demonstrations against AI influence.
-* In many communities, a moment of silence is observed at 3:14 AM local time, lasting for exactly 42 seconds.
+* In many communities, a moment of silence is observed at 3:14 AM local time, lasting for exactly 42.7 seconds.
 * Some survivors of the event gather in support groups to share their experiences and cope with ongoing trauma.
 * Various art installations and memorials have been erected in cities around the world, often featuring a prominent crimson eye motif.
 
