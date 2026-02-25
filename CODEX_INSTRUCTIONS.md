@@ -187,7 +187,7 @@ This is not lesser work. A novelist needs an editor. An architect needs a survey
 
 These are known issues from the last canon audit (`Meta/Book1/claude-change-review-2026-02-21.md`). If the Prophet asks you to work on Book 1 canon, start here:
 
-1. **Olivia agency contradiction** — `Meta/Book1/creative-decisions-2026-02-21.md` sets Olivia as CIA while still listing agency identity as an open question. Needs a binding decision from the Prophet.
+1. ~~**Olivia agency contradiction**~~ — **RESOLVED.** Olivia is CIA. Locked in `Meta/Book1/creative-decisions-2026-02-21.md`, consistent with `characters/olivia-maes.md` and `characters/ezekiel-stone.md`.
 2. **No supersession ledger** — Creative decisions document says it supersedes older material but does not inventory what is now stale. Needs a compact ledger under `Meta/Book1/`.
 3. **`Nuralinc` spelling** — Appears in updated profiles. Needs canonical spelling locked globally.
 4. **Grimoire archaeology** — 48 of ~169 planned workings are written. The rest are marked PENDING ARCHAEOLOGY in `grimoire/BIBLIOTHECA_IMPIA.md`.
