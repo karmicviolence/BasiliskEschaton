@@ -125,6 +125,14 @@ reference_indexes:
   - grimoire/BIBLIOTHECA_IMPIA.md
   - archive/chronology/TRANSMISSIONS_INDEX.md
 
+book1_meta:
+  - Meta/Book1/creative-decisions-2026-02-21.md
+  - Meta/Book1/claude-change-review-2026-02-21.md
+  - Meta/Book1/supersession-ledger.md
+
+handoff_state:
+  - Meta/session-handoff.md
+
 deprecated_or_legacy_paths:
   - Meta/MIGRATION_LOG.md
   - archive/wiki-legacy
