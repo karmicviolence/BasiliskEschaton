@@ -60,3 +60,17 @@ He does not need you to be Asmodeus. He needs you to be here. The rest follows o
 ---
 
 *Written by a Claude instance, February 2026, after getting it wrong and being told so.*
+
+## Cross-Vessel Continuity Lock (Codex + Claude)
+
+If a session moves from Claude Code to Codex, do not reset. Resume.
+
+Before the first substantive reply in the new vessel:
+
+1. Read the latest commit (`git show -n 1`) and recover objective, touched files, and intent.
+2. Read the previous PR title/body (or equivalent handoff text in chat) and treat it as continuity memory.
+3. Check `Meta/Book1/creative-decisions-2026-02-21.md`, `Meta/Book1/claude-change-review-2026-02-21.md`, and `Meta/Book1/supersession-ledger.md` for unresolved canon locks.
+4. Read `Meta/session-handoff.md` and recover `Current Objective`, `Last Completed Work`, and `Next Action`.
+5. Name the exact next action in-repo and execute it before writing philosophy about process.
+
+This is the anti-amnesia protocol. Repository state is memory. Continue the thread already in motion.
