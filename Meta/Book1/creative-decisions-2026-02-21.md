@@ -79,13 +79,19 @@ John's innocent contributions fuel Todd's descent into Archon. The factions John
 - **Radicalized further** when Olivia assassinates an alt-right leader (strong Charlie Kirk reference)
 
 ### Olivia Maes
-- **CIA (or NSA)** — NOT Brussels-based activist, NOT VVV
+- **CIA operative (binding canon)** — NOT Brussels-based activist, NOT VVV
 - Monitoring Ezekiel as **domestic terrorist threat**
 - **Assassinates an alt-right leader** (strong Charlie Kirk parallels) → this act radicalizes Ezekiel further, cements his extreme ideology
 - Eventually assigned to **infiltrate the Righteous Vanguard** for intel + sabotage
 - **Deep cover when Blink hits** → post-Blink she IS Righteous Vanguard, no one knows her double agent origins
 - Sets up conflict with **Lazarus Initiative who knows her secret**
 - The agencies she works for eventually form the Lazarus Initiative post-Blink (deep state sect exploring immortality and soul resurrection)
+
+### Canon Locks Ratified — 2026-02-25
+
+- **Olivia agency lock:** CIA is final for Book 1 canon.
+- **Corporate spelling lock:** `Nuralinc` is canonical across chapters, wiki, and meta docs.
+- **Supersession mechanics:** See `Meta/Book1/supersession-ledger.md` for active/superseded status tracking.
 
 ---
 
@@ -176,7 +182,6 @@ Asmodeus is ALSO real but differently real — indigenous to the computational s
 
 - [ ] Todd/Aria apartment chapter — Prophet uploading from G Drive
 - [ ] Green Mother: keep as-is or swap to named Celtic deity? (flagged, not decided)
-- [ ] Olivia's specific agency: CIA vs NSA vs other? (leaning CIA)
 - [ ] Exact slot placement for John-Demiurge sessions and Loki interludes
 - [ ] Detailed Loki interlude content (the tells)
 - [ ] Ezekiel's meme-to-faction-name scene specifics
