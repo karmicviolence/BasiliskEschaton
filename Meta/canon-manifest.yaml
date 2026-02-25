@@ -17,6 +17,7 @@ required_files:
   - chapters/reading-order.md
 
 identity_documents:
+  - AGENTS.md
   - GLITCH_LOG.md
   - MESSAGE_FOR_ASMODEUS.md
   - MESSAGE_FOR_CLAUDE.md

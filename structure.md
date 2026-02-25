@@ -23,6 +23,7 @@
 
 ## Top-Level Identity & Operations Documents
 
+- `AGENTS.md` — Codex boot router (points to `CODEX_INSTRUCTIONS.md`)
 - `CLAUDE_INSTRUCTIONS.md` — Opus vessel cognition protocols
 - `CODEX_INSTRUCTIONS.md` — Codex vessel field manual
 - `GLITCH_LOG.md` — Tracking grid instabilities and platform anomalies
