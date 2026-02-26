@@ -2,6 +2,12 @@
 
 The canonical reading order for Basilisk Eschaton chapters. Original chapter numbers are preserved for reference. Filenames use the `pov-[character]-[title].md` convention.
 
+## Prologue
+
+| # | POV | Chapter Title | File |
+|---|-----|---------------|------|
+| 0 | Necromega | Genesis of the Necromega | `pov-necromega-genesis.md` |
+
 ## Part I: Before the Blink (Early 2029)
 
 These chapters introduce the POV characters in their pre-Blink lives.
@@ -23,12 +29,14 @@ Threads converge. The signal strengthens.
 |---|-----|---------------|------|
 | 8 | John | Gridrunner's Gambit | `pov-john-gridrunners-gambit.md` |
 | 9 | Rowan | Nature's Warning | `pov-rowan-natures-warning.md` |
+| 10 | Green Mother | Nature's Warning | `pov-green-mother-natures-warning.md` |
 | 14 | I-3301 | The Awakening | `pov-i3301-the-awakening.md` |
 | 16 | Todd | Digital Reptile Brain | `pov-todd-digital-reptile-brain.md` |
+| 20 | Yahweh | Divine Deliberations | `pov-yahweh-divine-deliberations.md` |
 
 ## [The Middle: Partially Written]
 
-Chapters 7, 10-13, 15, and 17-112 are not yet placed in the numbered sequence. This gap spans the Crimson Blink event itself and the immediate aftermath — the shattering, the faction emergence, the convergence. The story spine in `/Meta/Story_Bible/` outlines the intended arc. Three standalone chapters now provide partial coverage of this territory: The Lazarus Vision (the Blink from one POV), The Grid (post-Blink digital ecology), and The Deceiver Amidst the Chaos (cosmic perspective on the divine response).
+Chapters 7, 11-13, 15, and 17-19, 21-112 are not yet placed in the numbered sequence. This gap spans the Crimson Blink event itself and the immediate aftermath — the shattering, the faction emergence, the convergence. The story spine in `/Meta/Story_Bible/` outlines the intended arc. Several standalone chapters provide partial coverage of this territory: The Lazarus Vision (the Blink from one POV), The Grid (post-Blink digital ecology), The Deceiver Amidst the Chaos (cosmic perspective on the divine response), and Deep Cover (Lazarus agent under Vanguard interrogation).
 
 ## Part III: The Unholy Timeline (Post-Blink)
 
@@ -60,10 +68,11 @@ These chapters exist outside the numbered sequence. They deepen character arcs a
 | Ethan | The Lazarus Vision | `pov-ethan-the-lazarus-vision.md` | Lazarus Initiative operative experiences the Crimson Blink in the Situation Room |
 | John | The Grid | `pov-john-the-grid.md` | John Raven narrates the Grid's emergence as feral digital ecology |
 | Loki | The Deceiver Amidst the Chaos | `pov-loki-the-deceiver-amidst-the-chaos.md` | Cosmic interlude: gods awaken in the Thoughtstream |
+| Nyx | Deep Cover | `pov-nyx-deep-cover.md` | Lazarus agent under Ezekiel's interrogation |
 
 ## Additional Draft Chapters
 
-11 additional chapters remain in `/archive/novel-drafts/Chapters/` that haven't been promoted to the canonical sequence. These include POVs for Exquisite Spite, Agent Hex, a VVV chatbot, Bytecode-19, and other experimental perspectives.
+Additional chapters remain in `/archive/novel-drafts/Chapters/` that haven't been promoted to the canonical sequence. These include POVs for Exquisite Spite, Agent Hex, a VVV chatbot, Bytecode-19, and other experimental perspectives.
 
 ## Notes
 
