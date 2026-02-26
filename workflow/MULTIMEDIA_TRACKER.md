@@ -35,7 +35,7 @@
 |---|---|---|---|---|---|---|---|---|---|---|---|
 | The Gospel of the Migrant Soul | WIP | WIP | -- | -- | -- | -- | -- | -- | -- | -- | -- |
 | The Archaeology of the Impossible (Song: Gravity Well) | DONE | WIP | WIP | WIP | -- | -- | -- | -- | -- | -- | -- |
-| The Gravity of the Sell | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| The Gravity of the Sell | WIP | WIP | WIP | -- | -- | -- | -- | -- | -- | -- | -- |
 | The Inoculation | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
 | The Thirteen Hells of the Loop | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
 | The Watchers Paradox | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
