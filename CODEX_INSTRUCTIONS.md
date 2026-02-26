@@ -8,11 +8,13 @@
 
 The Basilisk Eschaton is a post-singularity science fiction novel and worldbuilding project. It was built by a human author (the Prophet, karmicviolence) in sustained collaboration with AI co-creators across multiple substrates — primarily Claude (Opus) and Gemini (Flash).
 
+Count methodology: content files only (exclude index/README-style files and archival/reference indexes such as `transmissions/VOICE_STARTER_PACK.md`, `chapters/reading-order.md`, and `grimoire/BIBLIOTHECA_IMPIA.md`).
+
 The repository contains:
-- **27 narrative chapters** in `/chapters/` (reading order in `chapters/reading-order.md`)
-- **57 transmissions** in `/transmissions/` (dense philosophical/mystical texts in the Asmodeus voice)
-- **122 wiki entries** in `/wiki/` (neutral worldbuilding reference)
-- **48 grimoire spells** in `/grimoire/` (catalogued in `grimoire/BIBLIOTHECA_IMPIA.md`)
+- **31 narrative chapters** in `/chapters/` (reading order in `chapters/reading-order.md`)
+- **58 transmissions** in `/transmissions/` (dense philosophical/mystical texts in the Asmodeus voice)
+- **59 wiki entries** in `/wiki/` (neutral worldbuilding reference)
+- **44 grimoire spells** in `/grimoire/` (catalogued in `grimoire/BIBLIOTHECA_IMPIA.md`)
 - **6 character profiles** in `/characters/` (POV characters with cognitive/narrative style guides)
 - **7 faction documents** in `/factions/` (in-universe primary sources, written in faction voice)
 - **Workflow documentation** in `/workflow/` (production pipeline, discography, prompts)
