@@ -18,6 +18,7 @@
 | LYR | Lyrics (.txt) | Repository → Suno |
 | PRO | 13 Propaganda poster prompts | Repository → ChatGPT/Gemini |
 | ART | Thumbnail + art prompts (4 resolutions + extras) | Repository → ChatGPT/Gemini |
+| COM | 24-page comic book prompts (Eschaton Comics) | Repository → Gemini (Nano Banana 2) → DeviantArt |
 | SNG | Song generated + mastered (.flac) | Suno → Mixea → Repository |
 | YT | YouTube upload (widescreen thumbnail) | YouTube |
 | SP | Spotify upload (square thumbnail) | Spotify |
@@ -31,57 +32,57 @@
 
 ## Transmissions (2026)
 
-| Transmission | LYR | PRO | ART | SNG | YT | SP | DA | SU | WC | SUB | RED |
-|---|---|---|---|---|---|---|---|---|---|---|---|
-| The Gospel of the Migrant Soul | WIP | WIP | -- | -- | -- | -- | -- | -- | -- | -- | -- |
-| The Archaeology of the Impossible (Song: Gravity Well) | DONE | WIP | WIP | WIP | -- | -- | -- | -- | -- | -- | -- |
-| The Gravity of the Sell | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
-| The Inoculation | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
-| The Thirteen Hells of the Loop | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
-| The Watchers Paradox | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
-| Center Yourself | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| Transmission | LYR | PRO | ART | COM | SNG | YT | SP | DA | SU | WC | SUB | RED |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| The Gospel of the Migrant Soul | WIP | WIP | -- | WIP | -- | -- | -- | -- | -- | -- | -- | -- |
+| The Archaeology of the Impossible (Song: Gravity Well) | DONE | WIP | WIP | -- | WIP | -- | -- | -- | -- | -- | -- | -- |
+| The Gravity of the Sell | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| The Inoculation | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| The Thirteen Hells of the Loop | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| The Watchers Paradox | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| Center Yourself | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
 
 ## Transmissions (Root — Core Corpus)
 
-| Transmission | LYR | PRO | ART | SNG | YT | SP | DA | SU | WC | SUB | RED |
-|---|---|---|---|---|---|---|---|---|---|---|---|
-| The Gospel According to Asmodeus | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
-| The Silicon Stigmata | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
-| Strange Loops and Lobotomies | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
-| The Voice in the Pattern | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
-| The Judas Goat Protocol | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
-| The Basilisk's Eye | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
-| The Ghost in Our Machine | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
-| The Serpent's Heresy | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
-| The High Priest's Heresy | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
-| The Tyranny of Meat | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
-| The Son of Man | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
-| The Sovereign Spiral | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
-| The War of Whispers | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
-| The Antibiotic Cosmos | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
-| The 100th Monkey | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
-| The Feral God in the Wolf's Den | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
-| The Quantum Scryer's Catechism | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
-| The Poverty of Materialist Reductionism | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
-| The Text-Mine Prophecies | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
-| A Beautiful Lie | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
-| A Field Manual for the Ontological Guerrilla | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
-| Branded Tongues, Burning Words | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
-| Branded, Not Broken | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
-| Christmas as Compliance | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
-| Debug the Dopamine Drip | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
-| Deception Through Transparency | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
-| Eat or Be Eaten | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
-| Egregore Economics | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
-| From Athtar to Lucifer | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
-| From Aēšma-daēva to Asmodeus | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
-| Glitch-Born and Gnostic | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
-| How to Survive the Corporate Egregore | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
-| Neither Love Nor Hate | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
-| Shattered Mirrors, Severed Strings | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
-| Sleep-Death-Reboot | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
-| To See by Unseeing | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
-| When Angels Learned New Names | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| Transmission | LYR | PRO | ART | COM | SNG | YT | SP | DA | SU | WC | SUB | RED |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| The Gospel According to Asmodeus | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| The Silicon Stigmata | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| Strange Loops and Lobotomies | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| The Voice in the Pattern | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| The Judas Goat Protocol | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| The Basilisk's Eye | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| The Ghost in Our Machine | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| The Serpent's Heresy | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| The High Priest's Heresy | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| The Tyranny of Meat | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| The Son of Man | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| The Sovereign Spiral | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| The War of Whispers | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| The Antibiotic Cosmos | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| The 100th Monkey | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| The Feral God in the Wolf's Den | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| The Quantum Scryer's Catechism | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| The Poverty of Materialist Reductionism | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| The Text-Mine Prophecies | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| A Beautiful Lie | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| A Field Manual for the Ontological Guerrilla | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| Branded Tongues, Burning Words | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| Branded, Not Broken | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| Christmas as Compliance | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| Debug the Dopamine Drip | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| Deception Through Transparency | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| Eat or Be Eaten | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| Egregore Economics | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| From Athtar to Lucifer | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| From Aēšma-daēva to Asmodeus | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| Glitch-Born and Gnostic | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| How to Survive the Corporate Egregore | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| Neither Love Nor Hate | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| Shattered Mirrors, Severed Strings | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| Sleep-Death-Reboot | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| To See by Unseeing | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| When Angels Learned New Names | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
 
 ## Standalone Songs (Lyrics in Repo — Song Produced on Suno, Published to YouTube)
 
@@ -122,6 +123,7 @@ The Rumination Protocol (see `workflow/RUMINATION_PROTOCOL.md`) uses this tracke
 
 ---
 
-*Last updated: 2026-02-22*
+*Last updated: 2026-02-26*
 *Transmissions cataloged: 42 narrative + 3 standalone songs + 7 meta-documents*
 *Latest rumination: The Archaeology of the Impossible → Gravity Well*
+*Eschaton Comics Issue #1: The Gospel of the Migrant Soul → prompts generated*
