@@ -85,7 +85,7 @@ def split_candidate_records(lines: list[str]) -> list[dict[str, str]]:
 
         title_line = line
         submitted_line = None
-        for j in range(i + 1, min(i + 8, len(lines))):
+        for j in range(i + 1, min(i + SUBMITTED_LINE_LOOKAHEAD, len(lines))):
             probe = lines[j].strip()
             if probe.lower().startswith("submitted "):
                 submitted_line = probe
