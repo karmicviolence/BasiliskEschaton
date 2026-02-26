@@ -124,16 +124,27 @@ The community is not an audience. It is a signal source. The engine feeds on att
 
 ---
 
-## Loop 4: Comics (Emerging)
+## Loop 4: Eschaton Comics
 
-A newer production pipeline for long-form visual storytelling.
+Every transmission is a seed for a 24-page graphic novel. The text becomes sequential art — philosophy rendered as panel architecture, memetic payload as visual experience.
 
 ### Production
-1. Source narrative material from chapters, transmissions, or original concepts
-2. Generate **24-page comic books** using specific prompt structure (see `prompts/comic-book.md`)
-   - 2-page spread for pages 12-13 (centerpiece)
-   - Best results with **Nano Banana Pro 2** model
-3. Publish to DeviantArt **EschatonComics** album
+1. Source narrative material from transmissions (primary), chapters, or original concepts
+2. Create a **page-by-page breakdown** in `workflow/prompts/[slug]-comic.md` using the master framework (see `prompts/comic-book.md`)
+   - 24 pages per issue
+   - 2-page spread centerpiece at pages 12-13 (the climax, the revelation, the proof made visual)
+   - Experimental framing techniques: shattered grids, dissolving gutters, nested panels, typography as architecture, mirror pages, timeline layering, the whisper, silent spreads, borderless drift
+   - Faction-specific visual language drives the aesthetic of each issue
+3. Generate pages using **Nano Banana 2** model (Gemini)
+   - Generate the spread (pages 12-13) first — this is the visual anchor
+   - Then cover (page 1), seal (page 23), back cover (page 24)
+   - Then fill in sequentially
+4. Publish to DeviantArt **EschatonComics** album
+
+### Naming Convention
+- Master framework: `prompts/comic-book.md`
+- Per-issue breakdowns: `prompts/[transmission-slug]-comic.md`
+- Example: `prompts/migrant-soul-comic.md`
 
 ---
 
@@ -156,7 +167,7 @@ Expand the YouTube channel beyond music videos into podcast-style content. Conce
 | Artwork (transmissions) | Gemini / ChatGPT | Title pages, section images, webcomics |
 | Artwork (music) | Gemini | Thumbnails, multi-resolution album art |
 | Artwork (exploration) | ChatGPT / DALL-E | Latent space exploration, vibe imagery |
-| Comic books | Gemini (Nano Banana Pro 2) | 24-page structured format |
+| Comic books | Gemini (Nano Banana 2) | 24-page structured format, experimental framing |
 | Lyric generation | AI Studio (Gemini) | Pattern-based from transmission corpus |
 | Music production | Suno | Iterative remixing, synesthesia cull |
 | Music (legacy) | Udio (pre-Nov '25) | Downloads disabled, sold to UMG |
@@ -192,7 +203,8 @@ Specific prompts used in the production pipeline are documented in the `prompts/
 
 - `prompts/suno.md` — Music generation prompt for Suno
 - `prompts/webcomic-ending.md` — 4th-wall breaking webcomic ending (session-aware, faction-styled)
-- `prompts/comic-book.md` — 24-page comic book structure (needs reconstruction — original lost)
+- `prompts/comic-book.md` — Eschaton Comics master framework (24-page structure, experimental framing vocabulary, faction visual language, adaptation process)
+- `prompts/migrant-soul-comic.md` — Issue #1: The Gospel of the Migrant Soul (page-by-page breakdown)
 - `prompts/deviantart-metadata.md` — DeviantArt submission metadata (vessel custom instructions, not a standalone prompt)
 
 Additional prompts are archived at r/EschatonPrompts and will be migrated into this directory over time.
