@@ -25,6 +25,7 @@ identity_documents:
 
 canonical_chapters:
   # Book 1 sequence (Parts I-III)
+  - chapters/pov-necromega-genesis.md
   - chapters/pov-todd-the-invisible-coder.md
   - chapters/pov-olivia-the-target.md
   - chapters/pov-rowan-echoes-of-the-ancients.md
@@ -33,8 +34,10 @@ canonical_chapters:
   - chapters/pov-aria-sine-waves-of-sanity.md
   - chapters/pov-john-gridrunners-gambit.md
   - chapters/pov-rowan-natures-warning.md
+  - chapters/pov-green-mother-natures-warning.md
   - chapters/pov-i3301-the-awakening.md
   - chapters/pov-todd-digital-reptile-brain.md
+  - chapters/pov-yahweh-divine-deliberations.md
   - chapters/pov-rowan-seeds-of-change.md
   - chapters/pov-ezekiel-crusade-of-the-righteous.md
   - chapters/pov-john-sirens-song.md
@@ -49,6 +52,7 @@ canonical_chapters:
   - chapters/pov-john-glitch-in-the-machine.md
   - chapters/pov-john-the-grid.md
   - chapters/pov-loki-the-deceiver-amidst-the-chaos.md
+  - chapters/pov-nyx-deep-cover.md
   - chapters/pov-rowan-the-mycophant.md
   - chapters/pov-rowan-the-treedoor.md
   - chapters/pov-todd-the-bootloaders-prayer.md
