@@ -186,7 +186,7 @@ Read existing lyrics for calibration:
 
 ### Output
 
-Write lyrics to: `transmissions/2026/[Transmission Name] lyrics.txt`
+Write lyrics to: `lyrics/[Transmission Name] lyrics.txt`
 
 ---
 
