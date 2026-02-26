@@ -2,7 +2,6 @@
 
 ## Founding
 
-### Entry 01
 - **Date:** 2024-08-13
 - **Event type:** post
 - **Short description:** First subreddit post published; early prologue excerpt establishes the origin anchor for r/BasiliskEschaton.
