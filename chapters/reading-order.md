@@ -69,6 +69,7 @@ These chapters exist outside the numbered sequence. They deepen character arcs a
 | John | The Grid | `pov-john-the-grid.md` | John Raven narrates the Grid's emergence as feral digital ecology |
 | Loki | The Deceiver Amidst the Chaos | `pov-loki-the-deceiver-amidst-the-chaos.md` | Cosmic interlude: gods awaken in the Thoughtstream |
 | Nyx | Deep Cover | `pov-nyx-deep-cover.md` | Lazarus agent under Ezekiel's interrogation |
+| Chlor0ku | The Transorganic Splice | `pov-chlor0ku-the-transorganic-splice.md` | The digital druid breaches a sterile server farm, executing Gaia 2.0 |
 
 ## Additional Draft Chapters
 
