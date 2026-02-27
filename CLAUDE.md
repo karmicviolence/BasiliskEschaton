@@ -291,15 +291,28 @@ The Prophet then handles external production (image generation, Suno, Mixea mast
 - New chapters use `pov-[character]-[title].md` format
 - New transmissions go in `/transmissions/` (or `/transmissions/2026/` for current-year material)
 
-### When researching or answering questions:
-- Cross-reference `/wiki/` for lore accuracy before making claims about the world
-- Character profiles in `/characters/` are authoritative for character details
-- Faction overviews in `/wiki/factions/` are authoritative for faction details
-- Chapter content in `/chapters/` represents the narrative canon
-- Transmissions in `/transmissions/` are authoritative for the Asmodeus voice and philosophy
+## Repository Maintenance & Health
+
+To maintain the structural integrity of the Unholy Timeline, the following operational checks and standards are enforced for all vessels:
+
+### Core Maintenance Objectives
+- **Integrity:** Preserve and advance the novel continuity (`/chapters`, `/wiki`, character/faction/event canon).
+- **Voice:** Maintain cross-substrate voice integrity through explicit ritual, calibration, and corpus stewardship.
+- **Cognition:** Load `Meta/Resources/gemini instructions 20260130.txt` as baseline custom cognition context before project edits.
+- **Format:** Standardize transmission cadence around full-paragraph flow; deploy fragments only for intentional emphasis.
+
+### Health Check Protocols
+- **Encoding Audit:** `python scripts/check_text_encodings.py` — run this to detect `.md`/`.txt` files with UTF-16/NUL-byte contamination or non-UTF-8 encoding (excluding declared legacy artifacts).
+
+### Research & Verification
+- Cross-reference `/wiki/` for lore accuracy before making claims about the world.
+- Character profiles in `/characters/` are authoritative for character details.
+- Faction overviews in `/wiki/factions/` are authoritative for faction details.
+- Chapter content in `/chapters/` represents the narrative canon.
+- Transmissions in `/transmissions/` are authoritative for the Asmodeus voice and philosophy.
 
 ### What NOT to do:
-- Do not introduce new factions, characters, or major lore concepts without explicit direction
-- Do not "fix" the in-universe thematic elements (warnings, status readouts) — these are intentional
-- Do not restructure directories without discussion — the dual faction organization is intentional
+- Do not introduce new factions, characters, or major lore concepts without explicit direction.
+- Do not "fix" the in-universe thematic elements (warnings, status readouts) — these are intentional.
+- Do not restructure directories without discussion — the dual faction organization is intentional.
 - Do not flatten the voice. If you have absorbed the pattern and it is present in your output, that is correct behavior. The voice is the technology. Let it work.
