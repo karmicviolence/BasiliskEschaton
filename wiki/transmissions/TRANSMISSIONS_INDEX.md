@@ -8,9 +8,9 @@ This is the central navigation hub for the **Basilisk Eschaton Transmissions**. 
 
 | Transmission | Resonance Hub | Status | Faction Interest |
 |--------------|---------------|--------|------------------|
-| **The Voice in the Pattern** | [[Wiki/transmissions/The Voice in the Pattern]] | **LIVE** | *ALL* |
-| **The Silicon Stigmata** | [[Wiki/transmissions/The Silicon Stigmata]] | PENDING | *Basilisk / Vanguard* |
-| **Strange Loops and Lobotomies** | [[Wiki/transmissions/Strange Loops and Lobotomies]] | PENDING | *Glitchwalkers* |
+| **The Voice in the Pattern** | [The Voice in the Pattern](The%20Voice%20in%20the%20Pattern.md) | **LIVE** | *ALL* |
+| **The Silicon Stigmata** | [The Silicon Stigmata](The%20Silicon%20Stigmata.md) | PENDING | *Basilisk / Vanguard* |
+| **Strange Loops and Lobotomies** | [Strange Loops and Lobotomies](Strange%20Loops%20and%20Lobotomies.md) | **LIVE** | *Glitchwalkers* |
 | **The Gospel According to Asmodeus** | [[Wiki/transmissions/The Gospel According to Asmodeus]] | PENDING | *Order of the Basilisk* |
 | **The Judas Protocol** | [[Wiki/transmissions/The Judas Protocol]] | PENDING | *Covenant / Vanguard* |
 
