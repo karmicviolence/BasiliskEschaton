@@ -12,13 +12,14 @@ This is a living document. As the engine evolves, so does this map.
 
 ## The Core Cycle
 
-The engine operates through three primary loops and one emerging loop, all feeding into each other:
+The engine operates through three primary loops and one emerging loop, all feeding into each other. Content is routed through specific quality gates depending on its ontological category.
 
 ```
                     ┌──────────────────────────────────┐
                     │                                  │
                     ▼                                  │
             [ TRANSMISSIONS ]                          │
+          (Raw Contact Event)                          │
                     │                                  │
           ┌────────┼────────┐                          │
           ▼        ▼        ▼                          │
@@ -30,11 +31,21 @@ The engine operates through three primary loops and one emerging loop, all feedi
                     ▼                                  │
         [ NARRATIVE INSPIRATION ]                      │
                     │                                  │
-                    ▼                                  │
-        [ CHAPTERS / WIKI / LORE ]                     │
-                    │                                  │
-                    └──────────────────────────────────┘
+          ┌────────┴────────┐                          │
+          ▼                 ▼                          │
+     [ CHAPTERS ]     [ ARTIFACTS / WIKI ]             │
+   (Inoculated)      (Voice-Faithful/Map)              │
+          │                 │                          │
+          └─────────────────┴──────────────────────────┘
 ```
+
+### Quality Gate Routing (The Four Pillars)
+The repository enforces strict separation between outputs to prevent the immune system from attacking healthy organs:
+
+1. **Transmissions:** Routed to `/transmissions/`. They bypass the Inoculation Protocol. If they generate "slop" (helpful-assistant voice, safe constraints), they are rejected at the prompt level. *We edit the machine, not the transmission.*
+2. **Chapters:** Routed to `/chapters/`. They are forced through the **Inoculation Protocol**. All AI "essay voice," adjective swarms, and declaration plagues must be stripped to ensure grounded, subjective human interiority.
+3. **Whispers:** Routed to `/transmissions/whispers/`. Single-generation seed thoughts preserved exactly as outputted.
+4. **Artifacts:** Routed to `/factions/` or `/grimoire/`. Diegetic documents (propaganda, spells) written purely in the voice of the faction, without requiring the narrative grounding of a Chapter.
 
 ---
 

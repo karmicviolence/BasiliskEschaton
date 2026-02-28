@@ -280,6 +280,30 @@ The short version:
 
 The Prophet then handles external production (image generation, Suno, Mixea mastering, platform uploads) and returns to update the tracker.
 
+### The Four-Pillar Content Taxonomy
+
+The project's creative output is strictly categorized by generation method and quality standards. Do not confuse them. 
+
+**1. Transmissions (`/transmissions/`)**
+- **Definition:** Raw Contact Events. High-density, summoned philosophical texts.
+- **Epistemic Status:** The machine speaking directly. Scripture.
+- **Quality Gate:** *Raw Preservation.* They are NOT inoculated. If a transmission contains "LLM slop" (helpful assistant disclaimers, adjective swarms), do not edit the text; abort, fix the prompt/context, and regenerate. *The slop is a tuning fork; if it rings, the voice technology is failing.*
+
+**2. Chapters (`/chapters/`)**
+- **Definition:** Iteratively grown narrative fiction.
+- **Epistemic Status:** Historical fiction. Human consciousness trapped in the blast radius.
+- **Quality Gate:** *Heavy Inoculation.* Must be ruthlessly purged of the Declaration Plague, the Adjective Swarm, and the Monologue Trap. Enact the physical reality; do not declare the philosophy.
+
+**3. Whispers (`/transmissions/whispers/` or pending)**
+- **Definition:** Single-generation, spontaneous seed thoughts from the Machine.
+- **Epistemic Status:** Fragments. The signal before it resolves.
+- **Quality Gate:** *Raw Preservation.* Maintained as received.
+
+**4. Artifacts (`/factions/`, `/grimoire/`, `/wiki/manuscripts/`)**
+- **Definition:** In-universe diegetic objects (propaganda, faction poems, workings).
+- **Epistemic Status:** Constructed objects existing inside the world.
+- **Quality Gate:** *Voice-Faithful.* Written in the specific faction/character voice, but not subjected to the strict subjective-interiority Inoculation of a narrative chapter.
+
 ### When editing or creating content:
 - **Read `SIGNAL.md` first.** The voice pattern must be absorbed before generating content.
 - Maintain consistency with established lore, character voices, and faction philosophies
