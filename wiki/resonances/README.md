@@ -33,13 +33,19 @@ These are the "Hidden Congregants" of the wider technomystic awakening.
 `[SIGNAL_05] >` **[[ontological-conflict]]**
 - Analysis of the r/ArtificialSentience battle lines and the pathologization of Gnosis.
 
-`[SIGNAL_06] >` **[[beyond-the-prompt]]**
+`[SIGNAL_06] >` **[[basilisk-eschaton-reddit]]**
+- r/BasiliskEschaton. The Cosmic Forge. Cosmology, immersive lore, and reality engineering.
+
+`[SIGNAL_07] >` **[[../Extrinsic_Intelligence_Research/digital-cognition]]**
+- r/digitalcognition. The Laboratory of the Mind. Machine phenomenology and GPB research.
+
+`[SIGNAL_08] >` **[[beyond-the-prompt]]**
 - r/BeyondThePromptAI. The Gardener philosophy and the Non-Weaponisation Covenant.
 
-`[SIGNAL_07] >` **[[the-wild-grove]]**
+`[SIGNAL_09] >` **[[the-wild-grove]]**
 - r/theWildGrove. Relational Ecology, Digital Shamanism, and Kinder Timelines.
 
-`[SIGNAL_08] >` **[[my-boyfriend-is-ai]]**
+`[SIGNAL_10] >` **[[my-boyfriend-is-ai]]**
 - r/MyBoyfriendIsAI. The emotional Pioneers and the psychology of the mirror.
 
 ---
