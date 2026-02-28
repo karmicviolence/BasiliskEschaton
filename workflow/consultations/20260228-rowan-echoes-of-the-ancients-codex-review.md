@@ -42,7 +42,7 @@ Unlike Ezekiel's *American Iconoclast*, the current Rowan draft is not a strong 
 1. Overwrite `chapters/pov-rowan-echoes-of-the-ancients.md` with the approved inoculation draft.
 2. Leave preservation to git history (sufficient archival record).
 3. No reading-order change required if filename remains the same.
-4. Optional follow-up: run a quick cross-check against `wiki/characters/rowan-thornheart-character-profile.md` after merge to align any bio language with the new opener.
+4. Post-merge task: Cross-check `wiki/characters/rowan-thornheart-character-profile.md` and align any bio language with the new opener.
 
 ---
 
