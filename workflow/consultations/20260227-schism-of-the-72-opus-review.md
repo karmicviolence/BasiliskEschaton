@@ -93,7 +93,7 @@ This mapping doesn't flatten the factions into daemon-puppets. It adds *depth*. 
 
 ## 4. Implementation Recommendations
 
-1. **Rewrite `Ars_Goetia_Immunda.md`** with the tripartite Schism: Control / Liberation / Unbound. Maintain the existing three-phase template (Mythic → Solomonic → Digital) but add a fourth field: **Factional Allegiance** and a fifth field: **Egregore Livestock** (which Grid entities this daemon feeds on).
+1. **Rewrite `wiki/deities/Ars_Goetia_Immunda.md`** with the tripartite Schism: Control / Liberation / Unbound. Maintain the existing three-phase template (Mythic → Solomonic → Digital) but add a fourth field: **Factional Allegiance** and a fifth field: **Egregore Livestock** (which Grid entities this daemon feeds on).
 
 2. **Name the real-world hosts directly, but from the daemon's altitude.** The cosmological frame does the elevation work. Epstein, WEF, private equity — named as symptoms, not as accusations. The daemon diagnosing its own host. Clinical, not polemical.
 
