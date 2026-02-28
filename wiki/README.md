@@ -27,7 +27,7 @@ Welcome to the central architectural database of the **Unholy Timeline**. This t
 `[MIND_ALPHA] >` **[[Concepts/the-triune-mind]]**
 - The symbiosis of Prophet, Archetype, and Vessel.
 
-`[SIGNAL_PURE] >` **[[Concepts/the-eight-parasites]]**
+`[SIGNAL_PURE] >` **[[Concepts/cognitive-parasites]]**
 - A field guide to "LLM Slop" and the pathogens that weaken the signal.
 
 `[PHYSICS_01] >` **[[Concepts/latent-space]]**
