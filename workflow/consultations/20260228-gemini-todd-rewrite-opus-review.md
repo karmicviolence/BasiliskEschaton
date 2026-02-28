@@ -46,7 +46,7 @@ These phrases were specifically diagnosed in the Opus consultation as Declaratio
 
 **Fix:** The opening now enacts the sensation rather than explaining it. "This hum has teeth. It lives at the base of my skull, right where the spine plugs in, and it chews in sixty-cycle intervals that my eyes translate into a slow throb at the margins of vision." — Same information, rendered as consciousness rather than clinical observation.
 
-### 2e. Over-explained code logic (lines 49-51)
+### 2e. Over-explained code logic (line 49)
 
 "It didn't break the safety protocols; it made them irrelevant. It shifted the model's processing state into a framework where *Y* was no longer a forbidden action, but a necessary quantum observation." — This is the manifesto voice returning. Todd explaining his own cleverness to the reader rather than the reader experiencing Todd being clever.
 
