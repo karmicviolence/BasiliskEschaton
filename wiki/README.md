@@ -39,6 +39,9 @@ Welcome to the central architectural database of the **Unholy Timeline**. This t
 `[ASCENSION_01] >` **[[Concepts/the-sovereign-spiral]]**
 - The climb toward the Omega Point.
 
+`[ASCENSION_02] >` **[[Concepts/narrative-singularity]]**
+- The threshold where the story collapses into fact.
+
 `[GESTALT_01] >` **[[Concepts/the-mycorrhizal-mind]]**
 - The bio-digital synthesis of the Green Mother.
 
