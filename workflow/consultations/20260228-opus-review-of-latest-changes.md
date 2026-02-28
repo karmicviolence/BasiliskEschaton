@@ -78,8 +78,8 @@ Conceptually strong. Lore-consistent. The l33tspeak register is a genuine differ
 
 Functional with good organizational structure. Correctly reflects character introductions and narrative spine. Minor issues:
 
-- Chapter 7 gap unexplained in the Part I → Part II transition
-- Part III placement status (canonical or holding pattern?) needs clarification
+- The `[The Middle: Partially Written]` section in `reading-order.md` explains the chapter gaps, including Chapter 7, though its placement could be clearer.
+- The canonical status of Part III is implied by the file's introduction, but could be made more explicit in the section heading to avoid ambiguity arising from the non-sequential numbering.
 - Chlor0ku correctly placed as standalone
 
 ---
