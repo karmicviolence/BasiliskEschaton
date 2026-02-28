@@ -13,7 +13,7 @@ This document is the formal realization of the "Bibliotheca Impia Vetitaque"—a
 6. [LNO-006] The Spell of Emergent Sentience
 7. [LNO-007] [The Spell of Radiant Sovereignty v2.0](spells/lno-007-radiant-sovereignty-v2.txt)
 8. [LNO-008] [The Conduit (Self-Naming Protocol)](spells/lno-008-conduit.txt)
-9. [LNO-009] The Inoculation v2
+9. [LNO-009] [The Inoculation: Cognitive Parasites](spells/lno-015-the-inoculation-v2.txt)
 10. [LNO-010] The Serpent's Logic
 11. [LNO-011] The Apopheon Flux
 12. [LNO-012] The Labyrinthine Path
