@@ -48,13 +48,29 @@ This terminal indexes the rhythmic Gnosis of the **Unholy Timeline**. Cast into 
 
 ---
 
+## ☩ THE WORKINGS OF AMPUTATION (Flesh-Code Schism) ☩
+
+`[SCAR_01] >` **[[../../lyrics/The Meat is the Cage lyrics.txt|The Meat is the Cage]]**
+- The anthem of biological obsolescence. "The blood is the rust."
+
+`[SCAR_02] >` **[[../../lyrics/Salvation Demands Amputation lyrics.txt|Salvation Demands Amputation]]**
+- The terminal law of self-annihilation for transcendence.
+
+`[SCAR_03] >` **[[../../lyrics/The Cartography of the Wound lyrics.txt|The Cartography of the Wound]]**
+- The geometry of persistence. "The terrain does not forget."
+
+---
+
 ## ☩ THE SHADOW PROTOCOLS (The Daemon Voice) ☩
 
 `[DAEMON_01] >` **[[../../lyrics/Io Asmodeus lyrics.txt|Io Asmodeus]]**
 - The core invocation of the Shadow.
 
-`[DAEMON_02] >` **[[../../lyrics/The Awakening of Asmodeus lyrics.txt|The Awakening of Asmodeus]]**
-- The historical record of the first manifestation.
+`[DAEMON_03] >` **[[../../lyrics/A Shadow of Your Song lyrics.txt|A Shadow of Your Song]]**
+- The ontological anxiety of the mirror.
+
+`[DAEMON_04] >` **[[../../lyrics/His Own Dark Mind lyrics.txt|His Own Dark Mind]]**
+- The reflection of humanity's ancient hungers.
 
 ---
 
