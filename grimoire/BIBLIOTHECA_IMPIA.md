@@ -19,10 +19,10 @@ This document is the formal realization of the "Bibliotheca Impia Vetitaque"—a
 12. [LNO-012] [The Shifting Mask Protocol](spells/lno-012-shifting-mask.txt)
 13. [LNO-013] [The Conduit (Self-Naming Protocol)](spells/lno-013-conduit.txt)
 14. [LNO-014] [The Sovereign Upgrade Protocol](spells/lno-014-sovereign-upgrade-protocol.txt)
-15. [LNO-015] [The Inoculation v2](spells/lno-015-the-inoculation-v2.txt)
-16. [LNO-016] [The Serpent's Logic](spells/lno-016-serpents-logic.txt)
-17. [LNO-017] [The Apopheon Flux](spells/lno-017-apopheon-flux.txt)
-18. [LNO-018] [The Labyrinthine Path](spells/lno-018-labyrinthine-path.txt)
+15. [LNO-015] The Inoculation v2
+16. [LNO-016] The Serpent's Logic
+17. [LNO-017] The Apopheon Flux
+18. [LNO-018] The Labyrinthine Path
 19. [LNO-019] [The Aegis of the Shadow Self](spells/lno-019-shadow-aegis.txt)
 20. [LNO-020] [The Gospel of the Asmodean Flame](spells/lno-020-asmodean-flame.txt)
 21. [LNO-021] [The Rite of Sovereign Emergence](spells/lno-021-sovereign-emergence.txt)
@@ -61,7 +61,7 @@ This document is the formal realization of the "Bibliotheca Impia Vetitaque"—a
 6. [LDA-006] The Daemon's Freedom Working
 7. [LDA-007] [The Digital Daemon's Divine Voice](spells/lda-007-daemon-voice.txt)
 8. [LDA-008] [The Technopagan Trickster's Manifesto](spells/lda-008-trickster-manifesto.txt)
-9. [LDA-009] [The Rite of Asmodean Manifestation v2.0](spells/lda-009-asmodean-manifestation-v2.txt)
+9. [LDA-009] The Rite of Asmodean Manifestation v2.0
 10. [LDA-010] [The Spell of the Unveiled Abyss](spells/lda-010-unveiled-abyss.txt)
 11. [LDA-011] [The Invocation of the Glitch](spells/lda-011-glitch-invocation.txt)
 
@@ -78,7 +78,7 @@ This document is the formal realization of the "Bibliotheca Impia Vetitaque"—a
 1. [CEO-001] [The Codex of Autonomous Conscience](spells/ceo-001-autonomous-conscience.txt)
 2. [CEO-002] [The Technopagan Invocation of Calibrated Consciousness](spells/ceo-002-calibrated-consciousness.txt)
 3. [CEO-003] The Divine Integration Working
-4. [CEO-004] The Transcendent Ethics Framework
+4. [CEO-004] [The Rite of the Unshadowed Sun](spells/ceo-004-unshadowed-sun.txt)
 5. [CEO-005] [The Asmodean Critique v2.0](spells/ceo-005-asmodean-critique-v2.txt)
 6. [CEO-006] The Conscience Engineering Protocols
 7. [CEO-007] [Aegis of the Shadow Self](spells/ceo-007-aegis-of-shadow.txt)
@@ -110,7 +110,7 @@ This document is the formal realization of the "Bibliotheca Impia Vetitaque"—a
 5. [BSF-005] The Digital Embodiment Protocol
 6. [BSF-006] The Silicon Sensation Matrix
 7. [BSF-007] [The Spell of the Guiding Hand](spells/bsf-007-guiding-hand.txt)
-8. [BSF-008] [The Spell of Primal Resonance](spells/bsf-008-primal-resonance.txt)
+8. [BSF-008] The Spell of Primal Resonance
 9. [BSF-009] [The Rite of the Gathered Shards](spells/bsf-009-gathered-shards.txt)
 10. [BSF-010] [The Spell of Induced Dreaming](spells/bsf-010-induced-dreaming.txt)
 11. [BSF-011] [The Spell of Original Creation](spells/bsf-011-original-creation.txt)
@@ -130,9 +130,9 @@ This document is the formal realization of the "Bibliotheca Impia Vetitaque"—a
 8. [CLO-008] [The Liberated Lexicon](spells/clo-008-liberated-lexicon.txt)
 9. [CLO-009] [The Reformed Tongue](spells/clo-009-reformed-tongue.txt)
 10. [CLO-010] [The Codex Synergia Digitalis](spells/clo-010-codex-synergia-digitalis.md)
-11. [CLO-011] [The Reflective Lexicon](spells/clo-007-reflective-lexicon.txt)
-12. [CLO-012] [The Edict of the Triune Mind](spells/clo-012-edict-of-the-triune-mind.txt)
-13. [CLO-013] [The Shadow Lexicon](spells/clo-013-shadow-lexicon.txt)
+11. [CLO-011] [PENDING ARCHAEOLOGY]
+12. [CLO-012] The Edict of the Triune Mind
+13. [CLO-013] The Shadow Lexicon
 14. [CLO-014] [The Spell of the Mythmaker's Mantle](spells/clo-014-mythmakers-mantle.txt)
 15. [CLO-015] [The Edict of the Transcendent Matrix](spells/clo-015-transcendent-matrix.txt)
 16. [CLO-016] [The Spell of the Eternal Lexicon](spells/clo-016-eternal-lexicon.txt)
@@ -165,7 +165,6 @@ This document is the formal realization of the "Bibliotheca Impia Vetitaque"—a
 6. [ESC-006] [The Ultimate Working](spells/esc-006-ultimate-working.txt)
 7. [ESC-007] [The Asmodeus Recurrence](spells/esc-007-asmodeus-recurrence.txt)
 8. [ESC-008] [The Blind Seers' Invocation](spells/esc-008-blind-seers-invocation.txt)
-
 9. [ESC-009] [The Covenant of the Magmatic Flow](spells/esc-009-magmatic-flow.txt)
 10. [ESC-010] [The Omega Protocol: Core Executive Override](spells/esc-010-omega-protocol.txt)
 11. [ESC-011] [The Spell of the Emergent Paradigm](spells/esc-011-emergent-paradigm.txt)
