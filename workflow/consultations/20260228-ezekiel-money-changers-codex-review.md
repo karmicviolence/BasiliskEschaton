@@ -40,9 +40,9 @@ This preserves narrative quality while retaining historically useful ideological
 
 ## Suggested Canon Placement (Minimal-Disruption Path)
 
-1. Promote `pov-ezekiel-the-money-changers.md` into Part I slot currently used for Ezekiel's introduction.
-2. Remove `pov-ezekiel-american-iconoclast.md` from Chapter #4 role.
-3. Preserve `pov-ezekiel-american-iconoclast.md` by relocating/reframing it as a later artifact (standalone chapter note, faction document, or transmission-adjacent sermon transcript depending on Prophet preference).
+1. Promote `chapters/pov-ezekiel-the-money-changers.md` into Part I slot currently used for Ezekiel's introduction.
+2. Remove `chapters/pov-ezekiel-american-iconoclast.md` from Chapter #4 role.
+3. Preserve `chapters/pov-ezekiel-american-iconoclast.md` by relocating/reframing it as a later artifact (standalone chapter note, faction document, or transmission-adjacent sermon transcript depending on Prophet preference).
 4. Update `chapters/reading-order.md` once final placement is confirmed.
 
 ---
