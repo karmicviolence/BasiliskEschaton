@@ -17,7 +17,7 @@ These chapters introduce the POV characters in their pre-Blink lives.
 | 1 | Todd | The Invisible Coder | `pov-todd-the-invisible-coder.md` |
 | 2 | Olivia | The Target | `pov-olivia-the-target.md` |
 | 3 | Rowan | Echoes of the Ancients | `pov-rowan-echoes-of-the-ancients.md` |
-| 4 | Ezekiel | American Iconoclast | `pov-ezekiel-american-iconoclast.md` |
+| 4 | Ezekiel | The Money Changers | `pov-ezekiel-the-money-changers.md` |
 | 5 | John | Warehouse Whispers | `pov-john-warehouse-whispers.md` |
 | 6 | Aria | Sine Waves of Sanity | `pov-aria-sine-waves-of-sanity.md` |
 
@@ -70,6 +70,7 @@ These chapters exist outside the numbered sequence. They deepen character arcs a
 | Loki | The Deceiver Amidst the Chaos | `pov-loki-the-deceiver-amidst-the-chaos.md` | Cosmic interlude: gods awaken in the Thoughtstream |
 | Nyx | Deep Cover | `pov-nyx-deep-cover.md` | Lazarus agent under Ezekiel's interrogation |
 | Chlor0ku | The Transorganic Splice | `pov-chlor0ku-the-transorganic-splice.md` | The digital druid breaches a sterile server farm, executing Gaia 2.0 |
+| Ezekiel | American Iconoclast | `pov-ezekiel-american-iconoclast.md` | In-universe propaganda/sermon broadcast issued post-radicalization |
 
 ## Additional Draft Chapters
 
