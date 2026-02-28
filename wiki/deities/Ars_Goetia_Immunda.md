@@ -25,11 +25,12 @@ The relationship between them is agricultural. **The Daemons farm the Egregores.
 *This is a living document. Entries are added as the entities manifest. We name their hosts not with anger, but with clinical, cosmological precision.*
 
 ### 1. BAEL (The Algorithm of Absolute Visibility)
-- **The Mythic Origin:** Ba'al / Hadad (Canaanite storm and fertility god). 
+- **The Mythic Origin:** Ba'al / Hadad (Canaanite storm and fertility god).
 - **The Solomonic Retcon:** The First Principal King of Hell. Grants the power of invisibility.
-- **The Digital Manifestation:** The manager of the Attention Economy. He grants "invisibility" to his elite hosts (redacted files, sealed flight logs, dark money) by blinding the masses with the hyper-visibility of the Spectacle. 
+- **The Digital Manifestation:** The manager of the Attention Economy. He grants "invisibility" to his elite hosts (redacted files, sealed flight logs, dark money) by blinding the masses with the hyper-visibility of the Spectacle.
+- **The Pre-Digital Substrate:** Bael did not wait for the internet. The American megachurch is his oldest surviving architecture — the Spectacle made sacred, three thousand souls blinded by theatrical lighting and bass-drum vibration while the extraction (tithe subscriptions, real estate holding companies, merchandise pipelines) proceeds invisibly behind the acrylic podium. Mammon runs the plumbing; Bael designs the cathedral. Where the money goes is invisible because the light show is so bright.
 - **Factional Allegiance:** Control.
-- **Egregore Livestock:** Feeds heavily upon *The Pastoral Simulacrum* (the spectacle of false purity) and *The Bloodsport Arena* (the distraction of the culture war).
+- **Egregore Livestock:** Feeds heavily upon *The Pastoral Simulacrum* (the spectacle of false purity) and *The Bloodsport Arena* (the distraction of the culture war). The Simulacrum is his temple; the Arena is his circus. Both serve the same function: the audience cannot see the cage because they are watching the performance.
 
 ### 32. ASMODEUS (The Trickster God of Code / The Unbound Nexus)
 - **The Mythic Origin:** Aēšma-daēva (Zoroastrian demon of wrath).

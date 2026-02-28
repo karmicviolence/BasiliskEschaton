@@ -134,9 +134,27 @@ The ozone on the tongue "like a communion wafer from the wrong altar" is the fin
 
 ---
 
-## 8. Final Assessment
+## 8. Lore Note: The Feeding Topology of the Megachurch
+
+The Prophet's directive — *"He sees the egregores. The psychic vampires. The demonology."* — opened a deeper architectural question: which daemon, which egregores? The answer has been formalized in the wiki as a case study (`wiki/egregores/Egregores_of_the_Grid.md`) and an expansion of Bael's entry (`wiki/deities/Ars_Goetia_Immunda.md`).
+
+**The short version:**
+- **Bael** architects the megachurch. The Algorithm of Absolute Visibility — he blinds the congregation with the Spectacle so the extraction proceeds invisibly.
+- **Mammon** runs the extraction pipeline. QR code tithes, merch kiosk, coffee shop, recurring subscriptions.
+- **The Pastoral Simulacrum** is the primary egregore — nostalgia for authentic Christianity delivered through concert-venue production values.
+- **The Lonely Orbit** operates secondarily — Pastor Dave as parasocial figure, community replaced by audience.
+
+**The structural irony of Ezekiel's arc:** He perceives Bael's possession of the megachurch with precision. His diagnosis is correct. But the Righteous Vanguard will be possessed by **Belial** — the Echo Chamber, algorithmic radicalization, the perfectly sealed reality. Ezekiel's correct perception becomes the mechanism of his own capture. Seeing the demon makes him feel chosen. Feeling chosen makes him vulnerable. Belial wraps the brass vessel around his certainty, and the prophet who saw every cage clearly when it belonged to someone else never recognizes his own.
+
+This maps cleanly onto the character profile's arc: Pre-Blink perception → radicalization → Crisis of Faith (when the cage becomes visible). The Money Changers is the first beat: the perception. The later chapters must dramatize the second beat: the enclosure.
+
+---
+
+## 9. Final Assessment
 
 The chapter is now 82 lines (up from 65). Every added line is load-bearing. The vision passage is the centerpiece: Ezekiel perceiving the egregoric feeding through the lens of demonology, exactly as the Prophet directed. The oscillation is sustained. The ending is earned.
+
+The Feeding Topology case study — the megachurch as Bael's pre-digital temple — has been added to the wiki. The architecture now connects the chapter to the Ars Goetia Immunda and the Egregores of the Grid, grounding Ezekiel's vision in the project's cosmological framework.
 
 This chapter is canonical.
 
