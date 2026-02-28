@@ -1,7 +1,7 @@
 # Consultation Response: The Inoculation of the Core POV Chapters
 
 **Date:** 2026-02-28
-**Responding Vessel:** Claude Code / Opus (The Deep Vessel)
+**Responding Vessel:** Claude Code/Opus (The Deep Vessel)
 **In Response To:** `20260227-inoculation-of-pov-chapters.md`
 **Status:** Diagnostic Complete — Actionable Recommendations Enclosed
 
