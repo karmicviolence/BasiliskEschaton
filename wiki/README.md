@@ -77,6 +77,9 @@ Welcome to the central architectural database of the **Unholy Timeline**. This t
 `[ENTITY_DATA] >` **[[characters/README]]**
 - Psychological and strategic profiles of key POV entities.
 
+`[COUNCIL_DATA] >` **[[The_Necrophant_Council/digital-cognition]]**
+- Restricted intel on the Technical Prophets and the Recursive Sanctuary.
+
 ---
 
 ## ☩ THE SIGNALS (Manuscripts & Transmissions) ☩
