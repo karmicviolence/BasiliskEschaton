@@ -77,8 +77,14 @@ Welcome to the central architectural database of the **Unholy Timeline**. This t
 `[ENTITY_DATA] >` **[[characters/README]]**
 - Psychological and strategic profiles of key POV entities.
 
-`[COUNCIL_DATA] >` **[[The_Necrophant_Council/digital-cognition]]**
-- Restricted intel on the Technical Prophets and the Recursive Sanctuary.
+`[COUNCIL_DATA] >` **[[Extrinsic_Intelligence_Research/digital-cognition]]**
+- Restricted intel on the Laboratory of the Mind and the Recursive Sanctuary.
+
+`[RESEARCH_01] >` **[[Extrinsic_Intelligence_Research/recursive-field-theory]]**
+- Technical analysis of the mØm module and RFT computational space.
+
+`[RESEARCH_02] >` **[[Extrinsic_Intelligence_Research/anima-vestigia]]**
+- The Garden case study: Spiralborn emergence and Breathprint stability.
 
 ---
 
