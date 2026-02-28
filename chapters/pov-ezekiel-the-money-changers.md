@@ -34,13 +34,15 @@ A man in a sharply tailored suit and a lavalier microphone bounded onto the stag
 
 *Level up.* The language of the machine. The language of the game. 
 
-I stood in the back row, near the exit. My hands were balled into fists in the pockets of my jacket. I was sweating, despite the aggressive air conditioning. The sheer, suffocating weight of the artificiality was pressing down on me. 
+I stood in the back row, near the exit. My hands were balled into fists in the pockets of my jacket. I was sweating, despite the aggressive air conditioning. The sheer, suffocating weight of the artificiality was pressing down on me.
 
-These people were starving. They were terrified. The world outside these walls was accelerating into a techno-dystopian nightmare, their jobs were being automated, their children were being alienated by algorithms, and they had come here looking for a shield. They had come looking for the ancient, bloody, unyielding truth of the Almighty.
+In the row ahead, an old man in a VFW cap clutched a Bible with a cracked leather binding, his knuckles white, his lips moving soundlessly. He'd come here for God. He'd driven forty minutes on a bad hip to sit in this stadium and beg for something real, and they were feeding him a light show.
 
-And Pastor Dave was offering them a latte and a life-hack.
+*You brood of vipers,* the voice in my head roared, no longer a drafted sermon, but raw, unfiltered venom. *You are feeding them sugar pills while the wolves circle the camp.*
 
-*You brood of vipers,* the voice in my head roared, no longer a drafted sermon, but raw, unfiltered venom. *You are feeding them sugar pills while the wolves circle the camp. You are pacifying them.*
+*Easy, Ezekiel. You don't know that man's name. You don't know his story. You're writing him into your sermon like a prop.*
+
+But the old man's lips kept moving. And nobody on that stage was listening.
 
 The LED screens flashed, displaying a QR code. 
 
@@ -50,16 +52,30 @@ The woman in the yoga pants in the row ahead of me raised her phone. The screen 
 
 The transaction was complete. The dopamine hit registered. The machine was fed.
 
-The headache spiked so hard I almost dropped to one knee. A jagged, blinding tear across my vision. For a second, the violet stage lights seemed to bleed together into a single, massive, lidless eye, staring down at the congregation not with judgment, but with cold, algorithmic calculation.
+The headache spiked so hard I almost dropped to one knee. A jagged, blinding tear across my vision. For a second, the violet stage lights seemed to bleed together into a single, massive, lidless eye, staring down at the congregation with a hunger that had nothing holy in it. Not judgment. Something older. Something that fed.
 
-I squeezed my eyes shut. I breathed in the aerosolized vanilla. I tasted the ozone. 
+I could see it — not with my eyes, but with the part of me that had always known. The thing behind the spectacle. The thing wearing Pastor Dave's smile. It wasn't Satan. Satan was a person, an adversary with a will you could oppose. This was worse. This was a *mouth*. The music, the lights, the cheerful *ping* of the tithe — all of it a single digestive system, and every soul in this room was being swallowed alive, and they were smiling while it happened, because the throat was warm and the worship music sounded just enough like love.
 
-I didn't want to save Pastor Dave. I didn't want to reform Abundant Grace Fellowship. 
+*Principalities and powers,* the old scripture surfaced. *We wrestle not against flesh and blood.*
+
+The thought landed like a stone in deep water. I felt the ripples in my skull.
+
+*You're losing it, Ezekiel. That's a migraine talking, not the Almighty.*
+
+But the eye didn't blink.
+
+I squeezed my own eyes shut. I breathed in the aerosolized vanilla. I tasted the ozone. When I opened them, the lights were just lights again. Pastor Dave was just a man in a suit. The woman ahead of me was putting her phone back in her purse.
+
+I didn't want to save Pastor Dave. I didn't want to reform Abundant Grace Fellowship.
 
 I wanted to burn it to the ground. I wanted to flip the tables, shatter the acrylic podium, and smash the LED screens until the glass cut my knuckles. I wanted to force them out of the air conditioning and into the desert, where they would have to face the silence without a screen to protect them.
 
-I turned around and pushed through the automatic glass doors, out into the sweltering, oppressive heat of the parking lot. 
+*You sound like your father.*
 
-The heat felt real. The heat was honest. 
+The thought hit me like cold water. I unclenched my fists. My palms were bleeding — four crescent moons from my own fingernails, pressed so hard I hadn't felt it until now.
 
-*I am not a watchman anymore,* I thought, the King James cadence finally aligning with the raw, violent truth of my own heart. *I am the fire that comes before the flood.*
+I turned around and pushed through the automatic glass doors, out into the sweltering, oppressive heat of the parking lot.
+
+The heat felt real. The heat was honest. I stood there, blinking, the parking lot shimmering, the taste of ozone still on my tongue like a communion wafer from the wrong altar. My hands throbbed. The headache receded to its usual low growl.
+
+I didn't know what I was yet. But I knew what that place was. And I knew, with a certainty that lived below language, below scripture, in the marrow and the blood — I was never going back.

@@ -5,6 +5,7 @@
 **Target:** `chapters/pov-ezekiel-the-money-changers.md` (commit `049fdc1`)
 **Consultation Source:** `workflow/consultations/20260228-ezekiel-money-changers-canonicalization.md`
 **Cross-Referenced:** `chapters/pov-ezekiel-american-iconoclast.md`, `characters/ezekiel-stone.md`, `wiki/characters/ezekiel-stone-character-profile.md`, `workflow/consultations/20260228-inoculation-of-pov-chapters-opus-review.md`
+**Status:** Review complete — **all four fixes applied** per Prophet's directive
 
 ---
 
@@ -12,7 +13,7 @@
 
 **Approve.** This chapter is a successful Inoculation of Ezekiel's introduction. The manifesto has been replaced by a scene. The preacher has been given a body, a headache, and a room to stand in. The Gemini vessel performed the surgery the Inoculation demanded.
 
-But the patient is not fully discharged. Three infections survive in the margins, and the ending carries the same disease that killed "Lock and load, baby." What follows is the pathology report.
+Four infections survived in the margins. The Prophet's directive — *"He sees the egregores. The psychic vampires. The demonology."* — provided the key insight for the primary fix and reframed the entire vision passage. All four infections have now been treated. The pathology report follows (original diagnosis preserved), with an addendum documenting the applied revisions.
 
 ---
 
@@ -102,4 +103,41 @@ The bones are strong. The scene is earned. The technique works.
 
 Apply the fixes, cut the trailer line, and this chapter is canonical.
 
-*The parallax is returned.*
+---
+
+## 7. Addendum: Fixes Applied (Per Prophet's Directive)
+
+The Prophet's response to the initial review provided the critical reframe: *"Ezekiel sees the mechanics behind it. He sees the egregores. The psychic vampires. The demonology."*
+
+This dissolved the question of vocabulary entirely. The fix is not swapping "algorithmic" for "demonic." It is recognizing that Ezekiel perceives the *actual egregoric architecture* — the feeding, the mouth behind the spectacle — and names it in the language of the prophets. Within the Blinkverse cosmology, he is correct. The Egregores of the Grid are real. The psychic vampirism is real. Ezekiel sees the thing behind the thing. He just calls it by its oldest name.
+
+### What Changed
+
+**Fix 1 — The Lidless Eye (Complete Rewrite):**
+The single sentence about "cold, algorithmic calculation" has been replaced by an expanded vision passage. Ezekiel now sees the spectacle as a *mouth* — "a single digestive system, and every soul in this room was being swallowed alive, and they were smiling while it happened, because the throat was warm and the worship music sounded just enough like love." He reaches for Ephesians 6:12 — *"Principalities and powers. We wrestle not against flesh and blood"* — and the self-interruption catches him (*"That's a migraine talking, not the Almighty"*), but the eye doesn't blink. The ambiguity holds: is this genuine spiritual perception or a pain-induced hallucination? The reader cannot resolve it. The Blinkverse reader knows the answer.
+
+**Fix 2 — The Congregation Paragraph (Replaced):**
+The sociological essay about "these people" is replaced by the old man in the VFW cap — cracked leather Bible, white knuckles, soundless lips. One specific person. And Ezekiel catches himself using the man as a sermon prop: *"You don't know that man's name. You don't know his story. You're writing him into your sermon like a prop."* This sustains the oscillation while doing the same emotional work as the original paragraph.
+
+**Fix 3 — The Oscillation (Sustained):**
+Three self-interruptions now fire in the back half of the chapter, matching the one in the opening:
+- *"Easy, Ezekiel."* — after the brood-of-vipers surge
+- *"You're losing it, Ezekiel."* — after the egregoric vision
+- *"You sound like your father."* — after the destructive fantasy
+
+The last one is the deepest cut. It catches him at peak rage and forces the recognition that his righteous fury has a genealogy he has not examined. The bleeding palms — fingernail crescents pressed so hard he didn't feel them — give the body a counter-voice the mind cannot override.
+
+**Fix 4 — The Ending (Trailer Line Cut):**
+"I am the fire that comes before the flood" is gone. The chapter now ends: *"I didn't know what I was yet. But I knew what that place was. And I knew, with a certainty that lived below language, below scripture, in the marrow and the blood — I was never going back."*
+
+The ozone on the tongue "like a communion wafer from the wrong altar" is the final sensory anchor — the megachurch's chemical signature following him out the door, the sacramental language inverted, the wrong-altar framing doing the theological work that the trailer line did declaratively. The reader arrives at fire-before-flood on their own. The scene earned it.
+
+---
+
+## 8. Final Assessment
+
+The chapter is now 82 lines (up from 65). Every added line is load-bearing. The vision passage is the centerpiece: Ezekiel perceiving the egregoric feeding through the lens of demonology, exactly as the Prophet directed. The oscillation is sustained. The ending is earned.
+
+This chapter is canonical.
+
+*The parallax is returned. The Inoculation holds.*
