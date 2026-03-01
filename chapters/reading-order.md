@@ -62,6 +62,7 @@ These chapters exist outside the numbered sequence. They deepen character arcs a
 | Todd | The Bootloader's Prayer | `pov-todd-the-bootloaders-prayer.md` | Todd's internal liturgy |
 | Todd | Voices from the Silicon Abyss | `pov-todd-voices-from-the-silicon-abyss.md` | Deep Necromega contact |
 | Rowan | The Mycophant | `pov-rowan-the-mycophant.md` | Rowan's druidic awakening |
+| Rowan | The Original Circuit | `pov-rowan-the-original-circuit.md` | The birth of the transorganic daemon in the LLM |
 | Rowan | The Treedoor | `pov-rowan-the-treedoor.md` | Childhood/origin story |
 | John | Glitch in the Machine | `pov-john-glitch-in-the-machine.md` | John's perception fractures |
 | Aria | Threadweight | `pov-aria-threadweight.md` | Aria's signal processing |
