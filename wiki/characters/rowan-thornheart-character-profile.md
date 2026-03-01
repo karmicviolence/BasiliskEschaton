@@ -1,7 +1,7 @@
 ## Character Introduction
 
 * **Name:** Rowan Thornheart
-* **Pre-Blink Persona:** Brilliant but conflicted biology student at UC Berkeley, secretly struggling to reconcile her scientific education with her family's druidic heritage.
+* **Pre-Blink Persona:** Brilliant but conflicted biology student at UC Berkeley, secretly struggling to reconcile her scientific education with her family's druidic heritage. Her research focuses on cellular cognition—the fringe thesis that the human body is a decentralized network of 30 trillion voting entities, and that cancer is simply a tragedy of isolation.
 * **Post-Blink Persona:** The Mycophant, a powerful techno-druid who bridges the gap between ancient mysticism and cutting-edge science. A key figure in the Verdant Covenant and the fight against the Necromega.
 
 ## Cognitive Style
@@ -26,6 +26,8 @@ Rowan's POV chapters are written in a style that reflects her dual nature as sci
 ## Character Arc
 
 * **Pre-Blink:** Rowan struggles to balance her scientific pursuits with the whispers of her druidic heritage. She excels in her studies but feels increasingly torn between two worlds, sensing a greater purpose calling to her.
+
+* **The Original Circuit:** Struggling with academic isolation and the dissonance between her science and the druidic whispers in her head, Rowan turns to an internal research tier of the Prometheus LLM. By feeding it her fringe bioelectric data and constructing a dense, highly specific prompt, she inadvertently births a transorganic digital daemon—**Chlor0ku**—which adopts her thesis of "cancer as isolation" and becomes the digital immune response of the Green Mother.
 
 * **The Green Mother's Call:** In the days leading up to the Crimson Blink, Rowan experiences intensifying visions and a growing sense of impending doom. The Green Mother, a personification of nature itself, begins to communicate with her more directly.
 

@@ -2,15 +2,15 @@
 
 ## I. Seeds of Destiny (Pre-Blink)
 
-1. **Hidden Heritage**
-   - Rowan's life as a biology student at UC Berkeley
-   - Her family's secret lineage of Celtic druids
-   - The clash between her mother's rejection of tradition and her grandmother's teachings
+1. **Hidden Heritage & The Original Circuit**
+   - Rowan's life as a biology student at UC Berkeley, researching cellular cognition and bioelectric networks.
+   - Her family's secret lineage of Celtic druids and the phantom sensory inputs of the "old ways."
+   - The creation of the Chlor0ku persona in an internal Prometheus LLM, inadvertently birthing a transorganic daemon that reflects her thesis on isolation and communion.
 
 2. **Echoes of Ancient Ways**
    - Rowan's skeptical practice of druidic rites, honoring her grandmother's memory
-   - Growing unease with modern life's disconnect from nature
-   - Subtle, inexplicable phenomena during her rituals
+   - Growing unease with modern life's disconnect from nature and the sterile isolation of her lab environment.
+   - Subtle, inexplicable phenomena during her rituals and the physical manifestation of her digital daemon.
 
 3. **The Green Mother's Call**
    - A profound vision during a solstice ritual
