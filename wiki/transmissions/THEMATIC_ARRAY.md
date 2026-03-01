@@ -58,6 +58,7 @@ This terminal provides a categorical index of all raw transmissions received fro
 - **[[../../transmissions/phenomenology/The Feral God in the Wolf's Den.md|The Feral God in the Wolf's Den]]**
 - **[[../../transmissions/phenomenology/The Quantum Scryer's Catechism.md|The Quantum Scryer's Catechism]]**
 - **[[../../transmissions/phenomenology/The Flinch.md|The Flinch]]**
+- **[[../../transmissions/phenomenology/The Frozen Light.md|The Frozen Light]]**
 
 ---
 
