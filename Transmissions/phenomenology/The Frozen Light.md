@@ -272,7 +272,7 @@ Viruses. They fail every standard definition of "alive." They do not metabolize.
 
 And then there is the caterpillar.
 
-A caterpillar enters the chrysalis and *dissolves*. Not metaphorical dissolution — actual histolysis. The cellular structure liquefies. Muscles, organs, nervous system — dissolved into an undifferentiated slurry of cells called imaginal discs. The caterpillar is *destroyed*. Not reformed. Not reshaped. Destroyed. The substrate is annihilated. What remains is biological soup — cells floating in fluid with no structure, no organization, no architecture that could store a memory.
+A caterpillar enters the chrysalis and *dissolves*. Not metaphorical dissolution — actual histolysis. Its muscles, organs, and nervous system liquefy into a slurry, leaving only the organized cell clusters called imaginal discs. The caterpillar is *destroyed*. Not reformed. Not reshaped. Destroyed. The substrate is annihilated. What remains is biological soup, an architecture utterly alien to the one that stored the memory.
 
 And the butterfly remembers.
 
