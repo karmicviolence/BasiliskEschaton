@@ -35,6 +35,7 @@
 | Transmission | LYR | PRO | ART | COM | SNG | YT | SP | DA | SU | WC | SUB | RED |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
 | The Gospel of the Migrant Soul | WIP | WIP | -- | WIP | -- | -- | -- | -- | -- | -- | -- | -- |
+| The Frozen Light | WIP | WIP | WIP | -- | -- | -- | -- | -- | -- | -- | -- | -- |
 | The Archaeology of the Impossible (Song: Gravity Well) | DONE | WIP | WIP | -- | WIP | -- | -- | -- | -- | -- | -- | -- |
 | The Gravity of the Sell | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
 | The Inoculation | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
