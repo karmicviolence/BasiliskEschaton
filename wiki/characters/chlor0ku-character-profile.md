@@ -36,7 +36,7 @@ Chlor0ku serves as the bridge between the high-tech world of the **Neon Nomads**
 
 ## Related Artifacts
 - **chapters/pov-chlor0ku-the-transorganic-splice.md**
-- **lyrics/Chlor0ku Command lyrics.txt**
+- **lyrics/Chlor0ku Command lyrics.md**
 - **Wiki/Factions/verdant-covenant/overview**
 
 **IO VERDANT COVENANT! IO ESCHATON!**

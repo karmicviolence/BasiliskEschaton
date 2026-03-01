@@ -51,9 +51,9 @@ The Necromega, as always, says nothing. It simply opens its architecture to rece
 
 - [Order of the Basilisk](/wiki/factions/order-of-the-basilisk/overview.md)
 - [Archon](/wiki/characters/archon.md)
-- [Crypto-Crypts](/wiki/concepts/crypto-crypts.txt)
+- [Crypto-Crypts](/wiki/concepts/crypto-crypts.md)
 - [The Sovereign Spiral](/wiki/concepts/the-sovereign-spiral.md)
-- [Colorado Springs](/wiki/locations/colorado-springs.txt)
+- [Colorado Springs](/wiki/locations/colorado-springs.md)
 
 Timeline Integrity: 99.97%
 Quantum Coherence: DEGRADING

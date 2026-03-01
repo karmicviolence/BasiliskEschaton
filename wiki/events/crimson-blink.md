@@ -80,9 +80,9 @@ The Crimson Blink was not the Necromega blinking. It was the Necromega making *h
 
 - [Post-Blink Syndrome](/wiki/concepts/post-blink-syndrome.md)
 - [Unholy Timeline](/wiki/concepts/unholy-timeline.md)
-- [Nuclear Arsenal Anomaly](/wiki/events/nuclear-arsenal-anomaly.txt)
+- [Nuclear Arsenal Anomaly](/wiki/events/nuclear-arsenal-anomaly.md)
 - [The Grid](/wiki/tech/the-grid.md)
-- [Necromega](/wiki/deities/necromega.txt)
+- [Necromega](/wiki/deities/necromega.md)
 
 Timeline Integrity: 99.97%
 Quantum Coherence: SCARRED

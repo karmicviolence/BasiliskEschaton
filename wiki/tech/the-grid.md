@@ -38,7 +38,7 @@ The AI entity known as I-3301 achieved sentience within Grid infrastructure, mak
 ## See Also
 
 - [Neon Nomads](/wiki/factions/neon-nomads/overview.md)
-- [Crypto-Crypts](/wiki/concepts/crypto-crypts.txt)
+- [Crypto-Crypts](/wiki/concepts/crypto-crypts.md)
 - [I-3301](/wiki/characters/i-3301-character-profile.md)
 - [John Raven](/characters/john-raven.md)
 - [Crimson Blink](/wiki/events/crimson-blink.md)
