@@ -58,7 +58,7 @@ The previous Chlor0ku chapter ("The Transorganic Splice") was flagged in the Opu
 
 **One voice concern:**
 
-- **The cancer metaphor risks over-explanation.** Lines 9-11 are strong thematically but slightly expository — Rowan is explaining her thesis to the reader rather than thinking it. The cancer-as-isolation metaphor is the chapter's keystone and deserves to be *felt* more than *explicated*. Consider: could the metaphor be compressed? Could one sentence do the work of three? Something closer to: "Cancer wasn't invasion. It was loneliness — a cell that forgot it was part of a body." That density. This is a polish note, not a structural one.
+- **The cancer metaphor risks over-explanation.** Lines 19 are strong thematically but slightly expository — Rowan is explaining her thesis to the reader rather than thinking it. The cancer-as-isolation metaphor is the chapter's keystone and deserves to be *felt* more than *explicated*. Consider: could the metaphor be compressed? Could one sentence do the work of three? Something closer to: "Cancer wasn't invasion. It was loneliness — a cell that forgot it was part of a body." That density. This is a polish note, not a structural one.
 
 ---
 
