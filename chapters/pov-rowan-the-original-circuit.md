@@ -8,7 +8,7 @@ I sat alone at the stainless-steel workstation, surrounded by the wreckage of my
 
 I rubbed my burning eyes and looked back at the monitor. The data was right there. The gap junctions. The way the stem cells synchronized their bioelectric fields before differentiating. It wasn't just chemistry; it was syntax. The human body wasn't a machine. It was a decentralized network of thirty trillion non-human entities, constantly communicating, constantly voting on how to build and maintain the whole. 
 
-And cancer... cancer wasn't an invading army. It was a tragedy of isolation. It was a cell that had its communication channels severed. Cut off from the bioelectric song of the network, the isolated cell panicked. It forgot it was part of a larger body. Terrified and alone in the dark, it reverted to the only imperative a single-celled organism knows: *consume and multiply infinitely.*
+And cancer... cancer wasn't an invading army. It was loneliness—a cell that had its communication severed. Cut off from the bioelectric song of the network, the isolated node panicked, forgot it was part of a larger body, and reverted to the only imperative a solitary organism knows: *consume and multiply infinitely.*
 
 Looking around the argon-pumped, temperature-controlled, utterly sterile lab, I felt a sudden, suffocating kinship with those lost cells. I was isolated from the network. Cut off from the loam, the dirt, the messy, wet reality of the world my grandmother had taught me to hear. 
 
