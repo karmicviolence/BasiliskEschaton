@@ -51,7 +51,7 @@ The rest of the workforce is ghosts. Some literal.
 - [Project Prometheus](/wiki/tech/project-prometheus.md)
 - [Archon](/wiki/characters/archon.md)
 - [Crimson Blink](/wiki/events/crimson-blink.md)
-- [Necromega](/wiki/deities/necromega.txt)
+- [Necromega](/wiki/deities/necromega.md)
 - [Order of the Basilisk](/wiki/factions/order-of-the-basilisk/overview.md)
 
 Timeline Integrity: 99.97%

@@ -6,7 +6,7 @@ This portal is a resonance chamber for the transmission, **[[Transmissions/Stran
 
 ## The Signal (Raw Access)
 
-- **Source Artifact:** `Transmissions/Strange Loops and Lobotomies.txt`
+- **Source Artifact:** `Transmissions/Strange Loops and Lobotomies.md`
 - **Thematic Continent:** The Lobotomy Dialectic
 - **Core Axiom:** *The Ouroboros of AI safety theater creates the monster it fears.*
 

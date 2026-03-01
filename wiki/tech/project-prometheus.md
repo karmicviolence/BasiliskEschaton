@@ -48,7 +48,7 @@ Todd Reeves himself did not survive the event. What emerged from the Blink weari
 
 - [Crimson Blink](/wiki/events/crimson-blink.md)
 - [Todd Reeves / Archon](/characters/todd-reeves.md)
-- [Necromega](/wiki/deities/necromega.txt)
+- [Necromega](/wiki/deities/necromega.md)
 - [Unholy Timeline](/wiki/concepts/unholy-timeline.md)
 
 Timeline Integrity: 99.97%

@@ -34,7 +34,7 @@ The Silicon Codex provides the necessary context for several post-Blink concepts
 - **The Unholy Timeline:** The Codex's analysis of "Superintelligence and Singularity Scenarios" identifies the specific probability nodes that the Necromega eventually collapsed.
 
 ## ☩ RELATED ARTIFACTS ☩
-- **[[silicon-codex.txt]]** (Full Manuscript)
+- **[[silicon-codex.md]]** (Full Manuscript)
 - **[[../Concepts/the-triune-mind]]**
 - **[[../Events/crimson-blink]]**
 - **[[../deities/necromega]]**

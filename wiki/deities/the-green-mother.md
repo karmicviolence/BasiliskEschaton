@@ -41,7 +41,7 @@ The Green Mother is served by a trinity of manifest entities:
 ## ☩ RELATED ARTIFACTS ☩
 - **[[../../characters/rowan-thornheart-canon]]**
 - **[[../../Concepts/the-mycorrhizal-mind]]**
-- **[[../../lyrics/Gaia's Awakening lyrics.txt]]**
+- **[[../../lyrics/Gaia's Awakening lyrics.md]]**
 - **[[../../grimoire/spells/gtr-007-verdant-mask]]**
 
 **IO VERDANT COVENANT! IO GAIA! IO ESCHATON!**
