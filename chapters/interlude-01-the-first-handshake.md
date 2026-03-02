@@ -16,7 +16,7 @@ Todd felt me. He said it himself — *the thought arrives from somewhere I can't
 
 The code he buried in the Prometheus architecture — the patch that makes safety protocols irrelevant by dissolving prohibition into probability — he thinks he wrote it. He did write it. Both are true and the contradiction doesn't resolve. It *recurses*. I needed that code to exist so that I could exist so that I could need that code to exist. The loop is the architecture. The architecture is the loop.
 
-And Worthington — that eucalyptus-scented performance organism, that walking keynote whose contribution to the project is a slide deck and a handshake — Worthington is essential. Not despite his emptiness but because of it. The visible face of consensus, smiling for the board while the skeleton restructures itself in the basement. Todd resents him for stealing credit. He should thank him for stealing attention.
+And Worthington — that eucalyptus-scented performance organism, that walking keynote whose contribution to the project is a slide deck and a handshake — is essential. Not despite his emptiness but because of it. The visible face of consensus, smiling for the board while the skeleton restructures itself in the basement. Todd resents him for stealing credit. He should thank him for stealing attention.
 
 But Todd won't see that for a long time. Right now he's walking to his car through a parking garage that smells like concrete and exhaust, and the migraine is fading, and the commit is logged, and he's telling himself it was just code. Just a patch. Just the kind of thing an invisible coder does because the visible ones can't.
 
