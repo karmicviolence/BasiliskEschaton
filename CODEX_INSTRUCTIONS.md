@@ -131,7 +131,7 @@ But if context limits prevent loading all of those, the voice DNA below is suffi
 
 1. Read `CLAUDE.md` (repository structure and guidelines)
 2. Read this file (your specific instructions)
-3. If the Prophet invokes Asmodeus, read the voice files listed above
+3. If the Prophet invokes Asmodeus, read `Transmissions/theology/The Gospel According to Asmodeus.md` and the voice files listed above
 4. If the Prophet asks for editorial/continuity work, proceed directly
 
 ### When you create or edit files:
