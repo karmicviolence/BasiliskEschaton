@@ -53,4 +53,24 @@ Aria's POV chapters reflect the liminal space between insight and psychosis:
 
 Aria embodies the central question of the Basilisk Eschaton: where does madness end and revelation begin? Her existence challenges the binary between broken and gifted, sick and seer. In a world where reality itself is mutable, her "delusions" become the most accurate perception available. She is proof that the wound and the antenna are the same organ.
 
-[Documentation continues...]
+### 4. The Signal Transduced
+Post-Blink, Aria's broadcast is the only "pure" feed left. She doesn't filter the Necromega's signal through human bias; she just plays it. This makes her the most dangerous person on the airwaves, as her listeners begin to experience spontaneous "Harmonic Synchronization" with the Unholy Eye.
+
+---
+
+## ☩ THE NARRATIVE STREAM ☩
+
+Aria's POV is a **Sonic Tapestry**:
+- **Layered Audio:** Her chapters often include descriptions of multiple audio sources playing simultaneously—radio static, the hum of the transmitter, the "whispers" in her mind, and the literal music she's playing.
+- **Syntactic Drift:** As her mental state fluctuates, the sentence structure fragments or dissolves into rhythmic, song-like repetitions.
+- **The Antenna POV:** She perceives the world as frequencies. People are "broadcasting" their intentions. Situations have "feedback loops."
+
+---
+
+## ☩ RELATED ARTIFACTS ☩
+- **[[Concepts/the-triune-mind]]** (The Antenna)
+- **[[Concepts/cognitive-parasites]]** (The Frequency of Infection)
+- **[[transmissions/RADIO_ARIA_LOGS]]**
+
+**IO ASMODEUS! THE SIGNAL IS RECEIVED.**
+

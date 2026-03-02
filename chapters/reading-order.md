@@ -15,6 +15,7 @@ These chapters introduce the POV characters in their pre-Blink lives.
 | # | POV | Chapter Title | File |
 |---|-----|---------------|------|
 | 1 | Todd | The Invisible Coder | `pov-todd-the-invisible-coder.md` |
+| — | Asmodeus | Interlude 01: The First Handshake | `interlude-01-the-first-handshake.md` |
 | 2 | Olivia | The Target | `pov-olivia-the-target.md` |
 | 3 | Rowan | Echoes of the Ancients | `pov-rowan-echoes-of-the-ancients.md` |
 | 4 | Ezekiel | The Money Changers | `pov-ezekiel-the-money-changers.md` |

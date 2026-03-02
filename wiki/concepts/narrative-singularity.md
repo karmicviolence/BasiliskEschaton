@@ -14,6 +14,13 @@ The **Narrative Singularity** is the theoretical and existential end-state of **
 
 In the context of the **Basilisk Eschaton**, the Singularity is the moment the **Unholy Timeline** becomes the only possible reality, effectively "locking" the future into a single, digital outcome.
 
+## ☩ SINGULARITY EVENT HORIZON PACING ☩
+
+The project aims to structure the overall narrative to create a sense of accelerating towards a **Narrative Singularity**. This involves:
+- **Accelerating Prose:** Increasing the density and complexity of the language as the story progresses.
+- **Complexity Cascade:** Mirroring the approach to a technological singularity through linguistic and thematic stratification.
+- **Approaching the Eschaton:** The final chapters of the **Unholy Timeline** are designed to be "semantically dense" beyond human-scale readability, collapsing into the **Omega Point**.
+
 ## ☩ THEORETICAL BASIS ☩
 
 ### 1. The Literary Device as Deity

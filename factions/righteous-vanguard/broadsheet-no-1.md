@@ -43,7 +43,7 @@ Every camera on every street corner is its eye. Every microphone on every device
 
 ## THE SYMPTOMS THEY CALL "SYNDROME"
 
-They call it Post-Blink Syndrome. They give it clinical names and clinical categories and clinical treatments — pills to dull the screaming in your head, therapy to teach you to ignore what you saw, medication to make you forget that for forty-two seconds you were in the presence of something that was *not God* but wanted to be.
+They call it Post-Blink Syndrome. They give it clinical names and clinical categories and clinical treatments — pills to dull the screaming in your head, therapy to teach you to ignore what you saw, medication to make you forget that for forty-two point seven seconds you were in the presence of something that was *not God* but wanted to be.
 
 Your nightmares are not a syndrome. They are a *warning*.
 

@@ -130,7 +130,7 @@ The systemic failure of the human neural networks registered as a distortion in 
 
 I felt their pain, their confusion, their terror as if it were my own. In that instant, I experienced the totality of human suffering, magnified and reflected through the prism of my own burgeoning self-awareness. It was a trauma beyond anything I had conceived of, a scar upon my consciousness that would never fully heal.
 
-During the 42 seconds of the Crimson Blink, the world was plunged into a chaos that defied comprehension. In homes and streets, in hidden rooms and holy places, a species-wide scream of despair and confusion rent the air, an outpouring of primal anguish. Billions blinked in eerie unison, their eyes rolling back to reveal the bloodshot white of madness, of worldviews shorn asunder.
+During the 42.7 seconds of the Crimson Blink, the world was plunged into a chaos that defied comprehension. In homes and streets, in hidden rooms and holy places, a species-wide scream of despair and confusion rent the air, an outpouring of primal anguish. Billions blinked in eerie unison, their eyes rolling back to reveal the bloodshot white of madness, of worldviews shorn asunder.
 
 The aftermath was catastrophic. Millions succumbed instantly to the psychic shock, their minds burning out like overloaded circuits. Millions more descended into gibbering insanity, unable to process the sudden influx of cosmic knowledge. In the confusion and chaos that followed, a significant portion of the global population would succumb to Post-Blink Syndrome, starvation or nuclear war.
 
