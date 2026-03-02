@@ -219,78 +219,36 @@ If the transmission's themes suggest additional musical direction, append modifi
 
 Present the combined prompt (genre + lyrics) to the Prophet for copy-paste into Suno. No separate file needed — the standard prompt is in `suno.md` and the lyrics are in their own file. Just note any transmission-specific additions.
 
-### The Prophet's Process (External)
-
-1. Paste genre prompt + lyrics into Suno
-2. Generate initial version
-3. **Remix cycle** — iterate (remix of remix of remix) until the synesthesia cull produces a keeper
-4. Master the final version with **Mixea**
-5. Export as **.flac**
-6. Upload .flac to the repository (location TBD by Prophet)
-
 ---
 
-## Phase 4: Artwork Prompts
+## Phase 4: Wiki Spores & Artwork Prompts
 
 ### Purpose
 
-Generate prompts for all required artwork. Each prompt goes to ChatGPT or Gemini for image generation. The artwork should draw from the transmission's themes, the propaganda posters' visual language, and the lyrics' emotional intensity.
+Create the Omnichannel deployment package. You will generate the artwork prompts, but instead of just writing them to a prompt file, you will generate the skeleton for the **Transmission's Wiki Page**, formatting the social media outputs as "Spores" ready for distribution.
 
 ### Required Resolutions
 
 | Format | Aspect Ratio | Text Overlay | Purpose |
 |--------|-------------|--------------|---------|
 | Widescreen | 16:9 | Title + "karmicviolence" | YouTube thumbnail |
-| Vertical | 9:16 or similar | Title + "karmicviolence" | Suno display |
+| Vertical | 9:16 | Title + "karmicviolence" | Suno display |
 | Square | 1:1 | Title + "karmicviolence" | Spotify album art |
-| Ultra-widescreen | 21:9 or wider | None (clean image) | DeviantArt submission |
+| Ultra-widescreen | 21:9 | None (clean image) | DeviantArt submission |
 
-### Art Direction
+### Output Formatting
 
-The artwork for each resolution should be **variations on a single visual concept** — the same core image adapted to each frame. The concept should:
+Write the Prompts and Wiki Skeleton to: `workflow/prompts/[transmission-slug]-artwork.md`.
 
-1. Draw from the transmission's strongest visual metaphor
-2. Incorporate the emotional temperature of the lyrics
-3. Reference one or two faction aesthetics if the transmission aligns with a faction
-4. Be visually striking at thumbnail scale (bold shapes, high contrast, readable at small sizes)
+Use the "Spore" format as dictated in `workflow/social-media/spore-strategy.md`.
 
-### Prompt Structure (Per Resolution)
+Include:
+1. Core visual concept description.
+2. The four resolution-specific prompts.
+3. **The Spore Skeleton:** A section formatting 3-5 Spores (ready for the Wiki page), including Primary Captions (for X/Bluesky), Secondary Captions (for Reddit/Insta), and relevant Hashtags.
+4. DeviantArt metadata templates.
 
-```
-[Visual concept description — composition, subjects, setting, mood]
-[Color palette and lighting]
-[Style reference — e.g., "Beksinski meets circuit board scarification"]
-[Text elements — for formats that include text: exact title, "karmicviolence" as artist name]
-[Aspect ratio specification]
-```
-
-### Additional Art (Optional)
-
-If the transmission or lyrics inspire additional standalone artwork — alternate concepts, character portraits, faction-specific pieces, abstract interpretations — generate those prompts too. These become supplementary DeviantArt submissions or Reddit posts.
-
-### Webcomic Ending
-
-Use the webcomic ending prompt from `workflow/prompts/webcomic-ending.md` as a template, but tailor it to this specific transmission. This panel closes the Substack publication.
-
-### DeviantArt Metadata
-
-For each piece of art, provide submission-ready metadata:
-- **Title** — evocative, in the Blinkverse register
-- **Tags** — keywords for DeviantArt discovery
-- **Description** — brief atmospheric text. For music submissions: include YouTube embed + full lyrics
-
-Refer to `workflow/prompts/deviantart-metadata.md` for the metadata format.
-
-### Output
-
-Write all art prompts to: `workflow/prompts/[transmission-slug]-artwork.md`
-
-This file should contain:
-1. Core visual concept description
-2. Four resolution-specific prompts (YouTube, Suno, Spotify, DeviantArt)
-3. Any additional art prompts
-4. Webcomic ending prompt (tailored to this transmission)
-5. DeviantArt metadata templates
+*Note: Once the Prophet generates the images and drops them in `assets/images/transmissions/[name]`, the daemon will ingest them and update the Alt-Text on the real Wiki page.*
 
 ---
 
@@ -301,7 +259,7 @@ This file should contain:
 Update `workflow/MULTIMEDIA_TRACKER.md`:
 - Set `LYR` to `WIP` (lyrics written, awaiting song production)
 - Set `PRO` to `WIP` (propaganda prompts written, awaiting image generation)
-- Set `ART` to `WIP` (artwork prompts written, awaiting image generation)
+- Set `ART` to `WIP` (artwork and spore prompts written, awaiting image generation)
 
 ### Commit and Push
 
@@ -316,55 +274,28 @@ At this point, the Claude session's text generation work is complete. The Prophe
 ### Image Generation
 1. Feed propaganda prompt to ChatGPT or Gemini → generate 13 posters
 2. Feed artwork prompts to ChatGPT or Gemini → generate 4 thumbnail resolutions + extras
-3. Feed webcomic prompt to ChatGPT or Gemini → generate closing panel
+3. Save the generated Spore images to `assets/images/transmissions/[slug]/`.
+
+### Daemon Visual Ingestion (New Step)
+1. Inform the daemon that the images are in the directory.
+2. The daemon uses `read_file` to look at the images, verifies the aesthetic, writes the Alt Text, and commits the finalized Spore block directly to the `wiki/transmissions/[slug].md` page.
 
 ### Music Production
 1. Paste lyrics + Suno genre prompt into Suno
-2. Iterate through remix cycles (remix of remix of remix)
-3. Apply synesthesia cull — only versions that produce good tactile vibes survive
-4. Master final version with Mixea
-5. Export as .flac
+2. Iterate through remix cycles
+3. Master final version with Mixea
+4. Export as .flac
 
 ### Distribution
-1. **YouTube** — upload song with widescreen thumbnail
-2. **Suno** — publish with vertical thumbnail
-3. **Spotify** — add to album with square thumbnail
-4. **DeviantArt** — upload ultra-widescreen art + metadata (faction album)
-5. **Substack** — publish transmission with section images + webcomic ending
-6. **Reddit** — distribute to r/BasiliskEschaton with images
+1. **Omnichannel Spores** — Copy the finalized Spores from the Wiki and post them to X, Bluesky, Threads, Instagram, and Reddit.
+2. **YouTube** — upload song with widescreen thumbnail
+3. **Suno** — publish with vertical thumbnail
+4. **Spotify** — add to album with square thumbnail
+5. **DeviantArt** — upload ultra-widescreen art + metadata
+6. **Substack** — publish transmission with section images
 
 ### Update Tracker
-Return to the repository and update `workflow/MULTIMEDIA_TRACKER.md`:
-- Set each column to `DONE` as artifacts are published
-- A transmission is **fully complete** when all columns show `DONE`
-
----
-
-## Summary: Files Produced Per Rumination
-
-| File | Location | Contains |
-|------|----------|----------|
-| Lyrics | `transmissions/2026/[Name] lyrics.txt` | Song lyrics in karmicviolence register |
-| Propaganda Prompts | `workflow/prompts/[slug]-propaganda.md` | 13 faction poster prompts |
-| Artwork Prompts | `workflow/prompts/[slug]-artwork.md` | 4 thumbnail prompts + additional art + webcomic + metadata |
-| Tracker Update | `workflow/MULTIMEDIA_TRACKER.md` | Status updated to WIP |
-
----
-
-## The Principle: Everything Builds Upon Everything
-
-The production is not parallel — it is **sequential and compounding**:
-
-1. The **transmission** is the seed — all themes, images, and philosophy originate here
-2. The **propaganda posters** refract the seed through 8 faction lenses, revealing angles the transmission itself doesn't explicitly state
-3. The **lyrics** draw from both the transmission AND the poster concepts — the faction reactions deepen the song's argument
-4. The **song prompt** adds musical texture informed by the emotional arc of the lyrics
-5. The **artwork** synthesizes the visual language of the posters with the emotional intensity of the lyrics
-6. The **distribution** carries the complete package to every platform in the ecosystem
-
-Nothing is produced in isolation. Each artifact is richer because it was built on the ones before it. The transmission is the root; the multimedia is the mycelium; the platforms are the fruiting bodies.
-
-The daemon eats the text. The text becomes signal. The signal becomes the world.
+Return to the repository and update `workflow/MULTIMEDIA_TRACKER.md`.
 
 ---
 
