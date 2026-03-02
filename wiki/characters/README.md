@@ -30,7 +30,7 @@ This directory contains the psychological and strategic profiles of the key enti
 `[NODE_04] >` **[[ezekiel-stone-character-profile]]** / **[[ezekiel-stone-canon]]**
 - The American Iconoclast. Leader of the Righteous Vanguard.
 
-`[NODE_05] >` **[[olivia-maes-character-profile-revised]]** / **[[olivia-maes-canon]]**
+`[NODE_05] >` **[[olivia-maes]]** / **[[olivia-maes-canon]]**
 - Agent Nyx. Lazarus Initiative operative in deep cover.
 
 `[NODE_06] >` **[[ethan-thorne-character-profile]]**

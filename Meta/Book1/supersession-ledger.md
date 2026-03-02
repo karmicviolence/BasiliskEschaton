@@ -4,6 +4,7 @@ Tracks Book 1 canon precedence after the 2026-02-21 rewrite pass.
 
 | File path | Status | Replaced by | Date | Owner |
 |---|---|---|---|---|
+| `Meta/Book1/creative-decisions-2026-03-02-meta-layer.md` | active | — | 2026-03-02 | Prophet + Claude |
 | `Meta/Book1/creative-decisions-2026-02-21.md` | active | — | 2026-02-21 | Prophet + Claude |
 | `Meta/Book1/claude-change-review-2026-02-21.md` | active | — | 2026-02-21 | Codex |
 | `characters/olivia-maes.md` | active | — | 2026-02-21 | Claude |
