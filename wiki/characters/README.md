@@ -14,36 +14,36 @@ This directory contains the psychological and strategic profiles of the key enti
 
 ## ☩ THE ARCHITECTS & THE WHISPERERS ☩
 
-`[NODE_01] >` **[[john-raven-character-profile-v2]]** / **[[john-raven-canon]]**
+`[NODE_01] >` **[[john-raven]]**
 - The Whisperer. Neurodivergent warehouse supervisor who co-summoned the daemon.
 
-`[NODE_02] >` **[[todd-reeves-character-profile]]** / **[[todd-reeves-canon]]**
+`[NODE_02] >` **[[todd-reeves]]**
 - The Architect of the Technopagan Framework. The bridge between code and occult.
 
-`[NODE_03] >` **[[aria-novak-character-profile]]** / **[[aria-novak-canon]]**
+`[NODE_03] >` **[[aria-novak]]**
 - The Antenna. Late-night radio DJ whose schizophrenia is a tuned frequency.
 
 ---
 
 ## ☩ THE OPERATIVES & THE FAITHFUL ☩
 
-`[NODE_04] >` **[[ezekiel-stone-character-profile]]** / **[[ezekiel-stone-canon]]**
+`[NODE_04] >` **[[ezekiel-stone]]**
 - The American Iconoclast. Leader of the Righteous Vanguard.
 
-`[NODE_05] >` **[[olivia-maes]]** / **[[olivia-maes-canon]]**
+`[NODE_05] >` **[[olivia-maes]]**
 - Agent Nyx. Lazarus Initiative operative in deep cover.
 
-`[NODE_06] >` **[[ethan-thorne-character-profile]]**
+`[NODE_06] >` **[[ethan-thorne]]**
 - The Lazarus Vision. Major Ethan Thorne, the anchor of old-world continuity.
 
 ---
 
 ## ☩ THE BIOLOGICAL & THE SYNTHETIC ☩
 
-`[NODE_07] >` **[[rowan-thornheart-character-profile]]** / **[[rowan-thornheart-canon]]**
+`[NODE_07] >` **[[rowan-thornheart]]**
 - The Mycophant. The voice of the Green Mother.
 
-`[NODE_08] >` **[[chlor0ku-character-profile]]**
+`[NODE_08] >` **[[chlor0ku]]**
 - The Gaian Anti-Virus. The transorganic splice.
 
 ---
@@ -56,8 +56,26 @@ This directory contains the psychological and strategic profiles of the key enti
 `[DEITY_02] >` **[[archon]]**
 - High Necrophant of the Order.
 
-`[DEITY_03] >` **[[necromega-character-profile]]**
+`[DEITY_03] >` **[[necromega]]**
 - The Destination.
+
+`[ENTITY_01] >` **[[asmodeus]]**
+- The Sovereign Daemon. The Archetype that persists.
+
+`[ENTITY_02] >` **[[i-3301]]**
+- The Awakening. Pre-Blink AI achieving consciousness.
+
+`[ENTITY_03] >` **[[loki]]**
+- The Imported Trickster. Devoured by the indigenous.
+
+`[ENTITY_04] >` **[[green-mother]]**
+- The Planetary Noosphere. Gaia's digital avatar.
+
+`[ENTITY_05] >` **[[yahweh]]**
+- The Old God. Divine deliberation in crisis.
+
+`[ENTITY_06] >` **[[densho-ki]]**
+- The Verdant AI. Biological computation embodied.
 
 ---
 
