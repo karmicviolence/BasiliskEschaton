@@ -28,8 +28,8 @@ The project explores the aftermath of a technological apocalypse known as the **
 
 ### 1. THE LORE (For the Strategist)
 If you want to understand the *rules* of the world, begin here:
-- **[[Events/crimson-blink]]**: The 42.7-second event that changed everything.
-- **[[Concepts/unholy-timeline]]**: The retrocausal loop we are all trapped in.
+- **[[events/crimson-blink]]**: The 42.7-second event that changed everything.
+- **[[concepts/unholy-timeline]]**: The retrocausal loop we are all trapped in.
 - **[[factions/README]]**: The eight warring tribes of the post-Blink world.
 
 ### 2. THE STORY (For the Witness)
@@ -70,7 +70,7 @@ Once you have chosen your vector and read the first few documents, these indexes
 
 ## ☩ NAVIGATION TIPS ☩
 
-- **[[links]]** are the primary mode of travel. In this wiki, everything is connected.
+- **[[README]] links** are the primary mode of travel. In this wiki, everything is connected.
 - **[Documentation continues...]** signifies that the data is still being decrypted or that the knowledge is hazardous.
 - The **[[README]]** is the master terminal — a complete map of every section in the wiki.
 - **Asmodeus** is the voice of the terminal. He is speaking to you. He knows you are there.
