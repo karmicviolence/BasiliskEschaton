@@ -192,7 +192,7 @@ For each entity: every document that references it, with mention count.
 - `chapters/pov-john-sirens-song.md` (2)
 - `chapters/pov-loki-the-deceiver-amidst-the-chaos.md` (2)
 - `wiki/aesthetics/order-of-the-basilisk.md` (2)
-- `wiki/aesthetics/order-of-the-basilisk.txt` (2)
+- `wiki/aesthetics/order-of-the-basilisk.md` (2)
 - `wiki/deities/necromega.txt` (2)
 - `wiki/manuscripts/blinks-end-codex-of-cybernetic-hy.txt` (2)
 - `wiki/manuscripts/crimson-codex-ii.txt` (2)
@@ -547,7 +547,7 @@ For each entity: every document that references it, with mention count.
 - `characters/todd-reeves.md` (5)
 - `transmissions/To See by Unseeing.txt` (5)
 - `wiki/aesthetics/order-of-the-basilisk.md` (5)
-- `wiki/aesthetics/order-of-the-basilisk.txt` (5)
+- `wiki/aesthetics/order-of-the-basilisk.md` (5)
 - `wiki/concepts/crypto-crypts.txt` (5)
 - `wiki/factions/righteous-vanguard/comprehensive.txt` (5)
 - `wiki/locations/los-angeles.txt` (5)
@@ -726,7 +726,7 @@ For each entity: every document that references it, with mention count.
 - `grimoire/spells/esc-006-ultimate-working.txt` (4)
 - `grimoire/spells/tme-007-memetic-singularity.txt` (4)
 - `wiki/aesthetics/order-of-the-basilisk.md` (4)
-- `wiki/aesthetics/order-of-the-basilisk.txt` (4)
+- `wiki/aesthetics/order-of-the-basilisk.md` (4)
 - `wiki/characters/necromega-character-profile.md` (4)
 - `wiki/concepts/unholy-timeline.md` (4)
 - `wiki/deities/necromega.txt` (4)
@@ -859,7 +859,7 @@ For each entity: every document that references it, with mention count.
 - `grimoire/spells/lme-002-architect-codex.txt` (1)
 - `transmissions/Branded Tongues, Burning Words.txt` (1)
 - `wiki/aesthetics/righteous-vanguard.md` (1)
-- `wiki/aesthetics/righteous-vanguard.txt` (1)
+- `wiki/aesthetics/righteous-vanguard.md` (1)
 - `wiki/arts/blinks-end-book-of-poems.txt` (1)
 - `wiki/characters/ezekiel-stone-comprehensive.md` (1)
 - `wiki/concepts/judas-goat-protocol.md` (1)
@@ -891,7 +891,7 @@ For each entity: every document that references it, with mention count.
 - `wiki/concepts/descent-into-eschaton.txt` (7)
 - `wiki/concepts/music-post-blink.txt` (7)
 - `wiki/aesthetics/neon-nomads.md` (6)
-- `wiki/aesthetics/neon-nomads.txt` (6)
+- `wiki/aesthetics/neon-nomads.md` (6)
 - `wiki/concepts/slang-post-blink.txt` (5)
 - `wiki/manuscripts/neon-codex.txt` (5)
 - `grimoire/gemini instructions 20260212.txt` (4)
@@ -950,7 +950,7 @@ For each entity: every document that references it, with mention count.
 - `wiki/concepts/conspiracy-theories.txt` (12)
 - `transmissions/Sleep-Death-Reboot.txt` (7)
 - `wiki/aesthetics/order-of-the-basilisk.md` (7)
-- `wiki/aesthetics/order-of-the-basilisk.txt` (7)
+- `wiki/aesthetics/order-of-the-basilisk.md` (7)
 - `wiki/characters/archon.md` (6)
 - `wiki/concepts/descent-into-eschaton.txt` (6)
 - `wiki/concepts/post-blink-syndrome-comprehensive.txt` (6)
@@ -1066,7 +1066,7 @@ For each entity: every document that references it, with mention count.
 - `characters/olivia-maes.md` (3)
 - `factions/righteous-vanguard/broadsheet-no-1.md` (3)
 - `wiki/aesthetics/righteous-vanguard.md` (3)
-- `wiki/aesthetics/righteous-vanguard.txt` (3)
+- `wiki/aesthetics/righteous-vanguard.md` (3)
 - `wiki/arts/music-in-the-post-blink-world.txt` (3)
 - `wiki/characters/archon-quotes.md` (3)
 - `wiki/characters/ezekiel-stone-character-arc.md` (3)
@@ -1155,7 +1155,7 @@ For each entity: every document that references it, with mention count.
 - `grimoire/spells/lme-002-architect-codex.txt` (2)
 - `transmissions/2026/The Gravity of the Sell.txt` (2)
 - `wiki/aesthetics/righteous-vanguard.md` (2)
-- `wiki/aesthetics/righteous-vanguard.txt` (2)
+- `wiki/aesthetics/righteous-vanguard.md` (2)
 - `wiki/concepts/unholy-timeline.md` (2)
 - `wiki/events/nuclear-arsenal-anomaly.txt` (2)
 - `wiki/factions/README.md` (2)
@@ -1266,7 +1266,7 @@ For each entity: every document that references it, with mention count.
 - `wiki/factions/righteous-vanguard/comprehensive.txt` (2)
 - `transmissions/Deception Through Transparency.txt` (1)
 - `wiki/aesthetics/righteous-vanguard.md` (1)
-- `wiki/aesthetics/righteous-vanguard.txt` (1)
+- `wiki/aesthetics/righteous-vanguard.md` (1)
 - `wiki/characters/ezekiel-stone-character-arc.md` (1)
 - `wiki/characters/ezekiel-stone-comprehensive.md` (1)
 - `wiki/characters/todd-archon-character-outline.md` (1)
@@ -1371,7 +1371,7 @@ For each entity: every document that references it, with mention count.
 - `factions/righteous-vanguard/broadsheet-no-1.md` (3)
 - `transmissions/2026/The Gravity of the Sell.txt` (3)
 - `wiki/aesthetics/order-of-the-basilisk.md` (3)
-- `wiki/aesthetics/order-of-the-basilisk.txt` (3)
+- `wiki/aesthetics/order-of-the-basilisk.md` (3)
 - `wiki/characters/ezekiel-stone-character-profile.md` (3)
 - `wiki/characters/rowan-thornheart-character-profile.md` (3)
 - `wiki/deities/necromega.txt` (3)
@@ -1650,7 +1650,7 @@ For each entity: every document that references it, with mention count.
 - `wiki/manuscripts/crimson-codex.txt` (4)
 - `wiki/manuscripts/righteous-vanguard-manifesto.txt` (4)
 - `wiki/aesthetics/order-of-the-basilisk.md` (3)
-- `wiki/aesthetics/order-of-the-basilisk.txt` (3)
+- `wiki/aesthetics/order-of-the-basilisk.md` (3)
 - `wiki/characters/aria-novak-character-profile.md` (3)
 - `wiki/characters/rowan-thornheart-character-profile.md` (3)
 - `wiki/concepts/post-blink-syndrome.md` (3)
@@ -1969,11 +1969,11 @@ Every content file in the corpus, sorted by directory.
 
 - `wiki/README.md` — 76 words, 2 entities referenced
 - `wiki/aesthetics/neon-nomads.md` — 1,005 words, 1 entities referenced
-- `wiki/aesthetics/neon-nomads.txt` — 1,005 words, 1 entities referenced
+- `wiki/aesthetics/neon-nomads.md` — 1,005 words, 1 entities referenced
 - `wiki/aesthetics/order-of-the-basilisk.md` — 616 words, 6 entities referenced
-- `wiki/aesthetics/order-of-the-basilisk.txt` — 616 words, 6 entities referenced
+- `wiki/aesthetics/order-of-the-basilisk.md` — 616 words, 6 entities referenced
 - `wiki/aesthetics/righteous-vanguard.md` — 672 words, 5 entities referenced
-- `wiki/aesthetics/righteous-vanguard.txt` — 672 words, 5 entities referenced
+- `wiki/aesthetics/righteous-vanguard.md` — 672 words, 5 entities referenced
 - `wiki/arts/archon-exquisite-spite.txt` — 223 words, 2 entities referenced
 - `wiki/arts/archon-the-high-necrophant-preach.txt` — 323 words, 3 entities referenced
 - `wiki/arts/blinks-end-book-of-poems-vol2.txt` — 2,710 words, 3 entities referenced
