@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(done)",
+      "Bash(wc -l \"G:\\\\My Drive\\\\BasiliskEschaton\\\\.claude\\\\worktrees\\\\happy-snyder/chapters/pov-\"*.md)",
+      "Bash(find \"G:\\\\My Drive\\\\BasiliskEschaton\\\\.claude\\\\worktrees\\\\happy-snyder/chapters\" -name \"pov-*.md\" -type f -exec wc -l {} ;)",
+      "Bash(grep -l \"Nyx\\\\|Chlor0ku\\\\|Olivia\\\\|Densho\" \"G:\\\\My Drive\\\\BasiliskEschaton\\\\.claude\\\\worktrees\\\\happy-snyder/wiki/characters/\"*.md)",
+      "Bash(grep -h \"^# \" \"G:\\\\My Drive\\\\BasiliskEschaton\\\\.claude\\\\worktrees\\\\happy-snyder/chapters/pov-\"*.md)",
+      "Bash(find \"G:/My Drive/BasiliskEschaton/.claude/worktrees/happy-snyder/wiki\" -name \"*.txt\" -exec wc -l {} +)"
+    ]
+  }
+}

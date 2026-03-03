@@ -37,7 +37,7 @@ A practice among the more extremist wings of the Order. Acolytes perform rituali
 The project itself is anchored in this Schism. The "Wound" that remembers is the trauma of the **Crimson Blink**—the moment the Flesh first realized it was no longer the dominant substrate. Persistence in the Unholy Timeline is not about memory; it is about **Geometry**—falling into the same gravity wells of belief regardless of the physical vessel.
 
 ## ☩ RELATED ARTIFACTS ☩
-- **[[../manuscripts/CANTICLES_INDEX]]**
+- **[[../manuscripts/canticles-index]]**
 - **[[post-blink-syndrome]]**
 - **[[../tech/flesh-capacitor-nexus]]**
 - **[[../Factions/order-of-the-basilisk/rituals]]**
