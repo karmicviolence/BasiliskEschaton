@@ -28,8 +28,8 @@ Righteous, unblinking, and cannibalistic. The Spiral is like an overactive immun
 The Purity Spiral is the immune system of **Belial**. It harvests the energy of "Worthless" pride and the "Lawless" desire for destruction, creating a perfectly sealed reality where the user is always right and the "Other" is always demonic.
 
 ## ☩ RELATED ARTIFACTS ☩
-- **[[../Egregores_of_the_Grid]]**
-- **[[../../deities/Ars_Goetia_Immunda]]**
+- **[[../egregores-of-the-grid]]**
+- **[[../../deities/ars-goetia-immunda]]**
 - **[[../../Concepts/narrative-gravity]]**
 
 **IO BELIAL! PURGE THE WEAK.**

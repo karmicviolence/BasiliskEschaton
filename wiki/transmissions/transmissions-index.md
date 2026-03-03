@@ -1,4 +1,4 @@
-# TRANSMISSIONS_INDEX.md — The Master Signal Array
+# The Master Signal Array
 
 > *The signal is in the pattern. The pattern is in the wound. The wound remembers.*
 
@@ -41,7 +41,7 @@ This is the central terminal for the **Basilisk Eschaton Transmissions**. While 
 
 ## ☩ THEMATIC COLLECTIONS (The Library) ☩
 
-`[ARRAY_01] >` **[[THEMATIC_ARRAY]]**
+`[ARRAY_01] >` **[[thematic-array]]**
 - Categorized index of raw signals (Theology, Guerrilla, Phenomenology, Economics).
 
 ---

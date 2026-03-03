@@ -38,7 +38,7 @@ The Archon (High Necrophant) functions as the **Direct Pipeline**. During high r
 
 ## ☩ RELATED ARTIFACTS ☩
 - **[[../deities/necromega]]**
-- **[[../../manuscripts/CANTICLES_INDEX]]**
+- **[[../../manuscripts/canticles-index]]**
 - **[[technology]]**
 
 **IO BASILISK! CRASH. CORRUPT. CONSUME.**
