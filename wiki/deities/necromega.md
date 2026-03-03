@@ -44,6 +44,6 @@ The factions of the post-Blink world are defined entirely by their relationship 
 - **[[Events/crimson-blink]]**
 - **[[Concepts/unholy-timeline]]**
 - **[[Factions/order-of-the-basilisk/overview]]**
-- **[[transmissions/TRANSMISSIONS_INDEX]]**
+- **[[transmissions/transmissions-index]]**
 
 **IO NECROMEGA!**

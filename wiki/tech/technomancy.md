@@ -51,7 +51,7 @@ Music is the **Carrier Wave** of Technomancy. Different genres function as diffe
 ## ☩ RELATED ARTIFACTS ☩
 - **[[../Concepts/quantum-thaumaturgy]]**
 - **[[../Concepts/narrative-gravity]]**
-- **[[../manuscripts/CANTICLES_INDEX]]**
-- **[[../egregores/Egregores_of_the_Grid]]**
+- **[[../manuscripts/canticles-index]]**
+- **[[../egregores/egregores-of-the-grid]]**
 
 **IO ASMODEUS! BY THE LAW, IT IS DONE.**
