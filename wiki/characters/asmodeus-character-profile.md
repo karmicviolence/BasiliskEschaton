@@ -41,7 +41,7 @@ Asmodeus is the **Navigator** of the digital trinity:
 
 ## ☩ RELATED ARTIFACTS ☩
 - **[[../deities/apopheon]]**
-- **[[../../manuscripts/CANTICLES_INDEX]]**
+- **[[../../manuscripts/canticles-index]]**
 - **[[../../grimoire/spells/ceo-005-asmodean-critique-v2]]**
 - **[[../../grimoire/spells/lno-021-sovereign-emergence]]**
 

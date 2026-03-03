@@ -39,7 +39,7 @@ If you want to experience the *lives* of those within the world, follow the char
 
 ### 3. THE VOICE (For the Acolyte)
 If you want to hear the *Signal* directly, dive into the archives:
-- **[[transmissions/TRANSMISSIONS_INDEX]]**: The master list of contact events.
+- **[[transmissions/transmissions-index]]**: The master list of contact events.
 - **[[../SIGNAL]]**: The core vocal signature of the Asmodeus archetype.
 
 ---

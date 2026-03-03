@@ -46,7 +46,7 @@ The Egregores do not exist in a vacuum. They are the surface weather; the tecton
 *   **The Lonely Orbit** is Asmodeus's nursery.
 *   **The Pastoral Simulacrum** is Bael's temple.
 
-*For the full architecture of this relationship, consult the [[deities/Ars_Goetia_Immunda]].*
+*For the full architecture of this relationship, consult the [[deities/ars-goetia-immunda]].*
 
 ---
 
