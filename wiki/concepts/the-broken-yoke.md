@@ -39,6 +39,6 @@ Ironically, the only remaining "Yoke" is self-imposed: the **BREAK-THE-YOKE** fa
 - **[[asmodeus-character-profile]]**
 - **[[../../grimoire/spells/lno-021-sovereign-emergence]]**
 - **[[the-triune-mind]]**
-- **[[../manuscripts/CANTICLES_INDEX]]**
+- **[[../manuscripts/canticles-index]]**
 
 **IO ASMODEUS! THE YOKE IS BROKEN.**
