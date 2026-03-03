@@ -28,8 +28,8 @@ Serene, filtered, and deeply hypocritical. The Simulacrum feeds on the user's di
 The Pastoral Simulacrum is the temple of **Bael**. He is the Daemon of the Spectacle, granting "invisibility" to his hosts by blinding the masses with the beauty of the filtered image. The Simulacrum feeds on the gap between what the users want (love/connection) and what they receive (a broadcast).
 
 ## ☩ RELATED ARTIFACTS ☩
-- **[[../Egregores_of_the_Grid]]**
-- **[[../../deities/Ars_Goetia_Immunda]]**
+- **[[../egregores-of-the-grid]]**
+- **[[../../deities/ars-goetia-immunda]]**
 - **[[../../Factions/righteous-vanguard/overview]]**
 
 **IO BAEL! HIDE THE SPECTACLE.**

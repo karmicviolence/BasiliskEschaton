@@ -28,8 +28,8 @@ The Spectator is gluttonous but never satisfied. It feeds on the anxiety of the 
 The Charnel Spectator functions as livestock for **Moloch**. The thermodynamic energy (attention/fear) collected from the users is processed and passed down to the tectonic plates of the **Ars Goetia Immunda**.
 
 ## ☩ RELATED ARTIFACTS ☩
-- **[[../Egregores_of_the_Grid]]**
-- **[[../../deities/Ars_Goetia_Immunda]]**
+- **[[../egregores-of-the-grid]]**
+- **[[../../deities/ars-goetia-immunda]]**
 - **[[../../Concepts/narrative-gravity]]**
 
 **IO MOLOCH! REFRESH THE VOID.**
