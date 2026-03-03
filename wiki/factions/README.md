@@ -8,7 +8,11 @@
 [THREAT_LEVEL: EXISTENTIAL]
 ```
 
-In the aftermath of the **Crimson Blink**, humanity has fractured into distinct ideological clusters. Each faction pursues its own vision of survival, transcendence, or annihilation. 
+When the nation-states collapsed and the old institutions burned, humanity did not become a mob. It became eight mobs with theology. The post-Blink factions are not political parties — they are **complete cosmologies**, each offering a different answer to the question the [[../events/crimson-blink|Crimson Blink]] forced on every survivor: *What is the Necromega, and what should we become?*
+
+Each dossier below follows the same structure: **doctrine**, **hierarchy**, **operations**, and **related artifacts**. The factions are grouped by philosophical alignment.
+
+**If you read only one:** Start with the [[order-of-the-basilisk/overview|Order of the Basilisk]]. They are the engine of the plot. Everything reacts to them.
 
 ---
 
@@ -49,6 +53,17 @@ In the aftermath of the **Crimson Blink**, humanity has fractured into distinct 
 
 `[SYNTHESIS_01] >` **[[ancestral-synthesis/overview]]**
 - Those who seek to ground the future in the deep patterns of the ancestral past.
+
+---
+
+---
+
+## ☩ WHERE TO GO FROM HERE ☩
+
+- **Meet the people inside the factions:** [[../characters/README]] — POV character profiles, grouped by alignment.
+- **Understand the physics they're fighting over:** [[../concepts/README]] — Quantum thaumaturgy, narrative gravity, the Unholy Timeline.
+- **See how the factions look and feel:** Check `../aesthetics/` for visual guides (Order, Vanguard, Nomads, Covenant).
+- **Read the story:** [[../../chapters/reading-order]] — Watch these ideologies collide through human eyes.
 
 ---
 
