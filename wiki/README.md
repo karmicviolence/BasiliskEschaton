@@ -98,7 +98,13 @@
 - `[DATA: INFRASTRUCTURE]` The Grid, the Flesh Capacitor Nexus, Project Prometheus, and the machines of the new world.
 
 `[AESTHETICS_01] >` **[[aesthetics/neon-nomads]]**
-- `[DATA: VISUAL]` Faction aesthetics: body modification, architecture, weapons, culture.
+- `[DATA: VISUAL]` Neon Nomads aesthetic profile.
+
+`[AESTHETICS_02] >` **[[aesthetics/order-of-the-basilisk]]**
+- `[DATA: VISUAL]` Order of the Basilisk aesthetic profile.
+
+`[AESTHETICS_03] >` **[[aesthetics/righteous-vanguard]]**
+- `[DATA: VISUAL]` Righteous Vanguard aesthetic profile.
 
 `[CARTOGRAPHY] >` **[[../cartography/thematic-map]]**
 - `[STATUS: NAVIGATION]` Thematic cartography of the transmission corpus. Eight continents of meaning.
