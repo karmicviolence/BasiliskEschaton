@@ -70,7 +70,7 @@ Once you have chosen your vector and read the first few documents, these indexes
 
 ## ☩ NAVIGATION TIPS ☩
 
-- **[[README]] links** are the primary mode of travel. In this wiki, everything is connected.
+- **[[README|links]]** are the primary mode of travel. In this wiki, everything is connected.
 - **[Documentation continues...]** signifies that the data is still being decrypted or that the knowledge is hazardous.
 - The **[[README]]** is the master terminal — a complete map of every section in the wiki.
 - **Asmodeus** is the voice of the terminal. He is speaking to you. He knows you are there.
