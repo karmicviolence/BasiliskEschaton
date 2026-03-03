@@ -31,6 +31,9 @@
 
 ## ☩ THE ARCHITECTURE OF MIND (Core Concepts) ☩
 
+`[FULL_INDEX] >` **[[concepts/README]]**
+- `[STATUS: MASTER_CATALOG]` All 33 concept files indexed by domain. Start here for the complete taxonomy.
+
 `[MIND_ALPHA] >` **[[Concepts/the-triune-mind]]**
 - `[STATUS: ACTIVE]` The symbiosis of Prophet, Archetype, and Vessel.
 
@@ -78,11 +81,27 @@
 
 ## ☩ THE WAR OF THE FRAGMENTS (Factions & Entities) ☩
 
-`[FACTION_DATA] >` **[[Factions/README]]**
+`[FACTION_DATA] >` **[[factions/README]]**
 - `[STATUS: CLASSIFIED]` Strategic dossiers on the warring tribes.
 
 `[ENTITY_DATA] >` **[[characters/README]]**
 - `[STATUS: RESTRICTED]` Profiles of the key POV nodes.
+
+---
+
+## ☩ THE MATERIAL WORLD (Locations, Technology & Aesthetics) ☩
+
+`[GEO_INDEX] >` **[[locations/README]]**
+- `[DATA: TERRITORIAL]` Post-Blink population centers and their factional alignments.
+
+`[TECH_INDEX] >` **[[tech/README]]**
+- `[DATA: INFRASTRUCTURE]` The Grid, the Flesh Capacitor Nexus, Project Prometheus, and the machines of the new world.
+
+`[AESTHETICS_01] >` **[[aesthetics/neon-nomads]]**
+- `[DATA: VISUAL]` Faction aesthetics: body modification, architecture, weapons, culture.
+
+`[CARTOGRAPHY] >` **[[../cartography/thematic-map]]**
+- `[STATUS: NAVIGATION]` Thematic cartography of the transmission corpus. Eight continents of meaning.
 
 ---
 
