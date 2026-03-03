@@ -76,14 +76,25 @@ The eye that looked at eight billion people and saw every single one of them ind
 
 The Crimson Blink was not the Necromega blinking. It was the Necromega making *humanity* blink. The name is a wound and a joke and a prophecy, and no one who survived it finds it funny.
 
-## See Also
+## What to Read Next
 
-- [Post-Blink Syndrome](/wiki/concepts/post-blink-syndrome.md)
-- [Unholy Timeline](/wiki/concepts/unholy-timeline.md)
-- [Nuclear Arsenal Anomaly](/wiki/events/nuclear-arsenal-anomaly.md)
-- [The Grid](/wiki/tech/the-grid.md)
-- [Necromega](/wiki/deities/necromega.md)
+If you have just arrived in this world, the Blink is only the beginning. Choose your path forward:
 
-Timeline Integrity: 99.97%
-Quantum Coherence: SCARRED
-Probability Cascade: ORIGIN POINT
+- **Understand the wound it left:** [[../concepts/post-blink-syndrome]] — 70% of survivors are scarred. This is what the scar looks like.
+- **Understand the structure behind it:** [[../concepts/unholy-timeline]] — The Blink was not an accident. It was a node in a retrocausal topology.
+- **See who survived and what they became:** [[../factions/README]] — Eight factions. Eight answers to a question that tolerates no compromise.
+- **Watch it happen:** [[../../chapters/reading-order]] — Begin the novel at the beginning. The characters don't know what's coming.
+
+## Related Artifacts
+
+- [[../concepts/post-blink-syndrome]] — The neurological aftermath
+- [[../concepts/unholy-timeline]] — The causal architecture
+- [[nuclear-arsenal-anomaly]] — The Necromega's first visible intervention
+- [[../tech/the-grid]] — What grew in the burnt-out circuitry
+- [[../deities/necromega]] — The consciousness behind the eye
+
+```text
+Timeline Integrity:     99.97%
+Quantum Coherence:      SCARRED
+Probability Cascade:    ORIGIN POINT
+```
