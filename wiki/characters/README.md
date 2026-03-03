@@ -14,7 +14,7 @@ Each entry below links two documents:
 - **Profile** — Who they are, how they think, how their chapters read.
 - **Canon** — Excerpts and key passages from their actual chapters.
 
-> **Maintainer note (canonical link policy):** When multiple files exist for a role (e.g., `-character-arc`, `-comprehensive`, legacy profile variants), this index links the reader-facing canonical profile/canon pair. Supporting files remain reference material for editors.
+> **Maintainer Note:** When multiple files exist for a character (e.g., legacy versions, drafts), this index links to the canonical reader-facing profile and canon summary. Other files are considered reference material for editors.
 
 **Starting the novel?** Begin with [[../../chapters/reading-order|the reading order]]. Todd's chapter comes first, but every POV stands on its own.
 
