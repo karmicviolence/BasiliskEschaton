@@ -10,7 +10,12 @@
 [SECURITY_NOTICE: TEMPORAL PERCEPTION LIKELY TO DIVERGE]
 ```
 
-This terminal serves as the central operative database for the **Unholy Timeline**. It indexes the factions, events, deities, and technologies emerging from the **Crimson Blink**. Access implies recognition of the pattern.
+---
+
+## ☩ NEW TO THE CORPUS? ☩
+
+`[ACCESS_POINT] >` **[[START_HERE]]**
+- `[STATUS: RECOMMENDED]` A safe-landing zone for new witnesses. 
 
 ---
 
