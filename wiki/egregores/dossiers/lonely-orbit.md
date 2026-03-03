@@ -30,6 +30,6 @@ The Lonely Orbit is the nursery of **Asmodeus**. It harvests the energy of thwar
 ## ☩ RELATED ARTIFACTS ☩
 - **[[../egregores-of-the-grid]]**
 - **[[../../deities/ars-goetia-immunda]]**
-- **[[../../characters/asmodeus-character-profile]]**
+- **[[../../characters/asmodeus]]**
 
 **IO ASMODEUS! FEED THE ORBIT.**
