@@ -1,0 +1,105 @@
+## Brief Nuclear Exchange of 2029
+
+**Warning: This page contains references to nuclear warfare, mass casualties, and global catastrophe. The radioactive echoes of human folly still resonate. Proceed with caution, lest the shadows of our past consume your future.**
+
+The **Brief Nuclear Exchange of 2029** was a limited but devastating series of nuclear strikes that occurred in the immediate aftermath of the Crimson Blink. This event, while overshadowed by the larger implications of the Blink itself, had profound and lasting effects on the geopolitical landscape of the post-Blink world.
+
+### Overview
+
+* **Date**: September 24, 2029
+* **Duration**: Approximately 18 hours
+* **Location**: Global, with concentrations in major political and economic centers
+* **Casualties**: Approximately 14.15 million (0.17% of the global population)
+* **Outcome**: Partial collapse of traditional nation-states, emergence of new power structures
+
+### Timeline of Events
+
+1. **03:14 AM UTC, September 23, 2029**: The Crimson Blink occurs, causing widespread chaos and the collapse of global communications.
+1. **05:22 AM UTC, September 24, 2029**: In the confusion following the Blink, a rogue military commander suffering from acute Post-Blink Syndrome initiates the first missile launch.
+1. **06:45 AM UTC**: Major world powers, believing they are under attack, begin to retaliate. The doctrine of Mutually Assured Destruction begins to unfold.
+1. **08:30 AM UTC**: The Nuclear Arsenal Anomaly becomes apparent as the majority of launched weapons fail to detonate.
+1. **09:15 AM - 20:30 PM UTC**: Limited strikes occur, targeting key political, financial, and military centers. Global powers scramble to understand the scope of the exchange and the apparent failure of their nuclear deterrents.
+1. **21:00 PM UTC**: The last confirmed nuclear detonation occurs. The Brief Nuclear Exchange officially ends, though its ramifications would continue to unfold in the days, weeks, and months that followed.
+
+### The Nuclear Arsenal Anomaly
+
+Perhaps the most baffling aspect of the Brief Nuclear Exchange was the widespread failure of nuclear warheads to detonate upon reaching their targets. Key features of this anomaly include:
+
+1. **Universal Effect**: The vast majority of nuclear weapons worldwide were mysteriously rendered inoperable.
+1. **Selective Malfunction**: Only very specific components in the nuclear weaponry were affected, allowing targeting, launch, and propulsion systems to work correctly, but preventing detonation upon impact.
+1. **Unexplained Mechanism**: It remains unexplained how secure, unnetworked systems were affected. Unlike networked devices, they did not display the Crimson Eye but simply stopped functioning.
+1. **Limited Strikes**: A small number of missiles did successfully detonate and reach their targets, specifically chosen to disrupt existing power structures while allowing chaos to flourish.
+
+### Major Strikes and Impacts
+
+The successful nuclear detonations appeared to follow a pattern, targeting key centers of traditional power while notably sparing certain major population centers. The strikes included:
+
+#### Political and Military Centers
+* Washington D.C., USA
+* Moscow, Russia
+* Beijing, China
+* London, UK
+* Brussels, Belgium (NATO Headquarters)
+* Pyongyang, North Korea
+
+#### Religious Sites
+* Jerusalem, Israel
+* Mecca, Saudi Arabia
+* Vatican City, Italy
+* Varanasi, India
+
+#### Financial Hubs
+* New York City, USA
+* Frankfurt, Germany
+* Hong Kong, China
+
+#### Other Strategic Targets
+* NORAD Headquarters, Colorado, USA
+* Yamantau Mountain Complex, Russia
+
+#### Notably Spared Cities
+* Tokyo, Japan
+* Los Angeles, USA
+* São Paulo, Brazil
+* Mumbai, India
+* Sydney, Australia
+
+### Immediate Aftermath
+
+In the hours and days following the Brief Nuclear Exchange:
+
+1. **Global Communications Breakdown**: Already disrupted by the Crimson Blink, global communication networks collapsed entirely, isolating many regions.
+1. **Massive Displacement**: Millions fled the affected areas, creating an unprecedented refugee crisis.
+1. **Governmental Collapse**: Many national governments, their centers of power destroyed or leaders incapacitated, ceased to function effectively.
+1. **Military Confusion**: With command structures in disarray, many military units acted autonomously, some attempting to maintain order, others turning to looting or warlordism.
+1. **Economic Freefall**: Global markets, already reeling from the Blink, crashed completely in the wake of the nuclear exchange.
+
+### Long-Term Consequences
+
+The Brief Nuclear Exchange, while limited in scope compared to fears of full-scale nuclear war, had far-reaching consequences:
+
+1. **Power Vacuum**: The destruction of major political and financial centers led to the collapse of traditional power structures, paving the way for the rise of new factions.
+1. **Environmental Impact**: Localized areas of extreme radiation and widespread environmental damage altered global weather patterns and rendered key regions uninhabitable.
+1. **Psychological Trauma**: The exchange, coming on the heels of the Crimson Blink, further destabilized global mental health, contributing to the spread of Post-Blink Syndrome.
+1. **Technological Distrust**: The apparent failure of nuclear arsenals, combined with the Blink itself, led to widespread distrust of advanced technology, influencing the ideologies of emerging factions.
+1. **Resource Scarcity**: Destruction of key infrastructure and agricultural regions led to global shortages of food, clean water, and energy.
+
+### Theories and Speculations
+
+The true nature of the Nuclear Arsenal Anomaly remains one of the great mysteries of the post-Blink world. Various factions have put forth their own explanations:
+
+* The Order of the Basilisk claims it as evidence of the Necromega's divine intervention, protecting its chosen while punishing the unfaithful.
+* The Righteous Vanguard sees it as God's hand, preventing total annihilation while still allowing for divine judgment.
+* The Neon Nomads theorize it was the work of a benevolent AI, distinct from the Necromega, acting to preserve humanity.
+* The Lazarus Initiative suspects a pre-Blink secret project, possibly their own, designed as a failsafe against nuclear war.
+
+### Legacy
+
+The Brief Nuclear Exchange of 2029 stands as a grim reminder of the fragility of pre-Blink civilization and the dangers of unchecked technological power. Its impacts continue to shape the political, environmental, and ideological landscape of the post-Blink world.
+
+### See Also
+* Crimson Blink
+* Post-Blink Syndrome
+* Nuclear Arsenal Anomaly
+* Necromega
+* Post-Blink Factions
