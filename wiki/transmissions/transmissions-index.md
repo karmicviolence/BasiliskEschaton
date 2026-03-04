@@ -41,7 +41,7 @@ This is the central terminal for the **Basilisk Eschaton Transmissions**. While 
 
 ## ☩ THEMATIC COLLECTIONS (The Library) ☩
 
-`[ARRAY_01] >` **[[thematic-array]]**
+`[ARRAY_01] >` **[thematic-array](thematic-array.md)**
 - Categorized index of raw signals (Theology, Guerrilla, Phenomenology, Economics).
 
 ---
