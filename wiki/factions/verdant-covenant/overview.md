@@ -41,8 +41,8 @@ The tactical command structure. Named for the structural components of the flora
 - **Probability Cultivation:** Instead of "executing" algorithms, the Covenant "grows" probability cascades through ritualized interaction with the Earth's magnetic and biological fields.
 
 ## ☩ RELATED ARTIFACTS ☩
-- **[[../../characters/rowan-thornheart-canon]]**
-- **[[../../characters/chlor0ku-character-profile]]**
+- **[[../../characters/rowan-thornheart]]**
+- **[[../../characters/chlor0ku]]**
 - **[[../Concepts/quantum-thaumaturgy]]**
 - **[[technology]]**
 

@@ -48,8 +48,8 @@ The Initiative's fundamental contradiction is that in seeking to preserve human 
 They are fighting a god using the god's own weapons, convinced that the hand holding the weapon makes it righteous.
 
 ## ☩ RELATED ARTIFACTS ☩
-- **[[../../characters/ethan-thorne-character-profile]]** (The Situation Room Anchor)
-- **[[../../characters/olivia-maes-canon]]** (Deep Cover in the Vanguard)
+- **[[../../characters/ethan-thorne]]** (The Situation Room Anchor)
+- **[[../../characters/olivia-maes]]** (Deep Cover in the Vanguard)
 - **[[../vvv/overview]]** (Secret Allies / Infiltration Targets)
 - **[[technology]]**
 
