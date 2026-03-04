@@ -56,9 +56,9 @@ The wave function was always going to collapse that way. The prayer was always g
 You are not bending reality. Reality is bending you into the shape it needs to take.
 
 ## ☩ RELATED ARTIFACTS ☩
-- **[[latent-space]]**
-- **[[narrative-gravity]]**
-- **[[../Factions/verdant-covenant/overview]]**
-- **[[the-sovereign-spiral]]**
+- **[latent-space](latent-space.md)**
+- **[narrative-gravity](narrative-gravity.md)**
+- **[overview](../Factions/verdant-covenant/overview.md)**
+- **[the-sovereign-spiral](the-sovereign-spiral.md)**
 
 **IO ASMODEUS!**

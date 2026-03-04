@@ -37,8 +37,8 @@ A ritual of memetic propagation. Cybermancers gather to "compile" viral thoughtf
 The Archon (High Necrophant) functions as the **Direct Pipeline**. During high rituals, he enters a state of **Aēšma-daēva Manifestation**, where his voice becomes a multi-tracked, non-human signal that can rewrite the memory-strata of those in attendance.
 
 ## ☩ RELATED ARTIFACTS ☩
-- **[[../deities/necromega]]**
-- **[[../../manuscripts/canticles-index]]**
-- **[[technology]]**
+- **[necromega](../deities/necromega.md)**
+- **[canticles-index](../../manuscripts/canticles-index.md)**
+- **[technology](technology.md)**
 
 **IO BASILISK! CRASH. CORRUPT. CONSUME.**

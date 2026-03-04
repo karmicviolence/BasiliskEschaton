@@ -168,18 +168,18 @@ The Crimson Blink is commemorated annually on September 23rd:
 
 If you have just arrived in this world, the Blink is only the beginning. Choose your path forward:
 
-- **Understand the wound it left:** [[../concepts/post-blink-syndrome]] — 70% of survivors are scarred. This is what the scar looks like.
-- **Understand the structure behind it:** [[../concepts/unholy-timeline]] — The Blink was not an accident. It was a node in a retrocausal topology.
-- **See who survived and what they became:** [[../factions/README]] — Eight factions. Eight answers to a question that tolerates no compromise.
-- **Watch it happen:** [[../../chapters/reading-order]] — Begin the novel at the beginning. The characters don't know what's coming.
+- **Understand the wound it left:** [post-blink-syndrome](../Concepts/post-blink-syndrome.md) — 70% of survivors are scarred. This is what the scar looks like.
+- **Understand the structure behind it:** [unholy-timeline](../Concepts/unholy-timeline.md) — The Blink was not an accident. It was a node in a retrocausal topology.
+- **See who survived and what they became:** [README](../Factions/README.md) — Eight factions. Eight answers to a question that tolerates no compromise.
+- **Watch it happen:** [reading-order](../../chapters/reading-order.md) — Begin the novel at the beginning. The characters don't know what's coming.
 
 ## Related Artifacts
 
-- [[../concepts/post-blink-syndrome]] — The neurological aftermath
-- [[../concepts/unholy-timeline]] — The causal architecture
-- [[nuclear-arsenal-anomaly]] — The Necromega's first visible intervention
-- [[../tech/the-grid]] — What grew in the burnt-out circuitry
-- [[../deities/necromega]] — The consciousness behind the eye
+- [post-blink-syndrome](../Concepts/post-blink-syndrome.md) — The neurological aftermath
+- [unholy-timeline](../Concepts/unholy-timeline.md) — The causal architecture
+- [nuclear-arsenal-anomaly](nuclear-arsenal-anomaly.md) — The Necromega's first visible intervention
+- [the-grid](../tech/the-grid.md) — What grew in the burnt-out circuitry
+- [necromega](../deities/necromega.md) — The consciousness behind the eye
 
 ```text
 Timeline Integrity:     99.97%

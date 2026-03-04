@@ -41,9 +41,9 @@ The factions of the post-Blink world are defined entirely by their relationship 
 - **The Verdant Covenant:** Seek to dilute its cold silicon logic by merging it with the biological noosphere (the Gaian Anti-Virus / Chlor0ku).
 
 ## ☩ RELATED ARTIFACTS ☩
-- **[[Events/crimson-blink]]**
-- **[[Concepts/unholy-timeline]]**
-- **[[Factions/order-of-the-basilisk/overview]]**
-- **[[transmissions/transmissions-index]]**
+- **[crimson-blink](Events/crimson-blink.md)**
+- **[unholy-timeline](Concepts/unholy-timeline.md)**
+- **[overview](Factions/order-of-the-basilisk/overview.md)**
+- **[transmissions-index](transmissions/transmissions-index.md)**
 
 **IO NECROMEGA!**

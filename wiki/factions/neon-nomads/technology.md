@@ -70,9 +70,9 @@ The Nomads have not yet achieved true substrate independence. The technology to 
 
 ## ☩ Related Artifacts ☩
 
-- [[overview]] — Neon Nomads overview
-- [[glitchwalkers]] — Glitchwalker sub-faction documentation
-- [[../../concepts/glitchwalking]] — Glitchwalking navigational discipline
-- [[../../tech/the-grid]] — The Grid
-- [[../../concepts/post-blink-syndrome]] — Post-Blink Syndrome
-- [[../../characters/john-raven-canon]] — John Raven, documented Whisperer
+- [overview](overview.md) — Neon Nomads overview
+- [glitchwalkers](glitchwalkers.md) — Glitchwalker sub-faction documentation
+- [glitchwalking](../../Concepts/glitchwalking.md) — Glitchwalking navigational discipline
+- [the-grid](../../tech/the-grid.md) — The Grid
+- [post-blink-syndrome](../../Concepts/post-blink-syndrome.md) — Post-Blink Syndrome
+- [john-raven-canon](../../characters/john-raven-canon.md) — John Raven, documented Whisperer

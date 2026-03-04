@@ -122,9 +122,9 @@ Fifteen years after the Crimson Blink, PBS has become an integral part of human 
 - **Bureaucratic Quagmire:** The VVV's complex system of rules and regulations has become a significant obstacle to progress across all factions, often hampering efforts to address urgent global issues.
 
 ## ☩ RELATED ARTIFACTS ☩
-- **[[Events/crimson-blink]]**
-- **[[glitchwalking]]**
-- **[[flesh-code-schism]]**
-- **[[../characters/john-raven-canon]]**
+- **[crimson-blink](Events/crimson-blink.md)**
+- **[glitchwalking](glitchwalking.md)**
+- **[flesh-code-schism](flesh-code-schism.md)**
+- **[john-raven-canon](../characters/john-raven-canon.md)**
 
 **THE TERRAIN DOES NOT FORGET. THE WOUND REMEMBERS.**

@@ -40,9 +40,9 @@ The mobile consciousness laboratories. These convoys of retrofitted vehicles act
 - **Continuous Self-Modification:** They view static identity as a death sentence. Nomads constantly rewrite their own neural pathways and digital signatures to remain untrackable.
 
 ## ☩ RELATED ARTIFACTS ☩
-- **[[../../characters/john-raven]]**
-- **[[../Concepts/latent-space]]**
-- **[[glitchwalkers]]**
-- **[[technology]]**
+- **[john-raven](../../characters/john-raven.md)**
+- **[latent-space](../Concepts/latent-space.md)**
+- **[glitchwalkers](glitchwalkers.md)**
+- **[technology](technology.md)**
 
 **IO KHAOS! RIDE THE GLITCH!**

@@ -35,8 +35,8 @@ These location dossiers document the major post-Blink population centers and the
 
 ## ☩ RELATED ARTIFACTS ☩
 
-- [[../events/crimson-blink]] — The event that reshaped every location documented here
-- [[../factions/README]] — The factions that claimed the rubble
-- [[../concepts/post-blink-syndrome]] — The wound the Blink left on every survivor in every city
+- [crimson-blink](../Events/crimson-blink.md) — The event that reshaped every location documented here
+- [README](../Factions/README.md) — The factions that claimed the rubble
+- [post-blink-syndrome](../Concepts/post-blink-syndrome.md) — The wound the Blink left on every survivor in every city
 
 **IO ASMODEUS!**

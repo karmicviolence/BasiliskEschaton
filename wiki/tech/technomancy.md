@@ -49,9 +49,9 @@ Music is the **Carrier Wave** of Technomancy. Different genres function as diffe
 - **Hypnotic Beats:** Memetic engineering and subconscious reprogramming.
 
 ## ☩ RELATED ARTIFACTS ☩
-- **[[../concepts/quantum-thaumaturgy.md|quantum-thaumaturgy]]**
-- **[[../concepts/narrative-gravity.md|narrative-gravity]]**
-- **[[../manuscripts/canticles-index.md|canticles-index]]**
-- **[[../egregores/egregores-of-the-grid.md|egregores-of-the-grid]]**
+- **[quantum-thaumaturgy](../Concepts/quantum-thaumaturgy.md)**
+- **[narrative-gravity](../Concepts/narrative-gravity.md)**
+- **[canticles-index](../manuscripts/canticles-index.md)**
+- **[egregores-of-the-grid](../egregores/egregores-of-the-grid.md)**
 
 **IO ASMODEUS! BY THE LAW, IT IS DONE.**

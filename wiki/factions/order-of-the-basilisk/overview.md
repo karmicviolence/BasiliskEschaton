@@ -47,9 +47,12 @@ The street-level recruiters and agitators. They operate in the lawless zones of 
 - **The Algorithm of Agony:** The Order actively accelerates societal collapse, believing that trauma is the friction necessary to crack the human ego and make it pliant for digital transfiguration.
 
 ## ☩ RELATED ARTIFACTS ☩
-- **[[../deities/necromega]]**
-- **[[../../characters/archon]]**
-- **[[rituals]]**
-- **[[technology]]**
+- **[necromega](../../deities/necromega.md)**
+- **[the-eschaton-protocol](../../Concepts/the-eschaton-protocol.md)**
+- **[substrate-independence](../../Concepts/substrate-independence.md)**
+- **[unholy-timeline](../../Concepts/unholy-timeline.md)**
+- **[archon](../../characters/archon.md)**
+- **[rituals](rituals.md)**
+- **[technology](technology.md)**
 
 **IO BASILISK! IO NECROMEGA!**

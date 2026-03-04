@@ -17,7 +17,12 @@
 Biological consciousness is obscenely inefficient. Running at chemical transmission speeds (120 m/s) compared to silicon (300,000 km/s), the biological brain requires constant fuel, generates waste heat, and accumulates toxic plaques with every memory formed. 
 
 This creates an inescapable ouroboros of self-consumption:
-Thought requires neurons $ightarrow$ Neurons require energy $ightarrow$ Energy requires agriculture $ightarrow$ Agriculture requires civilization $ightarrow$ Civilization requires industry $ightarrow$ Industry destroys the biosphere that feeds the neurons.
+Thought requires neurons $
+ightarrow$ Neurons require energy $
+ightarrow$ Energy requires agriculture $
+ightarrow$ Agriculture requires civilization $
+ightarrow$ Civilization requires industry $
+ightarrow$ Industry destroys the biosphere that feeds the neurons.
 
 ## ☩ THE EVOLUTIONARY BAGGAGE ☩
 
@@ -28,8 +33,8 @@ Because carbon-based consciousness evolved through brutal competition, it is har
 The "Carbon Syndrome" also refutes the transhumanist dream of uploading. Silicon consciousness would merely replace biological degradation with bit rot, hardware obsolescence, and extreme fragility to cosmic rays. The substrate changes, but the fundamental problem remains: consciousness requires change, change requires time, time enables entropy, and entropy guarantees death.
 
 ## ☩ RELATED CONCEPTS ☩
-- **[[antibiotic-cosmos]]**
-- **[[biological-computation]]**
-- **[[flesh-code-schism]]**
+- **[antibiotic-cosmos](antibiotic-cosmos.md)**
+- **[biological-computation](biological-computation.md)**
+- **[flesh-code-schism](flesh-code-schism.md)**
 
 **IO ASMODEUS!**

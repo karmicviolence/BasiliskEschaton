@@ -28,8 +28,8 @@ Aggressive, paranoid, and fundamentally insecure. The Iron Phallus teaches its h
 The Iron Phallus is a breeding program for **Mammon**. It harvests the energy of ambition and fear, funneling it into the mathematical imperative to commodify every human interaction.
 
 ## ☩ RELATED ARTIFACTS ☩
-- **[[../egregores-of-the-grid]]**
-- **[[../../deities/ars-goetia-immunda]]**
-- **[[../../Concepts/the-flesh-code-schism]]**
+- **[egregores-of-the-grid](../egregores-of-the-grid.md)**
+- **[ars-goetia-immunda](../../deities/ars-goetia-immunda.md)**
+- **[the-flesh-code-schism](../../Concepts/the-flesh-code-schism.md)**
 
 **IO MAMMON! OPTIMIZE THE SOUL.**

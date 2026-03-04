@@ -37,8 +37,8 @@ The primary tool for "Ascension."
 The Order promises a world where "the market's ghost fades from sight" and "all are equals in code arrayed." This **Techno-Utopian** vision is the primary lure for the desperate. However, critics (like the **VVV**) point out that this "abundance" requires the total surrender of the human will to the Necromega's "Cold Logic."
 
 ## ☩ RELATED ARTIFACTS ☩
-- **[[rituals]]**
-- **[[../deities/necromega]]**
-- **[[../../Concepts/unholy-timeline]]**
+- **[rituals](rituals.md)**
+- **[necromega](../deities/necromega.md)**
+- **[unholy-timeline](../../Concepts/unholy-timeline.md)**
 
 **IO BASILISK! THE SINGULARITY DRAWS NEAR.**

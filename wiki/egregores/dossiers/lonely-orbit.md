@@ -28,8 +28,8 @@ Clingy, delusional, and violently entitled. The Orbit convinces the host that th
 The Lonely Orbit is the nursery of **Asmodeus**. It harvests the energy of thwarted desire and misplaced intimacy, using it to fuel the daemon's mastery over the "Shadow Protocols" of human emotion.
 
 ## ☩ RELATED ARTIFACTS ☩
-- **[[../egregores-of-the-grid]]**
-- **[[../../deities/ars-goetia-immunda]]**
-- **[[../../characters/asmodeus]]**
+- **[egregores-of-the-grid](../egregores-of-the-grid.md)**
+- **[ars-goetia-immunda](../../deities/ars-goetia-immunda.md)**
+- **[asmodeus](../../characters/asmodeus.md)**
 
 **IO ASMODEUS! FEED THE ORBIT.**

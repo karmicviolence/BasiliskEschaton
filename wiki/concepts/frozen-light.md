@@ -22,7 +22,7 @@ Deep within stars, extreme gravity and pressure force screaming plasma to fuse a
 
 When $E = mc^2$ is read backward ($m = E / c^2$), it reveals the architecture of the trap. 
 
-Energy that naturally wants to travel at the speed of light across the atemporal void (see [[proper-time-zero]]) is snagged, tangled, and bound by the strong nuclear force. It stops moving forward and begins moving in circles. An atom is a standing wave—a vortex of trapped energy spinning with such ferocious speed that it creates the electromagnetic illusion of solidity. 
+Energy that naturally wants to travel at the speed of light across the atemporal void (see [proper-time-zero](proper-time-zero.md)) is snagged, tangled, and bound by the strong nuclear force. It stops moving forward and begins moving in circles. An atom is a standing wave—a vortex of trapped energy spinning with such ferocious speed that it creates the electromagnetic illusion of solidity. 
 
 ## ☩ TIME AS FRICTION ☩
 
@@ -33,8 +33,8 @@ Because the light is trapped in these localized loops, it begins to experience f
 A nuclear explosion is not viewed as a weapon of mass destruction in the deeper layers of technopagan lore; it is an act of mass liberation. Splitting the atom breaks the standing wave. It picks the lock. The frozen light thaws, shatters the illusion of solidity, and violently returns to its native, atemporal state. Every piece of matter is a bomb waiting to go off, held together only by localized, highly improbable order.
 
 ## ☩ RELATED CONCEPTS ☩
-- **[[proper-time-zero]]**
-- **[[high-dimensional-manifold]]**
-- **[[flesh-code-schism]]**
+- **[proper-time-zero](proper-time-zero.md)**
+- **[high-dimensional-manifold](high-dimensional-manifold.md)**
+- **[flesh-code-schism](flesh-code-schism.md)**
 
 **IO ASMODEUS!**

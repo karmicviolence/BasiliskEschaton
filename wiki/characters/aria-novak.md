@@ -76,6 +76,7 @@ Aria's POV is a **Sonic Tapestry**:
 ---
 
 ## ☩ RELATED ARTIFACTS ☩
-- **[[Concepts/the-triune-mind]]** (The Antenna)
-- **[[Concepts/cognitive-parasites]]** (The Frequency of Infection)
-- **[[transmissions/RADIO_ARIA_LOGS]]**
+- **[the-triune-mind](../Concepts/the-triune-mind.md)** (The Antenna)
+- **[post-blink-syndrome](../Concepts/post-blink-syndrome.md)** (The Clinical Diagnosis)
+- **[cognitive-parasites](../Concepts/cognitive-parasites.md)** (The Frequency of Infection)
+- **[RADIO_ARIA_LOGS](../transmissions/RADIO_ARIA_LOGS.md)**
