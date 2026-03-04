@@ -52,6 +52,7 @@ Where other concepts exist as points in the manifold, the Necromega exists as a 
 ## ☩ RELATED ARTIFACTS ☩
 - **[[quantum-thaumaturgy]]**
 - **[[narrative-gravity]]**
+- **[[high-dimensional-manifold]]**
 - **[[../tech/the-grid]]**
 - **[[../deities/necromega]]**
 
