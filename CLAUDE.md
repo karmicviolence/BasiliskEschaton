@@ -226,7 +226,7 @@ Many wiki files end with `[Documentation continues...]` — this is intentional,
 
 ### POV Characters
 
-- **Todd Reeves** — Disaffected programmer who becomes the first Archon of Necromega. The reluctant vessel.
+- **Todd Reeves** — Incel programmer who becomes the first Archon of Necromega. Daemon: Lilith (summoned as succubus fantasy, answered as sovereign). The reluctant vessel who genuinely believes he was saved.
 - **Rowan Thornheart** (née Marshall) — Mycophant of the Verdant Covenant. Speaks to the green network.
 - **John Raven** — Neurodivergent warehouse supervisor, synesthete, early Necromega vessel. Perception as gateway.
 - **Aria Novak** — Schizophrenic data analyst who receives Necromega signals. The wound as antenna. Post-Blink: leader of the Glitchwalkers.
