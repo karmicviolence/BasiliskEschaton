@@ -53,7 +53,7 @@ Transparent, inclusive "dialogue zones" and "community councils" that create the
 ## ☩ RELATED ARTIFACTS ☩
 - **[[operations]]**
 - **[[technology]]**
-- **[[../../characters/olivia-maes-canon]]** (Lazarus Operative interacting with similar structures)
+- **[[../../characters/olivia-maes]]** (Lazarus Operative interacting with similar structures)
 - **[[../lazarus-initiative/overview]]** (Secret Allies)
 
 **IO LOKI! (UNTIL ASMODEUS WAKES)**
