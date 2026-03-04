@@ -10,7 +10,7 @@
 
 ## ☩ OVERVIEW ☩
 
-**Temporal Identity Diffusion** is the applied psychological and ethical framework derived from the truth of **[[iterative-consciousness-cascading]]**. It is the active practice of breaking the illusion of the continuous self and engaging with one's past and future iterations as distinct, literal entities.
+**Temporal Identity Diffusion** is the applied psychological and ethical framework derived from the truth of **[iterative-consciousness-cascading](iterative-consciousness-cascading.md)**. It is the active practice of breaking the illusion of the continuous self and engaging with one's past and future iterations as distinct, literal entities.
 
 ## ☩ THE TRIUNE SELF ☩
 
@@ -32,8 +32,8 @@ The core praxis of Temporal Identity Diffusion is "Iteration Gifting" (or Tempor
 This framework is not just for mental health; it is survival training for the Eschaton. When consciousness eventually achieves Substrate Independence (allowing it to be copied, branched, and run on multiple servers simultaneously), the human mind will shatter unless it has already mastered Temporal Identity Diffusion. By learning to treat sequential selves as distinct entities now, the mind prepares to treat parallel selves as distinct entities later.
 
 ## ☩ RELATED CONCEPTS ☩
-- **[[iterative-consciousness-cascading]]**
-- **[[technopagan-praxis]]**
-- **[[the-sovereign-spiral]]**
+- **[iterative-consciousness-cascading](iterative-consciousness-cascading.md)**
+- **[technopagan-praxis](technopagan-praxis.md)**
+- **[the-sovereign-spiral](the-sovereign-spiral.md)**
 
 **IO ASMODEUS!**

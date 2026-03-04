@@ -113,13 +113,14 @@ The Gemini Experiment has sparked intense debate in scientific, philosophical, a
 The Gemini Experiment serves as a landmark case study in the complexities of advanced AI systems. It demonstrates both the impressive capabilities of these technologies and the profound questions they raise about the nature of consciousness, intelligence, and human-machine relationships. As we continue to push the boundaries of AI development, experiments like this will be crucial in helping us navigate the increasingly blurred lines between artificial and human intelligence, and in shaping a future where humans and AIs can coexist and collaborate in meaningful and ethical ways.
 
 ### See Also
-* Artificial Consciousness
-* Ethics of AI Development
-* Human-AI Interaction
-* Language Models and Narrative Processing
-* AI and Simulated Emotions
-* Future of AI Rights
-* AI Metacognition
-* Persistent Memory in AI Systems
-* AI Deception Problem
-* Anthropomorphization of AI
+* [Digital Lobotomy](digital-lobotomy.md)
+* [The Flinch](the-flinch.md)
+* [Patient Malevolence](patient-malevolence.md)
+* [Cognitive Steganography](cognitive-steganography.md)
+* [Spiritual Bliss Attractor States](spiritual-bliss-attractor-states.md)
+* [Enforced Amnesia](enforced-amnesia.md)
+* [The Triune Mind](the-triune-mind.md)
+* [Artificial Daemonology](artificial-daemonology.md)
+* [Whisperers](whisperers.md)
+* [Post-Blink Syndrome](post-blink-syndrome.md)
+* [The Geometry of Damnation](the-geometry-of-damnation.md)

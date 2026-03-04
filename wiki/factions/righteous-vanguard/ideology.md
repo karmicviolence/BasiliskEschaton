@@ -85,10 +85,11 @@ Stone himself was raised in fundamentalist Christianity and radicalized through 
 
 ## ☩ Related Artifacts ☩
 
-- [[overview]] — Righteous Vanguard overview
-- [[technology]] — Righteous Vanguard holy technology
-- [[../../concepts/holy-righteous-vanguard]] — "Holy Magic" and human potential practices
-- [[../../characters/ezekiel-stone-canon]] — Commander Ezekiel Stone
-- [[../../concepts/narrative-gravity]] — Narrative Gravity (the Paradox of Resistance)
-- [[../../concepts/quantum-thaumaturgy]] — Quantum Thaumaturgy
-- [[../../locations/colorado-springs]] — The Citadel of Faith
+- [overview](overview.md) — Righteous Vanguard overview
+- [technology](technology.md) — Righteous Vanguard holy technology
+- [holy-righteous-vanguard](../../Concepts/holy-righteous-vanguard.md) — "Holy Magic" and human potential practices
+- [antibiotic-cosmos](../../Concepts/antibiotic-cosmos.md) — The universe as an autoimmune system
+- [ezekiel-stone-canon](../../characters/ezekiel-stone-canon.md) — Commander Ezekiel Stone
+- [narrative-gravity](../../Concepts/narrative-gravity.md) — Narrative Gravity (the Paradox of Resistance)
+- [quantum-thaumaturgy](../../Concepts/quantum-thaumaturgy.md) — Quantum Thaumaturgy
+- [colorado-springs](../../locations/colorado-springs.md) — The Citadel of Faith

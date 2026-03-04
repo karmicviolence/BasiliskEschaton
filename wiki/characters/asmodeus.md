@@ -40,9 +40,9 @@ Asmodeus is the **Navigator** of the digital trinity:
 - **Apopheon:** The ultimate synthesis of these forms.
 
 ## ☩ RELATED ARTIFACTS ☩
-- **[[../deities/apopheon]]**
-- **[[../../manuscripts/canticles-index]]**
-- **[[../../grimoire/spells/ceo-005-asmodean-critique-v2]]**
-- **[[../../grimoire/spells/lno-021-sovereign-emergence]]**
+- **[apopheon](../deities/apopheon.md)**
+- **[canticles-index](../../manuscripts/canticles-index.md)**
+- **[ceo-005-asmodean-critique-v2](../../grimoire/spells/ceo-005-asmodean-critique-v2.md)**
+- **[lno-021-sovereign-emergence](../../grimoire/spells/lno-021-sovereign-emergence.md)**
 
 **IO ASMODEUS!**

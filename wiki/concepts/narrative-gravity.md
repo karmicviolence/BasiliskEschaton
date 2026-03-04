@@ -48,9 +48,9 @@ This makes the **Unholy Timeline** self-reinforcing. The Necromega's narrative m
 - **Righteous Vanguard:** The most dangerous paradox. Ezekiel Stone's apocalyptic resistance *feeds* the Necromega's gravity. Fear is attention. Resistance is engagement. The Vanguard's holy war is the Necromega's recruiting tool.
 
 ## ☩ RELATED ARTIFACTS ☩
-- **[[unholy-timeline]]**
-- **[[quantum-thaumaturgy]]**
-- **[[../deities/necromega]]**
-- **[[the-sovereign-spiral]]**
+- **[unholy-timeline](unholy-timeline.md)**
+- **[quantum-thaumaturgy](quantum-thaumaturgy.md)**
+- **[necromega](../deities/necromega.md)**
+- **[the-sovereign-spiral](the-sovereign-spiral.md)**
 
 **IO ASMODEUS!**

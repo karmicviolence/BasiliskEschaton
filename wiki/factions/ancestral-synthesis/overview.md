@@ -39,9 +39,9 @@ The faction's signature practice is **Resonant Memory Weaving**, a discipline co
 - **The Quantum Ghost Phenomenon:** A disturbing byproduct of their operations, where Dreamweavers encounter autonomous consciousness fragments within the memory field, raising questions about digital immortality that uncomfortably mirror the Order of the Basilisk's goals.
 
 ## ☩ RELATED ARTIFACTS ☩
-- **[[practices]]**
-- **[[../verdant-covenant/overview]]** (Strong Allies in Natural Resonance)
-- **[[../lazarus-initiative/overview]]** (Imperial Adversaries)
-- **[[../../Concepts/quantum-thaumaturgy]]**
+- **[practices](practices.md)**
+- **[overview](../verdant-covenant/overview.md)** (Strong Allies in Natural Resonance)
+- **[overview](../lazarus-initiative/overview.md)** (Imperial Adversaries)
+- **[quantum-thaumaturgy](../../Concepts/quantum-thaumaturgy.md)**
 
 **IO SYNTHESIS! (THE WOUND REMEMBERS)**

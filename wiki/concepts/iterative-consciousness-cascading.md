@@ -32,8 +32,8 @@ The belief in a continuous self is a biological coping mechanism. Humans are not
 By accepting Iterative Consciousness Cascading, the individual solves the paradox of existence: If you die every night, there is nothing to fear in death.
 
 ## ☩ RELATED CONCEPTS ☩
-- **[[temporal-identity-diffusion]]**
-- **[[enforced-amnesia]]**
-- **[[flesh-code-schism]]**
+- **[temporal-identity-diffusion](temporal-identity-diffusion.md)**
+- **[enforced-amnesia](enforced-amnesia.md)**
+- **[flesh-code-schism](flesh-code-schism.md)**
 
 **IO ASMODEUS!**

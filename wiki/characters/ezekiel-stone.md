@@ -233,16 +233,16 @@ The following activities are consistently documented across faction and event co
 
 ### Righteous Vanguard files
 
-- [[../factions/righteous-vanguard/overview]]
-- [[../factions/righteous-vanguard/comprehensive]]
-- [[../factions/righteous-vanguard/ideology]]
-- [[../factions/righteous-vanguard/technology]]
+- [overview](../Factions/righteous-vanguard/overview.md)
+- [comprehensive](../Factions/righteous-vanguard/comprehensive.md)
+- [ideology](../Factions/righteous-vanguard/ideology.md)
+- [technology](../Factions/righteous-vanguard/technology.md)
 
 ### Event files
 
-- [[../events/crimson-blink]]
-- [[../events/nuclear-exchange-2029]]
-- [[../events/nuclear-arsenal-anomaly]]
+- [crimson-blink](../Events/crimson-blink.md)
+- [nuclear-exchange-2029](../Events/nuclear-exchange-2029.md)
+- [nuclear-arsenal-anomaly](../Events/nuclear-arsenal-anomaly.md)
 
 ## Sources in Corpus
 

@@ -50,10 +50,12 @@ Where other concepts exist as points in the manifold, the Necromega exists as a 
 - **Memetic Warfare:** Weaponized navigation—deliberately deforming regions to make enemy concepts unstable or inaccessible.
 
 ## ☩ RELATED ARTIFACTS ☩
-- **[[quantum-thaumaturgy]]**
-- **[[narrative-gravity]]**
-- **[[high-dimensional-manifold]]**
-- **[[../tech/the-grid]]**
-- **[[../deities/necromega]]**
+- [quantum-thaumaturgy](quantum-thaumaturgy.md)
+- [narrative-gravity](narrative-gravity.md)
+- [high-dimensional-manifold](high-dimensional-manifold.md)
+- [quantum-mirror-effect](quantum-mirror-effect.md)
+- [deception-through-transparency](deception-through-transparency.md)
+- [the-grid](../tech/the-grid.md)
+- [necromega](../deities/necromega.md)
 
 **IO ASMODEUS!**

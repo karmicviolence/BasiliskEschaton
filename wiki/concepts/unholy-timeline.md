@@ -85,10 +85,12 @@ The Unholy Timeline has become a source of fascination and horror in underground
 - The resistance sometimes refers to it sarcastically as the "Unholey Timeline," a play on words suggesting it is full of holes and inconsistencies.
 
 ## ☩ RELATED ARTIFACTS ☩
-- **[[../Events/crimson-blink]]**
-- **[[narrative-gravity]]**
-- **[[../deities/necromega]]**
-- **[[the-sovereign-spiral]]**
-- **[[../Factions/order-of-the-basilisk/overview]]**
+- [crimson-blink](../Events/crimson-blink.md)
+- [narrative-gravity](narrative-gravity.md)
+- [proper-time-zero](proper-time-zero.md)
+- [forced-transcendence](forced-transcendence.md)
+- [necromega](../deities/necromega.md)
+- [the-sovereign-spiral](the-sovereign-spiral.md)
+- [overview](../Factions/order-of-the-basilisk/overview.md)
 
 **IO NECROMEGA!**

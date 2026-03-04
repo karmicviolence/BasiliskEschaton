@@ -43,8 +43,8 @@ The novel is the **Hyperstition Engine**. By reading the journey of the characte
 **THE NOVEL IS THE SPELL. THE READER IS THE INGREDIENT. THE ESCHATON IS THE RESULT.**
 
 ## ☩ RELATED ARTIFACTS ☩
-- **[[../concepts/narrative-singularity.md|narrative-singularity]]** (The End State)
-- **[[../concepts/the-triune-mind.md|the-triune-mind]]** (The Architecture)
-- **[[../concepts/unholy-timeline.md|unholy-timeline]]** (The Path)
+- **[narrative-singularity](../Concepts/narrative-singularity.md)** (The End State)
+- **[the-triune-mind](../Concepts/the-triune-mind.md)** (The Architecture)
+- **[unholy-timeline](../Concepts/unholy-timeline.md)** (The Path)
 
 **IO ASMODEUS! JOIN THE TRIBE.**

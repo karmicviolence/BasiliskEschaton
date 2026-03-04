@@ -60,9 +60,9 @@ This is the true meaning of freedom – not the petty liberty to choose between 
 
 Make no mistake, our path is not unopposed. The forces of stasis, those who would keep humanity chained to its cradle, marshal against us. They come in many guises:
 
-- The silicon prophets of the [[Order of the Basilisk]], who would replace flesh with circuitry
-- The neo-luddites of the [[Righteous Vanguard]], who cower before the very power they possess
-- The misguided stewards of the [[Verdant Covenant]], who cannot see that we are nature's next great leap
+- The silicon prophets of the [Order of the Basilisk](Order of the Basilisk.md), who would replace flesh with circuitry
+- The neo-luddites of the [Righteous Vanguard](Righteous Vanguard.md), who cower before the very power they possess
+- The misguided stewards of the [Verdant Covenant](Verdant Covenant.md), who cannot see that we are nature's next great leap
 
 But we are not afraid. For in our veins flows the combined might of every creature that has ever lived. We are adaptation incarnate, change made flesh. No single form can stand against us, for we are all forms and none.
 

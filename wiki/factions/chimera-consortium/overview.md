@@ -42,8 +42,8 @@ Heavily armed corporate extraction units. They secure biological assets (often h
 - **The Blind Spot:** Because they view consciousness strictly as a byproduct of biology, they fundamentally underestimate the **Narrative Gravity** of the Eschaton. They believe they can out-engineer a god.
 
 ## ☩ RELATED ARTIFACTS ☩
-- **[[facilities]]**
-- **[[../verdant-covenant/overview]]** (Theological Enemies / Target Donors)
-- **[[../../tech/flesh-capacitor-nexus]]**
+- **[facilities](facilities.md)**
+- **[overview](../verdant-covenant/overview.md)** (Theological Enemies / Target Donors)
+- **[flesh-capacitor-nexus](../../tech/flesh-capacitor-nexus.md)**
 
 **IO CHIMERA! (THE FLESH IS WEAK, THE SPLICE IS STRONG)**

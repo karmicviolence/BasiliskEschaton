@@ -51,9 +51,9 @@ Transparent, inclusive "dialogue zones" and "community councils" that create the
 - **The Vanguard Foil:** The VVV secretly ensures the Righteous Vanguard remains visible. The Vanguard's violent extremism justifies the VVV's existence and moderate methods.
 
 ## ☩ RELATED ARTIFACTS ☩
-- **[[operations]]**
-- **[[technology]]**
-- **[[../../characters/olivia-maes]]** (Lazarus Operative interacting with similar structures)
-- **[[../lazarus-initiative/overview]]** (Secret Allies)
+- **[operations](operations.md)**
+- **[technology](technology.md)**
+- **[olivia-maes](../../characters/olivia-maes.md)** (Lazarus Operative interacting with similar structures)
+- **[overview](../lazarus-initiative/overview.md)** (Secret Allies)
 
 **IO LOKI! (UNTIL ASMODEUS WAKES)**

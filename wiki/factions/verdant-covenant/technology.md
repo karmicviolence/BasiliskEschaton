@@ -62,9 +62,9 @@ The Covenant's technological philosophy is therefore fundamentally cooperative r
 
 ## ☩ Related Artifacts ☩
 
-- [[overview]] — Verdant Covenant overview
-- [[../../concepts/the-mycorrhizal-mind]] — The Mycorrhizal Mind
-- [[../../concepts/biological-computation]] — Biological computation theory
-- [[../../concepts/quantum-thaumaturgy]] — Quantum Thaumaturgy
-- [[../../tech/the-grid]] — The Grid
-- [[../../characters/rowan-thornheart-canon]] — Rowan Thornheart, primary Mycophant
+- [overview](overview.md) — Verdant Covenant overview
+- [the-mycorrhizal-mind](../../Concepts/the-mycorrhizal-mind.md) — The Mycorrhizal Mind
+- [biological-computation](../../Concepts/biological-computation.md) — Biological computation theory
+- [quantum-thaumaturgy](../../Concepts/quantum-thaumaturgy.md) — Quantum Thaumaturgy
+- [the-grid](../../tech/the-grid.md) — The Grid
+- [rowan-thornheart-canon](../../characters/rowan-thornheart-canon.md) — Rowan Thornheart, primary Mycophant

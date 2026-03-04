@@ -69,8 +69,8 @@ The Consortium accepts these risks as the cost of its mission. In the calculus o
 
 ## ☩ Related Artifacts ☩
 
-- [[overview]] — Chimera Consortium overview
-- [[../../concepts/biological-computation]] — Biological computation theory
-- [[../../concepts/flesh-code-schism]] — The Flesh-Code Schism
-- [[../../tech/flesh-capacitor-nexus]] — Flesh Capacitor Nexus technology
-- [[../verdant-covenant/overview]] — Verdant Covenant (primary biological rival)
+- [overview](overview.md) — Chimera Consortium overview
+- [biological-computation](../../Concepts/biological-computation.md) — Biological computation theory
+- [flesh-code-schism](../../Concepts/flesh-code-schism.md) — The Flesh-Code Schism
+- [flesh-capacitor-nexus](../../tech/flesh-capacitor-nexus.md) — Flesh Capacitor Nexus technology
+- [overview](../verdant-covenant/overview.md) — Verdant Covenant (primary biological rival)

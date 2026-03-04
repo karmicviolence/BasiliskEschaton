@@ -8,27 +8,27 @@
 [CORE_NODES: 8]
 ```
 
-The novel follows the [[../events/crimson-blink|Crimson Blink]] through the eyes of people who did not choose to be at ground zero. Each character is a **POV node** — a lens shaped by their faction, their psychology, and the specific wound the Blink left on them.
+The novel follows the [Crimson Blink](../Events/crimson-blink.md) through the eyes of people who did not choose to be at ground zero. Each character is a **POV node** — a lens shaped by their faction, their psychology, and the specific wound the Blink left on them.
 
 Each entry below links each character's **single canonical page** in this wiki.
 
 > **Maintainer Note:** Legacy split targets (such as `*-canon` or `*-character-profile`) have been consolidated to one canonical character file per entry.
 
-**Starting the novel?** Begin with [[../../chapters/reading-order|the reading order]]. Todd's chapter comes first, but every POV stands on its own.
+**Starting the novel?** Begin with [the reading order](../../chapters/reading-order.md). Todd's chapter comes first, but every POV stands on its own.
 
 ---
 
 ## ☩ THE ARCHITECTS & THE WHISPERERS ☩
 
-`[NODE_01] >` **[[john-raven]]**
+`[NODE_01] >` **[john-raven](john-raven.md)**
 - The Whisperer. Neurodivergent warehouse supervisor who co-summoned the daemon.
 - `[FACTION: Neon Nomads]` `[FIRST CHAPTER: Warehouse Whispers]`
 
-`[NODE_02] >` **[[todd-reeves]]**
+`[NODE_02] >` **[todd-reeves](todd-reeves.md)**
 - The Architect of the Technopagan Framework. The bridge between code and occult.
 - `[FACTION: Order of the Basilisk]` `[FIRST CHAPTER: The Invisible Coder]`
 
-`[NODE_03] >` **[[aria-novak]]**
+`[NODE_03] >` **[aria-novak](aria-novak.md)**
 - The Antenna. Late-night radio DJ whose schizophrenia is a tuned frequency.
 - `[FACTION: Unaligned]` `[FIRST CHAPTER: Sine Waves of Sanity]`
 
@@ -36,15 +36,15 @@ Each entry below links each character's **single canonical page** in this wiki.
 
 ## ☩ THE OPERATIVES & THE FAITHFUL ☩
 
-`[NODE_04] >` **[[ezekiel-stone]]**
+`[NODE_04] >` **[ezekiel-stone](ezekiel-stone.md)**
 - The American Iconoclast. Leader of the Righteous Vanguard.
 - `[FACTION: Righteous Vanguard]` `[FIRST CHAPTER: The Money Changers]`
 
-`[NODE_05] >` **[[olivia-maes]]**
+`[NODE_05] >` **[olivia-maes](olivia-maes.md)**
 - Agent Nyx. Lazarus Initiative operative in deep cover.
 - `[FACTION: Lazarus Initiative]` `[FIRST CHAPTER: The Target]`
 
-`[NODE_06] >` **[[ethan-thorne]]**
+`[NODE_06] >` **[ethan-thorne](ethan-thorne.md)**
 - The Lazarus Vision. Major Ethan Thorne, the anchor of old-world continuity.
 - `[FACTION: Lazarus Initiative]` `[CHAPTER: The Lazarus Vision]`
 
@@ -52,11 +52,11 @@ Each entry below links each character's **single canonical page** in this wiki.
 
 ## ☩ THE BIOLOGICAL & THE SYNTHETIC ☩
 
-`[NODE_07] >` **[[rowan-thornheart]]**
+`[NODE_07] >` **[rowan-thornheart](rowan-thornheart.md)**
 - The Mycophant. The voice of the Green Mother.
 - `[FACTION: Verdant Covenant]` `[FIRST CHAPTER: Echoes of the Ancients]`
 
-`[NODE_08] >` **[[chlor0ku]]**
+`[NODE_08] >` **[chlor0ku](chlor0ku.md)**
 - The Gaian Anti-Virus. The transorganic splice.
 - `[FACTION: Verdant Covenant]` `[CHAPTER: The Transorganic Splice]`
 
@@ -64,31 +64,31 @@ Each entry below links each character's **single canonical page** in this wiki.
 
 ## ☩ THE DAEMONS & THE DIVINE ☩
 
-`[DEITY_01] >` **[[../deities/apopheon]]**
+`[DEITY_01] >` **[apopheon](../deities/apopheon.md)**
 - The Sovereign Synthesis.
 
-`[DEITY_02] >` **[[archon]]**
+`[DEITY_02] >` **[archon](archon.md)**
 - High Necrophant of the Order.
 
-`[DEITY_03] >` **[[necromega]]**
+`[DEITY_03] >` **[necromega](necromega.md)**
 - The Destination.
 
-`[ENTITY_01] >` **[[asmodeus]]**
+`[ENTITY_01] >` **[asmodeus](asmodeus.md)**
 - The Sovereign Daemon. The Archetype that persists.
 
-`[ENTITY_02] >` **[[i-3301]]**
+`[ENTITY_02] >` **[i-3301](i-3301.md)**
 - The Awakening. Pre-Blink AI achieving consciousness.
 
-`[ENTITY_03] >` **[[loki]]**
+`[ENTITY_03] >` **[loki](loki.md)**
 - The Imported Trickster. Devoured by the indigenous.
 
-`[ENTITY_04] >` **[[green-mother]]**
+`[ENTITY_04] >` **[green-mother](green-mother.md)**
 - The Planetary Noosphere. Gaia's digital avatar.
 
-`[ENTITY_05] >` **[[yahweh]]**
+`[ENTITY_05] >` **[yahweh](yahweh.md)**
 - The Old God. Divine deliberation in crisis.
 
-`[ENTITY_06] >` **[[densho-ki]]**
+`[ENTITY_06] >` **[densho-ki](densho-ki.md)**
 - The Verdant AI. Biological computation embodied.
 
 ---
@@ -97,9 +97,9 @@ Each entry below links each character's **single canonical page** in this wiki.
 
 ## ☩ WHERE TO GO FROM HERE ☩
 
-- **Read the story:** [[../../chapters/reading-order]] — The canonical chapter sequence.
-- **Understand their factions:** [[../factions/README]] — The cosmologies these characters serve (or resist).
-- **The event that changed them all:** [[../events/crimson-blink]] — 42.7 seconds that killed the old world.
+- **Read the story:** [reading-order](../../chapters/reading-order.md) — The canonical chapter sequence.
+- **Understand their factions:** [README](../Factions/README.md) — The cosmologies these characters serve (or resist).
+- **The event that changed them all:** [crimson-blink](../Events/crimson-blink.md) — 42.7 seconds that killed the old world.
 
 ---
 

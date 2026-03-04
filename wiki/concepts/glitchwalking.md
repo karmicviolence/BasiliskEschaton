@@ -36,9 +36,9 @@ In the Glitchwalker philosophy, "psychosis" is not a disease but a "psychosis sp
 Glitchwalking is physically and mentally catastrophic. Long-term exposure to Glitch protocols results in **Post-Blink Syndrome Type 3**, where the individual can no longer distinguish between pixels and atoms. They become "bad sectors on sanity's disk," existing only as nomadic code-ghosts.
 
 ## ☩ RELATED ARTIFACTS ☩
-- **[[../manuscripts/canticles-index]]**
-- **[[../Factions/neon-nomads/overview]]**
-- **[[latent-space]]**
-- **[[post-blink-syndrome]]**
+- **[canticles-index](../manuscripts/canticles-index.md)**
+- **[overview](../Factions/neon-nomads/overview.md)**
+- **[latent-space](latent-space.md)**
+- **[post-blink-syndrome](post-blink-syndrome.md)**
 
 **IO KHAOS! IO GLITCH!**
