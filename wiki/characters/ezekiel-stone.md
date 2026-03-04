@@ -35,7 +35,7 @@ Several key events and movements in the years leading up to the Crimson Blink ha
 * **Quantum Computing Breakthroughs (2025-2028):** Major advancements in quantum computing led Stone to warn of an impending "techno-apocalypse" where machines would gain the power to "play God" by manipulating reality itself.
 * **Climate Change Disasters (2026-2028):** A series of devastating climate-related disasters were interpreted by Stone as divine punishment for humanity's embrace of technology and departure from traditional values.
 
-During this period, Stone's following grew significantly. He established a mega-church in Colorado Springs in 2024, which would later become the foundation for the Citadel of Faith. His weekly online sermons, titled "Prophecies for the Digital Age," gained millions of viewers worldwide.
+During this period, Stone's following grew significantly. In 2024, he made a high-profile visit to a Colorado Springs megachurch that he publicly condemned; after the Blink, Vanguard forces later repurposed that site as part of the Citadel of Faith complex. His weekly online sermons, titled "Prophecies for the Digital Age," gained millions of viewers worldwide.
 
 By 2028, just before the Crimson Blink, Ezekiel Stone had positioned himself as a leading voice in a growing movement that blended religious fundamentalism, technological skepticism, and nationalist ideology. He had also begun to foster connections with various militia groups and survivalist communities, laying the groundwork for what would become the Righteous Vanguard.
 
@@ -207,11 +207,65 @@ Despite these accusations, Stone's followers remain fiercely loyal, seeing him a
 
 Whether seen as a savior or a dangerous extremist, there is no denying that Ezekiel Stone has become one of the most influential figures in the post-Blink world. His actions and ideology have shaped the course of events and will likely continue to do so for years to come.
 
+## Timeline Anchors
+
+- **1985:** Born in rural Texas and raised in a fundamentalist household led by Reverend Jebediah Stone.
+- **2003-2008:** Military service period (including Afghanistan and Iraq deployments), later cited as the foundation for his post-Blink command style.
+- **2015:** Leaves formal military service and transitions into chaplain/preacher work with an increasingly militant anti-technology message.
+- **2024:** Makes a documented visit to a Colorado Springs megachurch he denounces; post-Blink Vanguard consolidation later incorporates that location into the Citadel of Faith footprint.
+- **2028:** Consolidates pre-Blink militia and survivalist contacts that become the core recruitment pipeline for the Righteous Vanguard.
+- **23 September 2029 (Crimson Blink):** Reframes the Blink as apocalyptic validation of his theology; this marks the transition from preacher to faction commander.
+- **Post-Blink (immediate):** Leads formation of the Righteous Vanguard and relocation/consolidation in Colorado Springs.
+- **Post-Blink (ongoing):** Oversees expansion of Vanguard territory through anti-digital military campaigns, fortification programs, and doctrinal enforcement.
+
+## Confirmed Faction Operations Associated with Stone
+
+The following activities are consistently documented across faction and event corpus files:
+
+- **Colorado Springs militarization:** Conversion of Colorado Springs into the Citadel of Faith, including fortified perimeter systems and centralized command structures.
+- **Seizure and repurposing of military infrastructure:** Control of abandoned bases, bunkers, and hardware for regional command and arsenal growth.
+- **Analog warfighting doctrine:** Sustained deployment of non-networked diesel/mechanical vehicles, weapons, and communications designed to resist Grid-based interference.
+- **Holy Forge industrial program:** Continuous production of armor, weapons, and structural components through centralized forge complexes tied to faction ritual practice.
+- **"Cleansing" operations:** Armed campaigns against communities and infrastructure identified by the Vanguard as technologically "contaminated."
+- **Anti-Lazarus security posture:** Internal purges, public accusations, and persistent counterintelligence focus on alleged Lazarus Initiative infiltration.
+
+## Cross-References
+
+### Righteous Vanguard files
+
+- [[../factions/righteous-vanguard/overview]]
+- [[../factions/righteous-vanguard/comprehensive]]
+- [[../factions/righteous-vanguard/ideology]]
+- [[../factions/righteous-vanguard/technology]]
+
+### Event files
+
+- [[../events/crimson-blink]]
+- [[../events/nuclear-exchange-2029]]
+- [[../events/nuclear-arsenal-anomaly]]
+
+## Sources in Corpus
+
+### Character files
+
+- `wiki/characters/ezekiel-stone.md`
+
+### Righteous Vanguard files
+
+- `wiki/factions/righteous-vanguard/overview.md`
+- `wiki/factions/righteous-vanguard/comprehensive.md`
+- `wiki/factions/righteous-vanguard/ideology.md`
+- `wiki/factions/righteous-vanguard/technology.md`
+
+### Event files
+
+- `wiki/events/crimson-blink.md`
+- `wiki/events/nuclear-exchange-2029.md`
+- `wiki/events/nuclear-arsenal-anomaly.md`
+
 ## See Also
 
 * Righteous Vanguard
 * Crimson Blink
 * Citadel of Faith
 * Post-Blink Factions
-
-[Documentation continues...]
