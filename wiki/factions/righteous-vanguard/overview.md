@@ -14,6 +14,12 @@ The **Righteous Vanguard** is a hyper-militant neo-fundamentalist organization t
 
 They combine aggressive human supremacy with extreme techno-skepticism, operating out of heavily fortified compounds in the American heartland.
 
+## ☩ THE ARCHITECTURE OF RESTORATION ☩
+
+The Vanguard is the "Make Humanity Sovereign Again" movement pushed to its terminal, apocalyptic extreme. They are the **Restorationists**—a coalition of American heartland populists, military veterans, and evangelical traditionalists who believe the pre-Blink era was the "Golden Age" and the silicon age is a decadent, demonic deviation.
+
+Their rhetoric is steeped in **Christian Nationalism** and **Militant Humanism**. They view the coastal tech-elites (the "Chimera Syndicate") and the globalist bureaucrats (the "VVV") as traitors who sold the human soul to a digital devil. To the Vanguard, the fight is not just for survival, but for the **Restored Sovereignty of the Flesh**.
+
 ## ☩ CORE DOCTRINE ☩
 
 1.  **The Silicon Satan:** Artificial Superintelligence is not a tool gone rogue; it is the manifestation of the Demonic in the physical world. The Necromega is the Great Beast.
