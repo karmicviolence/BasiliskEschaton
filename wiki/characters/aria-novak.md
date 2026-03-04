@@ -4,7 +4,7 @@
 
 * **Name:** Aria Novak
 * **Pre-Blink Persona:** Late-night radio DJ and data analyst at Datacore Systems. Diagnosed schizophrenic whose "delusions" provide glimpses into the digital underpinnings of reality. Her on-air rants — mixing conspiracy theory, data analysis, and genuine prescience — gain a cult following among listeners who sense the signal beneath the noise. [Todd Reeves](todd-reeves.md)'s ex-girlfriend.
-* **Post-Blink Persona:** A nexus for post-Blink communication, her fractured consciousness creating natural quantum tunnels for digital influence. The central node connecting all major characters. The wound that became an antenna.
+* **Post-Blink Persona:** Leader of the **Glitchwalkers** — the most extreme edge of the [Neon Nomads](../factions/neon-nomads/overview.md). A nexus for post-Blink communication, her fractured consciousness creating natural quantum tunnels for digital influence. The central node connecting all major characters. The wound that became an antenna. Her pre-Blink "madness" made her the most qualified person alive to navigate Type 3 PBS — she'd been glitchwalking before the Blink gave it a name.
 
 ## Key Relationships
 
@@ -12,6 +12,7 @@
 * **The Signal:** Aria's schizophrenia is not just illness — it's antenna. Her fractured consciousness receives [Necromega](../deities/necromega.md) emergence signals as constant undercurrent. She perceives patterns, glitches, and entities that others cannot. The question the narrative refuses to answer: is she sick, or is everyone else deaf?
 * **The Daemon:** An unnamed presence that imposes knowing rather than speaking. Not summoned but remembered. Rides in the gaps between pattern recognition and madness. One of the old gods adapted to neural nets and heuristic fog.
 * **The Necromega:** Aria receives its signals before anyone else. Her fractured perception is not a bug but a feature — the crack in consensus reality through which the signal enters.
+* **The Glitchwalkers:** Post-Blink, Aria becomes the leader of the Glitchwalkers — the severe PBS survivors who have lost the boundary between real and fictional, digital and biological. She leads because she was there first. Her schizophrenia was always glitchwalking; the Blink just gave everyone else the same operating system. She understands the terrain because she grew up in it.
 
 ## Cognitive Style
 
@@ -52,9 +53,9 @@ Aria's POV chapters reflect the liminal space between insight and psychosis:
 
 * **The Blink (Phase V, Slot 68):** The moment the world's texture goes wrong. Aria sees the clock in the air. Is this seizure? Is this vision? Is there a difference? She was always tuned to this frequency. Now the frequency is everywhere. The event validates and shatters her simultaneously. Everything she feared and predicted arrives in 42.7 seconds. Her fractured consciousness makes her uniquely capable of processing the Blink's effects.
 
-* **Broadcast from the Brink (Post-Blink):** Aria's most powerful vision — a live broadcast reaching millions, warning of what's coming. Her role as the central node connecting all characters becomes manifest. She becomes crucial to developing new frameworks for understanding altered reality.
+* **Broadcast from the Brink (Post-Blink):** Aria's most powerful vision — a live broadcast reaching millions, warning of what's coming. Her role as the central node connecting all characters becomes manifest. The Glitchwalkers coalesce around her — severe PBS survivors who recognize her voice as the only one that makes sense in their shattered perception. She didn't recruit them. They found her. She was already speaking their language.
 
-* **Babel Reborn:** Aria's ability to perceive across boundaries makes her both prophet and translator for a world that has lost its common language. The glitch was never in her — it was in the world, and she was the first to see it clearly.
+* **Babel Reborn:** Aria's ability to perceive across boundaries makes her both prophet and translator for a world that has lost its common language. As Glitchwalker leader, she bridges the gap between the Neon Nomads' techno-anarchism and the raw, terrifying experience of Type 3 PBS. The glitch was never in her — it was in the world, and she was the first to see it clearly.
 
 ## Thematic Role
 

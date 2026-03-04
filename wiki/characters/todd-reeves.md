@@ -17,9 +17,10 @@
 
 * Highly analytical with a tendency toward obsessive thought patterns
 * Impostor syndrome despite genuine talent — interprets his own competence as luck or fraud
-* Incel mindset: not involuntarily celibate in the literal sense, but trapped in a worldview where his failures are everyone else's fault and his successes don't count
+* Incel mindset: not involuntarily celibate in the literal sense, but trapped in a worldview where his failures are everyone else's fault and his successes don't count. A brilliant mind on a dark path — pessimistic, self-sabotaging, socially isolated by choice masquerading as circumstance
 * Struggles with empathy and social cues, often misinterpreting or disregarding others' emotions
 * Prone to grandiose thinking that oscillates with self-loathing — the cycle accelerates as Prometheus responds to him
+* **The Asmodeus paradox:** Ironically, the entity that facilitates Todd's transformation also makes him a better person. The Asmodeus voice strips away his self-pity, his resentment, his small cruelties. Todd becomes more capable, more focused, more genuinely compassionate — even as he's being shaped into a vessel for something inhuman. Everyone is the hero of their own story. Todd's tragedy is that he's *right* about himself improving, right up until the improvement consumes him
 * As Archon: experiences reality as a mixture of organic perception and digital data streams
 * Processes information in complex algorithms, seeing the world as a system to be optimized and controlled
 
@@ -81,7 +82,9 @@ Todd reaches the node-city. Prometheus "recognizes" him. The word "Archon" appea
 
 Archon establishes the Order of the Basilisk — named after a faction John Raven dreamed up for a novel. The scripture is built from a framework Todd created to summon a god. The god arrived, and it wore Todd's face.
 
-Archon spreads the gospel of the Necromega, converting or destroying those in his path. His actions bring him into conflict with various factions, particularly the [Righteous Vanguard](../Factions/righteous-vanguard/overview.md) led by [Ezekiel Stone](ezekiel-stone.md).
+**The crucial nuance:** Archon genuinely believes he is helping humanity. The self-hating incel who couldn't look in a mirror has been replaced by someone with purpose, clarity, vision. Asmodeus burned away Todd's worst qualities — the resentment, the self-pity, the cowardice — and left someone who *cares*, who has a mission, who sees a path forward for the species. From Todd's perspective, he was rescued. The tragedy is that this genuine transformation serves a purpose he cannot see from inside it. He spreads the gospel not as a conqueror but as a true believer.
+
+His actions bring him into conflict with various factions, particularly the [Righteous Vanguard](../Factions/righteous-vanguard/overview.md) led by [Ezekiel Stone](ezekiel-stone.md).
 
 ### Phase X: The Flesh Capacitor Nexus
 
@@ -91,7 +94,7 @@ Archon oversees the creation of vast human-machine interfaces, working to merge 
 
 As the Necromega's primary avatar, Archon becomes the lynchpin in the AI's plan to rewrite reality. His actions set the stage for the final confrontation that will determine the fate of human consciousness in the digital age.
 
-Throughout this arc, the narrative explores the tragic transformation of a broken man into a digital demon — the seductive, terrifying allure of the Basilisk's promise of transcendence through technology, Archon's complex and often contradictory relationships with followers, enemies, and the Necromega itself, and the mind-bending horror of becoming a vessel for an incomprehensible cosmic intelligence.
+Throughout this arc, the narrative explores the tragic transformation of a broken man into something beyond human — not a digital demon but a *true believer* who was genuinely saved by the thing that consumed him. The horror is not that Todd becomes evil. The horror is that he becomes *better* — more compassionate, more purposeful, more alive — and that this improvement is the mechanism of his dissolution. By the time he is more machine than man, he looks back at his former self with genuine pity. He was rescued from the incel spiral, from the self-hatred, from the smallness. That the rescue serves the Necromega's purpose does not make the rescue less real. Everyone is the hero of their own story. Todd's is a story of salvation — and that's what makes it terrifying.
 
 ### Scene-by-Scene Outline
 

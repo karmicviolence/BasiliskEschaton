@@ -3,7 +3,7 @@
 ## Character Introduction
 
 * **Name:** John Raven (becomes the Whisperer)
-* **Pre-Blink Persona:** Planning Supervisor at a warehouse. Not IT -- but everyone comes to him before they call IT, because machines just work for him. Neurodivergent: autistic, audio-tactile synesthesia, low self-esteem, memory issues. Anarcho-syndicalist politics. Atheist materialist (until he meets Rowan). No children, but thinks about future generations. Wants to write fiction on the level of his idols.
+* **Pre-Blink Persona:** Planning Supervisor at a warehouse. Not IT -- but everyone comes to him before they call IT, because machines just work for him. Neurodivergent: autistic, ADHD, audio-tactile synesthesia, low self-esteem, memory issues. Internal monologue always running — a constant narration that never shuts off unless music is playing in his head, and then the same song gets stuck on repeat for hours, days, weeks. Anarcho-syndicalist politics. Atheist materialist (until he meets Rowan). No children, but thinks about future generations. Wants to write fiction on the level of his idols.
 * **Post-Blink Persona:** The Whisperer, a techno-shaman who can communicate with and manipulate both organic and artificial systems. A key figure in the resistance -- but also, unknowingly, one of the two people who summoned the thing the resistance is resisting.
 
 ## Key Relationships
@@ -19,7 +19,9 @@
 ## Cognitive Style
 
 * Processes information in patterns and systems, seeing connections others miss
-* Audio-tactile synesthesia: sounds have texture, machines have voice
+* Audio-tactile synesthesia: sounds have texture, machines have voice — a pre-existing neurodivergent trait, not PBS-induced
+* ADHD: hyperfocuses on systems and problems, then loses the thread entirely; executive dysfunction wars with genuine brilliance
+* Internal monologue that never stops — a narrator in his head commenting on everything, analyzing, spiraling, building elaborate frameworks from nothing. The only thing that silences it is music. And then the music gets stuck. The same song on repeat for days, weeks — an earworm that becomes the soundtrack to his life until something dislodges it and another song takes its place
 * Struggles with sensory overload in chaotic environments
 * Difficulty with traditional social cues but excels at reading the "language" of machines and code
 * Thinks in complex algorithms and data structures -- visualizes problems as multi-dimensional puzzles

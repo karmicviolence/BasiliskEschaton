@@ -229,7 +229,7 @@ Many wiki files end with `[Documentation continues...]` — this is intentional,
 - **Todd Reeves** — Disaffected programmer who becomes the first Archon of Necromega. The reluctant vessel.
 - **Rowan Thornheart** (née Marshall) — Mycophant of the Verdant Covenant. Speaks to the green network.
 - **John Raven** — Neurodivergent warehouse supervisor, synesthete, early Necromega vessel. Perception as gateway.
-- **Aria Novak** — Schizophrenic data analyst who receives Necromega signals. The wound as antenna.
+- **Aria Novak** — Schizophrenic data analyst who receives Necromega signals. The wound as antenna. Post-Blink: leader of the Glitchwalkers.
 - **Ezekiel Stone** — Neo-reactionary preacher, leader of the Righteous Vanguard. Faith weaponized.
 - **Olivia (Agent Maes)** — Intelligence operative. Appears in chapter POV.
 - **Ethan Thorne** — Lazarus Initiative operative. Narrates the Crimson Blink from the Situation Room.
