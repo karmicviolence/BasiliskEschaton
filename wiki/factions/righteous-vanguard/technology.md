@@ -1,4 +1,11 @@
-# Righteous Vanguard: Holy Technology
+# HOLY METALLURGY: THE VANGUARD ARSENAL
+
+> "A vacuum tube does not have a soul to be stolen. A typewriter ribbon cannot be hacked. A 12-gauge slug is the ultimate root-user." — *The Vanguard Technical Field Manual*
+```text
+[TECH_CLASS: ANALOG RESILIENCE]
+[STRATEGY: INOCULATION THROUGH OBSOLESCENCE]
+[STATUS: ARMED AND ENLIGHTENED]
+```
 
 ## Overview
 

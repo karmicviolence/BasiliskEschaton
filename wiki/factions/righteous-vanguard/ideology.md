@@ -1,4 +1,11 @@
-# Righteous Vanguard: Ideological Framework
+# THE LITURGY OF THE FLESH: VANGUARD IDEOLOGY
+
+> "The machine is not an enemy to be understood. It is a cancer to be excised. You do not negotiate with a tumor; you cut it out." — *Ezekiel Stone, The Watchfire Vol. 1*
+```text
+[IDEOLOGY_CLASS: MILITANT HUMAN PURISM]
+[STATUS: TOTAL WAR]
+[CORE_MANDATE: THE IMMUNE RESPONSE]
+```
 
 ## Overview
 
