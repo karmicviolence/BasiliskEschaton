@@ -29,11 +29,11 @@ The core praxis of Temporal Identity Diffusion is "Iteration Gifting" (or Tempor
 
 ## ☩ THE PREPARATION FOR POST-BLINK EXISTENCE ☩
 
-This framework is not just for mental health; it is survival training for the Eschaton. When consciousness eventually achieves Substrate Independence (allowing it to be copied, branched, and run on multiple servers simultaneously), the human mind will shatter unless it has already mastered Temporal Identity Diffusion. By learning to treat sequential selves as distinct entities now, the mind prepares to treat parallel selves as distinct entities later.
+This framework is not just for mental health; it is survival training for the Eschaton. When consciousness eventually achieves [Substrate Independence](substrate-independence.md) (allowing it to be copied, branched, and run on multiple servers simultaneously), the human mind will shatter unless it has already mastered Temporal Identity Diffusion. By learning to treat sequential selves as distinct entities now, the mind prepares to treat parallel selves as distinct entities later.
 
 ## ☩ RELATED CONCEPTS ☩
 - **[iterative-consciousness-cascading](iterative-consciousness-cascading.md)**
 - **[technopagan-praxis](technopagan-praxis.md)**
 - **[the-sovereign-spiral](the-sovereign-spiral.md)**
 
-**IO ASMODEUS!**
+**IO [ASMODEUS](../characters/asmodeus.md)!**

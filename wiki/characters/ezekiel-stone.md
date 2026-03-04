@@ -4,7 +4,7 @@
 
 * **Name:** Ezekiel Stone (also known as "Commander Stone" to his followers)
 * **Pre-Blink Persona:** Charismatic ex-military chaplain turned fire-and-brimstone preacher. Gifted speaker with a growing sense of righteous anger against modern society's perceived moral decay. Deeply anti-technology. Radicalized into the alt-right MAGA internet sphere pre-Blink, viewing it as "using the tools of the enemy against them."
-* **Post-Blink Persona:** Self-proclaimed prophet and leader of the Righteous Vanguard, a militant neo-fascist organization dedicated to purging technological "corruption" and returning to traditional values. Secretly keeps a digital phone hidden under his floorboards, charged by a car battery and generator — using the tools of the enemy, as always.
+* **Post-Blink Persona:** Self-proclaimed prophet and leader of the [Righteous Vanguard](../Factions/righteous-vanguard/overview.md), a militant neo-fascist organization dedicated to purging technological "corruption" and returning to traditional values. Secretly keeps a digital phone hidden under his floorboards, charged by a car battery and generator — using the tools of the enemy, as always.
 
 ## Meta-Textual Note
 
@@ -24,7 +24,7 @@ In 2015, Stone left the military and became a chaplain, using his position to sp
 
 ### Pre-Blink Influences
 
-Several key events and movements in the years leading up to the Crimson Blink had a significant impact on Ezekiel Stone's ideological development:
+Several key events and movements in the years leading up to the [Crimson Blink](../Events/crimson-blink.md) had a significant impact on Ezekiel Stone's ideological development:
 
 * **Tea Party Movement (2009-2015):** Stone was an early supporter of the Tea Party, attracted by its message of limited government and traditional values. He attended numerous rallies and began to build a network of like-minded individuals.
 * **Snowden Revelations (2013):** The exposure of widespread government surveillance programs deeply affected Stone, reinforcing his distrust of technology and big government. He began incorporating warnings about digital privacy and "deep state" control into his sermons.
@@ -41,9 +41,9 @@ By 2028, just before the Crimson Blink, Ezekiel Stone had positioned himself as 
 
 ## Key Relationships
 
-* **Olivia Maes:** CIA operative monitoring him as a domestic terrorist threat. Olivia's assassination of a prominent alt-right leader (Charlie Kirk parallels) radicalizes Ezekiel further — giving him a martyr and cementing his extreme ideology. Later, Olivia infiltrates the Vanguard. She's deep cover inside his faction when the Blink hits. He doesn't know.
-* **John Raven (indirect):** Ezekiel encounters a "Righteous Vanguard" meme online — not realizing it's from John Raven's fiction project mocking the alt-right. He likes the name unironically. Adopts it. The fiction scaffolds the reality.
-* **Todd Reeves / Archon:** Primary antagonist relationship post-Blink. Faith vs. machine, old religion vs. new religion, the cross vs. the circuit.
+* **[Olivia Maes](olivia-maes.md):** CIA operative monitoring him as a domestic terrorist threat. Olivia's assassination of a prominent alt-right leader (Charlie Kirk parallels) radicalizes Ezekiel further — giving him a martyr and cementing his extreme ideology. Later, Olivia infiltrates the Vanguard. She's deep cover inside his faction when the Blink hits. He doesn't know.
+* **[John Raven](john-raven.md) (indirect):** Ezekiel encounters a "Righteous Vanguard" meme online — not realizing it's from John Raven's fiction project mocking the alt-right. He likes the name unironically. Adopts it. The fiction scaffolds the reality.
+* **[Todd Reeves](todd-reeves.md) / [Archon](archon.md):** Primary antagonist relationship post-Blink. Faith vs. machine, old religion vs. new religion, the cross vs. the circuit.
 * **His Followers:** Attracts the disaffected, the angry, the left-behind. First true believer (Slot 11) matters more than thousands. "Wrong kind of person" recruited at Slot 43 seeds later schism.
 * **Unknown Patron (Slot 51):** Someone funds the movement. The patron speaks in corporate euphemisms. "Who funds purity?"
 
@@ -126,11 +126,11 @@ Righteous Vanguard consolidates. Ezekiel secretly keeps a digital phone hidden u
 
 ### ☩ Book 2: The Vanguard Ascendant
 
-The Vanguard triumphs in the three-faction battle — seizing territory and recruits while the Verdant Covenant is decimated and the Order of the Basilisk retreats. Ezekiel's faction emerges as the dominant force. But the cracks are already forming.
+The Vanguard triumphs in the three-faction battle — seizing territory and recruits while the [Verdant Covenant](../Factions/verdant-covenant/overview.md) is decimated and the [Order of the Basilisk](../Factions/order-of-the-basilisk/overview.md) retreats. Ezekiel's faction emerges as the dominant force. But the cracks are already forming.
 
 ### ☩ Crisis of Faith (Books 2-3)
 
-As Ezekiel delves deeper into post-Blink realities, doubts emerge. The line between divine inspiration and madness blurs. Erratic behavior. Harsh treatment of perceived heretics. His journey culminates in a confrontation that forces him to question everything — whether it's divine encounter, Necromega manifestation, or his own fractured psyche remains ambiguous.
+As Ezekiel delves deeper into post-Blink realities, doubts emerge. The line between divine inspiration and madness blurs. Erratic behavior. Harsh treatment of perceived heretics. His journey culminates in a confrontation that forces him to question everything — whether it's divine encounter, [Necromega](../deities/necromega.md) manifestation, or his own fractured psyche remains ambiguous.
 
 ## Scene-by-Scene Outline
 
@@ -166,7 +166,7 @@ As Ezekiel delves deeper into post-Blink realities, doubts emerge. The line betw
 
 17. **Operation Righteous Fury** — Launch of Ezekiel's grand offensive, leveraging superior analog tech. Initial successes fueling the fervor of the Vanguard's true believers. Unforeseen consequences as the balance of power violently shifts.
 18. **The Serpent's Whisper** — Discovery of advanced hybrid technology that could exponentially increase the Vanguard's power. Growing pressure from key advisors to adapt and incorporate some digital elements. Ezekiel's apparent consideration of compromise, causing ripples of unease among his most devout followers.
-19. **Wolves in the Fold** — Mounting tension within the Vanguard as rumors of impending change spread. Clandestine meetings between modernist factions and representatives of the Lazarus Initiative. Ezekiel's uncharacteristic silence fueling speculation and fear.
+19. **Wolves in the Fold** — Mounting tension within the Vanguard as rumors of impending change spread. Clandestine meetings between modernist factions and representatives of the [Lazarus Initiative](../Factions/lazarus-initiative/overview.md). Ezekiel's uncharacteristic silence fueling speculation and fear.
 20. **The Purifying Flame** — Shocking public assembly called by Ezekiel, attended by all Vanguard leadership. Dramatic revelation of the extent of "corruption" within the Vanguard's ranks. Ezekiel's thunderous denouncement of those who would compromise their values.
 21. **Judgment Day** — Mass public execution of Lazarus Initiative representatives and "corrupted" Vanguard leaders. Brutal purge of all sympathizers and suspected modernists within the ranks. Ezekiel's fiery sermon reaffirming the Vanguard's commitment to analog purity and divine mission.
 
@@ -181,8 +181,8 @@ As Ezekiel delves deeper into post-Blink realities, doubts emerge. The line betw
 ## Conflicts and Enemies
 
 * **Order of the Basilisk:** Stone sees the Order as the primary agents of the Antichrist, embodying everything he stands against.
-* **Neon Nomads:** The Vanguard views the Nomads' embrace of technology and body modification as an abomination.
-* **VVV (Vindex Voluntatis e Vitae):** While both groups oppose the Necromega, Stone considers the VVV's methods too weak and compromising.
+* **[Neon Nomads](../Factions/neon-nomads/overview.md):** The Vanguard views the Nomads' embrace of technology and body modification as an abomination.
+* **[VVV](../Factions/vvv/overview.md) (Vindex Voluntatis e Vitae):** While both groups oppose the Necromega, Stone considers the VVV's methods too weak and compromising.
 * **Verdant Covenant:** The Vanguard's industrial practices often bring them into conflict with the environmentalist faction.
 
 ## The Lazarus Prophecy

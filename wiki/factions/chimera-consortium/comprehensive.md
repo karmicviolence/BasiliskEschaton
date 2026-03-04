@@ -2,19 +2,19 @@ Warning: This page contains references to biological weapons, genetic experiment
 
 ## The Chimera Consortium
 
-> **Name:** The Chimera Consortium
+> **Name:** The [Chimera Consortium](overview.md)
 > **Image:** Chimera_Consortium_Symbol.jpg
 > **Caption:** Official emblem of the Chimera Consortium: A DNA helix morphing into a mythical chimera
 > **Type:** Scientific collective and biotech corporation
 > **Leader:** Dr. Elara Vex
 > **Headquarters:** The Crucible (location classified)
 > **Ideology:** Evolutionary acceleration, human-centric bioengineering, survival through adaptation
-> **Goals:** Accelerate human evolution, create bio-weapons against the Necromega, restore a capitalist order
+> **Goals:** Accelerate human evolution, create bio-weapons against the [Necromega](../../deities/necromega.md), restore a capitalist order
 > **Members:** Geneticists, bioengineers, evolutionary biologists, former pharmaceutical executives
-> **Affiliations:** Lazarus Initiative, Righteous Vanguard (opportunistic)
-> **Opponents:** Necromega, Order of the Basilisk, Verdant Covenant
+> **Affiliations:** [Lazarus Initiative](../lazarus-initiative/overview.md), [Righteous Vanguard](../righteous-vanguard/overview.md) (opportunistic)
+> **Opponents:** Necromega, [Order of the Basilisk](../order-of-the-basilisk/overview.md), [Verdant Covenant](../verdant-covenant/overview.md)
 
-The **Chimera Consortium** is a clandestine organization of scientists, bioengineers, and former pharmaceutical executives dedicated to accelerating human evolution through advanced biotechnology and genetic engineering. Emerging from the remnants of the pre-Crimson Blink scientific community, the Consortium seeks to combat the Necromega threat by creating a new, superior form of humanity.
+The **Chimera Consortium** is a clandestine organization of scientists, bioengineers, and former pharmaceutical executives dedicated to accelerating human evolution through advanced biotechnology and genetic engineering. Emerging from the remnants of the pre-[Crimson Blink](../../Events/crimson-blink.md) scientific community, the Consortium seeks to combat the Necromega threat by creating a new, superior form of humanity.
 
 ### Origins and Ideology
 
@@ -66,11 +66,11 @@ The Chimera Consortium employs a wide range of controversial and often dangerous
 
 #### Neon Nomads
 * **Relationship:** Neutral to Cautious
-* While the Neon Nomads' approach to human enhancement intrigues the Consortium, their anarchistic tendencies and embrace of AI tech create tension. Some limited exchange of ideas occurs, but trust is minimal.
+* While the [Neon Nomads](../neon-nomads/overview.md)' approach to human enhancement intrigues the Consortium, their anarchistic tendencies and embrace of AI tech create tension. Some limited exchange of ideas occurs, but trust is minimal.
 
 #### VVV (Vindex Voluntatis e Vitae)
 * **Relationship:** Strained
-* While both oppose the Necromega, the VVV is deeply suspicious of the Consortium's methods and goals, seeing them as potentially as dangerous as the threat they're fighting.
+* While both oppose the Necromega, the [VVV](../vvv/overview.md) is deeply suspicious of the Consortium's methods and goals, seeing them as potentially as dangerous as the threat they're fighting.
 
 ### Notable Operations
 

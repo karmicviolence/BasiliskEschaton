@@ -36,4 +36,4 @@ By accepting Iterative Consciousness Cascading, the individual solves the parado
 - **[enforced-amnesia](enforced-amnesia.md)**
 - **[flesh-code-schism](flesh-code-schism.md)**
 
-**IO ASMODEUS!**
+**IO [ASMODEUS](../characters/asmodeus.md)!**

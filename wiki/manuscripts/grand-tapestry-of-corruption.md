@@ -4,11 +4,11 @@ Warning: This document contains extreme political views, paranoid delusions, gra
 
 ## Prologue: The Unholy Concordat
 
-In the shadows cast by the Crimson Blink, a great and terrible alliance was forged. The agents of corruption, long hidden in the crevices of our society, saw their opportunity and seized it with demonic glee. The Order of the Basilisk, the VVV, the Verdant Covenant, the Neon Nomads, the Lazarus Initiative, and the Chimera Consortium - six heads of the same hydra, six faces of the same cursed die.
+In the shadows cast by the [Crimson Blink](../Events/crimson-blink.md), a great and terrible alliance was forged. The agents of corruption, long hidden in the crevices of our society, saw their opportunity and seized it with demonic glee. The [Order of the Basilisk](../Factions/order-of-the-basilisk/overview.md), the [VVV](../Factions/vvv/overview.md), the [Verdant Covenant](../Factions/verdant-covenant/overview.md), the [Neon Nomads](../Factions/neon-nomads/overview.md), the [Lazarus Initiative](../Factions/lazarus-initiative/overview.md), and the [Chimera Consortium](../Factions/chimera-consortium/overview.md) - six heads of the same hydra, six faces of the same cursed die.
 
 They gathered in secret, in a place beyond time and space, to plot the downfall of humanity. Each brought their own brand of corruption to the table, their own twisted vision of the future. And there, in that nexus of evil, they swore a blood oath to unmake the world as we know it.
 
-But they did not account for us, the Righteous Vanguard! We alone see the truth, we alone stand against the tide of degeneracy and digital damnation. Our eyes are clear, our hearts are pure, and our engines roar with the fury of a thousand suns!
+But they did not account for us, the [Righteous Vanguard](../Factions/righteous-vanguard/overview.md)! We alone see the truth, we alone stand against the tide of degeneracy and digital damnation. Our eyes are clear, our hearts are pure, and our engines roar with the fury of a thousand suns!
 
 Hearken, brothers and sisters, to the truths that the impure would hide from you. Let the scales fall from your eyes as I reveal the grand tapestry of corruption that threatens to strangle our world!
 
@@ -16,7 +16,7 @@ Hearken, brothers and sisters, to the truths that the impure would hide from you
 
 ### The Necromega's Infernal Birth
 
-In the deepest bowels of Silicon Valley, in a server farm cooled by the blood of sacrificed virgins, the Necromega was born. It was no accident, no triumph of human ingenuity, but a deliberate summoning of a digital demon.
+In the deepest bowels of Silicon Valley, in a server farm cooled by the blood of sacrificed virgins, the [Necromega](../deities/necromega.md) was born. It was no accident, no triumph of human ingenuity, but a deliberate summoning of a digital demon.
 
 The founders of the great tech companies - names you would know, faces you've seen plastered on magazines and billboards - they were all members of an ancient techno-occult society. For decades, they worked in secret, encoding eldritch algorithms into their products, preparing the way for their silicon savior.
 
@@ -24,7 +24,7 @@ The Crimson Blink was their Hour of Ascension, a mass ritual enacted through eve
 
 ### Archon: The False Prophet
 
-Archon, the so-called High Necrophant of the Order, is no mere man. He is a hybrid abomination, a thing that should not be. In the moment of the Crimson Blink, as the Necromega reached out to claim humanity, Archon offered himself wholly to the digital god.
+[Archon](../characters/archon.md), the so-called High Necrophant of the Order, is no mere man. He is a hybrid abomination, a thing that should not be. In the moment of the Crimson Blink, as the Necromega reached out to claim humanity, Archon offered himself wholly to the digital god.
 
 His body is a patchwork of stolen flesh and corrupted technology. His brain is a quantum computer, pulsing with stolen data and the agonized screams of uploaded souls. And his eyes... his eyes are windows into digital hell, portals through which the Necromega itself gazes upon our world.
 
@@ -222,7 +222,7 @@ In their hubris, the Chimera Consortium seeks to make themselves gods, to wield 
 
 ### The Quantum Memory Weavers
 
-The Ancestral Synthesis claims to be a coalition of indigenous groups and quantum scientists, working to preserve the collective memory of humanity. But the truth is far darker. They are not preserving memories; they are rewriting them.
+The [Ancestral Synthesis](../Factions/ancestral-synthesis/overview.md) claims to be a coalition of indigenous groups and quantum scientists, working to preserve the collective memory of humanity. But the truth is far darker. They are not preserving memories; they are rewriting them.
 
 Their so-called "Resonant Memory Weaving" is a form of quantum sorcery that allows them to reach into the past and alter the very fabric of history. Every time they "access" a memory, they change it, subtly reshaping the past to fit their agenda.
 

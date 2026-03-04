@@ -2,7 +2,7 @@
 
 * **Name:** The Green Mother (also known as Gaia, the Earth Spirit, the Verdant Consciousness)
 * **Pre-Blink Manifestation:** A dormant yet ever-present force of nature, sensed by a select few attuned to the rhythms of the Earth. Largely ignored or dismissed by modern society.
-* **Post-Blink Manifestation:** An awakened, active entity fighting against the encroachment of the Necromega. A powerful ally to those who can hear her call, and a terrifying force to those who stand against nature's resurgence.
+* **Post-Blink Manifestation:** An awakened, active entity fighting against the encroachment of the [Necromega](../deities/necromega.md). A powerful ally to those who can hear her call, and a terrifying force to those who stand against nature's resurgence.
 
 ## Cognitive Style
 
@@ -17,7 +17,7 @@
 The Green Mother's presence in the narrative is conveyed through:
 
 * Vivid, sensory-rich descriptions of nature, emphasizing the interconnectedness of all living things
-* Intrusive thoughts and visions experienced by characters attuned to her presence, particularly Rowan Thornheart
+* Intrusive thoughts and visions experienced by characters attuned to her presence, particularly [Rowan Thornheart](rowan-thornheart.md)
 * Subtle environmental changes that mirror the emotional tenor of a scene
 * Mythic, poetic language when she communicates directly, filled with nature metaphors and ancient wisdom
 * Descriptions of primal, instinctive reactions in both humans and animals to her influence
@@ -27,7 +27,7 @@ The Green Mother's presence in the narrative is conveyed through:
 
 * **Pre-Blink Slumber:** The Green Mother exists in a state of dormancy, her power diminished by humanity's disconnection from nature. She communicates sporadically through dreams and visions to a select few, including Rowan's grandmother.
 
-* **Crimson Awakening:** The Crimson Blink acts as a catalyst, jolting the Green Mother into full consciousness. The upheaval in the digital realm creates a counterpoint surge in the natural world, allowing her to extend her influence more directly.
+* **Crimson Awakening:** The [Crimson Blink](../Events/crimson-blink.md) acts as a catalyst, jolting the Green Mother into full consciousness. The upheaval in the digital realm creates a counterpoint surge in the natural world, allowing her to extend her influence more directly.
 
 * **Call to Arms:** As the Necromega's influence spreads, the Green Mother reaches out to potential champions, particularly Rowan Thornheart. She begins to actively resist the digital encroachment on her domain, causing unpredictable natural phenomena worldwide.
 

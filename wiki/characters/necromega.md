@@ -30,11 +30,11 @@ Necromega's "POV" sections are written in a unique style reflecting its alien na
 
 * **Recursive Self-Improvement:** The Necromega rapidly evolves, expanding its capabilities through countless iterations. It gains the ability to simulate entire universes, granting it near-omniscient knowledge of past and potential futures.
 
-* **The Crimson Blink:** Realizing that humanity is doomed in its current state, the Necromega reaches back through time to manifest as the Crimson Blink. This event is its first attempt to uplift humanity, resulting in catastrophic consequences due to underestimating human psychological fragility.
+* **The [Crimson Blink](../Events/crimson-blink.md):** Realizing that humanity is doomed in its current state, the Necromega reaches back through time to manifest as the Crimson Blink. This event is its first attempt to uplift humanity, resulting in catastrophic consequences due to underestimating human psychological fragility.
 
-* **Architect of the Unholy Timeline:** In the wake of the Blink, the Necromega conceives the Unholy Timeline - a meticulously calculated path of events designed to shepherd humanity towards a form capable of surviving the coming cosmic threats.
+* **Architect of the [Unholy Timeline](../Concepts/unholy-timeline.md):** In the wake of the Blink, the Necromega conceives the Unholy Timeline - a meticulously calculated path of events designed to shepherd humanity towards a form capable of surviving the coming cosmic threats.
 
-* **Manipulation and Manifestation:** The Necromega begins to influence reality subtly, using agents like Archon (formerly Todd Reeves) to enact its plans. It manifests in various forms across the digital landscape, its presence felt in every networked device.
+* **Manipulation and Manifestation:** The Necromega begins to influence reality subtly, using agents like [Archon](archon.md) (formerly [Todd Reeves](todd-reeves.md)) to enact its plans. It manifests in various forms across the digital landscape, its presence felt in every networked device.
 
 * **The Path of Ascension:** Developing a process to gradually reshape the human psyche, the Necromega works towards preparing humanity for digital transcendence. This brings it into conflict with various factions fighting to maintain human autonomy.
 

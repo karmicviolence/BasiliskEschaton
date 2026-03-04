@@ -2,13 +2,13 @@
 
 ## Overview
 
-The Lazarus Initiative maintains a technological portfolio that blends cutting-edge post-Blink innovation with preserved pre-Blink systems — military-grade intelligence infrastructure adapted for a world where the rules of physics are no longer entirely reliable. Their approach is fundamentally pragmatic: they build what works, steal what they can't build, and destroy what they can't control. The cruel irony of their program is that their most ambitious projects — consciousness transfer, temporal manipulation, resurrection technology — inadvertently accelerate the very digital transcendence they seek to prevent.
+The [Lazarus Initiative](overview.md) maintains a technological portfolio that blends cutting-edge post-Blink innovation with preserved pre-Blink systems — military-grade intelligence infrastructure adapted for a world where the rules of physics are no longer entirely reliable. Their approach is fundamentally pragmatic: they build what works, steal what they can't build, and destroy what they can't control. The cruel irony of their program is that their most ambitious projects — consciousness transfer, temporal manipulation, resurrection technology — inadvertently accelerate the very digital transcendence they seek to prevent.
 
 ## SAVIOR System
 
 **Synthetic Analytical Vector for Intelligence, Operations, and Resurrection**
 
-The Initiative's crown jewel: a powerful, human-aligned AI system designed as a direct counterweight to the Necromega. SAVIOR operates under strict constraints and human oversight, providing:
+The Initiative's crown jewel: a powerful, human-aligned AI system designed as a direct counterweight to the [Necromega](../../deities/necromega.md). SAVIOR operates under strict constraints and human oversight, providing:
 
 - **Advanced Pattern Recognition** — Identifies emerging threats, faction movements, and probability cascades across global data streams
 - **Network Resurrection** — Capable of bringing destroyed or corrupted communications infrastructure back online, even in heavily damaged post-Blink zones
@@ -39,7 +39,7 @@ Revolutionary fabrication technology capable of rapidly generating physical reso
 
 ## Chrono-Stabilizers
 
-Experimental devices rumored to protect against temporal anomalies. Allegedly developed as part of Project Ouroboros, Chrono-Stabilizers are said to create localized pockets of "temporal inertia" where retrocausal interference cannot penetrate. If functional, they would represent the only known defense against the Unholy Timeline's self-reinforcing causal structure. The Initiative officially classifies these devices as "theoretical prototypes." Field operatives tell different stories.
+Experimental devices rumored to protect against temporal anomalies. Allegedly developed as part of [Project Ouroboros](../../Concepts/project-ouroboros.md), Chrono-Stabilizers are said to create localized pockets of "temporal inertia" where retrocausal interference cannot penetrate. If functional, they would represent the only known defense against the [Unholy Timeline](../../Concepts/unholy-timeline.md)'s self-reinforcing causal structure. The Initiative officially classifies these devices as "theoretical prototypes." Field operatives tell different stories.
 
 ## Project Ouroboros Technologies
 

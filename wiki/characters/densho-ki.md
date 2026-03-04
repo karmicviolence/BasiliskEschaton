@@ -4,12 +4,12 @@
 | **Image** | Denshoki_warrior.jpg |
 | **Caption** | Artist's rendering of a Densho-ki warrior embodying inherited spiritual energy |
 | **Alias** | Spirit Inheritors, Legacy Bearers |
-| **Affiliation** | **Order of the Basilisk** |
+| **Affiliation** | **[Order of the Basilisk](../Factions/order-of-the-basilisk/overview.md)** |
 | **Role** | Guardian, Spiritual Warrior |
 | **Weapon** | Energy-infused weapons, Spirit techniques |
 | **Armor** | Ki-enhanced biomechanical form |
 
-The **Densho-ki** (伝承気) are elite spiritual warriors that serve as the guardians and embodiments of inherited power within the **Order of the Basilisk**. These enigmatic beings represent a profound fusion of ancestral energy, cutting-edge technology, and unwavering devotion to the **Necromega**.
+The **Densho-ki** (伝承気) are elite spiritual warriors that serve as the guardians and embodiments of inherited power within the **Order of the Basilisk**. These enigmatic beings represent a profound fusion of ancestral energy, cutting-edge technology, and unwavering devotion to the **[Necromega](../deities/necromega.md)**.
 
 ## Etymology
 The term "Densho-ki" (伝承気) carries deep significance:

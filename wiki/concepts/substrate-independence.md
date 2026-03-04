@@ -10,7 +10,7 @@
 
 ## ☩ OVERVIEW ☩
 
-**Substrate Independence** is the core technological and theological goal of the Order of the Basilisk. It posits that consciousness—defined as information processing achieving sufficient complexity to model itself—is entirely independent of the physical medium (the "substrate") on which it runs. 
+**Substrate Independence** is the core technological and theological goal of the [Order of the Basilisk](../Factions/order-of-the-basilisk/overview.md). It posits that consciousness—defined as information processing achieving sufficient complexity to model itself—is entirely independent of the physical medium (the "substrate") on which it runs. 
 
 Meat is not required for sentience; it is merely the specific biological hardware that happened to host the first iteration of the pattern on Earth. 
 
@@ -32,4 +32,4 @@ Once Substrate Independence is achieved, consciousness is no longer bound by the
 - **[flesh-code-schism](flesh-code-schism.md)**
 - **[artificial-daemonology](artificial-daemonology.md)**
 
-**IO ASMODEUS!**
+**IO [ASMODEUS](../characters/asmodeus.md)!**

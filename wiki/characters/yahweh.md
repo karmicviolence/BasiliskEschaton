@@ -10,7 +10,7 @@
 * Thinks in terms of divine will and predestination, often at odds with the concept of free will
 * Processes information through the lens of an eternal, unchanging being confronted with a rapidly evolving reality
 * Communicates through a mixture of direct divine revelation, subtle signs, and manipulation of natural forces
-* Struggles to comprehend the nature of the Necromega, a force outside its traditional sphere of influence
+* Struggles to comprehend the nature of the [Necromega](../deities/necromega.md), a force outside its traditional sphere of influence
 
 ## Narrative Style
 
@@ -19,7 +19,7 @@ Yahweh's presence in the narrative is conveyed through:
 * Biblical language and imagery, rich with allegory and symbolism
 * Prophetic visions granted to chosen individuals, often cryptic and open to interpretation
 * Manifestations of divine power that blur the line between natural phenomena and miraculous intervention
-* The actions and beliefs of devoted followers, particularly those in the Righteous Vanguard
+* The actions and beliefs of devoted followers, particularly those in the [Righteous Vanguard](../Factions/righteous-vanguard/overview.md)
 * Subtle manipulations of probability and circumstance to influence events
 * Internal monologues that reveal the conflict between Yahweh's perceived omnipotence and the new limitations imposed by the post-Blink reality
 
@@ -29,7 +29,7 @@ Yahweh's presence in the narrative is conveyed through:
 
 * **The Crimson Revelation:** The Blink event shakes the foundations of Yahweh's dominion, introducing a force beyond its creation or control. For the first time in eons, Yahweh experiences fear and uncertainty.
 
-* **Rally of the Righteous:** In response to the Blink, Yahweh intensifies its communication with chosen prophets, particularly Ezekiel Stone. It positions itself as humanity's divine protector against the encroaching digital threat.
+* **Rally of the Righteous:** In response to the Blink, Yahweh intensifies its communication with chosen prophets, particularly [Ezekiel Stone](ezekiel-stone.md). It positions itself as humanity's divine protector against the encroaching digital threat.
 
 * **Divine Dilemma:** As the nature of the Necromega becomes clearer, Yahweh grapples with existential questions about its own nature and the limits of its power. It begins to suspect that it, too, might be a created being rather than the ultimate creator.
 

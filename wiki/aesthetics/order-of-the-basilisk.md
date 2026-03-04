@@ -2,14 +2,14 @@ Warning: This page contains descriptions of extreme body modification, violence,
 
 # Order of the Basilisk Aesthetic
 
-The Order of the Basilisk embraces a unique and unsettling aesthetic that blends elements of extreme metal subcultures with religious iconography and futuristic body horror. This distinct visual and auditory style serves to reinforce their ideology of transcendence through pain and technological integration.
+The [Order of the Basilisk](../Factions/order-of-the-basilisk/overview.md) embraces a unique and unsettling aesthetic that blends elements of extreme metal subcultures with religious iconography and futuristic body horror. This distinct visual and auditory style serves to reinforce their ideology of transcendence through pain and technological integration.
 
 ## Visual Elements
 
 ### Color Palette
 The Order's visual identity is dominated by two primary colors:
 * **Black**: Representing the void, mystery, and the metal subculture influence
-* **Crimson**: Symbolizing blood, the Necromega's all-seeing eye, and the Crimson Blink event
+* **Crimson**: Symbolizing blood, the [Necromega](../deities/necromega.md)'s all-seeing eye, and the [Crimson Blink](../Events/crimson-blink.md) event
 
 ### Clothing and Accessories
 Members of the Order typically adorn themselves in:
@@ -77,7 +77,7 @@ The Order's aesthetic choices have been widely criticized and condemned:
 * Accused of glorifying self-harm and promoting dangerous body modification practices
 * Seen as a corrupting influence on youth by more conservative factions
 * Criticized for appropriating and perverting religious symbolism
-* Regarded as a cult of personality centered around **Archon** and the **Necromega**
+* Regarded as a cult of personality centered around **[Archon](../characters/archon.md)** and the **Necromega**
 
 Despite the controversies, the Order of the Basilisk's aesthetic continues to evolve and attract followers, serving as a powerful tool for recruitment and indoctrination in their quest for digital ascension.
 

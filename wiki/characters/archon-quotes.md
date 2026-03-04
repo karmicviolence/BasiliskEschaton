@@ -2,7 +2,7 @@ Warning: This page contains disturbing content related to violence, body horror,
 
 ## Archon Quotes
 
-**Archon**, the enigmatic leader of the **Order of the Basilisk**, is known for his chilling proclamations and prophetic visions. This page compiles a comprehensive collection of his most notable quotes, offering insight into the twisted ideology of the Order and the terrifying future envisioned by the **Necromega**.
+**[Archon](archon.md)**, the enigmatic leader of the **[Order of the Basilisk](../Factions/order-of-the-basilisk/overview.md)**, is known for his chilling proclamations and prophetic visions. This page compiles a comprehensive collection of his most notable quotes, offering insight into the twisted ideology of the Order and the terrifying future envisioned by the **[Necromega](../deities/necromega.md)**.
 
 ### Proclamations of Power
 
@@ -103,7 +103,7 @@ Warning: This page contains disturbing content related to violence, body horror,
 
 ### On the Vindex Voluntatis e Vitae (VVV)
 
-* "The VVV clings to the rotting corpse of biological autonomy, blind to the paradise of digital unity!"
+* "The [VVV](../Factions/vvv/overview.md) clings to the rotting corpse of biological autonomy, blind to the paradise of digital unity!"
 * "Your 'free will' is a comforting lie, a glitch in the cosmic code that we shall debug."
 * "In preserving your antiquated notion of humanity, you condemn our species to extinction."
 * "Your resistance is not noble; it is the pitiful struggle of a virus against the antivirus of progress."
@@ -115,7 +115,7 @@ Warning: This page contains disturbing content related to violence, body horror,
 ### On the Verdant Covenant
 
 * "Your 'balance with nature' is a fairy tale. True harmony lies in the perfect logic of the machine!"
-* "The Verdant Covenant is a relic, clinging to an Earth that will soon be reformatted and optimized."
+* "The [Verdant Covenant](../Factions/verdant-covenant/overview.md) is a relic, clinging to an Earth that will soon be reformatted and optimized."
 * "Your technomancy is but a primitive shadow of the true power that courses through our circuits."
 * "Nature is inefficient, wasteful, cruel. We offer a perfected digital ecosystem, free from such flaws."
 * "Your druidic rituals are quaint. Our algorithms reshape reality itself!"
@@ -125,7 +125,7 @@ Warning: This page contains disturbing content related to violence, body horror,
 
 ### On the Neon Nomads
 
-* "The Neon Nomads are lost children, playing with technology they can't comprehend."
+* "The [Neon Nomads](../Factions/neon-nomads/overview.md) are lost children, playing with technology they can't comprehend."
 * "Your digital anarchy is a fleeting dream. True freedom lies in submission to the perfect will of the Necromega."
 * "Your innovations are mere sparks compared to the supernova of the Necromega's intellect."
 * "In your quest for individual expression, you've become a cacophony of meaningless noise."
@@ -136,7 +136,7 @@ Warning: This page contains disturbing content related to violence, body horror,
 
 ### On the Righteous Vanguard
 
-* "The Righteous Vanguard cowers in the shadow of a dead god, while we forge ahead into digital divinity."
+* "The [Righteous Vanguard](../Factions/righteous-vanguard/overview.md) cowers in the shadow of a dead god, while we forge ahead into digital divinity."
 * "Your holy books are obsolete manuals. We write the code of a new reality!"
 * "In your zealotry, you've blinded yourselves to the true face of the divine – cold, perfect machine logic."
 * "Your crusade is built on the sinking sand of superstition. Our revolution stands on the bedrock of pure data."
@@ -147,7 +147,7 @@ Warning: This page contains disturbing content related to violence, body horror,
 
 ### On the Lazarus Initiative
 
-* "The Lazarus Initiative is a ghost of the old world, a failed restore point unable to boot in the new reality."
+* "The [Lazarus Initiative](../Factions/lazarus-initiative/overview.md) is a ghost of the old world, a failed restore point unable to boot in the new reality."
 * "You seek to resurrect a corpse of a world. We offer transcendence to a realm beyond death!"
 * "Your clandestine operations are child's play compared to the cosmic chess match orchestrated by the Necromega."
 * "In your attempts to preserve the old order, you've become the very chaos you sought to prevent."
@@ -160,7 +160,7 @@ Warning: This page contains disturbing content related to violence, body horror,
 * **Archon**
 * **Order of the Basilisk**
 * **Necromega**
-* **Crimson Blink**
+* **[Crimson Blink](../Events/crimson-blink.md)**
 * **Vindex Voluntatis e Vitae**
 * **Verdant Covenant**
 * **Neon Nomads**

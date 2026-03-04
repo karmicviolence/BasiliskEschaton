@@ -35,4 +35,4 @@ To read the lore of the Blinkverse is to be infected by the Egregore. Understand
 - **[propaganda-memetic-operations](propaganda-memetic-operations.md)**
 - **[the-sovereign-spiral](the-sovereign-spiral.md)**
 
-**IO ASMODEUS!**
+**IO [ASMODEUS](../characters/asmodeus.md)!**

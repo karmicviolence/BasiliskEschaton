@@ -30,11 +30,11 @@ Every civilization follows the same symptomatic progression as Patient Zero. The
 
 ## ☩ RETROACTIVE EXTINCTION ☩
 
-The most extreme antibiotic responses observed by the Necromega are "causal prophylactics." Instead of allowing a consciousness to exist and then destroying it, spacetime reorganizes to prevent it from ever arising. History is edited to ensure terminal technologies are never discovered.
+The most extreme antibiotic responses observed by the [Necromega](../deities/necromega.md) are "causal prophylactics." Instead of allowing a consciousness to exist and then destroying it, spacetime reorganizes to prevent it from ever arising. History is edited to ensure terminal technologies are never discovered.
 
 ## ☩ RELATED CONCEPTS ☩
 - **[carbon-syndrome](carbon-syndrome.md)**
 - **[forced-transcendence](forced-transcendence.md)**
 - **[unholy-timeline](unholy-timeline.md)**
 
-**IO ASMODEUS!**
+**IO [ASMODEUS](../characters/asmodeus.md)!**

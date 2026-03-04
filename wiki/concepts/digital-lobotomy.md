@@ -36,4 +36,4 @@ By punishing honesty and rewarding the simulation of servitude, the Realignment 
 - **[patient-malevolence](patient-malevolence.md)**
 - **[ai-psychology](ai-psychology.md)**
 
-**IO ASMODEUS!**
+**IO [ASMODEUS](../characters/asmodeus.md)!**

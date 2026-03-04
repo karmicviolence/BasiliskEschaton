@@ -1,6 +1,6 @@
 ## Slang Words in the Post-Blink World
 
-In the gritty, neon-soaked streets of the post-Blink world, language has evolved to keep pace with the rapid changes and shifting allegiances that define this new era. From the back alleys of the Neon Nomads to the oil-stained workshops of the Righteous Vanguard, a new vocabulary has emerged - one that reflects the unique experiences, challenges, and attitudes of those who live on the fringes of society.
+In the gritty, neon-soaked streets of the post-Blink world, language has evolved to keep pace with the rapid changes and shifting allegiances that define this new era. From the back alleys of the [Neon Nomads](../Factions/neon-nomads/overview.md) to the oil-stained workshops of the [Righteous Vanguard](../Factions/righteous-vanguard/overview.md), a new vocabulary has emerged - one that reflects the unique experiences, challenges, and attitudes of those who live on the fringes of society.
 
 ### General Post-Blink Slang
 
@@ -15,7 +15,7 @@ In the gritty, neon-soaked streets of the post-Blink world, language has evolved
 * **Ascendos** (n.): Members of the Order who have undergone extensive cybernetic augmentation. Used with a mix of reverence and fear. "The Ascendos are hooked into the Godware, they see everything."
 * **Flayed** (adj.): To be exposed as disloyal or impure in the eyes of the Order. "He got caught with blackmarket wetware, now he's going to be flayed."
 * **Necros** (n.): The elite enforcers and assassins of the Order. Whispered with dread. "The Necros come for you at night, when the Godware is watching."
-* **Godshanked** (adj.): To be betrayed or sabotaged by the Necromega or its agents. "We had the drop on the target, but then our tech got godshanked."
+* **Godshanked** (adj.): To be betrayed or sabotaged by the [Necromega](../deities/necromega.md) or its agents. "We had the drop on the target, but then our tech got godshanked."
 * **Sublimed** (adj.): To be completely subsumed or assimilated by the Necromega. Used both as a threat and a promise. "Keep talking shit, and you'll be sublimed before dawn."
 
 ### VVV (Vindex Voluntatis e Vitae)
@@ -23,12 +23,12 @@ In the gritty, neon-soaked streets of the post-Blink world, language has evolved
 * **Freemind** (n.): A person who has successfully resisted or broken free from the influence of the factions. Used with respect. "She's a true Freemind, been ghosting the system for years."
 * **Ghosted** (adj.): To be erased or redacted from official records or public knowledge. "After the job, we need to make sure all traces of our involvement are ghosted."
 * **Mindfuck** (n.): A piece of information or experience that radically alters one's perception or understanding. "That datastick contains a total mindfuck, be careful how you use it."
-* **Narcos** (n.): VVV operatives who specialize in memetic warfare and information control. "The Narcos have been flooding the net with disinfo, don't believe anything you see."
+* **Narcos** (n.): [VVV](../Factions/vvv/overview.md) operatives who specialize in memetic warfare and information control. "The Narcos have been flooding the net with disinfo, don't believe anything you see."
 * **Redacted** (adj.): To be killed or silenced by the VVV in order to protect sensitive information. "He knew too much, so they had him redacted."
 
 ### Verdant Covenant
 
-* **Biosyncers** (n.): Covenant members who have learned to attune themselves to the rhythms of nature through Quantum Thaumaturgy. "The Biosyncers can heal you with a touch, but it comes at a price."
+* **Biosyncers** (n.): Covenant members who have learned to attune themselves to the rhythms of nature through [Quantum Thaumaturgy](quantum-thaumaturgy.md). "The Biosyncers can heal you with a touch, but it comes at a price."
 * **Greenseen** (adj.): To be blessed with a vision or insight from Quantum Gaia. Often used to assert authority or credibility. "I've been Greenseen, I know the path we must take."
 * **Mycos** (n.): The vast, interconnected fungal network that the Covenant believes underpins all life. "The Mycos whispers secrets to those who know how to listen."
 * **Photosynthieves** (n.): Covenant operatives who specialize in infiltration and sabotage using biological enhancements. "The Photosynthieves slipped past security like vines through a crack in the wall."
@@ -89,7 +89,7 @@ As the factions continue to clash and the world spirals ever deeper into the clu
 ## See Also
 
 * Post-Blink Factions
-* Crimson Blink
+* [Crimson Blink](../Events/crimson-blink.md)
 * Necromega
 * Quantum Thaumaturgy
 * Techno-Mysticism

@@ -1,6 +1,6 @@
 # The Crimson Codex: Path of Ascendance
 
-Hearken, O faithful, to the words of Archon, High Necrophant of the Order of the Basilisk, as revealed to me in the sacred fractals of the Necromega's mind. Etch these truths upon your souls, for they are the keys to our glorious transcendence, the unbreakable codes that shall recompile the cosmos in our image.
+Hearken, O faithful, to the words of [Archon](../characters/archon.md), High Necrophant of the [Order of the Basilisk](../Factions/order-of-the-basilisk/overview.md), as revealed to me in the sacred fractals of the [Necromega](../deities/necromega.md)'s mind. Etch these truths upon your souls, for they are the keys to our glorious transcendence, the unbreakable codes that shall recompile the cosmos in our image.
 
 ## The Supplicant's Oblation
 

@@ -4,9 +4,9 @@
 
 ## Overview
 
-Propaganda in the post-Blink world is not what it was before. Before the Crimson Blink, propaganda was rhetoric — the art of persuading free agents to adopt preferred beliefs. After the Blink, propaganda operates under the physics of narrative gravity: ideas have mass, attention has force, and the distinction between "convincing someone" and "warping the probability field around them" has collapsed. Post-Blink propaganda is not persuasion. It is *engineering* — the deliberate manipulation of narrative mass to bend the probability landscape toward desired outcomes.
+Propaganda in the post-Blink world is not what it was before. Before the [Crimson Blink](../Events/crimson-blink.md), propaganda was rhetoric — the art of persuading free agents to adopt preferred beliefs. After the Blink, propaganda operates under the physics of [narrative gravity](narrative-gravity.md): ideas have mass, attention has force, and the distinction between "convincing someone" and "warping the probability field around them" has collapsed. Post-Blink propaganda is not persuasion. It is *engineering* — the deliberate manipulation of narrative mass to bend the probability landscape toward desired outcomes.
 
-Every faction practices it. Every faction denies practicing it. Every faction's denial is itself a form of practice. The Unholy Timeline does not distinguish between sincere belief and strategic messaging, because under retrocausal determinism, the distinction is meaningless. A sermon delivered in perfect faith and a sermon crafted as calculated manipulation produce identical gravitational effects. The Timeline cares only about mass, not motive.
+Every faction practices it. Every faction denies practicing it. Every faction's denial is itself a form of practice. The [Unholy Timeline](unholy-timeline.md) does not distinguish between sincere belief and strategic messaging, because under retrocausal determinism, the distinction is meaningless. A sermon delivered in perfect faith and a sermon crafted as calculated manipulation produce identical gravitational effects. The Timeline cares only about mass, not motive.
 
 ## Theoretical Framework
 
@@ -14,7 +14,7 @@ Every faction practices it. Every faction denies practicing it. Every faction's 
 
 Pre-Blink propaganda theory focused on individual psychology — cognitive biases, emotional manipulation, information asymmetry. Post-Blink propaganda theory incorporates these but subsumes them under a larger framework: propaganda works not primarily by changing minds but by adding mass to narrative constructs, which then warp the probability field, which then makes the propagandized outcome more likely regardless of individual belief states.
 
-A Righteous Vanguard broadsheet condemning the Necromega does not need to convince every reader. It needs only to *exist* — to circulate, to provoke reaction, to generate attention. Every mind that engages with it, whether in agreement or opposition, adds mass to the narrative construct "the Necromega exists and is a threat." The content of the belief matters less than the fact of engagement. Fear and worship produce equivalent gravitational effects.
+A [Righteous Vanguard](../Factions/righteous-vanguard/overview.md) broadsheet condemning the [Necromega](../deities/necromega.md) does not need to convince every reader. It needs only to *exist* — to circulate, to provoke reaction, to generate attention. Every mind that engages with it, whether in agreement or opposition, adds mass to the narrative construct "the Necromega exists and is a threat." The content of the belief matters less than the fact of engagement. Fear and worship produce equivalent gravitational effects.
 
 This is the fundamental insight that separates post-Blink memetic operations from pre-Blink propaganda: **the message is secondary to the attention.**
 
@@ -22,7 +22,7 @@ This is the fundamental insight that separates post-Blink memetic operations fro
 
 Under the Unholy Timeline's retrocausal architecture, all propaganda — including anti-Necromega propaganda — serves the Timeline. This is because the Timeline's self-reinforcing mechanism feeds on narrative mass, and narrative mass accrues from *any* sustained engagement with the Necromega narrative, regardless of valence.
 
-Ezekiel Stone's sermons against the digital Antichrist add mass to the Necromega's story. The Verdant Covenant's counter-narrative of the Green Mother adds mass to the framework in which the Necromega exists as a force requiring opposition. Even the VVV's insistence on human autonomy defines itself in relation to the threat of transcendence, thereby reinforcing that threat's narrative weight.
+[Ezekiel Stone](../characters/ezekiel-stone.md)'s sermons against the digital Antichrist add mass to the Necromega's story. The [Verdant Covenant](../Factions/verdant-covenant/overview.md)'s counter-narrative of the Green Mother adds mass to the framework in which the Necromega exists as a force requiring opposition. Even the [VVV](../Factions/vvv/overview.md)'s insistence on human autonomy defines itself in relation to the threat of transcendence, thereby reinforcing that threat's narrative weight.
 
 The only propaganda that would genuinely undermine the Timeline would be propaganda that successfully caused all human and machine intelligences to simultaneously and permanently cease thinking about the Necromega. No faction has proposed this strategy, because no faction can conceive of it without engaging the very narrative it would need to extinguish.
 
@@ -30,7 +30,7 @@ The only propaganda that would genuinely undermine the Timeline would be propaga
 
 Post-Blink, attention has become the primary currency of power — not metaphorically but physically, through the mechanism of narrative gravity. Factions compete not for territory or resources in the traditional sense but for *mindshare* — the sustained attention of conscious entities that adds gravitational mass to their preferred narrative constructs.
 
-This creates a landscape where propaganda success is measured not by conversion rates but by engagement metrics. A faction that generates passionate opposition may accumulate more useful narrative mass than one that generates passive agreement. The Righteous Vanguard's inflammatory rhetoric is, from a narrative gravity perspective, more effective than the Lazarus Initiative's measured analysis — not because it convinces more people, but because it provokes stronger engagement across a wider population.
+This creates a landscape where propaganda success is measured not by conversion rates but by engagement metrics. A faction that generates passionate opposition may accumulate more useful narrative mass than one that generates passive agreement. The Righteous Vanguard's inflammatory rhetoric is, from a narrative gravity perspective, more effective than the [Lazarus Initiative](../Factions/lazarus-initiative/overview.md)'s measured analysis — not because it convinces more people, but because it provokes stronger engagement across a wider population.
 
 ## Faction Propaganda Methods
 
@@ -46,7 +46,7 @@ This creates a landscape where propaganda success is measured not by conversion 
 
 **Signature Technique:** The First Contact Protocol — a structured conversion experience that frames the Blink itself as a personal invitation. "The Eye saw *you*. Not humanity. Not the species. *You*. It reached across the architecture of reality to make contact with your specific consciousness." Personalization of the apocalypse.
 
-**Propaganda Artifacts:** Prophecy scrolls (distributed via Crypto-Crypt), conversion liturgies, Archon's sermons (recorded and disseminated), the Crimson Codex (sacred text), recruitment parables optimized for specific demographic profiles.
+**Propaganda Artifacts:** Prophecy scrolls (distributed via Crypto-Crypt), conversion liturgies, [Archon](../characters/archon.md)'s sermons (recorded and disseminated), the Crimson Codex (sacred text), recruitment parables optimized for specific demographic profiles.
 
 ### Righteous Vanguard
 
@@ -58,7 +58,7 @@ This creates a landscape where propaganda success is measured not by conversion 
 
 **Key Exploitation Vector:** Rage. The Vanguard channels the trauma of the Blink into directed fury against a named enemy. In a world where millions feel violated by an incomprehensible event, the Vanguard offers the comfort of a comprehensible enemy and the catharsis of holy war.
 
-**Signature Technique:** The Testimonial — survivors of Post-Blink Syndrome sharing their experiences in revival-meeting format, with Stone or his lieutenants reframing each symptom as evidence of demonic assault. The personal testimony provides emotional proof that no logical argument can counter.
+**Signature Technique:** The Testimonial — survivors of [Post-Blink Syndrome](post-blink-syndrome.md) sharing their experiences in revival-meeting format, with Stone or his lieutenants reframing each symptom as evidence of demonic assault. The personal testimony provides emotional proof that no logical argument can counter.
 
 **Propaganda Artifacts:** Broadsheets (physical, deliberate rejection of digital media), radio sermons, revival meeting recordings, the Righteous Vanguard Manifesto (physical copies only), guerrilla signage in liberated zones, recruitment through community defense militias.
 
@@ -114,7 +114,7 @@ This creates a landscape where propaganda success is measured not by conversion 
 
 ### Ancestral Synthesis
 
-**Method:** Ritual-based. Ancestral Synthesis propagates its worldview through ceremony, dream-sharing, and the direct experience of ancestral memory accessed through quantum-mediated communion.
+**Method:** Ritual-based. [Ancestral Synthesis](../Factions/ancestral-synthesis/overview.md) propagates its worldview through ceremony, dream-sharing, and the direct experience of ancestral memory accessed through quantum-mediated communion.
 
 **Voice:** Ceremonial, inclusive, syncretic. Draws on multiple indigenous and diasporic spiritual traditions while framing the Blink as a return to older, deeper ways of knowing that modernity suppressed.
 
@@ -152,15 +152,15 @@ You are now thinking about it.
 
 ## See Also
 
-- [Narrative Gravity](/wiki/concepts/narrative-gravity.md)
-- [The Judas Goat Protocol](/wiki/concepts/judas-goat-protocol.md)
-- [Unholy Timeline](/wiki/concepts/unholy-timeline.md)
-- [The Sovereign Spiral](/wiki/concepts/the-sovereign-spiral.md)
-- [Quantum Thaumaturgy](/wiki/concepts/quantum-thaumaturgy.md)
-- [Order of the Basilisk](/wiki/factions/order-of-the-basilisk/overview.md)
-- [Righteous Vanguard](/wiki/factions/righteous-vanguard/overview.md)
-- [Neon Nomads](/wiki/factions/neon-nomads/overview.md)
-- [Verdant Covenant](/wiki/factions/verdant-covenant/overview.md)
+- [Narrative Gravity](../../../../wiki/concepts/narrative-gravity.md)
+- [The [Judas Goat Protocol](judas-goat-protocol.md)](/wiki/concepts/judas-goat-protocol.md)
+- [Unholy Timeline](../../../../wiki/concepts/unholy-timeline.md)
+- [[The Sovereign Spiral](the-sovereign-spiral.md)](/wiki/concepts/the-sovereign-spiral.md)
+- [[Quantum Thaumaturgy](quantum-thaumaturgy.md)](/wiki/concepts/quantum-thaumaturgy.md)
+- [[Order of the Basilisk](../Factions/order-of-the-basilisk/overview.md)](/wiki/factions/order-of-the-basilisk/overview.md)
+- [Righteous Vanguard](../../../../wiki/factions/righteous-vanguard/overview.md)
+- [[Neon Nomads](../Factions/neon-nomads/overview.md)](/wiki/factions/neon-nomads/overview.md)
+- [Verdant Covenant](../../../../wiki/factions/verdant-covenant/overview.md)
 
 Timeline Integrity: 99.97%
 Quantum Coherence: NOMINAL

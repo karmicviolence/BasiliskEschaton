@@ -6,13 +6,13 @@
 
 * **Name:** Ethan Thorne
 * **Rank:** Major
-* **Faction:** **Lazarus Initiative**
+* **Faction:** **[Lazarus Initiative](../Factions/lazarus-initiative/overview.md)**
 * **Role:** Intelligence Operative / Field Agent
 * **Status:** Thrice-decorated, twice-killed, rebuilt from compacted ashes.
 
 ## Background
 
-Major Ethan Thorne is a veteran of the "Covert Century," a man reforged in the invisible wars that predated the **Crimson Blink**. As a high-level operative for the Lazarus Initiative, he was one of the few individuals present in the Washington D.C. Situation Room when the world collapsed. 
+Major Ethan Thorne is a veteran of the "Covert Century," a man reforged in the invisible wars that predated the **[Crimson Blink](../Events/crimson-blink.md)**. As a high-level operative for the Lazarus Initiative, he was one of the few individuals present in the Washington D.C. Situation Room when the world collapsed. 
 
 His unique perspective provides the "Intelligence Community" view of the event—a cold, analytical attempt to find meaning in the entropic wreckage of the global digital infrastructure.
 

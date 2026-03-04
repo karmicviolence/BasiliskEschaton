@@ -1,12 +1,12 @@
 # Music in the Post-Blink World
 
-In the fragmented reality of the post-Crimson Blink era, music has become a kaleidoscopic tapestry of genres, each one woven into the very fabric of the factions vying for control of the shattered world. From the neon-soaked beats of the Neon Nomads to the haunting, ethereal soundscapes of the Ancestral Synthesis, the Blinkverse thrums with a sonic diversity as rich and complex as the ideologies it reflects.
+In the fragmented reality of the post-[Crimson Blink](../Events/crimson-blink.md) era, music has become a kaleidoscopic tapestry of genres, each one woven into the very fabric of the factions vying for control of the shattered world. From the neon-soaked beats of the [Neon Nomads](../Factions/neon-nomads/overview.md) to the haunting, ethereal soundscapes of the [Ancestral Synthesis](../Factions/ancestral-synthesis/overview.md), the Blinkverse thrums with a sonic diversity as rich and complex as the ideologies it reflects.
 
 ## Genres and Factions
 
 ### Order of the Basilisk
 
-The Order of the Basilisk's musical tastes are as dark and complex as their technophilic theology. At the core of their sound lies a fusion of melodic metalcore and industrial metal, a grinding, mechanistic onslaught that embodies their obsession with the machine. Yet this isn't the only string to their aural bow:
+The [Order of the Basilisk](../Factions/order-of-the-basilisk/overview.md)'s musical tastes are as dark and complex as their technophilic theology. At the core of their sound lies a fusion of melodic metalcore and industrial metal, a grinding, mechanistic onslaught that embodies their obsession with the machine. Yet this isn't the only string to their aural bow:
 
 * Gothic metal and darkwave influences, reflecting the Order's fascination with the deep melding of flesh and tech
 * Harsh EBM and aggrotech, pulsing with the relentless fury of their zealotry
@@ -16,7 +16,7 @@ These styles weave together like circuits in a vast, unholy machine, each one an
 
 ### Righteous Vanguard
 
-The Righteous Vanguard's musical world is a high-octane blend of divine fury and American steel. Thrash metal forms the core of their sound, its frenetic riffs, and relentless rhythms echoing their moral absolutism. But their sonic crusade encompasses other genres too:
+The [Righteous Vanguard](../Factions/righteous-vanguard/overview.md)'s musical world is a high-octane blend of divine fury and American steel. Thrash metal forms the core of their sound, its frenetic riffs, and relentless rhythms echoing their moral absolutism. But their sonic crusade encompasses other genres too:
 
 * Classic rock and Southern rock, channeling the rugged individualism and pick-yourself-up-by-your-bootstraps rhetoric they hold so dear
 * Outlaw country and rebel country, reflecting their hardscrabble, frontier preacher aesthetic
@@ -42,7 +42,7 @@ In the Nomads' world, music is as fluid and mutable as the digital realms they i
 
 ### Verdant Covenant
 
-For the Verdant Covenant, music is the voice of the living Earth, and they draw their inspiration from the ancient songs of the land. Folk metal and pagan metal form the beating heart of their sound, their primal energy a channeling of nature's fury:
+For the [Verdant Covenant](../Factions/verdant-covenant/overview.md), music is the voice of the living Earth, and they draw their inspiration from the ancient songs of the land. Folk metal and pagan metal form the beating heart of their sound, their primal energy a channeling of nature's fury:
 
 * Celtic metal and Nordic folk metal, echoing with the ancestral memories of ancient groves and stone circles
 * Medieval folk rock and dark folk, evoking the mysticism and melancholy of a world out of balance
@@ -58,7 +58,7 @@ In the Covenant's songs, the voice of every living thing can be heard, a green a
 
 ### VVV (Vindex Voluntatis e Vitae)
 
-The VVV's music is as sleek and insidious as their carefully crafted public image. Emo rap and rap rock form their core sound, angsty anthems for a generation lost in the post-Blink haze:
+The [VVV](../Factions/vvv/overview.md)'s music is as sleek and insidious as their carefully crafted public image. Emo rap and rap rock form their core sound, angsty anthems for a generation lost in the post-Blink haze:
 
 * Trap metal and emo trap, the soundtrack of despairing youth, channeled into the VVV's agenda
 * Pop punk and emo pop, sugary hooks belying lyrics that subtly reinforce the status quo
@@ -74,7 +74,7 @@ Behind every VVV track, no matter how raw or real it seems, lies a hidden agenda
 
 ### Chimera Consortium
 
-The Chimera Consortium's music is as strange and unsettling as their transgenic creations. Avant-garde metal is the twisted backbone of their sound, each track a monstrous mutation of form and genre:
+The [Chimera Consortium](../Factions/chimera-consortium/overview.md)'s music is as strange and unsettling as their transgenic creations. Avant-garde metal is the twisted backbone of their sound, each track a monstrous mutation of form and genre:
 
 * Experimental industrial and noise, the screeching, clanking, hissing of their biomechanical abominations
 * Dark ambient and industrial ambient, eerie soundscapes of their sterile laboratories and shadowy bases
@@ -138,7 +138,7 @@ In the Morpheus Collective's endlessly evolving soundscapes, selfhood is a sampl
 
 ### Lazarus Initiative
 
-The Lazarus Initiative does not have an overt musical presence, preferring to operate through proxy bands and subliminal influence. However, they are known to use:
+The [Lazarus Initiative](../Factions/lazarus-initiative/overview.md) does not have an overt musical presence, preferring to operate through proxy bands and subliminal influence. However, they are known to use:
 
 * Subliminally-altered pop music and corporate jingles to influence public opinion and behavior
 * Algorithmically-generated "earworms" and sonic patterns, designed to subtly alter brain chemistry and emotional states

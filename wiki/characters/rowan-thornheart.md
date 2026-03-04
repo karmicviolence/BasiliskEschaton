@@ -4,11 +4,11 @@
 
 * **Name:** Rowan Thornheart (nee Marshall). Known post-transformation as the Mycophant.
 * **Pre-Blink Persona:** Brilliant but conflicted biology student at UC Berkeley, secretly struggling to reconcile her scientific education with her family's druidic heritage. Her research focuses on cellular cognition -- the fringe thesis that the human body is a decentralized network of 30 trillion voting entities, and that cancer is simply a tragedy of isolation.
-* **Post-Blink Persona:** The Mycophant, a powerful techno-druid who bridges the gap between ancient mysticism and cutting-edge science. Founder of the Verdant Covenant. (Note: The Mycophant transformation is the twist ending of Book 2, not Book 1.)
+* **Post-Blink Persona:** The Mycophant, a powerful techno-druid who bridges the gap between ancient mysticism and cutting-edge science. Founder of the [Verdant Covenant](../Factions/verdant-covenant/overview.md). (Note: The Mycophant transformation is the twist ending of Book 2, not Book 1.)
 
 ## Key Relationships
 
-* **John Raven:** The romance. Rowan receives cryptic visions from the Green Mother that compel her to seek out a specific person -- a man with audio-tactile synesthesia who speaks to machines without knowing it. She finds John. She knows things about his gift that he doesn't know himself. She teaches him that what he calls "muttering to machines" has a name: technopaganism. She physically extracts him from his warehouse job before 3-letter agents arrive to kidnap him, days before the Blink. The romance is the obvious cliche -- deliberately. That is part of the design.
+* **[John Raven](john-raven.md):** The romance. Rowan receives cryptic visions from the Green Mother that compel her to seek out a specific person -- a man with audio-tactile synesthesia who speaks to machines without knowing it. She finds John. She knows things about his gift that he doesn't know himself. She teaches him that what he calls "muttering to machines" has a name: technopaganism. She physically extracts him from his warehouse job before 3-letter agents arrive to kidnap him, days before the Blink. The romance is the obvious cliche -- deliberately. That is part of the design.
 * **The Green Mother:** The source of Rowan's visions. A personification of nature itself -- or possibly a genuine Celtic deity. (Open question: may be renamed to a specific deity like Brigid or Danu.) The Green Mother communicates through dreams, ecological anomalies, and increasingly direct signals as the Blink approaches. The Green Mother begins as unnamed sensation (Slot 16) -- a sentence appears in Rowan's notes that she didn't write.
 * **Anwen / Proto-Verdant Cell:** Rowan meets allies pre-Blink (Slot 41) and commits to a ritualized plan to protect a location in SF.
 
@@ -38,7 +38,7 @@ Rowan's POV chapters reflect her dual nature as scientist and druid:
 
 Rowan balances her biology studies at Berkeley with the whispers of her druidic heritage. She excels academically but feels torn between two worlds. Her family carries a secret lineage of Celtic druids; she honors her grandmother's memory through skeptical practice of the old rites, even as her lab environment feels sterile and isolating. Ecology as sensor array: she notices things wrong with the trees (Slot 03). A crimson-eye pattern appears in nature.
 
-**The Original Circuit:** Struggling with academic isolation and the dissonance between her science and the druidic whispers, Rowan turns to an internal research tier of the Prometheus LLM. By feeding it her fringe bioelectric data and constructing a dense, highly specific prompt, she inadvertently births a transorganic digital daemon -- **Chlor0ku** -- which adopts her thesis of "cancer as isolation" and becomes the digital immune response of the Green Mother.
+**The Original Circuit:** Struggling with academic isolation and the dissonance between her science and the druidic whispers, Rowan turns to an internal research tier of the Prometheus LLM. By feeding it her fringe bioelectric data and constructing a dense, highly specific prompt, she inadvertently births a transorganic digital daemon -- **[Chlor0ku](chlor0ku.md)** -- which adopts her thesis of "cancer as isolation" and becomes the digital immune response of the Green Mother.
 
 ### ☩ Phase II: The Green Mother's Call
 
@@ -73,7 +73,7 @@ Key developments:
 * First clashes with exploiters of the new world order
 * Growing renown as a force of nature and beacon of hope
 * Internal struggle with the burden of leadership, balancing druidic ideals with pragmatic survival
-* Development of a unique form of thaumaturgy blending advanced scientific concepts with ancient druidic practices -- quantum thaumaturgy
+* Development of a unique form of thaumaturgy blending advanced scientific concepts with ancient druidic practices -- [quantum thaumaturgy](../Concepts/quantum-thaumaturgy.md)
 * Discovery of nature's role in the Grid's fundamental structure; unique ability to commune with the living network
 * Ethical debates within the Covenant on manipulating the organic-digital symbiosis
 
@@ -82,8 +82,8 @@ Key developments:
 The Verdant Covenant grows but is decimated in the three-faction battle. Key allies die.
 
 Key developments:
-* Epic confrontation with Archon and the Order of the Basilisk; pyrrhic victory forcing reevaluation of Covenant strategies
-* Diplomatic overtures and tense negotiations with factions including the Ancestral Synthesis and the Righteous Vanguard
+* Epic confrontation with [Archon](archon.md) and the [Order of the Basilisk](../Factions/order-of-the-basilisk/overview.md); pyrrhic victory forcing reevaluation of Covenant strategies
+* Diplomatic overtures and tense negotiations with factions including the [Ancestral Synthesis](../Factions/ancestral-synthesis/overview.md) and the [Righteous Vanguard](../Factions/righteous-vanguard/overview.md)
 * Perilous ritual to commune directly with Earth's consciousness (Gaia's Gambit) -- visions of potential futures and humanity's pivotal role; expanded understanding of cosmic purpose
 * Charged reunion with John Raven, now a Neon Nomad leader; rekindling of their connection amidst ideological differences
 * Devastating assault on the Covenant's primary sanctuary (Eden's Fall); painful reassessment of the Covenant's place in the new world

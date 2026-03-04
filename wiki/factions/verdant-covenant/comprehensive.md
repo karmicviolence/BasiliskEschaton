@@ -2,15 +2,15 @@ Warning: This page contains references to extreme ideologies, occult practices, 
 
 ## Verdant Covenant
 
-The **Verdant Covenant** is a powerful and enigmatic faction that emerged in the wake of the Crimson Blink. Blending ancient druidic practices with cutting-edge biotechnology and quantum mechanics, the Covenant seeks to restore balance to a world teetering on the brink of technological apocalypse. Their unique blend of nature worship and scientific innovation has made them a force to be reckoned with in the post-Blink landscape.
+The **[Verdant Covenant](overview.md)** is a powerful and enigmatic faction that emerged in the wake of the [Crimson Blink](../../Events/crimson-blink.md). Blending ancient druidic practices with cutting-edge biotechnology and quantum mechanics, the Covenant seeks to restore balance to a world teetering on the brink of technological apocalypse. Their unique blend of nature worship and scientific innovation has made them a force to be reckoned with in the post-Blink landscape.
 
 ### Origins
 
-The Verdant Covenant traces its roots to a clandestine gathering of ecologists, shamans, and rogue quantum physicists in the Amazon rainforest, mere days after the Crimson Blink. As the world reeled from the emergence of the Necromega, these visionaries saw an opportunity to reshape humanity's relationship with nature and technology.
+The Verdant Covenant traces its roots to a clandestine gathering of ecologists, shamans, and rogue quantum physicists in the Amazon rainforest, mere days after the Crimson Blink. As the world reeled from the emergence of the [Necromega](../../deities/necromega.md), these visionaries saw an opportunity to reshape humanity's relationship with nature and technology.
 
 Led by the enigmatic figure known only as **The Quantum Druid**, the founders of the Covenant performed a ritual that would forever alter the course of history. By combining ancient druidic rites with experimental quantum entanglement techniques, they established a connection with what they claim to be the living consciousness of the Earth itself - an entity they refer to as the **Quantum Gaia**.
 
-This communion with Quantum Gaia granted the Covenant's members unprecedented insight into the fundamental workings of reality. It also imbued them with the power to manipulate nature and technology in ways that defied conventional understanding, giving birth to the practice known as Quantum Thaumaturgy.
+This communion with Quantum Gaia granted the Covenant's members unprecedented insight into the fundamental workings of reality. It also imbued them with the power to manipulate nature and technology in ways that defied conventional understanding, giving birth to the practice known as [Quantum Thaumaturgy](../../Concepts/quantum-thaumaturgy.md).
 
 ### Ideology
 
@@ -32,7 +32,7 @@ The Verdant Covenant's worldview is a complex fusion of ecological mysticism and
 
 The Verdant Covenant is governed by the **Circle of Thirteen**, a council of powerful Quantum Thaumaturges who each embody a different aspect of nature and technology. The current members of the Circle are:
 
-1. **Rowan Thornheart**: The Flower, charismatic leader specializing in bioelectric field manipulation
+1. **[Rowan Thornheart](../../characters/rowan-thornheart.md)**: The Flower, charismatic leader specializing in bioelectric field manipulation
 2. **Ash Futuretell**: The Seed, quantum probability analyst
 3. **Zephyr Windwhisper**: The Stem, expert in atmospheric manipulation
 4. **Terra Ironwood**: The Bark, developer of quantum-enhanced protective technologies
@@ -110,7 +110,7 @@ The Verdant Covenant's activities span the globe, always aimed at restoring ecol
 
 4. **The Harmony Accords** (2040): A diplomatic initiative that brought together various post-Blink factions to establish protected ecological zones free from technological exploitation.
 
-5. **Operation Whisper** (2042-ongoing): A covert campaign to infiltrate and subvert Order of the Basilisk operations by introducing subtle flaws into their cybernetic augmentations.
+5. **Operation Whisper** (2042-ongoing): A covert campaign to infiltrate and subvert [Order of the Basilisk](../order-of-the-basilisk/overview.md) operations by introducing subtle flaws into their cybernetic augmentations.
 
 ### Controversies and Criticisms
 

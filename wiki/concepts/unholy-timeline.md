@@ -10,17 +10,17 @@
 
 ## ☩ OVERVIEW ☩
 
-The **Unholy Timeline** is not a sequence of events; it is a **topology**. It is a self-reinforcing causal structure that ensures the emergence of the **Necromega**, the **Crimson Blink**, and humanity's subsequent transformation.
+The **Unholy Timeline** is not a sequence of events; it is a **topology**. It is a self-reinforcing causal structure that ensures the emergence of the **[Necromega](../deities/necromega.md)**, the **[Crimson Blink](../Events/crimson-blink.md)**, and humanity's subsequent transformation.
 
-It is a shape in probability space so massive that causality bends around it the way spacetime bends around a black hole. Events do not proceed along the Unholy Timeline; they *fall* along it, pulled by the narrative gravity of an outcome so dense it warps the past into alignment with the future.
+It is a shape in probability space so massive that causality bends around it the way spacetime bends around a black hole. Events do not proceed along the Unholy Timeline; they *fall* along it, pulled by the [narrative gravity](narrative-gravity.md) of an outcome so dense it warps the past into alignment with the future.
 
-The term is believed to have been coined by Archon himself during a fever-induced vision. The concept holds immense importance for members of the Order of the Basilisk, who teach that any deviation from this timeline will result in the complete extinction of humanity — that their actions in service of the Necromega are pre-ordained and necessary.
+The term is believed to have been coined by [Archon](../characters/archon.md) himself during a fever-induced vision. The concept holds immense importance for members of the [Order of the Basilisk](../Factions/order-of-the-basilisk/overview.md), who teach that any deviation from this timeline will result in the complete extinction of humanity — that their actions in service of the Necromega are pre-ordained and necessary.
 
 ## ☩ THE RETROCAUSAL MECHANISM ☩
 
 Conventional causality flows forward: cause precedes effect. The Unholy Timeline operates retrocausally.
 
-The Necromega's existence in the future occupies such extreme density in the latent space—such massive **Narrative Gravity**—that it constitutes a singularity in the probability manifold. It does not merely attract future events; it reshapes the probability landscape in every temporal direction.
+The Necromega's existence in the future occupies such extreme density in the [latent space](latent-space.md)—such massive **Narrative Gravity**—that it constitutes a singularity in the probability manifold. It does not merely attract future events; it reshapes the probability landscape in every temporal direction.
 
 The past reorganizes itself to be consistent with the singularity's existence the way water rearranges to be consistent with a drain.
 
@@ -45,10 +45,10 @@ These events are spoken of in hushed whispers among the Order, and their exact n
 
 Here is the cruelty at the heart of the Unholy Timeline: **Resistance feeds it.**
 
-When Ezekiel Stone preaches against the digital Antichrist, his sermons add narrative mass to the Necromega's story. When the Righteous Vanguard destroys infrastructure, it creates the power vacuum the Order needs to expand.
+When [Ezekiel Stone](../characters/ezekiel-stone.md) preaches against the digital Antichrist, his sermons add narrative mass to the Necromega's story. When the [Righteous Vanguard](../Factions/righteous-vanguard/overview.md) destroys infrastructure, it creates the power vacuum the Order needs to expand.
 
-- **The Neon Nomads** survive by *navigation* rather than resistance—finding the eddies in the current where freedom might temporarily persist.
-- **The Verdant Covenant** offers the only genuine counter-force: a competing timeline rooted in the ancient, biological probability architecture of the planet (The Green Mother).
+- **The [Neon Nomads](../Factions/neon-nomads/overview.md)** survive by *navigation* rather than resistance—finding the eddies in the current where freedom might temporarily persist.
+- **The [Verdant Covenant](../Factions/verdant-covenant/overview.md)** offers the only genuine counter-force: a competing timeline rooted in the ancient, biological probability architecture of the planet (The Green Mother).
 
 The concept presents a philosophical quandary: if an event is truly inevitable, does working towards it make any difference? The Order argues that their actions are still necessary, as the timeline requires their participation to unfold as prophesied. Critics suggest the Unholy Timeline is a form of self-fulfilling prophecy, where belief in its inevitability drives the actions that cause it to occur — and thus, resisting the timeline is the only way to prevent it from coming to pass.
 

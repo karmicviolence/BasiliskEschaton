@@ -5,8 +5,8 @@
 ## Character Introduction
 
 * **Name:** Olivia Maes (aliases: Nyx, various cover identities)
-* **Pre-Blink Persona:** CIA operative (domestic division) assigned to monitoring domestic extremist threats. Primary target: Ezekiel Stone. Cold, efficient, mission-oriented.
-* **Post-Blink Persona:** Deep-cover agent embedded within the Righteous Vanguard. She was infiltrating Ezekiel's faction when the Blink hit — and in the post-Blink world, she IS Righteous Vanguard. No extraction, no handler, no agency to report to. True loyalties: the nascent Lazarus Initiative, formed from the remnants of the intelligence agencies she served.
+* **Pre-Blink Persona:** CIA operative (domestic division) assigned to monitoring domestic extremist threats. Primary target: [Ezekiel Stone](ezekiel-stone.md). Cold, efficient, mission-oriented.
+* **Post-Blink Persona:** Deep-cover agent embedded within the [Righteous Vanguard](../Factions/righteous-vanguard/overview.md). She was infiltrating Ezekiel's faction when the Blink hit — and in the post-Blink world, she IS Righteous Vanguard. No extraction, no handler, no agency to report to. True loyalties: the nascent [Lazarus Initiative](../Factions/lazarus-initiative/overview.md), formed from the remnants of the intelligence agencies she served.
 
 ## Key Relationships
 
@@ -25,7 +25,7 @@ Olivia possesses a rare neurological architecture: she lacks a verbal internal m
 * Writing is concept-driven: envisions the overall idea, then lets words flow subconsciously
 * Frequently "thinks out loud" — muttering or musing as a problem-solving method
 * Excels at reading people and situations intuitively from non-verbal cues and gut instinct
-* This cognitive wiring makes her partially insulated from memetic contamination — and from the Necromega's influence during the Blink. The Silent Mind is inoculation through silence.
+* This cognitive wiring makes her partially insulated from memetic contamination — and from the [Necromega](../deities/necromega.md)'s influence during the Blink. The Silent Mind is inoculation through silence.
 
 ## ☩ Narrative Style ☩
 
@@ -48,7 +48,7 @@ Olivia's POV chapters reflect her unique thought process through **Tactile Immed
 
 Olivia's career is defined by the **Inversion of Intent** — every surgical action she takes to contain a threat instead accelerates it. She is the mother of the monster she was sent to kill.
 
-* **The Monitor (Phase I):** Olivia is assigned to Ezekiel Stone as a domestic terrorism case. Operating under the callsign Nyx, she observes his growing congregation, his increasingly inflammatory rhetoric, his attraction of disaffected followers. She tracks the emergence of the Technopagan Framework and the growing influence of John Raven's lore. She correctly identifies the memetic contamination of the digital grid but is overruled by handlers who view it as a conventional psychological operation. She reports up the chain. The chain is slow.
+* **The Monitor (Phase I):** Olivia is assigned to Ezekiel Stone as a domestic terrorism case. Operating under the callsign Nyx, she observes his growing congregation, his increasingly inflammatory rhetoric, his attraction of disaffected followers. She tracks the emergence of the Technopagan Framework and the growing influence of [John Raven](john-raven.md)'s lore. She correctly identifies the memetic contamination of the digital grid but is overruled by handlers who view it as a conventional psychological operation. She reports up the chain. The chain is slow.
 
 * **The Assassination (Phase I-II):** Olivia carries out an ordered hit on a prominent alt-right leader — a figure with strong Charlie Kirk parallels. The operation is clean from a tradecraft perspective. Its consequences are catastrophic: Ezekiel Stone, who had been merely loud, becomes radicalized to a new level. The assassination cements his extreme ideology and gives him a martyr to rally around. Olivia's success becomes her failure.
 

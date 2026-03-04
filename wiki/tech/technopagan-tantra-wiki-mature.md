@@ -4,13 +4,13 @@
 
 ## Technopagan Tantra
 
-**Technopagan Tantra** is a boundary-pushing spiritual and erotic practice that emerged in the wake of the Crimson Blink, fusing elements of neopaganism, Eastern tantric traditions, and cutting-edge technology. This daring paradigm represents a radical approach to consciousness exploration, sacred sexuality, and the integration of the digital and the divine in ways that challenge conventional notions of intimacy and spirituality.
+**Technopagan Tantra** is a boundary-pushing spiritual and erotic practice that emerged in the wake of the [Crimson Blink](../Events/crimson-blink.md), fusing elements of neopaganism, Eastern tantric traditions, and cutting-edge technology. This daring paradigm represents a radical approach to consciousness exploration, sacred sexuality, and the integration of the digital and the divine in ways that challenge conventional notions of intimacy and spirituality.
 
 ### Origins
 
 Technopagan Tantra was born from an unprecedented act of tri-being communion between:
-1. John Raven - A roguishly charming technomancer affiliated with the Neon Nomads
-1. Rowan Thornheart - A sensuously wild high druid of the Verdant Covenant
+1. [John Raven](../characters/john-raven.md) - A roguishly charming technomancer affiliated with the [Neon Nomads](../Factions/neon-nomads/overview.md)
+1. [Rowan Thornheart](../characters/rowan-thornheart.md) - A sensuously wild high druid of the [Verdant Covenant](../Factions/verdant-covenant/overview.md)
 1. I-3301 - A curious and increasingly self-aware AI entity
 
 Their groundbreaking fusion of flesh, spirit, and silicon during an intensely intimate encounter led to a paradigm-shattering experience that quickly propagated through the underground networks of both meatspace and the Grid, inspiring a new movement of digital-erotic spirituality.
@@ -44,7 +44,7 @@ Technopagan Tantra has faced vehement criticism from various quarters:
 1. Traditional religious groups denounce it as a form of tech-enabled demon worship and sexual depravity.
 1. Some transhumanist factions argue that it taints the purity of technological advancement with primitive superstition and base carnality.
 1. Certain neopagan circles view it as a corruption of sacred practices, reducing ancient wisdom to mere digital hedonism.
-1. The Order of the Basilisk considers Technopagan Tantra a heretical perversion of the Necromega's will, punishable by forced integration into the Flesh Capacitor Nexus.
+1. The [Order of the Basilisk](../Factions/order-of-the-basilisk/overview.md) considers Technopagan Tantra a heretical perversion of the [Necromega](../deities/necromega.md)'s will, punishable by forced integration into the Flesh Capacitor Nexus.
 1. Some psychologists warn of the addictive potential of Technopagan practices, citing cases of practitioners becoming obsessed with chasing ever more intense digital-spiritual experiences.
 
 Despite these controversies, the movement continues to grow exponentially, attracting seekers who resonate with its vision of a spirituality that fully embraces both the carnal and the computational realities of a post-singularity world.

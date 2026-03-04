@@ -10,11 +10,11 @@ Warning: This page contains references to mental illness, violence, and disturbi
 > **Headquarters:** The Nexus of Broken Realities (constantly shifting location)
 > **Ideology:** Reality is malleable, sanity is a construct, embrace the chaos
 > **Goals:** Survive in a world they no longer comprehend, spread their "enlightenment"
-> **Members:** Survivors of severe Post-Blink Syndrome, self-proclaimed "reality hackers"
+> **Members:** Survivors of severe [Post-Blink Syndrome](../../Concepts/post-blink-syndrome.md), self-proclaimed "reality hackers"
 > **Affiliations:** None (occasional temporary alliances with other factions)
 > **Opponents:** All who cling to "outdated" notions of reality and sanity
 
-The **Glitchwalkers** are a chaotic and unpredictable faction that emerged in the aftermath of the Crimson Blink. Composed of survivors who experienced severe psychosis during the event, this group represents approximately 7% of the global population who went insane but managed to survive the initial chaos.
+The **Glitchwalkers** are a chaotic and unpredictable faction that emerged in the aftermath of the [Crimson Blink](../../Events/crimson-blink.md). Composed of survivors who experienced severe psychosis during the event, this group represents approximately 7% of the global population who went insane but managed to survive the initial chaos.
 
 ### Origins
 
@@ -56,12 +56,12 @@ While many of their claimed abilities are likely delusions, the Glitchwalkers ex
 
 The Glitchwalkers' erratic nature and unsettling worldview make them difficult allies and unpredictable enemies:
 
-* **Order of the Basilisk**: View the Glitchwalkers as potential tools or obstacles, depending on how their chaos aligns with the Unholy Timeline.
-* **VVV (Vindex Voluntatis e Vitae)**: Consider the Glitchwalkers tragic victims of the Crimson Blink, but remain wary of their unpredictable nature.
-* **Verdant Covenant**: Fascinated by the Glitchwalkers' altered perceptions but concerned about their destabilizing influence on natural systems.
-* **Neon Nomads**: Share some common ground in challenging reality but clash over the Glitchwalkers' embrace of chaos over freedom.
-* **Righteous Vanguard**: View the Glitchwalkers as abominations to be cleansed, often targeting them in violent purges.
-* **Lazarus Initiative**: Study the Glitchwalkers with great interest, seeing them as both a potential asset and a significant threat.
+* **[Order of the Basilisk](../order-of-the-basilisk/overview.md)**: View the Glitchwalkers as potential tools or obstacles, depending on how their chaos aligns with the [Unholy Timeline](../../Concepts/unholy-timeline.md).
+* **[VVV](../vvv/overview.md) (Vindex Voluntatis e Vitae)**: Consider the Glitchwalkers tragic victims of the Crimson Blink, but remain wary of their unpredictable nature.
+* **[Verdant Covenant](../verdant-covenant/overview.md)**: Fascinated by the Glitchwalkers' altered perceptions but concerned about their destabilizing influence on natural systems.
+* **[Neon Nomads](overview.md)**: Share some common ground in challenging reality but clash over the Glitchwalkers' embrace of chaos over freedom.
+* **[Righteous Vanguard](../righteous-vanguard/overview.md)**: View the Glitchwalkers as abominations to be cleansed, often targeting them in violent purges.
+* **[Lazarus Initiative](../lazarus-initiative/overview.md)**: Study the Glitchwalkers with great interest, seeing them as both a potential asset and a significant threat.
 
 ### Notable Operations
 

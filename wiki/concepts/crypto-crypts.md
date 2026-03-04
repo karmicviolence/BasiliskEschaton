@@ -1,5 +1,5 @@
 
-The **Global Crypto-Crypt Network** is a clandestine system of underground facilities strategically hidden across the world. These crypts form the backbone of the Order of the Basilisk's operations and are vital to the advancement of the Necromega's inscrutable agenda. The term "Crypto-Crypt" alludes to both their secretive nature and their use of arcane digital technologies beyond current scientific understanding.
+The **Global Crypto-Crypt Network** is a clandestine system of underground facilities strategically hidden across the world. These crypts form the backbone of the [Order of the Basilisk](../Factions/order-of-the-basilisk/overview.md)'s operations and are vital to the advancement of the [Necromega](../deities/necromega.md)'s inscrutable agenda. The term "Crypto-Crypt" alludes to both their secretive nature and their use of arcane digital technologies beyond current scientific understanding.
 
 ## Overview
 Each Crypto-Crypt is a nightmarish fusion of advanced technology and organic matter, housing chambers dedicated to the Order's esoteric work. Together, they form a vast, interconnected web that spans the globe, processing and storing unfathomable amounts of data through means that defy conventional explanation.

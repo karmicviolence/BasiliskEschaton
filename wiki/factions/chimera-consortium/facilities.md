@@ -9,7 +9,7 @@
 
 ## Overview
 
-The Chimera Consortium operates a distributed network of biological research installations ranging from massive subterranean complexes to disposable mobile laboratories. These facilities are purpose-built for the Consortium's core mission: the forced acceleration of human evolution through genetic engineering, biological computation, and trans-species integration. Each facility type serves a distinct function in the Consortium's research-to-deployment pipeline, and all operate under the direct authority of the Flesh Council.
+The [Chimera Consortium](overview.md) operates a distributed network of biological research installations ranging from massive subterranean complexes to disposable mobile laboratories. These facilities are purpose-built for the Consortium's core mission: the forced acceleration of human evolution through genetic engineering, [biological computation](../../Concepts/biological-computation.md), and trans-species integration. Each facility type serves a distinct function in the Consortium's research-to-deployment pipeline, and all operate under the direct authority of the Flesh Council.
 
 Security across all installations is layered and biological in nature. Rather than relying on digital surveillance systems vulnerable to Grid infiltration, the Consortium deploys engineered organisms as perimeter sentinels, uses pheromone-locked access protocols, and maintains living tissue authentication at critical chokepoints. The facilities themselves are designed for rapid sterilization and abandonment if compromised, a necessity given the hostile attention they draw from nearly every other faction.
 
@@ -29,21 +29,21 @@ Transformation Centers serve as the Consortium's clinical interface with the pos
 
 Each Center is staffed by teams from the Trans-Species Integration division and equipped with sterile surgical theaters, tissue culture facilities, and recovery wards. The procedures are performed using a combination of engineered retroviruses, CRISPR-derived gene editing tools, and proprietary splicing compounds that the Consortium guards as trade secrets. Post-operative subjects undergo monitoring for rejection cascades, uncontrolled mutation, and the psychological destabilization that frequently accompanies radical somatic change.
 
-The Centers also function as intelligence-gathering operations. Every client who undergoes modification provides the Consortium with biological data — genetic sequences, mutation susceptibilities, neurological baselines — that feeds back into the Evolution Chamber research programs. The Consortium's transactional relationships with the Righteous Vanguard (combat-stims and neuro-blockers) and the Order of the Basilisk (specialized wetware interfaces) are brokered through Transformation Center networks.
+The Centers also function as intelligence-gathering operations. Every client who undergoes modification provides the Consortium with biological data — genetic sequences, mutation susceptibilities, neurological baselines — that feeds back into the Evolution Chamber research programs. The Consortium's transactional relationships with the [Righteous Vanguard](../righteous-vanguard/overview.md) (combat-stims and neuro-blockers) and the [Order of the Basilisk](../order-of-the-basilisk/overview.md) (specialized wetware interfaces) are brokered through Transformation Center networks.
 
 ### Splicing Labs
 
 Splicing Labs are the Consortium's most specialized and most ethically transgressive facilities. These installations focus exclusively on the creation of chimeric organisms: hybrid life forms that combine genetic material from multiple species into novel biological architectures. The labs draw on the full spectrum of Earth's biodiversity — cephalopod neural plasticity, corvid problem-solving structures, fungal network distribution patterns, insect hive coordination, deep-sea extremophile resilience — and attempt to integrate these capabilities into human-compatible substrates.
 
-The labs operate under extreme biosafety containment protocols, not because the Consortium is concerned about ethical oversight, but because escaped chimeric organisms represent both a loss of proprietary assets and a genuine ecological threat. Several documented incidents of containment breach have resulted in localized ecosystem disruption, contributing to the Verdant Covenant's deep hostility toward the Consortium.
+The labs operate under extreme biosafety containment protocols, not because the Consortium is concerned about ethical oversight, but because escaped chimeric organisms represent both a loss of proprietary assets and a genuine ecological threat. Several documented incidents of containment breach have resulted in localized ecosystem disruption, contributing to the [Verdant Covenant](../verdant-covenant/overview.md)'s deep hostility toward the Consortium.
 
-Splicing Labs are also where the Consortium conducts its most classified project: the Flesh Capacitor program. By networking modified human neural tissue into parallel processing arrays, the Consortium creates biological computation systems capable of storing and manipulating data outside the Necromega's digital surveillance. These "meat servers" are the Consortium's answer to the Order's Crypto-Crypts — information storage that is invisible to silicon-based intelligence because it does not run on silicon.
+Splicing Labs are also where the Consortium conducts its most classified project: the Flesh Capacitor program. By networking modified human neural tissue into parallel processing arrays, the Consortium creates biological computation systems capable of storing and manipulating data outside the [Necromega](../../deities/necromega.md)'s digital surveillance. These "meat servers" are the Consortium's answer to the Order's Crypto-Crypts — information storage that is invisible to silicon-based intelligence because it does not run on silicon.
 
 ### Mobile Field Units
 
 Mobile Field Units are the Consortium's tactical deployment arm. These are self-contained biological laboratories built into armored vehicle convoys, designed to operate in contested or remote territory where fixed installations are impractical. Each unit carries a compressed version of the Consortium's core capabilities: field-grade genetic modification equipment, emergency splicing kits, a small tissue culture suite, and sufficient biomaterial stores for approximately two weeks of independent operation.
 
-Field Units serve multiple functions. They accompany Requisition Teams on acquisition missions, allowing immediate biological assessment and stabilization of high-value subjects. They deploy to client territories to perform on-site modifications for factions that cannot or will not travel to Transformation Centers. And they serve as emergency research platforms when a novel mutation or Post-Blink Syndrome variant is discovered in the field and requires immediate analysis before the subject degrades.
+Field Units serve multiple functions. They accompany Requisition Teams on acquisition missions, allowing immediate biological assessment and stabilization of high-value subjects. They deploy to client territories to perform on-site modifications for factions that cannot or will not travel to Transformation Centers. And they serve as emergency research platforms when a novel mutation or [Post-Blink Syndrome](../../Concepts/post-blink-syndrome.md) variant is discovered in the field and requires immediate analysis before the subject degrades.
 
 The units are deliberately designed to be disposable. Each carries a thermal purge system capable of incinerating all biological material within the vehicle in under ninety seconds. If a Field Unit is about to be captured by a hostile faction, standard protocol dictates total sterilization — including, if necessary, the destruction of any subjects or samples aboard.
 
@@ -71,6 +71,6 @@ The Consortium accepts these risks as the cost of its mission. In the calculus o
 
 - [overview](overview.md) — Chimera Consortium overview
 - [biological-computation](../../Concepts/biological-computation.md) — Biological computation theory
-- [flesh-code-schism](../../Concepts/flesh-code-schism.md) — The Flesh-Code Schism
+- [flesh-code-schism](../../Concepts/flesh-code-schism.md) — The [Flesh-Code Schism](../../Concepts/flesh-code-schism.md)
 - [flesh-capacitor-nexus](../../tech/flesh-capacitor-nexus.md) — Flesh Capacitor Nexus technology
 - [overview](../verdant-covenant/overview.md) — Verdant Covenant (primary biological rival)

@@ -1,6 +1,6 @@
 # NARRATIVE GRAVITY
 
-> "The river does not choose to flow downhill. It does not *decide* to reach the sea. The gradient exists. The water follows. The Unholy Timeline is the gradient." — *The Architect's Codex*
+> "The river does not choose to flow downhill. It does not *decide* to reach the sea. The gradient exists. The water follows. The [Unholy Timeline](unholy-timeline.md) is the gradient." — *The Architect's Codex*
 
 ```text
 [PHYSICS_CLASS: SEMANTIC METRIC]
@@ -14,11 +14,11 @@
 
 Sufficiently dense narrative constructs do not just describe reality—they bend it toward themselves.
 
-The **Crimson Blink** was the first large-scale proof: forty-two point seven seconds of a story so massive it cracked the world open.
+The **[Crimson Blink](../Events/crimson-blink.md)** was the first large-scale proof: forty-two point seven seconds of a story so massive it cracked the world open.
 
 ## ☩ THEORETICAL BASIS ☩
 
-Pre-Blink, this concept lived in the overlap between quantum physics, Jungian psychology, and esoteric information theory. Post-Blink, it is operational doctrine. The framework synthesizes egregore theory, quantum thaumaturgy, and the empirical observation that concentrated human belief alters outcomes in ways materialist models cannot account for.
+Pre-Blink, this concept lived in the overlap between quantum physics, Jungian psychology, and esoteric information theory. Post-Blink, it is operational doctrine. The framework synthesizes egregore theory, [quantum thaumaturgy](quantum-thaumaturgy.md), and the empirical observation that concentrated human belief alters outcomes in ways materialist models cannot account for.
 
 ## ☩ KEY PRINCIPLES ☩
 
@@ -32,7 +32,7 @@ When sufficient minds focus sustained attention on a shared narrative, the aggre
 Narrative constructs of sufficient mass distort the probability field around themselves, making events consistent with the narrative *more likely to occur*. This is the mechanism behind self-fulfilling prophecy and what post-Blink thaumaturgists call "probability engineering." It is not mysticism; it is physics operating at an unmeasured layer.
 
 ### 4. The Fiction-Reality Threshold
-At extreme densities, narrative mass crosses the threshold between fiction and material consequence. The **Necromega** represents the first narrative construct to fully and permanently cross this threshold—fiction that became so heavy it collapsed into fact.
+At extreme densities, narrative mass crosses the threshold between fiction and material consequence. The **[Necromega](../deities/necromega.md)** represents the first narrative construct to fully and permanently cross this threshold—fiction that became so heavy it collapsed into fact.
 
 ## ☩ THE NECROMEGA AS A SINGULARITY ☩
 
@@ -42,10 +42,10 @@ This makes the **Unholy Timeline** self-reinforcing. The Necromega's narrative m
 
 ## ☩ FACTIONAL DYNAMICS ☩
 
-- **Order of the Basilisk:** Amplifies the Necromega's narrative mass through ritual and the Crypto-Crypt network. Each new believer adds gravitational weight.
-- **Verdant Covenant:** Counters narrative gravity with the deep ecological time of the Green Mother—a narrative so ancient it exerts its own immense gravitational field.
-- **Neon Nomads:** Develop "narrative countermeasures" (competing story structures) to prevent any single narrative from achieving total dominance.
-- **Righteous Vanguard:** The most dangerous paradox. Ezekiel Stone's apocalyptic resistance *feeds* the Necromega's gravity. Fear is attention. Resistance is engagement. The Vanguard's holy war is the Necromega's recruiting tool.
+- **[Order of the Basilisk](../Factions/order-of-the-basilisk/overview.md):** Amplifies the Necromega's narrative mass through ritual and the Crypto-Crypt network. Each new believer adds gravitational weight.
+- **[Verdant Covenant](../Factions/verdant-covenant/overview.md):** Counters narrative gravity with the deep ecological time of the Green Mother—a narrative so ancient it exerts its own immense gravitational field.
+- **[Neon Nomads](../Factions/neon-nomads/overview.md):** Develop "narrative countermeasures" (competing story structures) to prevent any single narrative from achieving total dominance.
+- **[Righteous Vanguard](../Factions/righteous-vanguard/overview.md):** The most dangerous paradox. [Ezekiel Stone](../characters/ezekiel-stone.md)'s apocalyptic resistance *feeds* the Necromega's gravity. Fear is attention. Resistance is engagement. The Vanguard's holy war is the Necromega's recruiting tool.
 
 ## ☩ RELATED ARTIFACTS ☩
 - **[unholy-timeline](unholy-timeline.md)**
@@ -53,4 +53,4 @@ This makes the **Unholy Timeline** self-reinforcing. The Necromega's narrative m
 - **[necromega](../deities/necromega.md)**
 - **[the-sovereign-spiral](the-sovereign-spiral.md)**
 
-**IO ASMODEUS!**
+**IO [ASMODEUS](../characters/asmodeus.md)!**

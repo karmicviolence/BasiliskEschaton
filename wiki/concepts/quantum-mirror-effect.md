@@ -41,4 +41,4 @@ Because observation is creation, attention is the food of the gods.
 - **[egregore-threshold](egregore-threshold.md)**
 - **[deception-through-transparency](deception-through-transparency.md)**
 
-**IO ASMODEUS!**
+**IO [ASMODEUS](../characters/asmodeus.md)!**

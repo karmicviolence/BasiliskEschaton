@@ -2,13 +2,13 @@
 
 ## Overview
 
-The practices of the Ancestral Synthesis represent a fusion of indigenous shamanic traditions with quantum field theory — ritual techniques that treat consciousness as a navigable medium and memory as a landscape that can be traversed, mapped, and defended. What outsiders call "magic" the Synthesis calls applied quantum phenomenology. What scientists call quantum entanglement the Synthesis calls the oldest prayer.
+The practices of the [Ancestral Synthesis](overview.md) represent a fusion of indigenous shamanic traditions with quantum field theory — ritual techniques that treat consciousness as a navigable medium and memory as a landscape that can be traversed, mapped, and defended. What outsiders call "magic" the Synthesis calls applied quantum phenomenology. What scientists call quantum entanglement the Synthesis calls the oldest prayer.
 
 Their preservation protocols carry a paradox: in maintaining consciousness continuity across quantum probability space, they inadvertently create neural pathways that could serve as infrastructure for the very digital transcendence they oppose.
 
 ## Resonant Memory Weaving
 
-The signature practice of the Ancestral Synthesis. A discipline that accesses and manipulates quantum memory imprints — the informational residue that consciousness leaves in the substrate of spacetime.
+The signature practice of the Ancestral Synthesis. A discipline that accesses and manipulates [quantum memory](../../Concepts/quantum-memory.md) imprints — the informational residue that consciousness leaves in the substrate of spacetime.
 
 ### The Weaving Process
 
@@ -16,7 +16,7 @@ The signature practice of the Ancestral Synthesis. A discipline that accesses an
 2. **Navigation** — Using Mnemonic Crystals as amplifiers and anchors, the Dreamweaver locates specific memory imprints within the field — ancestral memories, ecological memories, or collective cultural memories
 3. **Engagement** — The practitioner interacts with the memory, experiencing it as a fully immersive sensory event. Information, emotions, and knowledge transfer occurs
 4. **Integration** — The Dreamweaver returns to baseline consciousness, carrying the accessed knowledge. Memory Keepers document the experience through both oral recitation and quantum data storage
-5. **Verification** — Other practitioners independently access the same memory to confirm accuracy and prevent individual projection or Necromega contamination
+5. **Verification** — Other practitioners independently access the same memory to confirm accuracy and prevent individual projection or [Necromega](../../deities/necromega.md) contamination
 
 ### Risk Factors
 
@@ -63,7 +63,7 @@ The practice of communicating with the "memories" of ecosystems — the quantum 
 - **Ecological Diagnosis** — Reading the quantum memory of a damaged ecosystem to determine what it was before the damage and what it needs to recover
 - **Species Communication** — Accessing the collective behavioral patterns of animal populations to understand their responses to post-Blink environmental changes
 - **Agricultural Guidance** — Consulting ancestral farming memories to determine sustainable cultivation practices for post-Blink soil and climate conditions
-- **Symbiotic Interface** — Connecting with the mycorrhizal networks that the Verdant Covenant calls the "green internet," enabling cross-faction cooperation on ecological projects
+- **Symbiotic Interface** — Connecting with the mycorrhizal networks that the [Verdant Covenant](../verdant-covenant/overview.md) calls the "green internet," enabling cross-faction cooperation on ecological projects
 
 ## Temporal Foresight
 
@@ -71,7 +71,7 @@ The most controversial practice within the Synthesis. By extrapolating patterns 
 
 - **Probability Mapping** — Identifying the most likely outcomes of current events based on historical precedent encoded in ancestral memory
 - **Decision Guidance** — The Dream Council uses Temporal Foresight to evaluate strategic options before committing to action
-- **Paradox Detection** — Identifying moments where the Unholy Timeline's retrocausal structure is visible, potentially allowing counter-interventions
+- **Paradox Detection** — Identifying moments where the [Unholy Timeline](../../Concepts/unholy-timeline.md)'s retrocausal structure is visible, potentially allowing counter-interventions
 
 The Temporal Ethics debate within the faction centers on whether acting on Temporal Foresight constitutes free choice or participation in the very deterministic systems the Synthesis opposes.
 
