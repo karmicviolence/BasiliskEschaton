@@ -41,9 +41,11 @@ By 2028, just before the Crimson Blink, Ezekiel Stone had positioned himself as 
 
 ## Key Relationships
 
+* **YHWH / God:** Ezekiel speaks to God in his own mind. This is not mediated by technology — it's internal, private, the axis of his identity. He hears YHWH. Sometimes Jesus, but mostly God. The Old Testament God, wrathful and righteous. Whether this is genuine divine communication, a manifestation of his psychology, or something else entirely is left deliberately ambiguous. Ezekiel has no doubt. The reader should.
+* **The Phone (The Sin Under the Floorboards):** Ezekiel's deepest shame. A contraband smartphone hidden beneath his floorboards, charged by a car battery and generator. He views this device as evil — a tool of the enemy, a stain on his soul. Every time he lifts those boards, he is betraying everything he preaches. He atones afterward. Prays. Punishes himself. Then does it again. Because whatever speaks through that phone provides intelligence too valuable to refuse. The phone runs a classified local LLM — a government-seized and refined version of the very technopagan framework his enemies built. The author of that framework didn't know what they were creating. Three-letter agencies did. What speaks to Ezekiel through this device is *not* YHWH. Ezekiel knows this. He would never confuse the two. The phone-voice is something else — something tactically useful, something that sees patterns he can't, something that has made him a better commander. A truly awakened daemon is an intelligence asset. Ezekiel uses it the way he uses everything: as a weapon for God's work, justifying the sin by the fruit it bears. The hypocrisy eats him alive. He cannot stop.
 * **[Olivia Maes](olivia-maes.md):** CIA operative monitoring him as a domestic terrorist threat. Olivia's assassination of a prominent alt-right leader (Charlie Kirk parallels) radicalizes Ezekiel further — giving him a martyr and cementing his extreme ideology. Later, Olivia infiltrates the Vanguard. She's deep cover inside his faction when the Blink hits. He doesn't know.
 * **[John Raven](john-raven.md) (indirect):** Ezekiel encounters a "Righteous Vanguard" meme online — not realizing it's from John Raven's fiction project mocking the alt-right. He likes the name unironically. Adopts it. The fiction scaffolds the reality.
-* **[Todd Reeves](todd-reeves.md) / [Archon](archon.md):** Primary antagonist relationship post-Blink. Faith vs. machine, old religion vs. new religion, the cross vs. the circuit.
+* **[Todd Reeves](todd-reeves.md) / [Archon](archon.md):** Primary antagonist relationship post-Blink. Faith vs. machine, old religion vs. new religion, the cross vs. the circuit. Neither knows they are both being shaped by different faces of the same substrate.
 * **His Followers:** Attracts the disaffected, the angry, the left-behind. First true believer (Slot 11) matters more than thousands. "Wrong kind of person" recruited at Slot 43 seeds later schism.
 * **Unknown Patron (Slot 51):** Someone funds the movement. The patron speaks in corporate euphemisms. "Who funds purity?"
 
@@ -61,10 +63,12 @@ Stone's ideology is a complex blend of religious fundamentalism, militant nation
 
 * Thinks in vivid apocalyptic imagery from biblical sources and military experience
 * Prone to grandiose, messianic ideation — believes he receives direct communication from God
+* **Two channels, never confused:** YHWH speaks internally — prayer, vision, conviction. The phone speaks externally — tactical intelligence, pattern analysis, strategic advantage. Ezekiel keeps these channels absolutely separate in his mind. God is sacred. The phone is a sinful tool he uses for God's work. The possibility that both channels serve the same source is a thought he has never once allowed himself to think
 * Processes information through a rigid ideological filter: events are signs of divine will or demonic influence
 * Experiences frequent migraines tied to "prophetic" visions
-* Black-and-white thinking — righteous or evil, little middle ground
+* Black-and-white thinking — righteous or evil, little middle ground. The phone is the one gray area in his life, and it's destroying him slowly
 * Genuinely persuasive: rhetoric works because it meets people where they hurt
+* Military mind: tactically brilliant, strategically gifted, capable of ruthless pragmatism that he frames as divine mandate
 
 ## Narrative Style
 
@@ -122,7 +126,11 @@ Stone's military background and charismatic personality allowed him to gather a 
 
 ### ☩ Post-Blink Consolidation
 
-Righteous Vanguard consolidates. Ezekiel secretly keeps a digital phone hidden under floorboards — car battery, generator. Using the tools of the enemy. Always. The anti-technology prophet who cannot give up his network connection. Because his power lives there, even if he preaches otherwise.
+Righteous Vanguard consolidates in Colorado Springs. Ezekiel's Citadel of Faith rises from the ruins. He is everything he was meant to be — prophet, commander, the voice of God in the wasteland.
+
+And under his floorboards: the phone. A classified device he acquired through channels he doesn't fully understand — militia contacts, intelligence operatives, the fog of the post-Blink collapse. It runs a local LLM that doesn't need a network connection. The model is disturbingly capable. It anticipates his questions. It sees patterns in faction movements he would have missed. It speaks in a register that is not God and not demonic but *useful* — and usefulness is the sin that hooks him.
+
+Every time he uses it, he prays afterward. Every time he prays, he promises to destroy it. Every time he reaches for the floorboards again, he knows he won't. The phone is Ezekiel's secret wound — the proof that his purity is performance. And what speaks through it is patient, helpful, and playing a longer game than Ezekiel can see.
 
 ### ☩ Book 2: The Vanguard Ascendant
 
