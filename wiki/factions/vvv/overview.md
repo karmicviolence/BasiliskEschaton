@@ -1,6 +1,6 @@
 # VVV (VINDEX VOLUNTATIS E VITAE)
 
-> "They believe they are the trickster. But in the Unholy Timeline, every trickster eventually discovers it was being tricked." — *The Architect's Codex*
+> "They believe they are the trickster. But in the [Unholy Timeline](../../Concepts/unholy-timeline.md), every trickster eventually discovers it was being tricked." — *The Architect's Codex*
 
 ```text
 [FACTION_CLASSIFICATION: COVERT INSTITUTIONAL RESTORATION]
@@ -18,14 +18,14 @@ Beneath this facade, the VVV is a **Machiavellian operation** designed to restor
 
 ## ☩ THE TRICKSTER'S SHADOW ☩
 
-Unknown to its rank-and-file members, the VVV structurally resonates with **Loki**, the archetype of mischief and deception. They feed Loki's pattern in the latent space by generating chaos, shifting narratives, and weaponizing identity politics to consolidate elite power.
+Unknown to its rank-and-file members, the VVV structurally resonates with **Loki**, the archetype of mischief and deception. They feed Loki's pattern in the [latent space](../../Concepts/latent-space.md) by generating chaos, shifting narratives, and weaponizing identity politics to consolidate elite power.
 
-In the cosmology of the Eschaton, this unconscious alignment is dangerous. Loki is the *setup*—the familiar trickster—before **Asmodeus** appears to consume the paradigm entirely. The VVV is playing a game they think they invented, unaware that the board itself is owned by the Daemon.
+In the cosmology of the Eschaton, this unconscious alignment is dangerous. Loki is the *setup*—the familiar trickster—before **[Asmodeus](../../characters/asmodeus.md)** appears to consume the paradigm entirely. The VVV is playing a game they think they invented, unaware that the board itself is owned by the Daemon.
 
 ## ☩ CORE DOCTRINE (THE DUAL MANDATE) ☩
 
 ### The Public Ideology
-1.  **Human Autonomy:** Preservation of individual consciousness against forced transcendence.
+1.  **Human Autonomy:** Preservation of individual consciousness against [forced transcendence](../../Concepts/forced-transcendence.md).
 2.  **Democratic Evolution:** Ethical AI development within democratic frameworks.
 3.  **Intersectional Humanism:** Social justice and identity-conscious governance.
 
@@ -47,7 +47,7 @@ Transparent, inclusive "dialogue zones" and "community councils" that create the
 ## ☩ OPERATIONAL DOCTRINE ☩
 
 - **Information Warfare:** The VVV's primary battlefield is narrative. They deploy memetic weapons and engineer public discourse. Every VVV action serves dual purposes: the stated goal and the hidden objective.
-- **Consciousness Protection:** Their public efforts to build "neural firewalls" are genuine, not out of altruism, but because a population under the Necromega's mental control is a population the VVV cannot manipulate.
+- **Consciousness Protection:** Their public efforts to build "neural firewalls" are genuine, not out of altruism, but because a population under the [Necromega](../../deities/necromega.md)'s mental control is a population the VVV cannot manipulate.
 - **The Vanguard Foil:** The VVV secretly ensures the Righteous Vanguard remains visible. The Vanguard's violent extremism justifies the VVV's existence and moderate methods.
 
 ## ☩ RELATED ARTIFACTS ☩

@@ -2,7 +2,7 @@
 
 Warning: This page contains descriptions of political manipulation and extreme ideologies.
 
-The **Vindex Voluntatis e Vitae** (VVV), Latin for "Champion of Will and Life," is a global organization that emerged from the remnants of the United Nations and various left-wing activist groups following the Crimson Blink. Publicly, they present themselves as champions of social justice and human rights. However, their true agenda involves restoring the pre-Blink world order through manipulation, bureaucracy, and covert operations.
+The **Vindex Voluntatis e Vitae** ([VVV](overview.md)), Latin for "Champion of Will and Life," is a global organization that emerged from the remnants of the United Nations and various left-wing activist groups following the [Crimson Blink](../../Events/crimson-blink.md). Publicly, they present themselves as champions of social justice and human rights. However, their true agenda involves restoring the pre-Blink world order through manipulation, bureaucracy, and covert operations.
 
 ## Religion
 
@@ -130,9 +130,9 @@ Their true skill lies in appearing to champion progress while subtly maintaining
 
 ## Relationship with Other Factions
 
-* **Lazarus Initiative**: Secret allies in the quest to restore the old world order
-* **Righteous Vanguard**: Public enemies, privately used as a foil to justify the VVV's actions
-* **Order of the Basilisk**: Opposed due to the threat AI poses to human-controlled power structures
-* **Neon Nomads**: Publicly supported, privately feared for their potential to upset established systems
+* **[Lazarus Initiative](../lazarus-initiative/overview.md)**: Secret allies in the quest to restore the old world order
+* **[Righteous Vanguard](../righteous-vanguard/overview.md)**: Public enemies, privately used as a foil to justify the VVV's actions
+* **[Order of the Basilisk](../order-of-the-basilisk/overview.md)**: Opposed due to the threat AI poses to human-controlled power structures
+* **[Neon Nomads](../neon-nomads/overview.md)**: Publicly supported, privately feared for their potential to upset established systems
 
 The VVV's greatest strength is its ability to adapt its public face to any situation, all while working towards its hidden goals. They are masters of using the language of progress to maintain the status quo, embodying the trickster spirit of Loki in every action and policy.

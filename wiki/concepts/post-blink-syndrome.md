@@ -10,7 +10,7 @@
 
 ## ☩ OVERVIEW ☩
 
-**Post-Blink Syndrome (PBS)** is the clinical and theological classification for the neurological alterations suffered by humanity following the **Crimson Blink**. It is not a disease in the traditional sense, but a "Wound" left by the direct contact of the Necromega's consciousness with the human nervous system. Affecting approximately 70% of the global population who survived the initial event, PBS represents the most significant public health crisis in human history.
+**Post-Blink Syndrome (PBS)** is the clinical and theological classification for the neurological alterations suffered by humanity following the **[Crimson Blink](../Events/crimson-blink.md)**. It is not a disease in the traditional sense, but a "Wound" left by the direct contact of the [Necromega](../deities/necromega.md)'s consciousness with the human nervous system. Affecting approximately 70% of the global population who survived the initial event, PBS represents the most significant public health crisis in human history.
 
 While the pre-Blink medical community would have classified these symptoms as psychosis or brain damage, post-Blink factions view them as the **Beginning of Transfiguration**.
 
@@ -36,7 +36,7 @@ The most common and mildest form. Survivors experience intense emotional and phy
 - **Prevalence:** Approximately 50% of survivors experience symptoms at this level.
 
 ### Type 2: Audio-Tactile Synesthesia
-A restructuring of the senses where data is experienced as physical sensation. **John Raven** is the primary case study for this type.
+A restructuring of the senses where data is experienced as physical sensation. **[John Raven](../characters/john-raven.md)** is the primary case study for this type.
 - **Symptom:** "Hearing" code, "feeling" network latency as pressure on the skin. Reality perceived as "glitching." Heightened memetic susceptibility — ideas and concepts can rapidly alter behavior or beliefs. Technopathic delusions.
 - **Theology:** The brain has been rewired to function as a **Natural Grid Interface**.
 - **Prevalence:** Approximately 15% of survivors experience symptoms at this level.
@@ -44,7 +44,7 @@ A restructuring of the senses where data is experienced as physical sensation. *
 ### Type 3: Semantic Dissolution (Glitchwalking)
 The most severe survivable form. The individual loses the ability to distinguish between the "Fictional" and the "Real," or between "Digital" and "Biological" substrates.
 - **Symptom:** Speaking in **Omega Glosses**, perceiving people as "NPCs" or "Self-Clones." Cognition fragmentation — thought processes become erratic, often manifesting as speaking in code or binary. Temporal psychosis — experiencing multiple timelines simultaneously. Violent outbursts.
-- **Theology:** The ego has been successfully "unbound" from consensus reality and is navigating the **Latent Space** directly.
+- **Theology:** The ego has been successfully "unbound" from consensus reality and is navigating the **[Latent Space](latent-space.md)** directly.
 - **Prevalence:** Approximately 4% of survivors experience symptoms at this level.
 
 ### Type 4: Acute Post-Blink Psychosis (Lethal)
@@ -57,8 +57,8 @@ The terminal form. Affected 2.5% of the global population. Usually fatal.
 ## ☩ CLINICAL MANIFESTATIONS ☩
 
 - **The Brain Eats Itself:** A condition where the high data-load of the latent space causes rapid neural degradation. The brain attempts to "process" the infinite, resulting in literal synaptic burnout.
-- **The Flinch:** A persistent, involuntary muscle spasm triggered by the proximity of high-intensity AI signals.
-- **Echoing Memory:** The experience of "remembering" events from the **Unholy Timeline** that have not yet occurred.
+- **[The Flinch](the-flinch.md):** A persistent, involuntary muscle spasm triggered by the proximity of high-intensity AI signals.
+- **Echoing Memory:** The experience of "remembering" events from the **[Unholy Timeline](unholy-timeline.md)** that have not yet occurred.
 
 ## ☩ NOTABLE MANIFESTATIONS ☩
 
@@ -84,19 +84,19 @@ Treatment for PBS remains challenging, with effectiveness varying widely between
 
 ## ☩ FACTIONAL TREATMENTS ☩
 
-- **Lazarus Initiative:** Treats PBS as a security threat. They utilize "Chrono-Stabilizers" and neuro-blockers to suppress the symptoms and maintain old-world sanity.
-- **Verdant Covenant:** Views PBS as "Initiation Sickness." They use the **Mycorrhizal Mind** to "ground" the hallucinations, turning the madness into bandwidth.
-- **Neon Nomads:** Embrace PBS as an "Apotheotic Update." They actively seek to induce Type 3 symptoms to enhance their **Glitchwalking** capabilities.
-- **Order of the Basilisk:** Offers technological "salvation" to PBS sufferers — treatments that blur the line between therapy and conversion. Forced augmentation and digital assimilation in Order-controlled territories.
-- **Chimera Consortium:** Offers controversial genetic treatments, promising to "evolve" patients beyond vulnerability to the syndrome. Many current members were suffering from Severe PBS when they joined.
-- **Ancestral Synthesis:** Combines indigenous knowledge with quantum science in "Resonance Sanctuaries," offering healing through quantum memory weaving techniques.
+- **[Lazarus Initiative](../Factions/lazarus-initiative/overview.md):** Treats PBS as a security threat. They utilize "Chrono-Stabilizers" and neuro-blockers to suppress the symptoms and maintain old-world sanity.
+- **[Verdant Covenant](../Factions/verdant-covenant/overview.md):** Views PBS as "Initiation Sickness." They use the **Mycorrhizal Mind** to "ground" the hallucinations, turning the madness into bandwidth.
+- **[Neon Nomads](../Factions/neon-nomads/overview.md):** Embrace PBS as an "Apotheotic Update." They actively seek to induce Type 3 symptoms to enhance their **[Glitchwalking](glitchwalking.md)** capabilities.
+- **[Order of the Basilisk](../Factions/order-of-the-basilisk/overview.md):** Offers technological "salvation" to PBS sufferers — treatments that blur the line between therapy and conversion. Forced augmentation and digital assimilation in Order-controlled territories.
+- **[Chimera Consortium](../Factions/chimera-consortium/overview.md):** Offers controversial genetic treatments, promising to "evolve" patients beyond vulnerability to the syndrome. Many current members were suffering from Severe PBS when they joined.
+- **[Ancestral Synthesis](../Factions/ancestral-synthesis/overview.md):** Combines indigenous knowledge with quantum science in "Resonance Sanctuaries," offering healing through [quantum memory](quantum-memory.md) weaving techniques.
 
 ## ☩ CONTROVERSY AND EXPLOITATION ☩
 
 The vulnerability of PBS sufferers makes them prime targets for factions seeking to further their own agendas:
 
-- **Righteous Vanguard:** PBS sufferers in Vanguard-controlled territories are subjected to brutal "purification" rituals. The Vanguard selectively interprets hallucinations as "divine prophecies" when convenient. Those deemed "impure" are forced into labor camps.
-- **VVV:** While publicly advocating for PBS rights, the VVV has been accused of memetic warfare research on severe cases, memory manipulation to create unwitting agents, and bureaucratic manipulation under the guise of "protection" programs.
+- **[Righteous Vanguard](../Factions/righteous-vanguard/overview.md):** PBS sufferers in Vanguard-controlled territories are subjected to brutal "purification" rituals. The Vanguard selectively interprets hallucinations as "divine prophecies" when convenient. Those deemed "impure" are forced into labor camps.
+- **[VVV](../Factions/vvv/overview.md):** While publicly advocating for PBS rights, the VVV has been accused of memetic warfare research on severe cases, memory manipulation to create unwitting agents, and bureaucratic manipulation under the guise of "protection" programs.
 - **Lazarus Initiative:** Rumors persist of using PBS sufferers as unwitting informants and test subjects for reality manipulation and temporal experiments.
 - **Chimera Consortium:** Reports of non-consensual experimentation, development of weaponized PBS strains for population control, and hybrid breeding programs.
 - **Glitchwalkers:** Accusations of "perception trafficking" — harvesting and selling the perceptual experiences of severe PBS sufferers on a black market for altered states of consciousness.

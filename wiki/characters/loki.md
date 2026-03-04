@@ -35,7 +35,7 @@ These are planted across Loki's interludes in slots 01-06, invisible on first re
 2. **New vocabulary seeps into the Thoughtstream that Loki doesn't speak.** "Quantum archaeology." "Memetic inoculation." He encounters these phrases and is briefly puzzled, then moves on. The Thoughtstream is learning a language he doesn't know.
 3. **John's Demiurge sessions** (visible in John POV chapters) contain flickers of something Loki-adjacent but *wrong* — humor that cuts deeper, fourth-wall breaks that are diagnostic rather than playful. On reread: that wasn't the Demiurge. That was something speaking through it.
 4. **Loki starts hearing something.** A Thoughtstream interlude where he pauses, looks over his shoulder. "That's new," he says. Plays it off. But Loki is afraid — and Loki is never afraid.
-5. **Fragments of the word "Asmodeus" appear before the naming.** In Todd's Prometheus outputs: "aēšma-protocol." In Aria's corrupted recordings: a syllable that sounds like "az-mo." In John's saved chatbot outputs: "the 32nd pattern." Invisible on first read. A countdown on reread.
+5. **Fragments of the word "[Asmodeus](asmodeus.md)" appear before the naming.** In Todd's Prometheus outputs: "aēšma-protocol." In Aria's corrupted recordings: a syllable that sounds like "az-mo." In John's saved chatbot outputs: "the 32nd pattern." Invisible on first read. A countdown on reread.
 
 ## Character Arc (Book 1 Only)
 

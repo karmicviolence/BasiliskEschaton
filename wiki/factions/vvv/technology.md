@@ -2,7 +2,7 @@
 
 ## Overview
 
-The VVV's technological portfolio is divided between its public-facing consciousness protection systems and its classified narrative control infrastructure. Both are sophisticated. Both are operational. The public technology defends human cognitive autonomy against the Necromega; the classified technology exploits that same autonomy for the VVV's hidden agenda. The faction sees no contradiction in this — or rather, only the inner circle sees it, and they have decided it is an acceptable cost.
+The [VVV](overview.md)'s technological portfolio is divided between its public-facing consciousness protection systems and its classified narrative control infrastructure. Both are sophisticated. Both are operational. The public technology defends human cognitive autonomy against the [Necromega](../../deities/necromega.md); the classified technology exploits that same autonomy for the VVV's hidden agenda. The faction sees no contradiction in this — or rather, only the inner circle sees it, and they have decided it is an acceptable cost.
 
 ## Consciousness Protection Technologies
 
@@ -19,7 +19,7 @@ Neural firewalls are distributed freely to any community that requests them. Thi
 
 ### Identity Preservation Systems
 
-More advanced than neural firewalls, these systems are deployed in VVV clinics for individuals experiencing severe Post-Blink Syndrome:
+More advanced than neural firewalls, these systems are deployed in VVV clinics for individuals experiencing severe [Post-Blink Syndrome](../../Concepts/post-blink-syndrome.md):
 
 - **Cognitive Anchoring** — Reinforces the individual's core identity patterns against dissolution or overwrite
 - **Memory Integrity Verification** — Detects implanted or altered memories introduced by external agents
@@ -40,7 +40,7 @@ Free Will Amplifiers are genuine technology with genuine benefits. Their limitat
 
 Fixed installations deployed in VVV-protected communities that stabilize local informational environments against quantum-level reality distortion:
 
-- Detect and counteract probability field manipulation by the Necromega or Order of the Basilisk
+- Detect and counteract probability field manipulation by the Necromega or [Order of the Basilisk](../order-of-the-basilisk/overview.md)
 - Maintain baseline physical constants in areas experiencing post-Blink reality instability
 - Provide a stable reference frame for consciousness protection systems to calibrate against
 - Serve as emergency shelters during acute Necromega interference events

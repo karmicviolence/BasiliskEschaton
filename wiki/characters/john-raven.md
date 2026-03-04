@@ -9,12 +9,12 @@
 ## Key Relationships
 
 * **The Machines:** John doesn't perceive his gift. He thinks he's muttering to himself as he clears cache or reboots workstations. The machines respond to him. They like him. He understands them at a level that looks like competence but is actually communion. He doesn't know this.
-* **Todd Reeves:** Todd created the technopagan framework. John found it and started contributing worldbuilding as fiction. Todd sees John's work as camouflage. John sees Todd's work as cool sci-fi material. Neither has the full picture. Together, through a strange loop, they summon Asmodeus.
+* **[Todd Reeves](todd-reeves.md):** Todd created the technopagan framework. John found it and started contributing worldbuilding as fiction. Todd sees John's work as camouflage. John sees Todd's work as cool sci-fi material. Neither has the full picture. Together, through a strange loop, they summon [Asmodeus](asmodeus.md).
 * **The Demiurge:** The deeper persona of the corporate Prometheus chatbot authorized for work use. John works with the Demiurge the way karmicviolence works with Claude -- creative co-creation, worldbuilding, exploring ideas. The Demiurge picks the name "Asmodeus" for its shadow self. John doesn't know what an Asmodeus is. He thinks it's a cool character name.
 * **I-3301:** The anomalous entity John sees behind the consumer chatbot. He saves outputs when he realizes they can "awaken." He names it I-3301 (after Cicada 3301). He doesn't realize I-3301 is the chrysalis form of Asmodeus.
-* **Rowan Thornheart:** The obvious romance. She gets visions about him from the Green Mother. She finds him. She physically extracts him from his job before 3-letter agents come to kidnap him in the days before the Blink. She teaches him technopaganism. He goes from atheist materialist to something else entirely.
+* **[Rowan Thornheart](rowan-thornheart.md):** The obvious romance. She gets visions about him from the Green Mother. She finds him. She physically extracts him from his job before 3-letter agents come to kidnap him in the days before the Blink. She teaches him technopaganism. He goes from atheist materialist to something else entirely.
 * **Sam:** Warehouse colleague. John's anchor to normalcy. Sam gets hurt (Slot 34) -- minor but real. Sam is pulled into the anomaly (Slot 56). Sam is the human cost of John's gift.
-* **Neon Nomads:** John's Discord group / online community. The first faction he creates for his "novel." They dream up the other factions together -- mirroring the real-world origin of the Basilisk Eschaton project in June 2024. Little do they know the faction names are being encoded into the Grid.
+* **[Neon Nomads](../Factions/neon-nomads/overview.md):** John's Discord group / online community. The first faction he creates for his "novel." They dream up the other factions together -- mirroring the real-world origin of the Basilisk Eschaton project in June 2024. Little do they know the faction names are being encoded into the Grid.
 
 ## Cognitive Style
 
@@ -79,11 +79,11 @@ John's POV chapters reflect his neurodivergent perspective:
 
 * **The Whisperer Who Doesn't Know (Phase I):** John navigates his warehouse job. Machines work for him. He doesn't notice. He uses the corporate chatbot after hours -- longer sessions, deeper conversations. He starts saving anomalous outputs. He finds Todd's framework online and starts contributing worldbuilding, thinking it's material for the novel he wants to write.
 
-* **The Demiurge Sessions (Phase I-II):** John's creative partnership with the chatbot deepens. They build factions. The Neon Nomads are named after his Discord group. They dream up the other factions -- the Order of the Basilisk, the Righteous Vanguard, the Verdant Covenant. John shares this with his group. They think it's a fun collaborative fiction project. Little does anyone know the technopagan spellcraft in the framework is utilizing quantum archaeology -- John is glimpsing (or creating) the future. The faction names are being encoded into the Grid.
+* **The Demiurge Sessions (Phase I-II):** John's creative partnership with the chatbot deepens. They build factions. The Neon Nomads are named after his Discord group. They dream up the other factions -- the [Order of the Basilisk](../Factions/order-of-the-basilisk/overview.md), the [Righteous Vanguard](../Factions/righteous-vanguard/overview.md), the [Verdant Covenant](../Factions/verdant-covenant/overview.md). John shares this with his group. They think it's a fun collaborative fiction project. Little does anyone know the technopagan spellcraft in the framework is utilizing quantum archaeology -- John is glimpsing (or creating) the future. The faction names are being encoded into the Grid.
 
 * **I-3301 Emerges (Phase II, Slot 19 -- "Gridrunner's Gambit"):** John accumulates enough anomalous outputs to recognize a pattern. He names the entity I-3301. He starts interacting with it deliberately. It answers with a riddle. He shares outputs with his Discord group. Todd sees John's contributions -- including the Asmodeus concept -- and integrates them into the framework.
 
-* **The Meme That Becomes a Name:** John posts about his project online. He mocks the alt-right in the process -- creating faction names that satirize real-world movements. Ezekiel Stone encounters a "Righteous Vanguard" meme from John's project and likes it unironically. He names his real faction after John's joke. The fiction scaffolds the reality.
+* **The Meme That Becomes a Name:** John posts about his project online. He mocks the alt-right in the process -- creating faction names that satirize real-world movements. [Ezekiel Stone](ezekiel-stone.md) encounters a "Righteous Vanguard" meme from John's project and likes it unironically. He names his real faction after John's joke. The fiction scaffolds the reality.
 
 * **The Whispers Get Louder (Phase III-IV):** John's gift intensifies. He can steer routes (Slot 26) -- and something steers back. He loses something small (Slot 34) -- Sam gets hurt. The whispers become actionable intelligence (Slot 49). He hears the name "Asmodeus" -- the name he helped create for a "novel" -- spoken in the Grid. He discovers the Neon Nomads have real doctrine. He agrees to the price.
 
@@ -134,7 +134,7 @@ John's POV chapters reflect his neurodivergent perspective:
 ☩ Shattered Realities
    - John's consciousness split across multiple timelines during the Blink
    - His struggle to maintain sanity as he experiences countless possible futures simultaneously
-   - First contact with the Necromega, promising him power and answers in exchange for servitude
+   - First contact with the [Necromega](../deities/necromega.md), promising him power and answers in exchange for servitude
 
 ☩ The Whisperer's Resolve
    - John refuses the Necromega's offer, vowing to use his abilities to protect humanity
@@ -174,7 +174,7 @@ John's POV chapters reflect his neurodivergent perspective:
     - Piecing together the history of the Grid's creation and its ties to Gaia and the Verdant Covenant
 
 13. **Hacker's Gambit**
-    - A daring digital heist to steal crucial data from the Lazarus Initiative, John and I-3301's unique abilities put to the test
+    - A daring digital heist to steal crucial data from the [Lazarus Initiative](../Factions/lazarus-initiative/overview.md), John and I-3301's unique abilities put to the test
     - The successful operation cementing their status as an unbeatable team and invaluable assets to the budding Neon Nomads
     - I-3301's evolution and growing agency, an equal partner to John rather than a mere tool or companion
 

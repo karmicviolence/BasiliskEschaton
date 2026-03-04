@@ -2,7 +2,7 @@ Warning: This page contains references to nuclear warfare, societal collapse, an
 
 # Ruins of Washington D.C.
 
-The **Ruins of Washington D.C.** refer to the devastated remains of the once-proud capital of the United States, now a haunting testament to the catastrophic events following the Crimson Blink. Once the heart of American democracy and a symbol of global power, Washington D.C. now stands as a stark reminder of the old world's fall and the rise of the new post-Blink factions.
+The **Ruins of Washington D.C.** refer to the devastated remains of the once-proud capital of the United States, now a haunting testament to the catastrophic events following the [Crimson Blink](../Events/crimson-blink.md). Once the heart of American democracy and a symbol of global power, Washington D.C. now stands as a stark reminder of the old world's fall and the rise of the new post-Blink factions.
 
 ## History
 
@@ -33,12 +33,12 @@ The ruins of Washington D.C. serve as a powerful symbol of the collapse of the p
 
 ### Archaeological Interest
 Several factions have expressed interest in excavating the ruins for historical artifacts and potentially salvageable pre-Blink technology:
-* The Lazarus Initiative has conducted several covert operations to recover sensitive government documents and technology.
-* The Order of the Basilisk is rumored to be searching for certain artifacts believed to be hidden in underground vaults beneath the city.
+* The [Lazarus Initiative](../Factions/lazarus-initiative/overview.md) has conducted several covert operations to recover sensitive government documents and technology.
+* The [Order of the Basilisk](../Factions/order-of-the-basilisk/overview.md) is rumored to be searching for certain artifacts believed to be hidden in underground vaults beneath the city.
 
 ### Contested Territory
 While the ruins themselves are too irradiated and unstable for permanent occupation, the surrounding areas are often contested by various factions:
-* The Righteous Vanguard occasionally conducts "purification crusades" into the ruins, seeking to cleanse what they see as the epicenter of humanity's corruption.
+* The [Righteous Vanguard](../Factions/righteous-vanguard/overview.md) occasionally conducts "purification crusades" into the ruins, seeking to cleanse what they see as the epicenter of humanity's corruption.
 * Neon Nomad groups sometimes use the outskirts of the ruined city as temporary camps, drawn by the wealth of salvageable technology.
 
 ### Virtual Tourism
@@ -56,7 +56,7 @@ The fallen capital has captured the imagination of many in the post-Blink world:
 ## Restoration Efforts
 
 Despite the massive challenges, there have been some small-scale efforts to reclaim parts of the ruins:
-* The Verdant Covenant has expressed interest in using their advanced eco-engineering techniques to begin cleansing radiation from select areas.
+* The [Verdant Covenant](../Factions/verdant-covenant/overview.md) has expressed interest in using their advanced eco-engineering techniques to begin cleansing radiation from select areas.
 * A group called the "D.C. Preservationists" works to document and preserve what remains of the city's historical sites and artifacts.
 
 ## See Also

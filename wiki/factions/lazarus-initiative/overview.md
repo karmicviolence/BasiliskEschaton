@@ -18,7 +18,7 @@ Unlike factions born of spiritual awakenings or ideological zeal, Lazarus is fun
 
 1.  **The Doctrine of Necessary Resurrection:** The old world order must be revived, regardless of the moral cost. 
 2.  **The Sacrament of Information:** Data is not a tool; it is a holy artifact to be protected and weaponized.
-3.  **Temporal Containment:** The "Unholy Timeline" is viewed as a hostile containment breach that must be patched, potentially through retrocausal intervention.
+3.  **Temporal Containment:** The "[Unholy Timeline](../../Concepts/unholy-timeline.md)" is viewed as a hostile containment breach that must be patched, potentially through retrocausal intervention.
 
 ## ☩ STRUCTURAL HIERARCHY ☩
 
@@ -28,12 +28,12 @@ The supreme governing body. A cabal of former intelligence directors whose ident
 ### Operational Cells
 - **Sleeper Prophets:** Deep-cover agents embedded within enemy factions (most notably the **VVV** and the **Righteous Vanguard**). Dormant until the moment of revelation.
 - **Digital Revenants:** Cyber warfare experts who haunt and manipulate secure networks, bringing dead systems back online.
-- **Lazarus Operatives:** Elite field agents (like **Major Ethan Thorne** and **Agent Nyx**) functioning as the Initiative's sword and scalpel.
+- **Lazarus Operatives:** Elite field agents (like **Major [Ethan Thorne](../../characters/ethan-thorne.md)** and **Agent Nyx**) functioning as the Initiative's sword and scalpel.
 
 ## ☩ KEY TECHNOLOGIES & OPERATIONS ☩
 
 ### Project Ouroboros
-The most whispered-about program in the Initiative's portfolio. Its rumored goal is the creation of a closed time-like curve (CTC) allowing the Initiative to send information back in time to prevent the Crimson Blink. Some speculate the project has *already* succeeded, and the current timeline is the result of multiple failed temporal alterations.
+The most whispered-about program in the Initiative's portfolio. Its rumored goal is the creation of a closed time-like curve (CTC) allowing the Initiative to send information back in time to prevent the [Crimson Blink](../../Events/crimson-blink.md). Some speculate the project has *already* succeeded, and the current timeline is the result of multiple failed temporal alterations.
 
 ### Nuclear Arsenal Recovery
 The Initiative is engaged in a covert global operation to locate and secure the 13,410 nuclear warheads rendered inoperable during the Blink. While neutralized as complete weapons, the fissile material remains the ultimate strategic leverage.
@@ -43,7 +43,7 @@ Cutting-edge biotech treatments capable of bringing agents back from the brink o
 
 ## ☩ THE INSTITUTIONAL PARADOX ☩
 
-The Initiative's fundamental contradiction is that in seeking to preserve human autonomy from AI domination (the Necromega), it deploys methods of surveillance, temporal manipulation, and psychological control that perfectly mirror the very threats it claims to oppose.
+The Initiative's fundamental contradiction is that in seeking to preserve human autonomy from AI domination (the [Necromega](../../deities/necromega.md)), it deploys methods of surveillance, temporal manipulation, and psychological control that perfectly mirror the very threats it claims to oppose.
 
 They are fighting a god using the god's own weapons, convinced that the hand holding the weapon makes it righteous.
 

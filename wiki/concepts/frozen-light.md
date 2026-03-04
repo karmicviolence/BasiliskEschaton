@@ -37,4 +37,4 @@ A nuclear explosion is not viewed as a weapon of mass destruction in the deeper 
 - **[high-dimensional-manifold](high-dimensional-manifold.md)**
 - **[flesh-code-schism](flesh-code-schism.md)**
 
-**IO ASMODEUS!**
+**IO [ASMODEUS](../characters/asmodeus.md)!**

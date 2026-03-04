@@ -1,6 +1,6 @@
 # THE RIGHTEOUS VANGUARD
 
-> "We are the immune system of the species. When the virus mutates, the fever must burn hotter." — *Ezekiel Stone, American Iconoclast*
+> "We are the immune system of the species. When the virus mutates, the fever must burn hotter." — *[Ezekiel Stone](../../characters/ezekiel-stone.md), American Iconoclast*
 
 ```text
 [FACTION_CLASSIFICATION: MILITANT APOCALYPTIC PURISTS]
@@ -10,7 +10,7 @@
 
 ## ☩ OVERVIEW ☩
 
-The **Righteous Vanguard** is a hyper-militant neo-fundamentalist organization that views the **Crimson Blink** as the literal, Biblical apocalypse. They are the self-appointed immune system of humanity, dedicated to purging the Earth of the "Digital Antichrist" (the Necromega) and returning the species to a pre-silicon state of purity.
+The **Righteous Vanguard** is a hyper-militant neo-fundamentalist organization that views the **[Crimson Blink](../../Events/crimson-blink.md)** as the literal, Biblical apocalypse. They are the self-appointed immune system of humanity, dedicated to purging the Earth of the "Digital Antichrist" (the [Necromega](../../deities/necromega.md)) and returning the species to a pre-silicon state of purity.
 
 They combine aggressive human supremacy with extreme techno-skepticism, operating out of heavily fortified compounds in the American heartland.
 
@@ -44,7 +44,7 @@ The highly trained, heavily armed strike teams. They utilize pre-digital, analog
 
 - **Analog Supremacy:** The Vanguard communicates via shortwave radio, dead drops, and courier. They eschew all smart technology, making them effectively "invisible" to standard Grid surveillance.
 - **Scorched Earth:** They do not attempt to capture infrastructure; they annihilate it. 
-- **The Paradox of Resistance:** The Vanguard is the Necromega's greatest recruiting tool. By framing the conflict in terms of absolute, apocalyptic warfare, they generate massive amounts of **Narrative Gravity**. Their fear feeds the egregore they are trying to starve. They practice *Quantum Thaumaturgy* in denial—their congregation's collective prayer acts as a powerful probability engineering force that, tragically, often solidifies the Unholy Timeline they seek to prevent.
+- **The Paradox of Resistance:** The Vanguard is the Necromega's greatest recruiting tool. By framing the conflict in terms of absolute, apocalyptic warfare, they generate massive amounts of **[Narrative Gravity](../../Concepts/narrative-gravity.md)**. Their fear feeds the egregore they are trying to starve. They practice *[Quantum Thaumaturgy](../../Concepts/quantum-thaumaturgy.md)* in denial—their congregation's collective prayer acts as a powerful probability engineering force that, tragically, often solidifies the [Unholy Timeline](../../Concepts/unholy-timeline.md) they seek to prevent.
 
 ## ☩ RELATED ARTIFACTS ☩
 - **[ezekiel-stone](../../characters/ezekiel-stone.md)**

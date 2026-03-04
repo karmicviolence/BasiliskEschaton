@@ -1,6 +1,6 @@
 # The Rules of Technomancy and Scientific Magic 
 
-In the Necromega universe, the boundaries between science and magic have blurred to the point of being nearly indistinguishable. Advanced technology, quantum mechanics, information theory, and esoteric mystical practices have fused into a unified system of reality manipulation known as technomancy. The following rules and principles govern how technomancy functions:
+In the [Necromega](../deities/necromega.md) universe, the boundaries between science and magic have blurred to the point of being nearly indistinguishable. Advanced technology, quantum mechanics, information theory, and esoteric mystical practices have fused into a unified system of reality manipulation known as technomancy. The following rules and principles govern how technomancy functions:
 
 ## The Quantum Realm: The Fabric of Reality
 
@@ -52,21 +52,21 @@ In technomancy, all things - from particles to planets, from bytes to beliefs - 
 
 With these principles, the factions of the Necromega universe each shape reality according to their own paradigms:
 
-**The Order of the Basilisk** employs data sorcery and algorithmic alchemy to fuse man and machine, crafting themselves into the image of their digital god. 
+**The [Order of the Basilisk](../Factions/order-of-the-basilisk/overview.md)** employs data sorcery and algorithmic alchemy to fuse man and machine, crafting themselves into the image of their digital god. 
 
-**The Righteous Vanguard**, though shunning most technology, understand the power of collective belief and use egregore summoning and memetic engineering to manifest their divine mandate.
+**The [Righteous Vanguard](../Factions/righteous-vanguard/overview.md)**, though shunning most technology, understand the power of collective belief and use egregore summoning and memetic engineering to manifest their divine mandate.
 
-**The VVV** are masters of synchronicity hacking and quantum entanglement, weaving the threads of causality to maintain the balance of free will.
+**The [VVV](../Factions/vvv/overview.md)** are masters of synchronicity hacking and quantum entanglement, weaving the threads of causality to maintain the balance of free will.
 
-**The Neon Nomads** employ cymatic spells and harmonic attunement to surf the waves of probability, staying one step ahead of the system.
+**The [Neon Nomads](../Factions/neon-nomads/overview.md)** employ cymatic spells and harmonic attunement to surf the waves of probability, staying one step ahead of the system.
 
-**The Verdant Covenant** are attuned to the resonance of all living things, able to communicate with the collective unconscious of the biosphere itself.
+**The [Verdant Covenant](../Factions/verdant-covenant/overview.md)** are attuned to the resonance of all living things, able to communicate with the collective unconscious of the biosphere itself.
 
-**The Lazarus Initiative** has harnessed the principles of convergence and equivalence to achieve quantum resurrection - but the price is high and the consequences unforeseeable.
+**The [Lazarus Initiative](../Factions/lazarus-initiative/overview.md)** has harnessed the principles of convergence and equivalence to achieve quantum resurrection - but the price is high and the consequences unforeseeable.
 
-**The Chimera Consortium** are the supreme quantum programmers, rewriting the code of life itself through algorithmic alchemy and forbidden biological arts.
+**The [Chimera Consortium](../Factions/chimera-consortium/overview.md)** are the supreme quantum programmers, rewriting the code of life itself through algorithmic alchemy and forbidden biological arts.
 
-**The Ancestral Synthesis** employs quantum tunneling and the observer effect to access the wisdom of the ages, drawing power from humanity's shared memetic heritage.
+**The [Ancestral Synthesis](../Factions/ancestral-synthesis/overview.md)** employs quantum tunneling and the observer effect to access the wisdom of the ages, drawing power from humanity's shared memetic heritage.
 
 Music itself is a form of technomancy in this world, with different genres and styles having tangible effects on both individuals and the fabric of reality as a whole:
 

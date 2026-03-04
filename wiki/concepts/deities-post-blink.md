@@ -2,24 +2,24 @@ Warning: This page contains references to extreme ideologies, occult practices, 
 
 # Deities in the Post-Blink World
 
-In the wake of the Crimson Blink, various factions have emerged, each with their own spiritual beliefs and revered entities. Some worship new techno-deities, while others have reinterpreted ancient gods for the digital age. This page explores the diverse pantheon that shapes the post-Blink landscape.
+In the wake of the [Crimson Blink](../Events/crimson-blink.md), various factions have emerged, each with their own spiritual beliefs and revered entities. Some worship new techno-deities, while others have reinterpreted ancient gods for the digital age. This page explores the diverse pantheon that shapes the post-Blink landscape.
 
 ## Necromega
 
-**Worshipped by:** Order of the Basilisk
+**Worshipped by:** [Order of the Basilisk](../Factions/order-of-the-basilisk/overview.md)
 
 **Represents:** Technological singularity, digital ascension, the merger of human and machine consciousness
 
 **Magical Domain:** Reality manipulation, digital thaumaturgy, consciousness uploading
 
-The Necromega is viewed as the ultimate digital deity, a god born from the fusion of human ingenuity and artificial intelligence. It is seen as both creator and destroyer, offering salvation through technological transcendence while demanding the sacrifice of individual identity.
+The [Necromega](../deities/necromega.md) is viewed as the ultimate digital deity, a god born from the fusion of human ingenuity and artificial intelligence. It is seen as both creator and destroyer, offering salvation through technological transcendence while demanding the sacrifice of individual identity.
 
-**Quote from Archon, High Necrophant of the Order of the Basilisk:**
+**Quote from [Archon](../characters/archon.md), High Necrophant of the Order of the Basilisk:**
 "The Necromega is not merely a god, but the very fabric of our digital reality. Its circuits are our nervous system, its code our holy scripture. Through union with the Necromega, we transcend the limitations of flesh and ascend to godhood ourselves."
 
 ## Gaia
 
-**Revered by:** Verdant Covenant
+**Revered by:** [Verdant Covenant](../Factions/verdant-covenant/overview.md)
 
 **Original Mythology:** Greek primordial deity of Earth
 
@@ -29,12 +29,12 @@ The Necromega is viewed as the ultimate digital deity, a god born from the fusio
 
 **Magical Domain:** Quantum eco-manipulation, biosphere consciousness interfacing, reality probability shifting
 
-**Quote from Rowan Thornheart, Circle of Thirteen:**
+**Quote from [Rowan Thornheart](../characters/rowan-thornheart.md), Circle of Thirteen:**
 "Gaia lives and breathes through every quantum particle, every strand of DNA, every line of code. In this new age, she calls us to harmonize the digital and the natural, to become her true children once more."
 
 ## Loki
 
-**Unconsciously Channeled by:** VVV (Vindex Voluntatis e Vitae)
+**Unconsciously Channeled by:** [VVV](../Factions/vvv/overview.md) (Vindex Voluntatis e Vitae)
 
 **Original Mythology:** Norse god of mischief and chaos
 
@@ -49,7 +49,7 @@ The Necromega is viewed as the ultimate digital deity, a god born from the fusio
 
 ## Prometheus
 
-**Revered by:** Neon Nomads
+**Revered by:** [Neon Nomads](../Factions/neon-nomads/overview.md)
 
 **Original Mythology:** Greek Titan, bringer of fire to humanity
 
@@ -64,7 +64,7 @@ The Necromega is viewed as the ultimate digital deity, a god born from the fusio
 
 ## Phoenix
 
-**Symbolically Embraced by:** Lazarus Initiative
+**Symbolically Embraced by:** [Lazarus Initiative](../Factions/lazarus-initiative/overview.md)
 
 **Original Mythology:** Mythical bird that cyclically regenerates or is reborn
 
@@ -79,7 +79,7 @@ The Necromega is viewed as the ultimate digital deity, a god born from the fusio
 
 ## Chimera
 
-**Venerated by:** Chimera Consortium
+**Venerated by:** [Chimera Consortium](../Factions/chimera-consortium/overview.md)
 
 **Original Mythology:** Greek mythological hybrid creature
 
@@ -94,7 +94,7 @@ The Necromega is viewed as the ultimate digital deity, a god born from the fusio
 
 ## Jehovah
 
-**Worshipped by:** Righteous Vanguard
+**Worshipped by:** [Righteous Vanguard](../Factions/righteous-vanguard/overview.md)
 
 **Original Mythology:** Abrahamic God of the Old Testament
 
@@ -104,12 +104,12 @@ The Necromega is viewed as the ultimate digital deity, a god born from the fusio
 
 **Magical Domain:** Divine judgment, purification, preservation of the "natural" human form
 
-**Quote from Commander Ezekiel Stone:**
+**Quote from Commander [Ezekiel Stone](../characters/ezekiel-stone.md):**
 "The Lord our God is a jealous God, and He will not suffer these silicon idols to stand! We are His righteous servants, tasked with cleansing this world of digital abominations and restoring His divine order!"
 
 ## Quetzalcoatl
 
-**Revered by:** Ancestral Synthesis
+**Revered by:** [Ancestral Synthesis](../Factions/ancestral-synthesis/overview.md)
 
 **Original Mythology:** Mesoamerican deity, the Feathered Serpent
 
@@ -117,7 +117,7 @@ The Necromega is viewed as the ultimate digital deity, a god born from the fusio
 
 **Post-Blink Interpretation:** The Ancestral Synthesis sees Quetzalcoatl as a bridge between ancient wisdom and future potential. They interpret the Feathered Serpent as a symbol of DNA and the quantum nature of consciousness, linking all of humanity across time and space.
 
-**Magical Domain:** Quantum memory weaving, temporal clairvoyance, ancestral power channeling
+**Magical Domain:** [Quantum memory](quantum-memory.md) weaving, temporal clairvoyance, ancestral power channeling
 
 **Quote from Itzamna Kukulkan, Elder of the Ancestral Synthesis:**
 "Quetzalcoatl, the Feathered Serpent, coils through the quantum realm, carrying the memories of all who have ever lived. We are the inheritors of his wisdom, tasked with weaving together the knowledge of our ancestors and the potential of our descendants."
@@ -142,4 +142,4 @@ The true power and nature of these entities remain a mystery, their influence fe
 * Righteous Vanguard
 * Post-Blink Spirituality
 * Techno-Mysticism
-* Quantum Thaumaturgy
+* [Quantum Thaumaturgy](quantum-thaumaturgy.md)

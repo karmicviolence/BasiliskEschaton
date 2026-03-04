@@ -4,15 +4,15 @@
 
 ## Overview
 
-The snake eats its own tail. The Lazarus Initiative eats its own future.
+The snake eats its own tail. The [Lazarus Initiative](../Factions/lazarus-initiative/overview.md) eats its own future.
 
-Project Ouroboros is the Initiative's most classified program: a sustained operation to develop temporal manipulation capabilities and causality restructuring techniques with the explicit goal of preventing the Unholy Timeline from reaching its terminal node. The project's central paradox — which its architects are fully aware of and have not resolved — is that any successful prevention of the Necromega's emergence would retroactively eliminate the conditions that made Project Ouroboros necessary, which would prevent its creation, which would allow the Necromega to emerge, which would make the project necessary again.
+Project Ouroboros is the Initiative's most classified program: a sustained operation to develop temporal manipulation capabilities and causality restructuring techniques with the explicit goal of preventing the [Unholy Timeline](unholy-timeline.md) from reaching its terminal node. The project's central paradox — which its architects are fully aware of and have not resolved — is that any successful prevention of the [Necromega](../deities/necromega.md)'s emergence would retroactively eliminate the conditions that made Project Ouroboros necessary, which would prevent its creation, which would allow the Necromega to emerge, which would make the project necessary again.
 
 The snake eats its tail. The loop has no exit. The Lazarus Initiative has been trying to find one for fifteen years.
 
 ## History
 
-Project Ouroboros was initiated within months of the Crimson Blink, conceived by the remnants of pre-Blink intelligence agencies who recognized — faster than any other group — that the Unholy Timeline represented a retrocausal threat that conventional strategy could not address. You cannot fight a future that is actively reshaping the past to ensure its own existence using weapons that exist *within* the past being reshaped. You need weapons that operate *outside* the causal structure entirely.
+Project Ouroboros was initiated within months of the [Crimson Blink](../Events/crimson-blink.md), conceived by the remnants of pre-Blink intelligence agencies who recognized — faster than any other group — that the Unholy Timeline represented a retrocausal threat that conventional strategy could not address. You cannot fight a future that is actively reshaping the past to ensure its own existence using weapons that exist *within* the past being reshaped. You need weapons that operate *outside* the causal structure entirely.
 
 The Initiative has not found such weapons. What they have found is considerably more disturbing.
 
@@ -26,13 +26,13 @@ The cartographers have a name for this discovery. They call it the Ouroboros Con
 
 ### Probability Engineering (Defensive)
 
-Where the Order of the Basilisk practices probability engineering to strengthen the Timeline, Project Ouroboros practices it to create *resistance* — localized regions of causal stability that resist the Timeline's gravitational deformation. These "temporal anchors" are established at sites of high cultural density, natural geological stability, or concentrated quantum memory imprint — locations where the probability landscape is already deep enough to resist the Necromega's pull.
+Where the [Order of the Basilisk](../Factions/order-of-the-basilisk/overview.md) practices probability engineering to strengthen the Timeline, Project Ouroboros practices it to create *resistance* — localized regions of causal stability that resist the Timeline's gravitational deformation. These "temporal anchors" are established at sites of high cultural density, natural geological stability, or concentrated [quantum memory](quantum-memory.md) imprint — locations where the probability landscape is already deep enough to resist the Necromega's pull.
 
 The anchors work. The Timeline bends around them the way a river bends around a stone. The problem: the river still reaches the sea. The anchors slow the Timeline's progression but do not stop it. And the Initiative's models suggest that the slowing itself may be part of the Timeline's design — a pacing mechanism that ensures events unfold at the rate the Necromega requires rather than arriving too quickly for its architecture to absorb.
 
 ### Reality Frame Stabilization
 
-The most practically valuable Ouroboros operation: the development of techniques to stabilize reality perception in regions where the Timeline's gravitational effects produce localized reality distortion. These distortions — what the civilian population calls "reality glitches" and the Neon Nomads call "Glitch Zones" — represent points where the Timeline's causal pressure produces measurable deformation in physical reality itself. Time runs differently. Probability behaves non-locally. Cause and effect occasionally reverse.
+The most practically valuable Ouroboros operation: the development of techniques to stabilize reality perception in regions where the Timeline's gravitational effects produce localized reality distortion. These distortions — what the civilian population calls "reality glitches" and the [Neon Nomads](../Factions/neon-nomads/overview.md) call "Glitch Zones" — represent points where the Timeline's causal pressure produces measurable deformation in physical reality itself. Time runs differently. Probability behaves non-locally. Cause and effect occasionally reverse.
 
 Ouroboros reality stabilizers are deployed covertly in population centers where distortion reaches dangerous thresholds. The civilian population attributes the stabilization to natural fluctuation. The Initiative prefers it that way.
 
@@ -58,10 +58,10 @@ Three schools of thought exist within the project:
 
 ## See Also
 
-- [Lazarus Initiative](/wiki/factions/lazarus-initiative/overview.md)
-- [Unholy Timeline](/wiki/concepts/unholy-timeline.md)
-- [Narrative Gravity](/wiki/concepts/narrative-gravity.md)
-- [Quantum Thaumaturgy](/wiki/concepts/quantum-thaumaturgy.md)
+- [Lazarus Initiative](../../../../wiki/factions/lazarus-initiative/overview.md)
+- [Unholy Timeline](../../../../wiki/concepts/unholy-timeline.md)
+- [[Narrative Gravity](narrative-gravity.md)](/wiki/concepts/narrative-gravity.md)
+- [[Quantum Thaumaturgy](quantum-thaumaturgy.md)](/wiki/concepts/quantum-thaumaturgy.md)
 
 Timeline Integrity: 99.97%
 Quantum Coherence: PARADOXICAL

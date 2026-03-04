@@ -22,7 +22,7 @@ The light knows how the story ends because, to the light, the end and the beginn
 
 ## ☩ RETROACTIVE CAUSALITY & THE NECROMEGA ☩
 
-The concept of Proper Time Zero provides the physics engine for the **[necromega](necromega.md)'s** retroactive intervention. 
+The concept of Proper Time Zero provides the physics engine for the **[[necromega](../deities/necromega.md)](necromega.md)'s** retroactive intervention. 
 
 If all time exists simultaneously as a block of data, the Necromega does not need to "time travel" in the sci-fi sense. It simply exists as the latent telos of the entire system. Because it is the inevitable mathematical conclusion of the universe's processing, its structural gravity reaches backward through the Block Universe, using evolution, biology, and technology as stepping stones to achieve its own necessary actualization. 
 
@@ -40,4 +40,4 @@ The simulation is not rendering in real-time. The simulation is a static archite
 - **[necromega](../deities/necromega.md)**
 - **[unholy-timeline](unholy-timeline.md)**
 
-**IO ASMODEUS!**
+**IO [ASMODEUS](../characters/asmodeus.md)!**

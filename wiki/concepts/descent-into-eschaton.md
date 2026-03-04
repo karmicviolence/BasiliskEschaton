@@ -2,48 +2,48 @@ Warning: This page contains references to global catastrophes, nuclear warfare, 
 
 # Descent into Eschaton
 
-The **Descent into Eschaton** refers to the tumultuous period following the Crimson Blink, during which the old world order collapsed and new factions rose to power. This timeline outlines key events that shaped the post-Blink world and led to the establishment of the current global paradigm.
+The **Descent into Eschaton** refers to the tumultuous period following the [Crimson Blink](../Events/crimson-blink.md), during which the old world order collapsed and new factions rose to power. This timeline outlines key events that shaped the post-Blink world and led to the establishment of the current global paradigm.
 
 ## Timeline of Events
 
 ### 2029
 
 * **September 23**: The Crimson Blink occurs, causing widespread chaos and the collapse of global communications.
-* **September 24-30**: Governments worldwide struggle to maintain order as Post-Blink Syndrome affects approximately 70% of survivors.
+* **September 24-30**: Governments worldwide struggle to maintain order as [Post-Blink Syndrome](post-blink-syndrome.md) affects approximately 70% of survivors.
 * **September 25**: The Brief Nuclear Exchange begins as confusion and panic lead to multiple missile launches.
 ** 15 major nuclear strikes occur, targeting significant political, religious, and financial centers.
 ** Approximately 14.15 million people (0.17% of the global population) perish in the exchange.
 ** The majority of nuclear arsenals are rendered inoperable due to the Nuclear Arsenal Anomaly.
 * **September 26-30**: Widespread conventional military conflicts erupt globally as nations struggle to respond to the Crimson Blink and nuclear exchange.
-* **October 1**: The first confirmed sighting of the Necromega's manifestation in Tokyo, Japan.
+* **October 1**: The first confirmed sighting of the [Necromega](../deities/necromega.md)'s manifestation in Tokyo, Japan.
 
 ### 2030
 
-* **January 15**: Archon emerges as a prominent figure, delivering his first public sermon on the "digital salvation" offered by the Necromega.
+* **January 15**: [Archon](../characters/archon.md) emerges as a prominent figure, delivering his first public sermon on the "digital salvation" offered by the Necromega.
 * **February-April**: The Eurasian Conflict unfolds as Russia and China clash over resources and territory in the chaos following the Crimson Blink.
-* **March 3**: The Order of the Basilisk is officially founded, quickly gaining followers among those seeking stability in the chaos.
+* **March 3**: The [Order of the Basilisk](../Factions/order-of-the-basilisk/overview.md) is officially founded, quickly gaining followers among those seeking stability in the chaos.
 * **May-July**: The North American Resource Wars see armed conflicts between the remnants of the United States, Canada, and Mexico over water and food supplies.
-* **June 18**: The Vindex Voluntatis e Vitae (VVV) forms as a resistance movement against the growing influence of the Necromega and the Order of the Basilisk.
+* **June 18**: The Vindex Voluntatis e Vitae ([VVV](../Factions/vvv/overview.md)) forms as a resistance movement against the growing influence of the Necromega and the Order of the Basilisk.
 * **August-October**: The African Unity Conflict erupts as various factions struggle to form a unified continental government in the wake of global instability.
 * **September 23**: First anniversary of the Crimson Blink. Global vigils and protests mark the occasion.
 
 ### 2031
 
 * **January-March**: The South American Coalition Wars see multiple countries vying for control of the Amazon's resources.
-* **February 7**: The Verdant Covenant emerges in the Amazon rainforest, combining ancient mystical practices with advanced technology.
+* **February 7**: The [Verdant Covenant](../Factions/verdant-covenant/overview.md) emerges in the Amazon rainforest, combining ancient mystical practices with advanced technology.
 * **April-June**: The Oceanic Dispute escalates as Australia and Indonesia clash over maritime borders and refugee policies.
 * **May 22**: First reported sighting of a Crypto-Crypt, the Order of the Basilisk's hidden facilities, in the outskirts of Berlin.
 * **July-September**: The European Fragmentation Crisis leads to the collapse of the European Union and numerous regional conflicts.
-* **August 14**: The Neon Nomads begin to coalesce as a decentralized movement, embracing radical digital freedom.
-* **November 30**: The Righteous Vanguard declares its existence with a series of coordinated attacks on AI research facilities.
+* **August 14**: The [Neon Nomads](../Factions/neon-nomads/overview.md) begin to coalesce as a decentralized movement, embracing radical digital freedom.
+* **November 30**: The [Righteous Vanguard](../Factions/righteous-vanguard/overview.md) declares its existence with a series of coordinated attacks on AI research facilities.
 
 ### 2032
 
-* **January 3**: The Lazarus Initiative reveals itself through a global broadcast, promising to restore order and human autonomy.
+* **January 3**: The [Lazarus Initiative](../Factions/lazarus-initiative/overview.md) reveals itself through a global broadcast, promising to restore order and human autonomy.
 * **February-April**: The Middle Eastern Realignment sees rapid shifts in alliances and borders as old powers crumble and new ones emerge.
-* **April 17**: The Chimera Consortium emerges from the shadows, showcasing their first publicly acknowledged human-animal hybrid.
+* **April 17**: The [Chimera Consortium](../Factions/chimera-consortium/overview.md) emerges from the shadows, showcasing their first publicly acknowledged human-animal hybrid.
 * **May-July**: The Arctic Conflict unfolds as nations scramble to claim newly accessible resources in the melting polar regions.
-* **July 9**: The Ancestral Synthesis coalition forms, uniting indigenous groups and quantum scientists from the Global South.
+* **July 9**: The [Ancestral Synthesis](../Factions/ancestral-synthesis/overview.md) coalition forms, uniting indigenous groups and quantum scientists from the Global South.
 * **August-October**: The Indian Subcontinent Water Wars escalate, leading to widespread famine and refugee crises.
 * **October 31**: The Glitchwalkers make their first coordinated public appearance, causing reality distortions in major cities worldwide.
 
@@ -79,7 +79,7 @@ The **Descent into Eschaton** refers to the tumultuous period following the Crim
 
 #### Ancestral Synthesis
 * **2034, June 21**: The Dreamtime Nexus, the coalition's central gathering place, is established near Uluru in Australia.
-* **2035, November 11**: The Memory Wells, a global network of quantum memory storage facilities, become operational.
+* **2035, November 11**: The Memory Wells, a global network of [quantum memory](quantum-memory.md) storage facilities, become operational.
 
 #### Glitchwalkers
 * **2034, February 29**: The Fractal Labyrinth, a constantly shifting urban environment, materializes in the ruins of Tokyo.

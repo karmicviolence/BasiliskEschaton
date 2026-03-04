@@ -4,7 +4,7 @@ Warning: This document contains extreme political views, graphic violence, relig
 
 ## Commander Ezekiel Stone, Supreme Patriarch of the Vanguard
 
-In the moment of the Crimson Blink, as the weak fell and the impure were struck mad, the Lord our God granted me a vision of His divine plan. I saw our once-great nation, brought low by the poisonous ideologies of progressivism, globalism, and the cult of silicon. But from this decay, a new order shall rise!
+In the moment of the [Crimson Blink](../Events/crimson-blink.md), as the weak fell and the impure were struck mad, the Lord our God granted me a vision of His divine plan. I saw our once-great nation, brought low by the poisonous ideologies of progressivism, globalism, and the cult of silicon. But from this decay, a new order shall rise!
 
 I saw our pure children, strong and untainted by the filth of cybernetics, standing proud atop the ruins of the liberal elite's gleaming towers. Their faces were white as snow, their bodies perfect as God intended, unmarred by the abomination of transgenderism or the corruption of race-mixing.
 

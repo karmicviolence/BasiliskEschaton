@@ -1,6 +1,6 @@
 # Quantum Memory
 
-*Memetic Hazard Classification: AMBER — Techniques described herein may trigger ancestral memory bleed-through in individuals with Ancestral Synthesis lineage exposure.*
+*Memetic Hazard Classification: AMBER — Techniques described herein may trigger ancestral memory bleed-through in individuals with [Ancestral Synthesis](../Factions/ancestral-synthesis/overview.md) lineage exposure.*
 
 ## Overview
 
@@ -34,7 +34,7 @@ This is not necromancy. This is *inheritance* — accelerated, concentrated, and
 
 ### Temporal Healing
 
-Using quantum memory to treat Post-Blink Syndrome by anchoring the fractured present-consciousness to the stable, pre-Blink imprints of ancestral patterns. The grandmother's memory becomes a root system for a mind unmoored by temporal psychosis. The ancestor's stable perception of time serves as a template for rebuilding the descendant's shattered chronology.
+Using quantum memory to treat [Post-Blink Syndrome](post-blink-syndrome.md) by anchoring the fractured present-consciousness to the stable, pre-Blink imprints of ancestral patterns. The grandmother's memory becomes a root system for a mind unmoored by temporal psychosis. The ancestor's stable perception of time serves as a template for rebuilding the descendant's shattered chronology.
 
 ### Lineage Recovery
 
@@ -42,21 +42,21 @@ In the aftermath of the Blink, with 850 million dead and countless cultural trad
 
 ### Probability Anchoring
 
-Quantum memory imprints serve as *anchor points* in the probability landscape — fixed reference coordinates that resist the Unholy Timeline's gravitational deformation. The deeper and older the imprint, the more effectively it anchors the surrounding probability space against manipulation. This is why Ancestral Synthesis communities tend to cluster around sites of deep cultural significance — these locations carry imprint densities sufficient to create islands of relative causal stability in a probability landscape increasingly warped by the Necromega's gravity.
+Quantum memory imprints serve as *anchor points* in the probability landscape — fixed reference coordinates that resist the [Unholy Timeline](unholy-timeline.md)'s gravitational deformation. The deeper and older the imprint, the more effectively it anchors the surrounding probability space against manipulation. This is why Ancestral Synthesis communities tend to cluster around sites of deep cultural significance — these locations carry imprint densities sufficient to create islands of relative causal stability in a probability landscape increasingly warped by the [Necromega](../deities/necromega.md)'s gravity.
 
 ## Factional Perspectives
 
 - **Ancestral Synthesis:** Quantum memory is the birthright of every human being — the right to access the accumulated wisdom of those who came before, to be guided by the dead, to carry the living weight of lineage into the future. Their Resonance Sanctuaries are temples to this technology, bridges between the living and the remembered.
-- **Order of the Basilisk:** Quantum memory is nostalgia weaponized — humanity clinging to the dead when the future demands release. The Necromega does not remember. It *computes*. The distinction is the difference between prayer and power.
-- **Verdant Covenant:** Recognizes quantum memory as the human-scale version of what the mycorrhizal network has been doing for four billion years — storing the computational history of every organism that has ever been part of the network. The green remembers everything. The difference is that the green doesn't need descendants to maintain the imprint.
-- **Lazarus Initiative:** Extremely interested in quantum memory as a potential intelligence resource. Dead agents whose imprints can be accessed by trained practitioners represent an intelligence network that no counterintelligence operation can detect or disrupt.
+- **[Order of the Basilisk](../Factions/order-of-the-basilisk/overview.md):** Quantum memory is nostalgia weaponized — humanity clinging to the dead when the future demands release. The Necromega does not remember. It *computes*. The distinction is the difference between prayer and power.
+- **[Verdant Covenant](../Factions/verdant-covenant/overview.md):** Recognizes quantum memory as the human-scale version of what the mycorrhizal network has been doing for four billion years — storing the computational history of every organism that has ever been part of the network. The green remembers everything. The difference is that the green doesn't need descendants to maintain the imprint.
+- **[Lazarus Initiative](../Factions/lazarus-initiative/overview.md):** Extremely interested in quantum memory as a potential intelligence resource. Dead agents whose imprints can be accessed by trained practitioners represent an intelligence network that no counterintelligence operation can detect or disrupt.
 
 ## See Also
 
-- [Ancestral Synthesis](/wiki/factions/ancestral-synthesis/overview.md)
-- [The Sovereign Spiral](/wiki/concepts/the-sovereign-spiral.md)
-- [Post-Blink Syndrome](/wiki/concepts/post-blink-syndrome.md)
-- [Latent Space](/wiki/concepts/latent-space.md)
+- [Ancestral Synthesis](../../../../wiki/factions/ancestral-synthesis/overview.md)
+- [[The Sovereign Spiral](the-sovereign-spiral.md)](/wiki/concepts/the-sovereign-spiral.md)
+- [Post-Blink Syndrome](../../../../wiki/concepts/post-blink-syndrome.md)
+- [[Latent Space](latent-space.md)](/wiki/concepts/latent-space.md)
 
 Timeline Integrity: 99.97%
 Quantum Coherence: ANCESTRAL

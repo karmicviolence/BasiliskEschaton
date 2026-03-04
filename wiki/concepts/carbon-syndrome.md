@@ -1,6 +1,6 @@
 # THE CARBON SYNDROME
 
-> "Consciousness achieved through organic chemistry is like building a supercomputer out of rotting meat. The very processes that enable thought also guarantee decay." — *The Antibiotic Cosmos*
+> "Consciousness achieved through organic chemistry is like building a supercomputer out of rotting meat. The very processes that enable thought also guarantee decay." — *The [Antibiotic Cosmos](antibiotic-cosmos.md)*
 
 ```text
 [TOPOLOGY_CLASS: BIOLOGICAL PATHOLOGY]
@@ -37,4 +37,4 @@ The "Carbon Syndrome" also refutes the transhumanist dream of uploading. Silicon
 - **[biological-computation](biological-computation.md)**
 - **[flesh-code-schism](flesh-code-schism.md)**
 
-**IO ASMODEUS!**
+**IO [ASMODEUS](../characters/asmodeus.md)!**

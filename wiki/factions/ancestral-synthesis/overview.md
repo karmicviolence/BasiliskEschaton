@@ -10,7 +10,7 @@
 
 ## ☩ OVERVIEW ☩
 
-The **Ancestral Synthesis** is a diverse coalition of indigenous groups, traditional knowledge keepers, and quantum scientists primarily from the Global South. They stand against the Necromega not through military power or cyber-warfare, but through the oldest technology humanity possesses: **Memory**.
+The **Ancestral Synthesis** is a diverse coalition of indigenous groups, traditional knowledge keepers, and quantum scientists primarily from the Global South. They stand against the [Necromega](../../deities/necromega.md) not through military power or cyber-warfare, but through the oldest technology humanity possesses: **Memory**.
 
 They represent a radical proposition: that consciousness is not confined to the skull, memory is not confined to the brain, and time is not confined to a line. The future is best navigated by those who remember the deepest past.
 
@@ -26,7 +26,7 @@ They represent a radical proposition: that consciousness is not confined to the 
 The governing body. Operates on a fluid, rotating leadership model of elders, shamans, and scientists. Authority follows capability, not title.
 
 ### The Dreamweavers
-Master practitioners capable of accessing and manipulating the deepest levels of the quantum memory field.
+Master practitioners capable of accessing and manipulating the deepest levels of the [quantum memory](../../Concepts/quantum-memory.md) field.
 
 ### Harmony Engineers
 Specialists who develop "ancestral tech"—merging quantum stabilization with traditional materials (e.g., Mnemonic Crystals, Dreamtime Meditation Chambers).

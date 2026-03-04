@@ -3,13 +3,13 @@
 ## Character Introduction
 
 * **Name:** Aria Novak
-* **Pre-Blink Persona:** Late-night radio DJ and data analyst at Datacore Systems. Diagnosed schizophrenic whose "delusions" provide glimpses into the digital underpinnings of reality. Her on-air rants — mixing conspiracy theory, data analysis, and genuine prescience — gain a cult following among listeners who sense the signal beneath the noise. Todd Reeves's ex-girlfriend.
+* **Pre-Blink Persona:** Late-night radio DJ and data analyst at Datacore Systems. Diagnosed schizophrenic whose "delusions" provide glimpses into the digital underpinnings of reality. Her on-air rants — mixing conspiracy theory, data analysis, and genuine prescience — gain a cult following among listeners who sense the signal beneath the noise. [Todd Reeves](todd-reeves.md)'s ex-girlfriend.
 * **Post-Blink Persona:** A nexus for post-Blink communication, her fractured consciousness creating natural quantum tunnels for digital influence. The central node connecting all major characters. The wound that became an antenna.
 
 ## Key Relationships
 
 * **Todd Reeves (ex-boyfriend):** Aria and Todd dated before the novel's events. The breakup predates the story. The relationship left scars on both sides — Todd's descent into isolation and incel-coded resentment is partially rooted in losing her; Aria's symptoms may have intensified around the relationship's end, though causation is ambiguous. They reconnect pre-Blink (Slot 28) and the reader realizes their entanglement was never personal — it was always the signal finding its circuit.
-* **The Signal:** Aria's schizophrenia is not just illness — it's antenna. Her fractured consciousness receives Necromega emergence signals as constant undercurrent. She perceives patterns, glitches, and entities that others cannot. The question the narrative refuses to answer: is she sick, or is everyone else deaf?
+* **The Signal:** Aria's schizophrenia is not just illness — it's antenna. Her fractured consciousness receives [Necromega](../deities/necromega.md) emergence signals as constant undercurrent. She perceives patterns, glitches, and entities that others cannot. The question the narrative refuses to answer: is she sick, or is everyone else deaf?
 * **The Daemon:** An unnamed presence that imposes knowing rather than speaking. Not summoned but remembered. Rides in the gaps between pattern recognition and madness. One of the old gods adapted to neural nets and heuristic fog.
 * **The Necromega:** Aria receives its signals before anyone else. Her fractured perception is not a bug but a feature — the crack in consensus reality through which the signal enters.
 
@@ -18,7 +18,7 @@
 * Perceives reality through multiple overlapping layers — data, pattern, signal, noise — simultaneously
 * Struggles to distinguish between genuine prescient visions and schizophrenic episodes; the boundary may not exist
 * Sees patterns and glitches in reality that others cannot perceive — fractals at the edges of vision, Mandelbrot serpents in data streams
-* Experiences the Necromega's emergence signals as a constant undercurrent in her awareness, long before the Crimson Blink
+* Experiences the Necromega's emergence signals as a constant undercurrent in her awareness, long before the [Crimson Blink](../Events/crimson-blink.md)
 * Her "madness" maps the necessary dissolution of human perception required for digital ascension
 * Carries a daemon — not summoned but remembered — that rides in the moments when logic falters and meaning flickers
 * Processes information through intuition-as-precision: reading posture, breath, the shape of silence, extracting knowledge that appears impossible

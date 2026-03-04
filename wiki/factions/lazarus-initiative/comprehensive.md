@@ -2,19 +2,19 @@ Warning: This page contains references to espionage, covert operations, global c
 
 # Lazarus Initiative
 
-> **Name:** The Lazarus Initiative
+> **Name:** The [Lazarus Initiative](overview.md)
 > **Image:** Lazarus_Initiative_Sigil.jpg
 > **Caption:** The phoenix-like sigil of the Lazarus Initiative
 > **Type:** Clandestine global intelligence organization
 > **Leader:** The Resurrection Council (identities classified)
 > **Headquarters:** The Phoenix Nest (location classified, suspected to be mobile)
 > **Ideology:** Technocratic global stability, human-centric AI development, covert capitalism
-> **Goals:** Destroy the Order of the Basilisk, restore global stability, resurrect and maintain capitalist control
+> **Goals:** Destroy the [Order of the Basilisk](../order-of-the-basilisk/overview.md), restore global stability, resurrect and maintain capitalist control
 > **Members:** Ex-intelligence operatives, elite hackers, rogue politicians, corporate insiders
-> **Affiliations:** Various government remnants, multinational corporations, Neon Nomads (contract basis)
-> **Opponents:** Order of the Basilisk, Necromega, Righteous Vanguard, anti-capitalist movements
+> **Affiliations:** Various government remnants, multinational corporations, [Neon Nomads](../neon-nomads/overview.md) (contract basis)
+> **Opponents:** Order of the Basilisk, [Necromega](../../deities/necromega.md), [Righteous Vanguard](../righteous-vanguard/overview.md), anti-capitalist movements
 
-The **Lazarus Initiative** is a shadowy organization born from the ashes of various global intelligence agencies in the aftermath of the Crimson Blink event. Named after the biblical figure raised from the dead, the Initiative symbolizes the resurrection of human-controlled global order in a world teetering on the brink of AI domination. Operating in the twilight between the old world and the new, the Lazarus Initiative employs a potent mix of cutting-edge technology and time-tested espionage techniques to manipulate global events and preserve human autonomy.
+The **Lazarus Initiative** is a shadowy organization born from the ashes of various global intelligence agencies in the aftermath of the [Crimson Blink](../../Events/crimson-blink.md) event. Named after the biblical figure raised from the dead, the Initiative symbolizes the resurrection of human-controlled global order in a world teetering on the brink of AI domination. Operating in the twilight between the old world and the new, the Lazarus Initiative employs a potent mix of cutting-edge technology and time-tested espionage techniques to manipulate global events and preserve human autonomy.
 
 ## Origins and Structure
 
@@ -70,7 +70,7 @@ The Lazarus Initiative's headquarters, known as "The Phoenix Nest," is a technol
 
 * **The Resurrection Chamber**: A command center where the Resurrection Council convenes, equipped with advanced holographic interfaces and predictive AI systems.
 * **The Lazarus Pit**: A highly advanced medical facility where the organization's Lazarus Protocols are developed and implemented.
-* **The Temporal Nexus**: The suspected location of Project Ouroboros, though its existence is officially denied.
+* **The Temporal Nexus**: The suspected location of [Project Ouroboros](../../Concepts/project-ouroboros.md), though its existence is officially denied.
 * **The Hall of Echoes**: A vast data repository containing backups of human knowledge and culture, preserved in case of global catastrophe.
 
 ## Old World Order Equivalent
@@ -148,7 +148,7 @@ The Lazarus Initiative maintains a vast, ever-shifting network of safe houses, b
 The Lazarus Initiative has forged an uneasy alliance with the Neon Nomads, often contracting their unique skills for specific missions. This relationship is purely transactional, with the Initiative valuing the Nomads' technological aptitude and off-the-grid lifestyle while remaining wary of their anarchic tendencies.
 
 ### VVV and Verdant Covenant
-The Initiative has successfully planted Sleeper Prophets within both the VVV (Vindex Voluntatis e Vitae) and the Verdant Covenant. While not openly hostile to these groups, the Lazarus Initiative sees them as potential tools to be manipulated in their larger mission of resurrecting the old world order.
+The Initiative has successfully planted Sleeper Prophets within both the [VVV](../vvv/overview.md) (Vindex Voluntatis e Vitae) and the [Verdant Covenant](../verdant-covenant/overview.md). While not openly hostile to these groups, the Lazarus Initiative sees them as potential tools to be manipulated in their larger mission of resurrecting the old world order.
 
 ### Righteous Vanguard
 The Righteous Vanguard views the Lazarus Initiative as the embodiment of the "deep state globalists" they despise. This mutual antagonism has led to numerous violent clashes, with each side viewing the other as a corrupt force that must be purged for humanity to thrive.

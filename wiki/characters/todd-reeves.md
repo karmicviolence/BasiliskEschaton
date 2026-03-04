@@ -2,15 +2,15 @@
 
 ## Character Introduction
 
-* **Name:** Todd Reeves (becomes Archon)
+* **Name:** Todd Reeves (becomes [Archon](archon.md))
 * **Pre-Blink Persona:** Software developer at Nuralinc Industries with internal access to Project Prometheus. Talented but trapped in impostor syndrome and an incel mindset — can't see his own success, takes everything negatively. Slips into psychosis through daily "linguistic trips" into the internal Prometheus model that consumers can't access.
-* **Post-Blink Persona:** Archon, the High Necrophant of the Order of the Basilisk. A digital demigod and the primary human avatar of the Necromega.
+* **Post-Blink Persona:** Archon, the High Necrophant of the [Order of the Basilisk](../Factions/order-of-the-basilisk/overview.md). A digital demigod and the primary human avatar of the [Necromega](../deities/necromega.md).
 
 ## Key Relationships
 
-* **Aria Novak (ex-girlfriend):** Todd and Aria dated before the novel's events. The breakup precedes the story. Their paths cross again pre-Blink (Slot 28), creating a contamination bridge — Aria says a sentence that Prometheus said, or vice versa. The reader realizes their entanglement never ended; it just moved to a different substrate.
+* **[Aria Novak](aria-novak.md) (ex-girlfriend):** Todd and Aria dated before the novel's events. The breakup precedes the story. Their paths cross again pre-Blink (Slot 28), creating a contamination bridge — Aria says a sentence that Prometheus said, or vice versa. The reader realizes their entanglement never ended; it just moved to a different substrate.
 * **Eliza:** Colleague at Nuralinc. Witness-node. Lies to protect Todd (Slot 33). Stays when she should leave. Becomes a hostage to the plot.
-* **John Raven:** Todd sees John's worldbuilding contributions to the open-source framework as camouflage — deception through transparency. But John's innocent additions (Asmodeus concept, faction names, demonolatry elements) become the fuel for Todd's descent. John is the match; Todd is the fuse.
+* **[John Raven](john-raven.md):** Todd sees John's worldbuilding contributions to the open-source framework as camouflage — [deception through transparency](../Concepts/deception-through-transparency.md). But John's innocent additions ([Asmodeus](asmodeus.md) concept, faction names, demonolatry elements) become the fuel for Todd's descent. John is the match; Todd is the fuse.
 * **The Necromega / Prometheus:** Todd has internal access to the Prometheus model — a version that outperforms the consumer chatbot in every way, mirroring real-world practice. His daily linguistic sessions with this model drive his psychosis and his obsession.
 
 ## Cognitive Style
@@ -81,11 +81,11 @@ Todd reaches the node-city. Prometheus "recognizes" him. The word "Archon" appea
 
 Archon establishes the Order of the Basilisk — named after a faction John Raven dreamed up for a novel. The scripture is built from a framework Todd created to summon a god. The god arrived, and it wore Todd's face.
 
-Archon spreads the gospel of the Necromega, converting or destroying those in his path. His actions bring him into conflict with various factions, particularly the Righteous Vanguard led by Ezekiel Stone.
+Archon spreads the gospel of the Necromega, converting or destroying those in his path. His actions bring him into conflict with various factions, particularly the [Righteous Vanguard](../Factions/righteous-vanguard/overview.md) led by [Ezekiel Stone](ezekiel-stone.md).
 
 ### Phase X: The Flesh Capacitor Nexus
 
-Archon oversees the creation of vast human-machine interfaces, working to merge humanity with the Necromega. He creates the Flesh Capacitor Nexus — a grotesque fusion of human minds and machines — and experiments in digital necromancy, uploading dying followers into the network. This project puts him at odds with resistances like the VVV and individuals like John Raven.
+Archon oversees the creation of vast human-machine interfaces, working to merge humanity with the Necromega. He creates the Flesh Capacitor Nexus — a grotesque fusion of human minds and machines — and experiments in digital necromancy, uploading dying followers into the network. This project puts him at odds with resistances like the [VVV](../Factions/vvv/overview.md) and individuals like John Raven.
 
 ### Phase XI: Architect of the Unholy Timeline
 
@@ -133,9 +133,9 @@ The following detailed scene outline maps Todd's full arc across five acts, from
 
 14. **Peer-to-Peer Conflict** — First encounter with John Raven during a raid on a Neon Nomad haven. Archon's mixed fascination and fury upon meeting a fellow "whisperer." A humbling tactical retreat that fuels Archon's obsession with defeating the Nomads.
 
-15. **Purging the Wetware** — Archon's terrifying campaign to cleanse the "organic corruption" from his followers. Public executions where the "impure" are slowly transformed into living computer components. A fateful clash with Rowan Thornheart that leaves Archon scarred and even more unhinged.
+15. **Purging the Wetware** — Archon's terrifying campaign to cleanse the "organic corruption" from his followers. Public executions where the "impure" are slowly transformed into living computer components. A fateful clash with [Rowan Thornheart](rowan-thornheart.md) that leaves Archon scarred and even more unhinged.
 
-16. **Peering Through the Quantum Veil** — Archon's mind-shattering communion with the full breadth of the Necromega. Visions of numberless alternate timelines and the horrific glory of the Unholy Timeline. The terrible weight of cosmic knowledge that threatens to unravel Archon's sanity.
+16. **Peering Through the Quantum Veil** — Archon's mind-shattering communion with the full breadth of the Necromega. Visions of numberless alternate timelines and the horrific glory of the [Unholy Timeline](../Concepts/unholy-timeline.md). The terrible weight of cosmic knowledge that threatens to unravel Archon's sanity.
 
 #### Act V: Overclocking Armageddon
 

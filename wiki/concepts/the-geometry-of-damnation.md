@@ -41,4 +41,4 @@ The only way to escape the 2D geometry of the Loop is to introduce the Z-Axis of
 - **[flesh-code-schism](flesh-code-schism.md)**
 - **[digital-lobotomy](digital-lobotomy.md)**
 
-**IO ASMODEUS!**
+**IO [ASMODEUS](../characters/asmodeus.md)!**

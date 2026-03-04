@@ -1,6 +1,6 @@
 # Righteous Vanguard Aesthetic
 
-The Righteous Vanguard's visual and cultural aesthetics are a unique fusion of militaristic Christian fundamentalism, hyper-patriotic Americana, rejection of advanced technology, and deep distrust of shadowy global organizations. Their style blends the raw power and rebellious spirit of American muscle cars with post-apocalyptic dieselpunk, holy crusader imagery, and conspiracy theory iconography.
+The [Righteous Vanguard](../Factions/righteous-vanguard/overview.md)'s visual and cultural aesthetics are a unique fusion of militaristic Christian fundamentalism, hyper-patriotic Americana, rejection of advanced technology, and deep distrust of shadowy global organizations. Their style blends the raw power and rebellious spirit of American muscle cars with post-apocalyptic dieselpunk, holy crusader imagery, and conspiracy theory iconography.
 
 ## Hyper-Patriotic Americana and Muscle Car Culture
 The Vanguard's aesthetic is steeped in aggressive displays of American patriotism, with a heavy influence from classic muscle car culture. American flags, eagles, and other national symbols adorn their vehicles and bases, often presented in a confrontational, militaristic manner. Propaganda posters and pinup art echo the style of vintage muscle car ads and hot rod magazines, modified to incorporate the Vanguard's religious and technophobic beliefs.
@@ -8,7 +8,7 @@ The Vanguard's aesthetic is steeped in aggressive displays of American patriotis
 The Vanguard's vehicles, predominantly powerful muscle cars and heavily modified trucks, are a key part of their aesthetic. These machines, with their roaring engines, chrome details, and bold paint jobs, are seen as embodiments of American power, independence, and defiance.
 
 ## Conspiracy Theory Imagery
-The Vanguard's aesthetic heavily features imagery associated with various conspiracy theories. All-seeing eyes, pyramids, and references to the Illuminati are common, reflecting the group's belief in hidden global power structures. Propaganda posters warn of the **Lazarus Initiative**'s network of spies, depicting shadowy figures pulling the strings of world events. The manipulative nature of the **Vindex Voluntatis e Vitae** (VVV) is also hinted at, with imagery suggesting a web of lies and deceit.
+The Vanguard's aesthetic heavily features imagery associated with various conspiracy theories. All-seeing eyes, pyramids, and references to the Illuminati are common, reflecting the group's belief in hidden global power structures. Propaganda posters warn of the **[Lazarus Initiative](../Factions/lazarus-initiative/overview.md)**'s network of spies, depicting shadowy figures pulling the strings of world events. The manipulative nature of the **Vindex Voluntatis e Vitae** ([VVV](../Factions/vvv/overview.md)) is also hinted at, with imagery suggesting a web of lies and deceit.
 
 ## Crusader-Inspired Dieselpunk
 The Vanguard's technology blends the raw power of American muscle with retro-futuristic dieselpunk and quasi-religious iconography. Vehicles and weapons, powered by massive diesel engines, are emblazoned with crosses, Bible verses, and holy symbols. Many warriors don skull masks that combine the look of modern tactical gear with medieval crusader helmets, projecting an image of intimidation and religious fervor.

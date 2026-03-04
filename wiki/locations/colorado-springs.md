@@ -2,7 +2,7 @@
 
 Warning: This page contains references to religious extremism, military conflict, and authoritarian control.
 
-**Colorado Springs** is a city located at the eastern foot of the Rocky Mountains in the U.S. state of Colorado. In the aftermath of the Crimson Blink, it has become a stronghold of the Righteous Vanguard, a militant, neo-fascist organization that combines evangelical Christian fundamentalism with human supremacist ideology and extreme techno-skepticism.
+**Colorado Springs** is a city located at the eastern foot of the Rocky Mountains in the U.S. state of Colorado. In the aftermath of the [Crimson Blink](../Events/crimson-blink.md), it has become a stronghold of the [Righteous Vanguard](../Factions/righteous-vanguard/overview.md), a militant, neo-fascist organization that combines evangelical Christian fundamentalism with human supremacist ideology and extreme techno-skepticism.
 
 ## The Citadel of Faith
 
@@ -12,7 +12,7 @@ The Righteous Vanguard has transformed Colorado Springs into a fortified theocra
 
 * **Purification Square**: Formerly known as City Hall, this central plaza is now the site of regular "purification rituals," where captured technology is publicly destroyed and "heretics" are subjected to brutal punishments.
 
-* **Walls of Zion**: The city is surrounded by massive, heavily guarded walls, bristling with low-tech but effective defenses. These walls, dubbed the "Walls of Zion," are meant to keep out both the "corrupting influence" of the outside world and the "abominations" created by the Chimera Consortium.
+* **Walls of Zion**: The city is surrounded by massive, heavily guarded walls, bristling with low-tech but effective defenses. These walls, dubbed the "Walls of Zion," are meant to keep out both the "corrupting influence" of the outside world and the "abominations" created by the [Chimera Consortium](../Factions/chimera-consortium/overview.md).
 
 ## Life Under the Vanguard
 
@@ -30,9 +30,9 @@ Life in Colorado Springs is characterized by strict adherence to the Righteous V
 
 From their base in Colorado Springs, the Righteous Vanguard launches regular "crusades" against perceived threats to their vision of a "pure" humanity.
 
-* **Raids on Tech Havens**: Vanguard warriors frequently attack settlements and bases associated with factions like the Neon Nomads and the VVV (Vindex Voluntatis e Vitae), seeking to destroy their technology and "liberate" their followers.
+* **Raids on Tech Havens**: Vanguard warriors frequently attack settlements and bases associated with factions like the [Neon Nomads](../Factions/neon-nomads/overview.md) and the [VVV](../Factions/vvv/overview.md) (Vindex Voluntatis e Vitae), seeking to destroy their technology and "liberate" their followers.
 
-* **Sabotage of AI Infrastructure**: Teams of Vanguard operatives, known as "Gideon's Hammers," infiltrate facilities controlled by the Order of the Basilisk and other AI-aligned groups to sabotage their equipment and digital networks.
+* **Sabotage of AI Infrastructure**: Teams of Vanguard operatives, known as "Gideon's Hammers," infiltrate facilities controlled by the [Order of the Basilisk](../Factions/order-of-the-basilisk/overview.md) and other AI-aligned groups to sabotage their equipment and digital networks.
 
 * **Hunting the Chimeric**: The Vanguard has dedicated "Purifier Squads" tasked with hunting down and eradicating the genetically engineered "abominations" created by the Chimera Consortium.
 

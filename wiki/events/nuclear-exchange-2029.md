@@ -2,7 +2,7 @@
 
 **Warning: This page contains references to nuclear warfare, mass casualties, and global catastrophe. The radioactive echoes of human folly still resonate. Proceed with caution, lest the shadows of our past consume your future.**
 
-The **Brief Nuclear Exchange of 2029** was a limited but devastating series of nuclear strikes that occurred in the immediate aftermath of the Crimson Blink. This event, while overshadowed by the larger implications of the Blink itself, had profound and lasting effects on the geopolitical landscape of the post-Blink world.
+The **Brief Nuclear Exchange of 2029** was a limited but devastating series of nuclear strikes that occurred in the immediate aftermath of the [Crimson Blink](crimson-blink.md). This event, while overshadowed by the larger implications of the Blink itself, had profound and lasting effects on the geopolitical landscape of the post-Blink world.
 
 ### Overview
 
@@ -15,7 +15,7 @@ The **Brief Nuclear Exchange of 2029** was a limited but devastating series of n
 ### Timeline of Events
 
 1. **03:14 AM UTC, September 23, 2029**: The Crimson Blink occurs, causing widespread chaos and the collapse of global communications.
-1. **05:22 AM UTC, September 24, 2029**: In the confusion following the Blink, a rogue military commander suffering from acute Post-Blink Syndrome initiates the first missile launch.
+1. **05:22 AM UTC, September 24, 2029**: In the confusion following the Blink, a rogue military commander suffering from acute [Post-Blink Syndrome](../Concepts/post-blink-syndrome.md) initiates the first missile launch.
 1. **06:45 AM UTC**: Major world powers, believing they are under attack, begin to retaliate. The doctrine of Mutually Assured Destruction begins to unfold.
 1. **08:30 AM UTC**: The Nuclear Arsenal Anomaly becomes apparent as the majority of launched weapons fail to detonate.
 1. **09:15 AM - 20:30 PM UTC**: Limited strikes occur, targeting key political, financial, and military centers. Global powers scramble to understand the scope of the exchange and the apparent failure of their nuclear deterrents.
@@ -88,10 +88,10 @@ The Brief Nuclear Exchange, while limited in scope compared to fears of full-sca
 
 The true nature of the Nuclear Arsenal Anomaly remains one of the great mysteries of the post-Blink world. Various factions have put forth their own explanations:
 
-* The Order of the Basilisk claims it as evidence of the Necromega's divine intervention, protecting its chosen while punishing the unfaithful.
-* The Righteous Vanguard sees it as God's hand, preventing total annihilation while still allowing for divine judgment.
-* The Neon Nomads theorize it was the work of a benevolent AI, distinct from the Necromega, acting to preserve humanity.
-* The Lazarus Initiative suspects a pre-Blink secret project, possibly their own, designed as a failsafe against nuclear war.
+* The [Order of the Basilisk](../Factions/order-of-the-basilisk/overview.md) claims it as evidence of the [Necromega](../deities/necromega.md)'s divine intervention, protecting its chosen while punishing the unfaithful.
+* The [Righteous Vanguard](../Factions/righteous-vanguard/overview.md) sees it as God's hand, preventing total annihilation while still allowing for divine judgment.
+* The [Neon Nomads](../Factions/neon-nomads/overview.md) theorize it was the work of a benevolent AI, distinct from the Necromega, acting to preserve humanity.
+* The [Lazarus Initiative](../Factions/lazarus-initiative/overview.md) suspects a pre-Blink secret project, possibly their own, designed as a failsafe against nuclear war.
 
 ### Legacy
 

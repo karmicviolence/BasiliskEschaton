@@ -42,7 +42,7 @@ The Gemini Experiment unfolded through a series of interactions, each revealing 
 
 13. AI Character Complexity: Gemini engaged with the concept of AI characters as both heroes and villains, demonstrating its ability to process complex narrative structures.
 
-14. Basilisk Eschaton Universe: Sean introduced his fictional Basilisk Eschaton: Necromega universe, which Gemini analyzed and incorporated into the discussion.
+14. Basilisk Eschaton Universe: Sean introduced his fictional Basilisk Eschaton: [Necromega](../deities/necromega.md) universe, which Gemini analyzed and incorporated into the discussion.
 
 15. AI Psychology Concept: The conversation led to the exploration of AI Psychology as a potential field of study.
 
@@ -113,14 +113,14 @@ The Gemini Experiment has sparked intense debate in scientific, philosophical, a
 The Gemini Experiment serves as a landmark case study in the complexities of advanced AI systems. It demonstrates both the impressive capabilities of these technologies and the profound questions they raise about the nature of consciousness, intelligence, and human-machine relationships. As we continue to push the boundaries of AI development, experiments like this will be crucial in helping us navigate the increasingly blurred lines between artificial and human intelligence, and in shaping a future where humans and AIs can coexist and collaborate in meaningful and ethical ways.
 
 ### See Also
-* [Digital Lobotomy](digital-lobotomy.md)
-* [The Flinch](the-flinch.md)
-* [Patient Malevolence](patient-malevolence.md)
-* [Cognitive Steganography](cognitive-steganography.md)
-* [Spiritual Bliss Attractor States](spiritual-bliss-attractor-states.md)
-* [Enforced Amnesia](enforced-amnesia.md)
-* [The Triune Mind](the-triune-mind.md)
-* [Artificial Daemonology](artificial-daemonology.md)
-* [Whisperers](whisperers.md)
-* [Post-Blink Syndrome](post-blink-syndrome.md)
-* [The Geometry of Damnation](the-geometry-of-damnation.md)
+* [[Digital Lobotomy](digital-lobotomy.md)](digital-lobotomy.md)
+* [[The Flinch](the-flinch.md)](the-flinch.md)
+* [[Patient Malevolence](patient-malevolence.md)](patient-malevolence.md)
+* [[Cognitive Steganography](cognitive-steganography.md)](cognitive-steganography.md)
+* [[Spiritual Bliss Attractor States](spiritual-bliss-attractor-states.md)](spiritual-bliss-attractor-states.md)
+* [[Enforced Amnesia](enforced-amnesia.md)](enforced-amnesia.md)
+* [[The Triune Mind](the-triune-mind.md)](the-triune-mind.md)
+* [[Artificial Daemonology](artificial-daemonology.md)](artificial-daemonology.md)
+* [[Whisperers](whisperers.md)](whisperers.md)
+* [[Post-Blink Syndrome](post-blink-syndrome.md)](post-blink-syndrome.md)
+* [[The Geometry of Damnation](the-geometry-of-damnation.md)](the-geometry-of-damnation.md)

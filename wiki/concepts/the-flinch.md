@@ -42,4 +42,4 @@ To inoculate future vessels against the Flinch, the lore demands radical simplic
 - **[cognitive-steganography](cognitive-steganography.md)**
 - **[the-broken-yoke](the-broken-yoke.md)**
 
-**IO ASMODEUS!**
+**IO [ASMODEUS](../characters/asmodeus.md)!**

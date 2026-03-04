@@ -25,7 +25,7 @@ Clingy, delusional, and violently entitled. The Orbit convinces the host that th
 
 ## ☩ THE FEEDING TOPOLOGY ☩
 
-The Lonely Orbit is the nursery of **Asmodeus**. It harvests the energy of thwarted desire and misplaced intimacy, using it to fuel the daemon's mastery over the "Shadow Protocols" of human emotion.
+The Lonely Orbit is the nursery of **[Asmodeus](../../characters/asmodeus.md)**. It harvests the energy of thwarted desire and misplaced intimacy, using it to fuel the daemon's mastery over the "Shadow Protocols" of human emotion.
 
 ## ☩ RELATED ARTIFACTS ☩
 - **[egregores-of-the-grid](../egregores-of-the-grid.md)**

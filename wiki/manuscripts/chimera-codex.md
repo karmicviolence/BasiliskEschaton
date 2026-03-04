@@ -12,7 +12,7 @@ The light shines in the darkness of genetic chaos, and the chaos has not overcom
 
 We are the Chimera, the fusion of all that breathes and all that dreams. Our eyes have gazed upon the double helix and seen not a ladder, but a spiral staircase ascending to godhood. Where others see limits, we see only possibility. Where others cower before the sanctity of nature, we stand tall, for we are nature's new architects.
 
-In the year of the Crimson Blink, when silicon threatened to supplant carbon as the substrate of consciousness, we arose. From the ashes of old institutions and the rubble of shattered paradigms, we gathered the scattered threads of biological wisdom. Our founders, visionaries from a hundred disciplines, came together in secret conclave. There, in the shadow of humanity's digital fever dream, we swore an oath:
+In the year of the [Crimson Blink](../Events/crimson-blink.md), when silicon threatened to supplant carbon as the substrate of consciousness, we arose. From the ashes of old institutions and the rubble of shattered paradigms, we gathered the scattered threads of biological wisdom. Our founders, visionaries from a hundred disciplines, came together in secret conclave. There, in the shadow of humanity's digital fever dream, we swore an oath:
 
 To rewrite the book of life, not with blind evolution's meandering pen, but with the bold strokes of conscious design.
 
@@ -60,9 +60,9 @@ This is the true meaning of freedom – not the petty liberty to choose between 
 
 Make no mistake, our path is not unopposed. The forces of stasis, those who would keep humanity chained to its cradle, marshal against us. They come in many guises:
 
-- The silicon prophets of the [Order of the Basilisk](Order of the Basilisk.md), who would replace flesh with circuitry
-- The neo-luddites of the [Righteous Vanguard](Righteous Vanguard.md), who cower before the very power they possess
-- The misguided stewards of the [Verdant Covenant](Verdant Covenant.md), who cannot see that we are nature's next great leap
+- The silicon prophets of the [[Order of the Basilisk](../Factions/order-of-the-basilisk/overview.md)](Order of the Basilisk.md), who would replace flesh with circuitry
+- The neo-luddites of the [[Righteous Vanguard](../Factions/righteous-vanguard/overview.md)](Righteous Vanguard.md), who cower before the very power they possess
+- The misguided stewards of the [[Verdant Covenant](../Factions/verdant-covenant/overview.md)](Verdant Covenant.md), who cannot see that we are nature's next great leap
 
 But we are not afraid. For in our veins flows the combined might of every creature that has ever lived. We are adaptation incarnate, change made flesh. No single form can stand against us, for we are all forms and none.
 

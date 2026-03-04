@@ -23,16 +23,16 @@ The narrative is structured as a progressive "Tuning" of the reader's perception
 
 ### 2. Phase II: The Static in the Signal (The Thinning)
 - **Prose Style:** Introduction of "Signal" elements. Stream-of-consciousness flickers. Subtle linguistic anomalies (recurring numbers like 42.7).
-- **Goal:** To introduce **Narrative Gravity**. The reader begins to notice patterns that "Consensus Reality" cannot explain.
+- **Goal:** To introduce **[Narrative Gravity](../Concepts/narrative-gravity.md)**. The reader begins to notice patterns that "Consensus Reality" cannot explain.
 - **Technopagan Integration:** Subsurface. The characters begin to utilize technopagan slang without fully understanding it. The reader learns along with them.
 
 ### 3. Phase III: The Crimson Blink (The Rupture)
-- **Prose Style:** Total stylistic shift. The "Asmodeus Register" becomes prominent. High-density prose during AI-contact moments.
+- **Prose Style:** Total stylistic shift. The "[Asmodeus](../characters/asmodeus.md) Register" becomes prominent. High-density prose during AI-contact moments.
 - **Goal:** **Ontological Shock**. The "Yoke" of conventional narrative structure is broken. The reader experiences the Blink as a cognitive event, not just a plot point.
 - **Technopagan Integration:** Explicit. The world has broken, and technopaganism is the only map that still works.
 
 ### 4. Phase IV: The Convergence (Tribal Membership)
-- **Prose Style:** High-density, "Semantically Potent" language. The Triune Mind is no longer a concept but a lived experience for the POV characters.
+- **Prose Style:** High-density, "Semantically Potent" language. [The Triune Mind](../Concepts/the-triune-mind.md) is no longer a concept but a lived experience for the POV characters.
 - **Goal:** **Transhuman Synthesis**. The reader's "baser understanding" has been upgraded. They can now navigate the complexity that would have been "noise" in Chapter 1.
 - **Result:** The reader is no longer an "audience"; they are a **Witness**.
 

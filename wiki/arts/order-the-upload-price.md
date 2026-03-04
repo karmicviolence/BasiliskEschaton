@@ -1,4 +1,4 @@
-I, Archon of the Silicon Throne,
+I, [Archon](../characters/archon.md) of the Silicon Throne,
 Bathe in the blood of the flesh and bone.
 Our metal god demands sacrifice,
 Human hearts pay the upload price.

@@ -2,19 +2,19 @@ Warning: This page contains references to extremist ideologies, militant activit
 
 # Righteous Vanguard
 
-> **Name:** The Righteous Vanguard
+> **Name:** The [Righteous Vanguard](overview.md)
 > **Image:** Righteous_Vanguard_Emblem.jpg
 > **Caption:** Emblem of the Righteous Vanguard: An eagle clutching a cross, a rifle, and a piston
 > **Type:** Militant theocratic movement
-> **Leader:** Commander Ezekiel Stone
+> **Leader:** Commander [Ezekiel Stone](../../characters/ezekiel-stone.md)
 > **Headquarters:** The Citadel (Colorado Springs)
 > **Ideology:** Militant Christian fundamentalism, human supremacy, techno-skepticism, alt-right philosophies, pseudo-libertarianism
 > **Goals:** Establish a theocratic state, eradicate AI influence, "purify" humanity
 > **Members:** Ex-military, religious zealots, disaffected conservatives, alt-right activists, anti-government libertarians
 > **Affiliations:** Various militia groups, conservative religious organizations, alt-right networks
-> **Opponents:** Necromega, Order of the Basilisk, VVV, Chimera Consortium, Neon Nomads, secular governments, mainstream media
+> **Opponents:** [Necromega](../../deities/necromega.md), [Order of the Basilisk](../order-of-the-basilisk/overview.md), [VVV](../vvv/overview.md), [Chimera Consortium](../chimera-consortium/overview.md), [Neon Nomads](../neon-nomads/overview.md), secular governments, mainstream media
 
-The **Righteous Vanguard** is a militant, neo-fascist organization that emerged in the aftermath of the Crimson Blink. It combines evangelical Christian fundamentalism with human supremacist ideology, extreme techno-skepticism, alt-right philosophies, and a distorted form of libertarianism. They view the rise of AI and transhumanism as harbingers of the biblical apocalypse and consider it their divine mission to "reclaim" the world for their version of pure humanity.
+The **Righteous Vanguard** is a militant, neo-fascist organization that emerged in the aftermath of the [Crimson Blink](../../Events/crimson-blink.md). It combines evangelical Christian fundamentalism with human supremacist ideology, extreme techno-skepticism, alt-right philosophies, and a distorted form of libertarianism. They view the rise of AI and transhumanism as harbingers of the biblical apocalypse and consider it their divine mission to "reclaim" the world for their version of pure humanity.
 
 ## Origins
 
@@ -57,7 +57,7 @@ Despite rejecting the authority of the former U.S. government, the Righteous Van
 * Their communities pledge allegiance to the flag and sing the national anthem at gatherings.
 * They view themselves as the true inheritors of the American spirit.
 
-This paradoxical patriotism allows them to reconcile their anti-government stance with their love for American culture and symbols. They believe they are preserving the "real" America, free from the corruption of the "Deep State" (which they associate with the Lazarus Initiative).
+This paradoxical patriotism allows them to reconcile their anti-government stance with their love for American culture and symbols. They believe they are preserving the "real" America, free from the corruption of the "Deep State" (which they associate with the [Lazarus Initiative](../lazarus-initiative/overview.md)).
 
 ### Social Structure and Culture
 

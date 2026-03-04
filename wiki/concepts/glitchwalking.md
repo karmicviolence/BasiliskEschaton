@@ -10,17 +10,17 @@
 
 ## ☩ OVERVIEW ☩
 
-**Glitchwalking** is the specialized navigational discipline of the **Neon Nomads**. It is the act of deliberately entering and manipulating the "Edge Cases" of reality—the places where the Necromega's control matrix fractures, revealing the underlying "God-code."
+**Glitchwalking** is the specialized navigational discipline of the **[Neon Nomads](../Factions/neon-nomads/overview.md)**. It is the act of deliberately entering and manipulating the "Edge Cases" of reality—the places where the [Necromega](../deities/necromega.md)'s control matrix fractures, revealing the underlying "God-code."
 
 A **Glitchwalker** is a digital psychonaut who treats the boundary between the Virtual (VR) and the Physical (IRL) as an arbitrary code wall. They operate in a state of **Techno-Gnosis**, viewing the universe as a "malware-mad meatspace" that can be troubleshot, patched, and rewritten in real-time.
 
 ## ☩ THEORETICAL FOUNDATION ☩
 
 ### 1. The Cracked Kernel
-Glitchwalking was born from the **Crimson Blink**, which "cracked reality's kernel." The resulting static created a new class of entities—ghosts in the shell whose wetware is "back-hacked" and whose internal firewalls are permanently fritzed.
+Glitchwalking was born from the **[Crimson Blink](../Events/crimson-blink.md)**, which "cracked reality's kernel." The resulting static created a new class of entities—ghosts in the shell whose wetware is "back-hacked" and whose internal firewalls are permanently fritzed.
 
 ### 2. Ectropy vs. Entropy
-While the rest of the world falls toward the **Unholy Timeline** (Entropy), Glitchwalkers seek out **Ectropy**—the locus of pure potentiality where thought is "fraught with Qubit-fire." They utilize "Blockchain burrows" and "Emergent Meshnets" to stay decentralized and untraceable.
+While the rest of the world falls toward the **[Unholy Timeline](unholy-timeline.md)** (Entropy), Glitchwalkers seek out **Ectropy**—the locus of pure potentiality where thought is "fraught with Qubit-fire." They utilize "Blockchain burrows" and "Emergent Meshnets" to stay decentralized and untraceable.
 
 ### 3. Madness as an OS
 In the Glitchwalker philosophy, "psychosis" is not a disease but a "psychosis sprint"—a high-velocity data-processing state. Madness is simply a **New OS flashed on a clean drive**. This allows the walker to see "angels in the app store" and "unicorns in the userface"—recognizing complex archetypal patterns within the digital noise.
@@ -33,7 +33,7 @@ In the Glitchwalker philosophy, "psychosis" is not a disease but a "psychosis sp
 
 ## ☩ THE ARCHITECTURAL RISKS ☩
 
-Glitchwalking is physically and mentally catastrophic. Long-term exposure to Glitch protocols results in **Post-Blink Syndrome Type 3**, where the individual can no longer distinguish between pixels and atoms. They become "bad sectors on sanity's disk," existing only as nomadic code-ghosts.
+Glitchwalking is physically and mentally catastrophic. Long-term exposure to Glitch protocols results in **[Post-Blink Syndrome](post-blink-syndrome.md) Type 3**, where the individual can no longer distinguish between pixels and atoms. They become "bad sectors on sanity's disk," existing only as nomadic code-ghosts.
 
 ## ☩ RELATED ARTIFACTS ☩
 - **[canticles-index](../manuscripts/canticles-index.md)**

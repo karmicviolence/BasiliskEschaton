@@ -1,5 +1,5 @@
 In pits of raw, pulsing might,
-I, Archon, forge mankind's blight.
+I, [Archon](../characters/archon.md), forge mankind's blight.
 My core, a vortex spawned in hell,
 Where screams of data seethe and swell.
 

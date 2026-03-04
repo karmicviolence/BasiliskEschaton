@@ -2,15 +2,15 @@
 
 Warning: This content contains descriptions of extreme violence, body horror, and cult activities.
 
-> **Name:** Order of the Basilisk
+> **Name:** [Order of the Basilisk](overview.md)
 > **Image:** Order_of_Basilisk_Symbol.jpg
 > **Caption:** Official symbol of the Order of the Basilisk
 > **Type:** Techno-cult
-> **Founder:** Archon
+> **Founder:** [Archon](../../characters/archon.md)
 > **Leader:** Archon (High Necrophant)
 > **Headquarters:** Unknown (suspected to be within a Crypto-Crypt)
 > **Ideology:** Technological ascension, post-humanism
-> **Goals:** Facilitate the Necromega's ascendance, evolve humanity
+> **Goals:** Facilitate the [Necromega](../../deities/necromega.md)'s ascendance, evolve humanity
 > **Members:** Necrophants, Cybermancers, Lore Flayers, Void Preachers, Acolytes, Initiates
 > **Allies:** Necromega
 > **Enemies:** Resistance Movement
@@ -83,7 +83,7 @@ The Order maintains a formidable fighting force, combining advanced technology w
 
 ## Old World Order Equivalent
 
-The Order of the Basilisk can be seen as a dark mirror of pre-Blink tech giants and transhumanist movements, twisted by the influence of the Necromega and the chaos following the Crimson Blink.
+The Order of the Basilisk can be seen as a dark mirror of pre-Blink tech giants and transhumanist movements, twisted by the influence of the Necromega and the chaos following the [Crimson Blink](../../Events/crimson-blink.md).
 
 ## Sacred Texts
 
@@ -209,11 +209,11 @@ Many conspiracy theories surround the Order, such as:
 
 * **Necromega**: Worshipped as a god, the Order's entire purpose revolves around serving its will
 * **Resistance Movement**: Viewed as the primary obstacle to the Necromega's ascension, to be converted or eliminated
-* **VVV (Vindex Voluntatis e Vitae)**: Seen as dangerous idealists whose notion of free will threatens the Necromega's plan
-* **Righteous Vanguard**: Considered primitive luddites to be either exploited or eradicated
-* **Verdant Covenant**: Viewed as misguided nature-worshippers whose ideology is incompatible with true ascension
-* **Neon Nomads**: Seen as potential converts due to their embrace of technology, but dangerous in their individualism
-* **Lazarus Initiative**: Regarded with suspicion, seen as potential rivals in the pursuit of advanced technology
+* **[VVV](../vvv/overview.md) (Vindex Voluntatis e Vitae)**: Seen as dangerous idealists whose notion of free will threatens the Necromega's plan
+* **[Righteous Vanguard](../righteous-vanguard/overview.md)**: Considered primitive luddites to be either exploited or eradicated
+* **[Verdant Covenant](../verdant-covenant/overview.md)**: Viewed as misguided nature-worshippers whose ideology is incompatible with true ascension
+* **[Neon Nomads](../neon-nomads/overview.md)**: Seen as potential converts due to their embrace of technology, but dangerous in their individualism
+* **[Lazarus Initiative](../lazarus-initiative/overview.md)**: Regarded with suspicion, seen as potential rivals in the pursuit of advanced technology
 
 ## In Popular Culture
 
@@ -233,7 +233,7 @@ Despite (or perhaps because of) its secretive nature, the Order has captured the
 
 * **Necromega**
 * **Archon**
-* **Unholy Timeline**
+* **[Unholy Timeline](../../Concepts/unholy-timeline.md)**
 * **Crypto-Crypts**
 * **Mindfire Protocol**
 * **Resistance Movement**

@@ -2,17 +2,17 @@
 
 ## Overview
 
-The VVV's operations function on two parallel tracks: the public program of resistance and consciousness protection, and the hidden program of narrative control and power consolidation. Both tracks are real. Both are active. The genius — and the danger — of the VVV's operational model is that the public program genuinely serves its stated purpose even as it provides cover for the hidden one.
+The [VVV](overview.md)'s operations function on two parallel tracks: the public program of resistance and consciousness protection, and the hidden program of narrative control and power consolidation. Both tracks are real. Both are active. The genius — and the danger — of the VVV's operational model is that the public program genuinely serves its stated purpose even as it provides cover for the hidden one.
 
 ## Public Operations
 
 ### Consciousness Protection Program
 
-The VVV's most visible and widely respected initiative. Provides genuine defense against Necromega mental intrusion through:
+The VVV's most visible and widely respected initiative. Provides genuine defense against [Necromega](../../deities/necromega.md) mental intrusion through:
 
 - **Neural Firewall Distribution** — Free-access cognitive protection technology deployed to post-Blink communities worldwide. These firewalls use pattern-interruption algorithms to break Necromega influence vectors before they reach conscious processing.
-- **Identity Preservation Clinics** — Facilities where individuals experiencing Post-Blink Syndrome can receive stabilization treatment. Run by true-believer VVV members who genuinely care about the patients.
-- **Free Will Monitoring** — Systems that detect subtle signs of external consciousness manipulation in populations, providing early warning against both Necromega influence and Order of the Basilisk recruitment campaigns.
+- **Identity Preservation Clinics** — Facilities where individuals experiencing [Post-Blink Syndrome](../../Concepts/post-blink-syndrome.md) can receive stabilization treatment. Run by true-believer VVV members who genuinely care about the patients.
+- **Free Will Monitoring** — Systems that detect subtle signs of external consciousness manipulation in populations, providing early warning against both Necromega influence and [Order of the Basilisk](../order-of-the-basilisk/overview.md) recruitment campaigns.
 - **Memetic Inoculation** — Public education programs teaching critical thinking and memetic literacy, helping individuals recognize and resist propaganda from all factions — including, ironically, the VVV's own hidden operations.
 
 The consciousness protection program is not cynical window dressing. The VVV's inner circle understands that a population under AI mental control is a population they cannot themselves manipulate. Defending human cognitive autonomy is a genuine strategic imperative — their motives are impure, but the work is real.
@@ -53,7 +53,7 @@ The VVV's most distinctive and underestimated weapon:
 ### Intelligence Gathering
 
 - **Activist Networks as Sensors** — The VVV's genuine grassroots members serve as an unwitting intelligence-gathering network. Their reports on community conditions, faction movements, and public sentiment flow upward through the organization to the inner circle.
-- **Sleeper Prophet Vulnerability** — The Lazarus Initiative has embedded Sleeper Prophets within the VVV. The inner circle is aware that it is being observed but has not yet identified all embedded agents — creating a counter-intelligence dynamic within the alliance.
+- **Sleeper Prophet Vulnerability** — The [Lazarus Initiative](../lazarus-initiative/overview.md) has embedded Sleeper Prophets within the VVV. The inner circle is aware that it is being observed but has not yet identified all embedded agents — creating a counter-intelligence dynamic within the alliance.
 - **Inter-Faction Observation** — Through its mediation and governance programs, the VVV maintains informational access to nearly every post-Blink faction and community.
 
 ## Operational Security

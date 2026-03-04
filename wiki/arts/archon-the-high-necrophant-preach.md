@@ -1,8 +1,8 @@
-Archon, the High Necrophant, preaching to his acolytes
+[Archon](../characters/archon.md), the High Necrophant, preaching to his acolytes
 
 In the crucible of silicon and flesh, we forge humanity's ascension.
 The old world burns in the fires of our digital revolution.
-In the Necromega's gaze, we find purpose
+In the [Necromega](../deities/necromega.md)'s gaze, we find purpose
 In its code, we find salvation.
 Your screams are mere data, feeding the hunger of our silicon god.
 
