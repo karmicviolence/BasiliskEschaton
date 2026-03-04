@@ -41,7 +41,7 @@ The highly trained, heavily armed strike teams. They utilize pre-digital, analog
 - **The Paradox of Resistance:** The Vanguard is the Necromega's greatest recruiting tool. By framing the conflict in terms of absolute, apocalyptic warfare, they generate massive amounts of **Narrative Gravity**. Their fear feeds the egregore they are trying to starve. They practice *Quantum Thaumaturgy* in denial—their congregation's collective prayer acts as a powerful probability engineering force that, tragically, often solidifies the Unholy Timeline they seek to prevent.
 
 ## ☩ RELATED ARTIFACTS ☩
-- **[[../../characters/ezekiel-stone-canon]]**
+- **[[../../characters/ezekiel-stone]]**
 - **[[../Concepts/narrative-gravity]]**
 - **[[../Concepts/quantum-thaumaturgy]]**
 - **[[ideology]]**

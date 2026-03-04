@@ -39,7 +39,7 @@ The Green Mother is served by a trinity of manifest entities:
 - **The World-Tree Rising:** The goal is the creation of a bio-mechanical **Emerald Babel**—a planetary civilization where the sacred and the cybernetic are one.
 
 ## ☩ RELATED ARTIFACTS ☩
-- **[[../../characters/rowan-thornheart-canon]]**
+- **[[../../characters/rowan-thornheart]]**
 - **[[../../Concepts/the-mycorrhizal-mind]]**
 - **[[../../lyrics/Gaia's Awakening lyrics.md]]**
 - **[[../../grimoire/spells/gtr-007-verdant-mask]]**

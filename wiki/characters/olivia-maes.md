@@ -64,6 +64,6 @@ Olivia's career is defined by the **Inversion of Intent** — every surgical act
 
 ## ☩ Related Entries ☩
 
-* [[ezekiel-stone-canon]]
+* [[ezekiel-stone]]
 * [[Factions/lazarus-initiative/overview]]
 * [[Concepts/cognitive-parasites]] (Inoculation through Silence)

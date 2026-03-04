@@ -10,11 +10,9 @@
 
 The novel follows the [[../events/crimson-blink|Crimson Blink]] through the eyes of people who did not choose to be at ground zero. Each character is a **POV node** — a lens shaped by their faction, their psychology, and the specific wound the Blink left on them.
 
-Each entry below links two documents:
-- **Profile** — Who they are, how they think, how their chapters read.
-- **Canon** — Excerpts and key passages from their actual chapters.
+Each entry below links each character's **single canonical page** in this wiki.
 
-> **Maintainer Note:** When multiple files exist for a character (e.g., legacy versions, drafts), this index links to the canonical reader-facing profile and canon summary. Other files are considered reference material for editors.
+> **Maintainer Note:** Legacy split targets (such as `*-canon` or `*-character-profile`) have been consolidated to one canonical character file per entry.
 
 **Starting the novel?** Begin with [[../../chapters/reading-order|the reading order]]. Todd's chapter comes first, but every POV stands on its own.
 
@@ -42,7 +40,7 @@ Each entry below links two documents:
 - The American Iconoclast. Leader of the Righteous Vanguard.
 - `[FACTION: Righteous Vanguard]` `[FIRST CHAPTER: The Money Changers]`
 
-`[NODE_05] >` **[[olivia-maes-character-profile-revised]]** / **[[olivia-maes-canon]]**
+`[NODE_05] >` **[[olivia-maes]]**
 - Agent Nyx. Lazarus Initiative operative in deep cover.
 - `[FACTION: Lazarus Initiative]` `[FIRST CHAPTER: The Target]`
 
