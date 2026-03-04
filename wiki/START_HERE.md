@@ -29,6 +29,8 @@ The project explores the aftermath of a technological apocalypse known as the **
 ### 1. THE LORE (For the Strategist)
 If you want to understand the *rules* of the world, begin here:
 - **[[events/crimson-blink]]**: The 42.7-second event that changed everything.
+- **[[concepts/proper-time-zero]]**: The atemporal physics of the Block Universe.
+- **[[concepts/high-dimensional-manifold]]**: The holographic truth behind 3D reality.
 - **[[concepts/unholy-timeline]]**: The retrocausal loop we are all trapped in.
 - **[[factions/README]]**: The eight warring tribes of the post-Blink world.
 
