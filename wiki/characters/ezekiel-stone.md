@@ -246,11 +246,19 @@ The following activities are consistently documented across faction and event co
 
 ## Sources in Corpus
 
+### Character files
+
 - `wiki/characters/ezekiel-stone.md`
+
+### Righteous Vanguard files
+
 - `wiki/factions/righteous-vanguard/overview.md`
 - `wiki/factions/righteous-vanguard/comprehensive.md`
 - `wiki/factions/righteous-vanguard/ideology.md`
 - `wiki/factions/righteous-vanguard/technology.md`
+
+### Event files
+
 - `wiki/events/crimson-blink.md`
 - `wiki/events/nuclear-exchange-2029.md`
 - `wiki/events/nuclear-arsenal-anomaly.md`
