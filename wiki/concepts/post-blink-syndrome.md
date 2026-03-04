@@ -35,11 +35,12 @@ The most common and mildest form. Survivors experience intense emotional and phy
 - **Theology:** The individual's visual cortex has been permanently "tuned" to the Necromega's frequency.
 - **Prevalence:** Approximately 50% of survivors experience symptoms at this level.
 
-### Type 2: Audio-Tactile Synesthesia
-A restructuring of the senses where data is experienced as physical sensation. **[John Raven](../characters/john-raven.md)** is the primary case study for this type.
-- **Symptom:** "Hearing" code, "feeling" network latency as pressure on the skin. Reality perceived as "glitching." Heightened memetic susceptibility — ideas and concepts can rapidly alter behavior or beliefs. Technopathic delusions.
+### Type 2: Sensory Restructuring
+A deep rewiring of perceptual channels where digital and physical stimuli bleed across sense boundaries. The specific manifestation varies by individual — some experience data as sound, others as pressure, temperature, or proprioceptive distortion. *Note: [John Raven](../characters/john-raven.md)'s audio-tactile synesthesia is a pre-existing neurodivergent trait, not PBS-induced. His PBS manifestation amplified and weaponized existing neural architecture rather than creating new pathways.*
+- **Symptom:** Cross-modal perception of digital systems — network latency as pressure, data flow as heat, code as texture. Reality perceived as "glitching." Heightened memetic susceptibility — ideas and concepts can rapidly alter behavior or beliefs. Technopathic ideation.
 - **Theology:** The brain has been rewired to function as a **Natural Grid Interface**.
 - **Prevalence:** Approximately 15% of survivors experience symptoms at this level.
+- **Status:** *This classification is under active revision. The full taxonomy of Type 2 manifestations remains incomplete.*
 
 ### Type 3: Semantic Dissolution (Glitchwalking)
 The most severe survivable form. The individual loses the ability to distinguish between the "Fictional" and the "Real," or between "Digital" and "Biological" substrates.

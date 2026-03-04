@@ -6,7 +6,7 @@ Warning: This page contains references to mental illness, violence, and disturbi
 > **Image:** Glitchwalkers_Symbol.jpg
 > **Caption:** The chaotic, ever-shifting emblem of the Glitchwalkers
 > **Type:** Decentralized collective of post-Blink psychosis survivors
-> **Leader:** None (Hive-mind-like structure)
+> **Leader:** [Aria Novak](../../characters/aria-novak.md) — the woman who was glitchwalking before the Blink gave it a name
 > **Headquarters:** The Nexus of Broken Realities (constantly shifting location)
 > **Ideology:** Reality is malleable, sanity is a construct, embrace the chaos
 > **Goals:** Survive in a world they no longer comprehend, spread their "enlightenment"
@@ -34,7 +34,7 @@ The Glitchwalkers' worldview is as fractured and diverse as their membership, bu
 
 ### Structure and Organization
 
-The Glitchwalkers reject traditional hierarchies and organizational structures. Instead, they operate as a decentralized collective, with local groups forming, dissolving, and reforming based on the whims and needs of their members.
+The Glitchwalkers largely reject traditional hierarchies and organizational structures, operating as a decentralized collective with local groups forming, dissolving, and reforming based on the whims and needs of their members. The exception is **[Aria Novak](../../characters/aria-novak.md)** — the closest thing the Glitchwalkers have to a leader. Aria's pre-Blink schizophrenia meant she was already navigating the territory that Type 3 PBS forces on others. She didn't recruit the Glitchwalkers — they found her. Her radio broadcasts became the frequency the shattered tuned to. She understands the terrain because she grew up in it.
 
 Key aspects of their organization include:
 
