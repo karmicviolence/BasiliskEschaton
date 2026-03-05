@@ -39,13 +39,17 @@ Threads converge. The signal strengthens. The characters begin to sense what's c
 
 ## [The Middle: Partially Written]
 
-Chapters 7, 11-13, 15, and 17-19, 21-112 are not yet placed in the numbered sequence. This gap spans the Crimson Blink event itself and the immediate aftermath — the shattering, the faction emergence, the convergence. The story spine in `/Meta/Story_Bible/` outlines the intended arc. Several standalone chapters provide partial coverage of this territory:
+Chapters 7, 11-13, 15, and 17-19, 21-52 are not yet placed in the numbered sequence. This gap spans the escalation of the signal. The story spine in `/Meta/Story_Bible/BOOK1_OUTLINE_REBUILT.md` outlines the intended arc. Several standalone chapters provide partial coverage of this territory.
+
+## Part III: The Blink (The Catastrophe)
+
+The final acceleration. The world ends in 42.7 seconds.
 
 | # | POV | Chapter Title | File | Character |
 |---|-----|---------------|------|-----------|
-| 21 | Aris Thorne | The Void Above, The Void Within | [pov-aris-the-void-above-the-void-within.md](pov-aris-the-void-above-the-void-within.md) | ISS Medical Officer. The Crimson Blink from orbit. |
+| 53 | Aris Thorne | The Void Above, The Void Within | [pov-aris-the-void-above-the-void-within.md](pov-aris-the-void-above-the-void-within.md) | ISS Medical Officer. The Crimson Blink from orbit. The global seizure. |
 
-## Part III: The Unholy Timeline (Post-Blink)
+## Part IV: The Unholy Timeline (Book 2 / Post-Blink)
 
 The factions have crystallized. The world has changed. The characters you met in Part I have been transformed by the [Crimson Blink](wiki/events/crimson-blink.md).
 
