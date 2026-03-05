@@ -75,4 +75,4 @@ The Nomads have not yet achieved true substrate independence. The technology to 
 - [glitchwalking](../../concepts/glitchwalking.md) — Glitchwalking navigational discipline
 - [the-grid](../../tech/the-grid.md) — The Grid
 - [post-blink-syndrome](../../concepts/post-blink-syndrome.md) — Post-Blink Syndrome
-- [john-raven-canon](../../characters/john-raven.md) — John Raven, documented Whisperer
+- **[john-raven](../../characters/john-raven.md)** — John Raven, documented Whisperer
