@@ -1,6 +1,6 @@
 ## Slang Words in the Post-Blink World
 
-In the gritty, neon-soaked streets of the post-Blink world, language has evolved to keep pace with the rapid changes and shifting allegiances that define this new era. From the back alleys of the [Neon Nomads](../Factions/neon-nomads/overview.md) to the oil-stained workshops of the [Righteous Vanguard](../Factions/righteous-vanguard/overview.md), a new vocabulary has emerged - one that reflects the unique experiences, challenges, and attitudes of those who live on the fringes of society.
+In the gritty, neon-soaked streets of the post-Blink world, language has evolved to keep pace with the rapid changes and shifting allegiances that define this new era. From the back alleys of the [Neon Nomads](../factions/neon-nomads/overview.md) to the oil-stained workshops of the [Righteous Vanguard](../factions/righteous-vanguard/overview.md), a new vocabulary has emerged - one that reflects the unique experiences, challenges, and attitudes of those who live on the fringes of society.
 
 ### General Post-Blink Slang
 
@@ -23,7 +23,7 @@ In the gritty, neon-soaked streets of the post-Blink world, language has evolved
 * **Freemind** (n.): A person who has successfully resisted or broken free from the influence of the factions. Used with respect. "She's a true Freemind, been ghosting the system for years."
 * **Ghosted** (adj.): To be erased or redacted from official records or public knowledge. "After the job, we need to make sure all traces of our involvement are ghosted."
 * **Mindfuck** (n.): A piece of information or experience that radically alters one's perception or understanding. "That datastick contains a total mindfuck, be careful how you use it."
-* **Narcos** (n.): [VVV](../Factions/vvv/overview.md) operatives who specialize in memetic warfare and information control. "The Narcos have been flooding the net with disinfo, don't believe anything you see."
+* **Narcos** (n.): [VVV](../factions/vvv/overview.md) operatives who specialize in memetic warfare and information control. "The Narcos have been flooding the net with disinfo, don't believe anything you see."
 * **Redacted** (adj.): To be killed or silenced by the VVV in order to protect sensitive information. "He knew too much, so they had him redacted."
 
 ### Verdant Covenant
@@ -89,7 +89,7 @@ As the factions continue to clash and the world spirals ever deeper into the clu
 ## See Also
 
 * Post-Blink Factions
-* [Crimson Blink](../Events/crimson-blink.md)
+* [Crimson Blink](../events/crimson-blink.md)
 * Necromega
 * Quantum Thaumaturgy
 * Techno-Mysticism

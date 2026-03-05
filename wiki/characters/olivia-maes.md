@@ -6,7 +6,7 @@
 
 * **Name:** Olivia Maes (aliases: Nyx, various cover identities)
 * **Pre-Blink Persona:** CIA operative (domestic division) assigned to monitoring domestic extremist threats. Primary target: [Ezekiel Stone](ezekiel-stone.md). Cold, efficient, mission-oriented.
-* **Post-Blink Persona:** Deep-cover agent embedded within the [Righteous Vanguard](../Factions/righteous-vanguard/overview.md). She was infiltrating Ezekiel's faction when the Blink hit — and in the post-Blink world, she IS Righteous Vanguard. No extraction, no handler, no agency to report to. True loyalties: the nascent [Lazarus Initiative](../Factions/lazarus-initiative/overview.md), formed from the remnants of the intelligence agencies she served.
+* **Post-Blink Persona:** Deep-cover agent embedded within the [Righteous Vanguard](../factions/righteous-vanguard/overview.md). She was infiltrating Ezekiel's faction when the Blink hit — and in the post-Blink world, she IS Righteous Vanguard. No extraction, no handler, no agency to report to. True loyalties: the nascent [Lazarus Initiative](../factions/lazarus-initiative/overview.md), formed from the remnants of the intelligence agencies she served.
 
 ## Key Relationships
 
@@ -65,5 +65,5 @@ Olivia's career is defined by the **Inversion of Intent** — every surgical act
 ## ☩ Related Entries ☩
 
 * [ezekiel-stone](ezekiel-stone.md)
-* [overview](Factions/lazarus-initiative/overview.md)
-* [cognitive-parasites](Concepts/cognitive-parasites.md) (Inoculation through Silence)
+* [overview](factions/lazarus-initiative/overview.md)
+* [cognitive-parasites](concepts/cognitive-parasites.md) (Inoculation through Silence)

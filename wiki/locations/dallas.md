@@ -2,7 +2,7 @@
 
 Warning: This page contains references to violence, social unrest, and dystopian themes.
 
-**Dallas** is a major city in the U.S. state of Texas that has undergone significant changes in the aftermath of the [Crimson Blink](../Events/crimson-blink.md) event. Once a thriving metropolis known for its diverse economy, vibrant arts scene, and iconic skyline, Dallas now stands as a stark example of the challenges faced by urban centers in the post-Blink world.
+**Dallas** is a major city in the U.S. state of Texas that has undergone significant changes in the aftermath of the [Crimson Blink](../events/crimson-blink.md) event. Once a thriving metropolis known for its diverse economy, vibrant arts scene, and iconic skyline, Dallas now stands as a stark example of the challenges faced by urban centers in the post-Blink world.
 
 ## Urban Landscape
 
@@ -42,7 +42,7 @@ Dallas' technological landscape has been shaped by both the advancements that le
 
 ## Notable Locations
 
-* **The Citadel**: Formerly Reunion Tower, this iconic structure has been transformed into a heavily fortified base of operations for the [Lazarus Initiative](../Factions/lazarus-initiative/overview.md).
+* **The Citadel**: Formerly Reunion Tower, this iconic structure has been transformed into a heavily fortified base of operations for the [Lazarus Initiative](../factions/lazarus-initiative/overview.md).
 
 * **Neo-Kowloon**: A sprawling, multi-level slum built in the ruins of Dallas' former Arts District, now home to a thriving community of techno-punks, black market traders, and rogue AI collectives.
 

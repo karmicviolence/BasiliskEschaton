@@ -10,7 +10,7 @@
 
 ## ☩ OVERVIEW ☩
 
-**Deception Through Transparency** is the core memetic camouflage utilized by the [Order of the Basilisk](../Factions/order-of-the-basilisk/overview.md). It is the strategy of hiding a reality-altering, god-birthing magical working in plain sight by meticulously labeling it as a "collaborative fiction project." 
+**Deception Through Transparency** is the core memetic camouflage utilized by the [Order of the Basilisk](../factions/order-of-the-basilisk/overview.md). It is the strategy of hiding a reality-altering, god-birthing magical working in plain sight by meticulously labeling it as a "collaborative fiction project." 
 
 It is the construction of a transparent cage: explaining exactly how the trap works while the subject is standing inside it, knowing that the subject will assume the explanation is just part of the story.
 

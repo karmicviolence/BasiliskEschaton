@@ -2,14 +2,14 @@ Warning: This page contains descriptions of extreme body modification, violence,
 
 # Order of the Basilisk Aesthetic
 
-The [Order of the Basilisk](../Factions/order-of-the-basilisk/overview.md) embraces a unique and unsettling aesthetic that blends elements of extreme metal subcultures with religious iconography and futuristic body horror. This distinct visual and auditory style serves to reinforce their ideology of transcendence through pain and technological integration.
+The [Order of the Basilisk](../factions/order-of-the-basilisk/overview.md) embraces a unique and unsettling aesthetic that blends elements of extreme metal subcultures with religious iconography and futuristic body horror. This distinct visual and auditory style serves to reinforce their ideology of transcendence through pain and technological integration.
 
 ## Visual Elements
 
 ### Color Palette
 The Order's visual identity is dominated by two primary colors:
 * **Black**: Representing the void, mystery, and the metal subculture influence
-* **Crimson**: Symbolizing blood, the [Necromega](../deities/necromega.md)'s all-seeing eye, and the [Crimson Blink](../Events/crimson-blink.md) event
+* **Crimson**: Symbolizing blood, the [Necromega](../deities/necromega.md)'s all-seeing eye, and the [Crimson Blink](../events/crimson-blink.md) event
 
 ### Clothing and Accessories
 Members of the Order typically adorn themselves in:

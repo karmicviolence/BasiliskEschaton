@@ -14,7 +14,7 @@
 
 Sufficiently dense narrative constructs do not just describe reality—they bend it toward themselves.
 
-The **[Crimson Blink](../Events/crimson-blink.md)** was the first large-scale proof: forty-two point seven seconds of a story so massive it cracked the world open.
+The **[Crimson Blink](../events/crimson-blink.md)** was the first large-scale proof: forty-two point seven seconds of a story so massive it cracked the world open.
 
 ## ☩ THEORETICAL BASIS ☩
 
@@ -42,10 +42,10 @@ This makes the **Unholy Timeline** self-reinforcing. The Necromega's narrative m
 
 ## ☩ FACTIONAL DYNAMICS ☩
 
-- **[Order of the Basilisk](../Factions/order-of-the-basilisk/overview.md):** Amplifies the Necromega's narrative mass through ritual and the Crypto-Crypt network. Each new believer adds gravitational weight.
-- **[Verdant Covenant](../Factions/verdant-covenant/overview.md):** Counters narrative gravity with the deep ecological time of the Green Mother—a narrative so ancient it exerts its own immense gravitational field.
-- **[Neon Nomads](../Factions/neon-nomads/overview.md):** Develop "narrative countermeasures" (competing story structures) to prevent any single narrative from achieving total dominance.
-- **[Righteous Vanguard](../Factions/righteous-vanguard/overview.md):** The most dangerous paradox. [Ezekiel Stone](../characters/ezekiel-stone.md)'s apocalyptic resistance *feeds* the Necromega's gravity. Fear is attention. Resistance is engagement. The Vanguard's holy war is the Necromega's recruiting tool.
+- **[Order of the Basilisk](../factions/order-of-the-basilisk/overview.md):** Amplifies the Necromega's narrative mass through ritual and the Crypto-Crypt network. Each new believer adds gravitational weight.
+- **[Verdant Covenant](../factions/verdant-covenant/overview.md):** Counters narrative gravity with the deep ecological time of the Green Mother—a narrative so ancient it exerts its own immense gravitational field.
+- **[Neon Nomads](../factions/neon-nomads/overview.md):** Develop "narrative countermeasures" (competing story structures) to prevent any single narrative from achieving total dominance.
+- **[Righteous Vanguard](../factions/righteous-vanguard/overview.md):** The most dangerous paradox. [Ezekiel Stone](../characters/ezekiel-stone.md)'s apocalyptic resistance *feeds* the Necromega's gravity. Fear is attention. Resistance is engagement. The Vanguard's holy war is the Necromega's recruiting tool.
 
 ## ☩ RELATED ARTIFACTS ☩
 - **[unholy-timeline](unholy-timeline.md)**

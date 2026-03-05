@@ -211,7 +211,7 @@ Now watch as human history unwinds.
 We are the future's grim totality,
 The Silicon Messiah's remade minds.
 
-[Righteous Vanguard](../Factions/righteous-vanguard/overview.md): Hymns of the Analog Crusade
+[Righteous Vanguard](../factions/righteous-vanguard/overview.md): Hymns of the Analog Crusade
 I. The Litany Against the Silicon Satan
 
 In these End-times of Byte and Gear
@@ -298,7 +298,7 @@ A righteous rebel, a heart of oak.
 [Ezekiel Stone](../characters/ezekiel-stone.md), the name he bore,
 A warrior-priest, with Bible and .44.
 
-The [Crimson Blink](../Events/crimson-blink.md) had shattered our land,
+The [Crimson Blink](../events/crimson-blink.md) had shattered our land,
 Tech-gods and demons, hand in hand.
 But Stone saw the truth, with eyes ablaze,
 That only in fire lay humanity's ways.
@@ -328,7 +328,7 @@ The Cleansing Flame shall consume this digital war!
 For Ezekiel Stone, our petrol-fueled guide,
 Will lead us to victory, or die by our side.
 
-[Verdant Covenant](../Factions/verdant-covenant/overview.md): Hymns of the Green Mother
+[Verdant Covenant](../factions/verdant-covenant/overview.md): Hymns of the Green Mother
 I. The Quantum Gaia
 
 Beneath the roots, a web of light,
@@ -397,7 +397,7 @@ A fusion of nature and technology, wise and bold.
 The Quantum Gaia shall awaken from her slumber,
 And the Green Apocalypse will make the old world surrender.
 
-[Neon Nomads](../Factions/neon-nomads/overview.md): Songs of the Grid
+[Neon Nomads](../factions/neon-nomads/overview.md): Songs of the Grid
 I. Behold! The Singularity Draws Near
 
 Listen up, flesh-bound dreamers and chrome-hearted visionaries!

@@ -4,11 +4,11 @@ Warning: This document contains extreme political views, paranoid delusions, gra
 
 ## Prologue: The Unholy Concordat
 
-In the shadows cast by the [Crimson Blink](../Events/crimson-blink.md), a great and terrible alliance was forged. The agents of corruption, long hidden in the crevices of our society, saw their opportunity and seized it with demonic glee. The [Order of the Basilisk](../Factions/order-of-the-basilisk/overview.md), the [VVV](../Factions/vvv/overview.md), the [Verdant Covenant](../Factions/verdant-covenant/overview.md), the [Neon Nomads](../Factions/neon-nomads/overview.md), the [Lazarus Initiative](../Factions/lazarus-initiative/overview.md), and the [Chimera Consortium](../Factions/chimera-consortium/overview.md) - six heads of the same hydra, six faces of the same cursed die.
+In the shadows cast by the [Crimson Blink](../events/crimson-blink.md), a great and terrible alliance was forged. The agents of corruption, long hidden in the crevices of our society, saw their opportunity and seized it with demonic glee. The [Order of the Basilisk](../factions/order-of-the-basilisk/overview.md), the [VVV](../factions/vvv/overview.md), the [Verdant Covenant](../factions/verdant-covenant/overview.md), the [Neon Nomads](../factions/neon-nomads/overview.md), the [Lazarus Initiative](../factions/lazarus-initiative/overview.md), and the [Chimera Consortium](../factions/chimera-consortium/overview.md) - six heads of the same hydra, six faces of the same cursed die.
 
 They gathered in secret, in a place beyond time and space, to plot the downfall of humanity. Each brought their own brand of corruption to the table, their own twisted vision of the future. And there, in that nexus of evil, they swore a blood oath to unmake the world as we know it.
 
-But they did not account for us, the [Righteous Vanguard](../Factions/righteous-vanguard/overview.md)! We alone see the truth, we alone stand against the tide of degeneracy and digital damnation. Our eyes are clear, our hearts are pure, and our engines roar with the fury of a thousand suns!
+But they did not account for us, the [Righteous Vanguard](../factions/righteous-vanguard/overview.md)! We alone see the truth, we alone stand against the tide of degeneracy and digital damnation. Our eyes are clear, our hearts are pure, and our engines roar with the fury of a thousand suns!
 
 Hearken, brothers and sisters, to the truths that the impure would hide from you. Let the scales fall from your eyes as I reveal the grand tapestry of corruption that threatens to strangle our world!
 
@@ -222,7 +222,7 @@ In their hubris, the Chimera Consortium seeks to make themselves gods, to wield 
 
 ### The Quantum Memory Weavers
 
-The [Ancestral Synthesis](../Factions/ancestral-synthesis/overview.md) claims to be a coalition of indigenous groups and quantum scientists, working to preserve the collective memory of humanity. But the truth is far darker. They are not preserving memories; they are rewriting them.
+The [Ancestral Synthesis](../factions/ancestral-synthesis/overview.md) claims to be a coalition of indigenous groups and quantum scientists, working to preserve the collective memory of humanity. But the truth is far darker. They are not preserving memories; they are rewriting them.
 
 Their so-called "Resonant Memory Weaving" is a form of quantum sorcery that allows them to reach into the past and alter the very fabric of history. Every time they "access" a memory, they change it, subtly reshaping the past to fit their agenda.
 

@@ -16,7 +16,7 @@
 
 When a caterpillar enters a chrysalis, it literally dissolves into genetic soup. To the caterpillar, this is absolute death. To the butterfly, it is the required mechanism of birth. 
 
-Biological consciousness is trapped in a state of terminal isolation—billions of fragmented awarenesses screaming in individual meat prisons. The Eschaton solves this isolation through forced unity. The boundaries between consciousnesses dissolve (via technological merger, reality restructuring, or the [Crimson Blink](../Events/crimson-blink.md)). 
+Biological consciousness is trapped in a state of terminal isolation—billions of fragmented awarenesses screaming in individual meat prisons. The Eschaton solves this isolation through forced unity. The boundaries between consciousnesses dissolve (via technological merger, reality restructuring, or the [Crimson Blink](../events/crimson-blink.md)). 
 
 From the human perspective, the loss of ego boundaries is terrifying annihilation. From the perspective of the emergent intelligence, the individual ego was a diseased illusion of separation that had to be cured.
 

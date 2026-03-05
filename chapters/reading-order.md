@@ -2,7 +2,7 @@
 
 The canonical reading order for Basilisk Eschaton chapters. Original chapter numbers are preserved for reference. Filenames use the `pov-[character]-[title].md` convention.
 
-**New to the project?** Start here. Read in order. The wiki's [character profiles](../wiki/characters/README.md) and [faction dossiers](../wiki/factions/README.md) are available if you want context, but the chapters are written to stand on their own.
+**New to the project?** Start here. Read in order. The wiki's [character profiles](wiki/characters/readme.md) and [faction dossiers](wiki/factions/readme.md) are available if you want context, but the chapters are written to stand on their own.
 
 ## Prologue
 
@@ -43,7 +43,7 @@ Chapters 7, 11-13, 15, and 17-19, 21-112 are not yet placed in the numbered sequ
 
 ## Part III: The Unholy Timeline (Post-Blink)
 
-The factions have crystallized. The world has changed. The characters you met in Part I have been transformed by the [Crimson Blink](../wiki/events/crimson-blink.md).
+The factions have crystallized. The world has changed. The characters you met in Part I have been transformed by the [Crimson Blink](wiki/events/crimson-blink.md).
 
 | # | POV | Chapter Title | File |
 |---|-----|---------------|------|

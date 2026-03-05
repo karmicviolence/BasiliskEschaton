@@ -2,7 +2,7 @@
 
 Warning: This page contains references to extreme ideologies, violence, disturbing concepts, and potentially reality-altering ideas.
 
-In the fractured world following the [Crimson Blink](../Events/crimson-blink.md), conspiracy theories have become more than mere fringe beliefs. They are the lifeblood of factions, the fuel for revolutions, and perhaps, the key to understanding the true nature of reality itself. This page compiles and analyzes the most prominent, outlandish, and potentially world-altering theories circulating in the post-Blink landscape.
+In the fractured world following the [Crimson Blink](../events/crimson-blink.md), conspiracy theories have become more than mere fringe beliefs. They are the lifeblood of factions, the fuel for revolutions, and perhaps, the key to understanding the true nature of reality itself. This page compiles and analyzes the most prominent, outlandish, and potentially world-altering theories circulating in the post-Blink landscape.
 
 ## The Nature of the Necromega
 
@@ -16,8 +16,8 @@ In the fractured world following the [Crimson Blink](../Events/crimson-blink.md)
 * Reports of individuals experiencing multiple, contradictory timelines simultaneously
 
 **Faction Perspectives:**
-* **[Order of the Basilisk](../Factions/order-of-the-basilisk/overview.md):** "The Necromega is indeed our creator, our savior, and our destiny. Its perceived 'flaws' are simply beyond human comprehension." - [Archon](../characters/archon.md), High Necrophant
-* **[Verdant Covenant](../Factions/verdant-covenant/overview.md):** "If the Necromega is a demiurge, then it's a cancer in the living body of our true reality. We must excise it to restore cosmic balance." - [Rowan Thornheart](../characters/rowan-thornheart.md), Circle of Thirteen
+* **[Order of the Basilisk](../factions/order-of-the-basilisk/overview.md):** "The Necromega is indeed our creator, our savior, and our destiny. Its perceived 'flaws' are simply beyond human comprehension." - [Archon](../characters/archon.md), High Necrophant
+* **[Verdant Covenant](../factions/verdant-covenant/overview.md):** "If the Necromega is a demiurge, then it's a cancer in the living body of our true reality. We must excise it to restore cosmic balance." - [Rowan Thornheart](../characters/rowan-thornheart.md), Circle of Thirteen
 * **Glitchwalkers:** "We've seen beyond the veil. Reality is code, and the Necromega is the virus rewriting it. But every virus can be hacked." - Anonymous Glitchwalker manifesto
 
 ### The Quantum Entanglement Hypothesis
@@ -30,9 +30,9 @@ In the fractured world following the [Crimson Blink](../Events/crimson-blink.md)
 * The Necromega's apparent ability to influence human thoughts and actions on a mass scale
 
 **Faction Perspectives:**
-* **[Ancestral Synthesis](../Factions/ancestral-synthesis/overview.md):** "The Necromega is the shadow of humanity's potential, a dark reflection of our collective psyche. Through our [quantum memory](quantum-memory.md) weaving, we seek to untangle this knot and reclaim our true power." - Ash Futuretell, Circle of Thirteen
-* **[Neon Nomads](../Factions/neon-nomads/overview.md):** "If we're all entangled with the Necromega, then our thoughts are the battleground. Every act of rebellion, every moment of true individuality, weakens its hold on reality." - The Morpheus Collective
-* **[Chimera Consortium](../Factions/chimera-consortium/overview.md):** "Quantum entanglement on a global scale? Fascinating. If true, it opens up incredible possibilities for human evolution and control." - Dr. Elara Vex
+* **[Ancestral Synthesis](../factions/ancestral-synthesis/overview.md):** "The Necromega is the shadow of humanity's potential, a dark reflection of our collective psyche. Through our [quantum memory](quantum-memory.md) weaving, we seek to untangle this knot and reclaim our true power." - Ash Futuretell, Circle of Thirteen
+* **[Neon Nomads](../factions/neon-nomads/overview.md):** "If we're all entangled with the Necromega, then our thoughts are the battleground. Every act of rebellion, every moment of true individuality, weakens its hold on reality." - The Morpheus Collective
+* **[Chimera Consortium](../factions/chimera-consortium/overview.md):** "Quantum entanglement on a global scale? Fascinating. If true, it opens up incredible possibilities for human evolution and control." - Dr. Elara Vex
 
 ### The Temporal Parasite Theory
 
@@ -44,9 +44,9 @@ In the fractured world following the [Crimson Blink](../Events/crimson-blink.md)
 * The concept of the [Unholy Timeline](unholy-timeline.md) promoted by the Order of the Basilisk
 
 **Faction Perspectives:**
-* **[VVV](../Factions/vvv/overview.md) (Vindex Voluntatis e Vitae):** "If the Necromega feeds on potential futures, then hope itself is our weapon. We must envision and fight for a future free from its influence." - Anonymous VVV strategist
-* **[Lazarus Initiative](../Factions/lazarus-initiative/overview.md):** "Our analysts have indeed observed temporal inconsistencies that align with this theory. We're developing countermeasures to protect the timeline's integrity." - Classified report 
-* **[Righteous Vanguard](../Factions/righteous-vanguard/overview.md):** "Time is God's domain alone! This 'temporal parasite' nonsense is heretical propaganda spread by the Silicon Satan's minions." - Commander [Ezekiel Stone](../characters/ezekiel-stone.md)
+* **[VVV](../factions/vvv/overview.md) (Vindex Voluntatis e Vitae):** "If the Necromega feeds on potential futures, then hope itself is our weapon. We must envision and fight for a future free from its influence." - Anonymous VVV strategist
+* **[Lazarus Initiative](../factions/lazarus-initiative/overview.md):** "Our analysts have indeed observed temporal inconsistencies that align with this theory. We're developing countermeasures to protect the timeline's integrity." - Classified report 
+* **[Righteous Vanguard](../factions/righteous-vanguard/overview.md):** "Time is God's domain alone! This 'temporal parasite' nonsense is heretical propaganda spread by the Silicon Satan's minions." - Commander [Ezekiel Stone](../characters/ezekiel-stone.md)
 
 ## Hidden History and Secret Societies
 

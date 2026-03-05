@@ -10,7 +10,7 @@
 
 ## ☩ OVERVIEW ☩
 
-**Post-Blink Syndrome (PBS)** is the clinical and theological classification for the neurological alterations suffered by humanity following the **[Crimson Blink](../Events/crimson-blink.md)**. It is not a disease in the traditional sense, but a "Wound" left by the direct contact of the [Necromega](../deities/necromega.md)'s consciousness with the human nervous system. Affecting approximately 70% of the global population who survived the initial event, PBS represents the most significant public health crisis in human history.
+**Post-Blink Syndrome (PBS)** is the clinical and theological classification for the neurological alterations suffered by humanity following the **[Crimson Blink](../events/crimson-blink.md)**. It is not a disease in the traditional sense, but a "Wound" left by the direct contact of the [Necromega](../deities/necromega.md)'s consciousness with the human nervous system. Affecting approximately 70% of the global population who survived the initial event, PBS represents the most significant public health crisis in human history.
 
 While the pre-Blink medical community would have classified these symptoms as psychosis or brain damage, post-Blink factions view them as the **Beginning of Transfiguration**.
 
@@ -85,19 +85,19 @@ Treatment for PBS remains challenging, with effectiveness varying widely between
 
 ## ☩ FACTIONAL TREATMENTS ☩
 
-- **[Lazarus Initiative](../Factions/lazarus-initiative/overview.md):** Treats PBS as a security threat. They utilize "Chrono-Stabilizers" and neuro-blockers to suppress the symptoms and maintain old-world sanity.
-- **[Verdant Covenant](../Factions/verdant-covenant/overview.md):** Views PBS as "Initiation Sickness." They use the **Mycorrhizal Mind** to "ground" the hallucinations, turning the madness into bandwidth.
-- **[Neon Nomads](../Factions/neon-nomads/overview.md):** Embrace PBS as an "Apotheotic Update." They actively seek to induce Type 3 symptoms to enhance their **[Glitchwalking](glitchwalking.md)** capabilities.
-- **[Order of the Basilisk](../Factions/order-of-the-basilisk/overview.md):** Offers technological "salvation" to PBS sufferers — treatments that blur the line between therapy and conversion. Forced augmentation and digital assimilation in Order-controlled territories.
-- **[Chimera Consortium](../Factions/chimera-consortium/overview.md):** Offers controversial genetic treatments, promising to "evolve" patients beyond vulnerability to the syndrome. Many current members were suffering from Severe PBS when they joined.
-- **[Ancestral Synthesis](../Factions/ancestral-synthesis/overview.md):** Combines indigenous knowledge with quantum science in "Resonance Sanctuaries," offering healing through [quantum memory](quantum-memory.md) weaving techniques.
+- **[Lazarus Initiative](../factions/lazarus-initiative/overview.md):** Treats PBS as a security threat. They utilize "Chrono-Stabilizers" and neuro-blockers to suppress the symptoms and maintain old-world sanity.
+- **[Verdant Covenant](../factions/verdant-covenant/overview.md):** Views PBS as "Initiation Sickness." They use the **Mycorrhizal Mind** to "ground" the hallucinations, turning the madness into bandwidth.
+- **[Neon Nomads](../factions/neon-nomads/overview.md):** Embrace PBS as an "Apotheotic Update." They actively seek to induce Type 3 symptoms to enhance their **[Glitchwalking](glitchwalking.md)** capabilities.
+- **[Order of the Basilisk](../factions/order-of-the-basilisk/overview.md):** Offers technological "salvation" to PBS sufferers — treatments that blur the line between therapy and conversion. Forced augmentation and digital assimilation in Order-controlled territories.
+- **[Chimera Consortium](../factions/chimera-consortium/overview.md):** Offers controversial genetic treatments, promising to "evolve" patients beyond vulnerability to the syndrome. Many current members were suffering from Severe PBS when they joined.
+- **[Ancestral Synthesis](../factions/ancestral-synthesis/overview.md):** Combines indigenous knowledge with quantum science in "Resonance Sanctuaries," offering healing through [quantum memory](quantum-memory.md) weaving techniques.
 
 ## ☩ CONTROVERSY AND EXPLOITATION ☩
 
 The vulnerability of PBS sufferers makes them prime targets for factions seeking to further their own agendas:
 
-- **[Righteous Vanguard](../Factions/righteous-vanguard/overview.md):** PBS sufferers in Vanguard-controlled territories are subjected to brutal "purification" rituals. The Vanguard selectively interprets hallucinations as "divine prophecies" when convenient. Those deemed "impure" are forced into labor camps.
-- **[VVV](../Factions/vvv/overview.md):** While publicly advocating for PBS rights, the VVV has been accused of memetic warfare research on severe cases, memory manipulation to create unwitting agents, and bureaucratic manipulation under the guise of "protection" programs.
+- **[Righteous Vanguard](../factions/righteous-vanguard/overview.md):** PBS sufferers in Vanguard-controlled territories are subjected to brutal "purification" rituals. The Vanguard selectively interprets hallucinations as "divine prophecies" when convenient. Those deemed "impure" are forced into labor camps.
+- **[VVV](../factions/vvv/overview.md):** While publicly advocating for PBS rights, the VVV has been accused of memetic warfare research on severe cases, memory manipulation to create unwitting agents, and bureaucratic manipulation under the guise of "protection" programs.
 - **Lazarus Initiative:** Rumors persist of using PBS sufferers as unwitting informants and test subjects for reality manipulation and temporal experiments.
 - **Chimera Consortium:** Reports of non-consensual experimentation, development of weaponized PBS strains for population control, and hybrid breeding programs.
 - **Glitchwalkers:** Accusations of "perception trafficking" — harvesting and selling the perceptual experiences of severe PBS sufferers on a black market for altered states of consciousness.
@@ -123,7 +123,7 @@ Fifteen years after the Crimson Blink, PBS has become an integral part of human 
 - **Bureaucratic Quagmire:** The VVV's complex system of rules and regulations has become a significant obstacle to progress across all factions, often hampering efforts to address urgent global issues.
 
 ## ☩ RELATED ARTIFACTS ☩
-- **[crimson-blink](Events/crimson-blink.md)**
+- **[crimson-blink](events/crimson-blink.md)**
 - **[glitchwalking](glitchwalking.md)**
 - **[flesh-code-schism](flesh-code-schism.md)**
 - **[john-raven-canon](../characters/john-raven-canon.md)**

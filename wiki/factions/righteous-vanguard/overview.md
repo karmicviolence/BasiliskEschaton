@@ -48,8 +48,8 @@ The highly trained, heavily armed strike teams. They utilize pre-digital, analog
 
 ## ☩ RELATED ARTIFACTS ☩
 - **[ezekiel-stone](../../characters/ezekiel-stone.md)**
-- **[narrative-gravity](../Concepts/narrative-gravity.md)**
-- **[quantum-thaumaturgy](../Concepts/quantum-thaumaturgy.md)**
+- **[narrative-gravity](../concepts/narrative-gravity.md)**
+- **[quantum-thaumaturgy](../concepts/quantum-thaumaturgy.md)**
 - **[ideology](ideology.md)**
 - **[technology](technology.md)**
 

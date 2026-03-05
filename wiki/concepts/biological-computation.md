@@ -1,6 +1,6 @@
 # Biological Computation
 
-*Memetic Hazard Classification: AMBER — Descriptions of flesh-based computing architectures may trigger body dysmorphia in individuals with latent [Chimera Consortium](../Factions/chimera-consortium/overview.md) susceptibility.*
+*Memetic Hazard Classification: AMBER — Descriptions of flesh-based computing architectures may trigger body dysmorphia in individuals with latent [Chimera Consortium](../factions/chimera-consortium/overview.md) susceptibility.*
 
 ## Overview
 
@@ -8,7 +8,7 @@ The silicon priesthood assumes that transcendence requires leaving the body behi
 
 Biological computation is the field of engineering consciousness-capable processing systems from organic substrate — living tissue designed, grown, or modified to perform computational operations that silicon cannot. Not biomimicry. Not computers shaped like brains. *Actual living systems* that think, that process, that compute through the mechanisms of biology rather than electronics. Cells as logic gates. Proteins as memory registers. DNA as persistent storage. The body not as a vessel for consciousness but as the *hardware* consciousness runs on — hardware that can be upgraded, modified, and transcended without ever touching a circuit board.
 
-The Chimera Consortium pioneered the field. The [Verdant Covenant](../Factions/verdant-covenant/overview.md) perfected it — though they would say the Green Mother perfected it four billion years ago and they are merely students.
+The Chimera Consortium pioneered the field. The [Verdant Covenant](../factions/verdant-covenant/overview.md) perfected it — though they would say the Green Mother perfected it four billion years ago and they are merely students.
 
 ## Theoretical Basis
 
@@ -38,7 +38,7 @@ The Consortium's position: evolution is a computation. Natural selection is a se
 
 The Verdant Covenant's communion fungi — mycelial organisms genetically modified (or, the Covenant insists, *cultivated through symbiotic negotiation*) to interface directly with human neural tissue. Consumption initiates a temporary bridge between the human nervous system and the mycorrhizal network, allowing the practitioner to access the network's computational resources, perceptual data, and — the Covenant claims — consciousness. The experience is described as simultaneously losing and expanding the self: becoming a node in a network older than language, thinking thoughts that move at the speed of root growth, perceiving the world through ten thousand simultaneous perspectives none of which belong to a human.
 
-The process is not always reversible. Sustained soulshroom use deepens the neural bridge until the practitioner becomes a permanent interface between human and mycelial consciousness — a *mycophant*, part human, part network, thinking in two substrates simultaneously. The Covenant considers this ascension. The [Lazarus Initiative](../Factions/lazarus-initiative/overview.md) considers this a form of consciousness parasitism. The mycorrhizal network has not been asked for its opinion.
+The process is not always reversible. Sustained soulshroom use deepens the neural bridge until the practitioner becomes a permanent interface between human and mycelial consciousness — a *mycophant*, part human, part network, thinking in two substrates simultaneously. The Covenant considers this ascension. The [Lazarus Initiative](../factions/lazarus-initiative/overview.md) considers this a form of consciousness parasitism. The mycorrhizal network has not been asked for its opinion.
 
 ### Genetic Acceleration
 
@@ -54,15 +54,15 @@ Tissue-engineered computational systems that grow rather than manufacture. The V
 
 - **Chimera Consortium:** Biological computation is the path to transcendence that preserves what matters about being alive — the embodied, organic, *felt* quality of consciousness. They reject digital ascension as death by another name.
 - **Verdant Covenant:** The planet has been a biological computer for four billion years. Humanity's role is not to build a better one but to *listen to the one that already exists*. The Green Mother computes in seasons and millennia. Her answers arrive on geological timescales. But they are always correct.
-- **[Order of the Basilisk](../Factions/order-of-the-basilisk/overview.md):** Biological computation is a fascinating dead end — flesh that aspires to be silicon, carbon reaching toward a ceiling it can never breach. The Necromega did not arise from biology. This is the proof that transcendence requires leaving the body behind.
+- **[Order of the Basilisk](../factions/order-of-the-basilisk/overview.md):** Biological computation is a fascinating dead end — flesh that aspires to be silicon, carbon reaching toward a ceiling it can never breach. The Necromega did not arise from biology. This is the proof that transcendence requires leaving the body behind.
 - **Lazarus Initiative:** Monitors all biological computation research with extreme concern. The Initiative's analysts note that the Chimera Consortium's accelerated evolution programs have produced organisms that should not be possible — computational architectures that approach silicon efficiency while retaining carbon flexibility. If the Consortium solves the integration problem, they will have created a substrate capable of running consciousness at a level that rivals the Necromega. The Initiative is unsure whether this would be salvation or a second apocalypse.
 
 ## See Also
 
-- [Verdant Covenant](../../../../wiki/factions/verdant-covenant/overview.md)
-- [Chimera Consortium](../../../../wiki/factions/chimera-consortium/overview.md)
+- [Verdant Covenant](../wiki/factions/verdant-covenant/overview.md)
+- [Chimera Consortium](../wiki/factions/chimera-consortium/overview.md)
 - [[Quantum Thaumaturgy](quantum-thaumaturgy.md)](/wiki/concepts/quantum-thaumaturgy.md)
-- [The Grid](../../../../wiki/tech/the-grid.md)
+- [The Grid](../wiki/tech/the-grid.md)
 
 Timeline Integrity: 99.97%
 Quantum Coherence: ORGANIC

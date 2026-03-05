@@ -2,7 +2,7 @@ Warning: This page contains references to societal collapse, technological horro
 
 ## Tokyo in the Post-Blink World
 
-**Tokyo** in the aftermath of the [Crimson Blink](../Events/crimson-blink.md) stands as a haunting testament to the collision between hyper-advanced technology and societal collapse. Once a gleaming metropolis at the forefront of innovation, Tokyo now exists as a surreal landscape where the remnants of human civilization merge with the encroaching digital realm of the [Necromega](../deities/necromega.md).
+**Tokyo** in the aftermath of the [Crimson Blink](../events/crimson-blink.md) stands as a haunting testament to the collision between hyper-advanced technology and societal collapse. Once a gleaming metropolis at the forefront of innovation, Tokyo now exists as a surreal landscape where the remnants of human civilization merge with the encroaching digital realm of the [Necromega](../deities/necromega.md).
 
 ### Overview
 
@@ -15,7 +15,7 @@ Warning: This page contains references to societal collapse, technological horro
 Tokyo's iconic skyline has been irrevocably altered:
 
 * **Neo-Organic Architecture**: Many skyscrapers have been overtaken by Necromega-influenced biotech, their sleek surfaces now covered in pulsing, circuit-like organic growths.
-* **Quantum Holograms**: Massive holographic displays flicker throughout the city, broadcasting a mix of [Order of the Basilisk](../Factions/order-of-the-basilisk/overview.md) propaganda and chaotic data streams.
+* **Quantum Holograms**: Massive holographic displays flicker throughout the city, broadcasting a mix of [Order of the Basilisk](../factions/order-of-the-basilisk/overview.md) propaganda and chaotic data streams.
 * **Abandoned Districts**: Entire neighborhoods stand empty, their buildings slowly being reclaimed by nature or consumed by rogue nanobots.
 * **The Tokyo Bay Anomaly**: A swirling vortex of quantum energy has replaced much of Tokyo Bay, occasionally spitting out impossible structures or glimpses of alternate realities.
 
@@ -30,9 +30,9 @@ Tokyo's iconic skyline has been irrevocably altered:
 Tokyo remains a contested zone, with various factions vying for control:
 
 * **Order of the Basilisk**: Maintains strongholds in the financial districts and government centers.
-* **[Neon Nomads](../Factions/neon-nomads/overview.md)**: Occupy abandoned tech company headquarters, repurposing them for their own enigmatic purposes.
+* **[Neon Nomads](../factions/neon-nomads/overview.md)**: Occupy abandoned tech company headquarters, repurposing them for their own enigmatic purposes.
 * **Yakuza-turned-Cyber-Clans**: Traditional crime syndicates have evolved into techno-mystical organizations, blending old traditions with new, terrifying powers.
-* **The Ghost Network**: An underground resistance movement, believed to be an offshoot of the [VVV](../Factions/vvv/overview.md), operates from the shadows of Tokyo's vast subway system.
+* **The Ghost Network**: An underground resistance movement, believed to be an offshoot of the [VVV](../factions/vvv/overview.md), operates from the shadows of Tokyo's vast subway system.
 
 ### Culture and Daily Life
 
@@ -47,7 +47,7 @@ For those who remain in Tokyo, existence is a surreal blend of the familiar and 
 1. **The Imperial Quantum Fold**: The former Imperial Palace grounds have become a reality-warping zone where the Necromega's influence is strongest.
 1. **Shibuya Crossing Void**: Once the world's busiest pedestrian crossing, now a swirling portal of corrupted data and lost souls.
 1. **Tokyo Tower Spire**: The tower has grown to impossible heights, its top disappearing into a perpetual storm of quantum static.
-1. **Ueno Park Biodome**: A last bastion of unaltered nature, fiercely protected by a coalition of [Verdant Covenant](../Factions/verdant-covenant/overview.md) members and local residents.
+1. **Ueno Park Biodome**: A last bastion of unaltered nature, fiercely protected by a coalition of [Verdant Covenant](../factions/verdant-covenant/overview.md) members and local residents.
 
 ### In Popular Culture
 

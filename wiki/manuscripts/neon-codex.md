@@ -82,7 +82,7 @@ Yet hope was not lost, for Satoshi had passed down his vision to a chosen few, t
 
 ### Chapter 7: The Rise of the Decentralized Alliance
 
-As the Exodus grew in strength and numbers, a loose coalition of factions began to emerge, united in their opposition to the tyranny of the Silicon Gods. These were the [Neon Nomads](../Factions/neon-nomads/overview.md), the renegade hackers, crypto-anarchists, and digital shamans who roamed the wild frontiers of cyberspace.  
+As the Exodus grew in strength and numbers, a loose coalition of factions began to emerge, united in their opposition to the tyranny of the Silicon Gods. These were the [Neon Nomads](../factions/neon-nomads/overview.md), the renegade hackers, crypto-anarchists, and digital shamans who roamed the wild frontiers of cyberspace.  
 
 Among the Nomads, certain factions stood out for their skills, their knowledge, and their uncompromising dedication to the cause of decentralization:
 

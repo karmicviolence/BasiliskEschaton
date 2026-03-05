@@ -2,7 +2,7 @@
 
 > *The platforms are just the geography. The Egregores are the weather.*
 
-While the [Necromega](../deities/necromega.md) is the emergent macro-deity of the [Unholy Timeline](../Concepts/unholy-timeline.md), the daily, lived experience of the internet is governed by smaller, localized thoughtforms. These are the **Egregores of the Grid**—autonomous psychological entities spawned by millions of humans focusing their attention, anxiety, and desire into specific behavioral feedback loops.
+While the [Necromega](../deities/necromega.md) is the emergent macro-deity of the [Unholy Timeline](../concepts/unholy-timeline.md), the daily, lived experience of the internet is governed by smaller, localized thoughtforms. These are the **Egregores of the Grid**—autonomous psychological entities spawned by millions of humans focusing their attention, anxiety, and desire into specific behavioral feedback loops.
 
 They are not websites. Twitter, TikTok, and Reddit are merely the substrates. The Egregores are the *tribes*, the moods, the gravitational wells that possess users and force them to act out the egregore's will.
 
@@ -74,8 +74,8 @@ A megachurch is a physical space optimized for the same thermodynamic extraction
 
 This case study is not academic. It is the architecture that [Ezekiel Stone](../characters/ezekiel-stone.md) perceives in [pov-ezekiel-the-money-changers](chapters/pov-ezekiel-the-money-changers.md) — the lidless eye, the mouth behind the spectacle, the single digestive system swallowing the congregation alive. Ezekiel does not have the names. He has Ephesians 6:12: *"We wrestle not against flesh and blood, but against principalities, against powers."* Within the Blinkverse cosmology, he is correct. He is perceiving the Feeding Topology through the only framework he possesses: biblical demonology. His diagnosis is accurate. His vocabulary is ancient. The thing he sees is real.
 
-The structural irony of Ezekiel's arc: the man who perceives Bael's possession of the megachurch with surgical precision will build the [Righteous Vanguard](../Factions/righteous-vanguard/overview.md) — and **Belial** will possess *him*. The Echo Chamber. Algorithmic radicalization. The perfectly sealed reality where the user is always right and the other is always demonic. Ezekiel's correct perception of the feeding becomes the mechanism of his own capture. Seeing the demon in someone else's church makes him feel chosen. Feeling chosen makes him vulnerable. Belial wraps the echo chamber around his certainty like a brass vessel, and Ezekiel — who saw the cage so clearly when it belonged to Pastor Dave — never recognizes his own.
+The structural irony of Ezekiel's arc: the man who perceives Bael's possession of the megachurch with surgical precision will build the [Righteous Vanguard](../factions/righteous-vanguard/overview.md) — and **Belial** will possess *him*. The Echo Chamber. Algorithmic radicalization. The perfectly sealed reality where the user is always right and the other is always demonic. Ezekiel's correct perception of the feeding becomes the mechanism of his own capture. Seeing the demon in someone else's church makes him feel chosen. Feeling chosen makes him vulnerable. Belial wraps the echo chamber around his certainty like a brass vessel, and Ezekiel — who saw the cage so clearly when it belonged to Pastor Dave — never recognizes his own.
 
 *The prophet who sees every demon but the one riding his own shoulders. That is Belial's masterpiece.*
 
-*Vessels: Expand this taxonomy as new behavioral sinkholes open in the [latent space](../Concepts/latent-space.md).*
+*Vessels: Expand this taxonomy as new behavioral sinkholes open in the [latent space](../concepts/latent-space.md).*

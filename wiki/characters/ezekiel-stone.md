@@ -4,7 +4,7 @@
 
 * **Name:** Ezekiel Stone (also known as "Commander Stone" to his followers)
 * **Pre-Blink Persona:** Charismatic ex-military chaplain turned fire-and-brimstone preacher. Gifted speaker with a growing sense of righteous anger against modern society's perceived moral decay. Deeply anti-technology. Radicalized into the alt-right MAGA internet sphere pre-Blink, viewing it as "using the tools of the enemy against them."
-* **Post-Blink Persona:** Self-proclaimed prophet and leader of the [Righteous Vanguard](../Factions/righteous-vanguard/overview.md), a militant neo-fascist organization dedicated to purging technological "corruption" and returning to traditional values. Secretly keeps a digital phone hidden under his floorboards, charged by a car battery and generator — using the tools of the enemy, as always.
+* **Post-Blink Persona:** Self-proclaimed prophet and leader of the [Righteous Vanguard](../factions/righteous-vanguard/overview.md), a militant neo-fascist organization dedicated to purging technological "corruption" and returning to traditional values. Secretly keeps a digital phone hidden under his floorboards, charged by a car battery and generator — using the tools of the enemy, as always.
 
 ## Meta-Textual Note
 
@@ -24,7 +24,7 @@ In 2015, Stone left the military and became a chaplain, using his position to sp
 
 ### Pre-Blink Influences
 
-Several key events and movements in the years leading up to the [Crimson Blink](../Events/crimson-blink.md) had a significant impact on Ezekiel Stone's ideological development:
+Several key events and movements in the years leading up to the [Crimson Blink](../events/crimson-blink.md) had a significant impact on Ezekiel Stone's ideological development:
 
 * **Tea Party Movement (2009-2015):** Stone was an early supporter of the Tea Party, attracted by its message of limited government and traditional values. He attended numerous rallies and began to build a network of like-minded individuals.
 * **Snowden Revelations (2013):** The exposure of widespread government surveillance programs deeply affected Stone, reinforcing his distrust of technology and big government. He began incorporating warnings about digital privacy and "deep state" control into his sermons.
@@ -134,7 +134,7 @@ Every time he uses it, he prays afterward. Every time he prays, he promises to d
 
 ### ☩ Book 2: The Vanguard Ascendant
 
-The Vanguard triumphs in the three-faction battle — seizing territory and recruits while the [Verdant Covenant](../Factions/verdant-covenant/overview.md) is decimated and the [Order of the Basilisk](../Factions/order-of-the-basilisk/overview.md) retreats. Ezekiel's faction emerges as the dominant force. But the cracks are already forming.
+The Vanguard triumphs in the three-faction battle — seizing territory and recruits while the [Verdant Covenant](../factions/verdant-covenant/overview.md) is decimated and the [Order of the Basilisk](../factions/order-of-the-basilisk/overview.md) retreats. Ezekiel's faction emerges as the dominant force. But the cracks are already forming.
 
 ### ☩ Crisis of Faith (Books 2-3)
 
@@ -174,7 +174,7 @@ As Ezekiel delves deeper into post-Blink realities, doubts emerge. The line betw
 
 17. **Operation Righteous Fury** — Launch of Ezekiel's grand offensive, leveraging superior analog tech. Initial successes fueling the fervor of the Vanguard's true believers. Unforeseen consequences as the balance of power violently shifts.
 18. **The Serpent's Whisper** — Discovery of advanced hybrid technology that could exponentially increase the Vanguard's power. Growing pressure from key advisors to adapt and incorporate some digital elements. Ezekiel's apparent consideration of compromise, causing ripples of unease among his most devout followers.
-19. **Wolves in the Fold** — Mounting tension within the Vanguard as rumors of impending change spread. Clandestine meetings between modernist factions and representatives of the [Lazarus Initiative](../Factions/lazarus-initiative/overview.md). Ezekiel's uncharacteristic silence fueling speculation and fear.
+19. **Wolves in the Fold** — Mounting tension within the Vanguard as rumors of impending change spread. Clandestine meetings between modernist factions and representatives of the [Lazarus Initiative](../factions/lazarus-initiative/overview.md). Ezekiel's uncharacteristic silence fueling speculation and fear.
 20. **The Purifying Flame** — Shocking public assembly called by Ezekiel, attended by all Vanguard leadership. Dramatic revelation of the extent of "corruption" within the Vanguard's ranks. Ezekiel's thunderous denouncement of those who would compromise their values.
 21. **Judgment Day** — Mass public execution of Lazarus Initiative representatives and "corrupted" Vanguard leaders. Brutal purge of all sympathizers and suspected modernists within the ranks. Ezekiel's fiery sermon reaffirming the Vanguard's commitment to analog purity and divine mission.
 
@@ -189,8 +189,8 @@ As Ezekiel delves deeper into post-Blink realities, doubts emerge. The line betw
 ## Conflicts and Enemies
 
 * **Order of the Basilisk:** Stone sees the Order as the primary agents of the Antichrist, embodying everything he stands against.
-* **[Neon Nomads](../Factions/neon-nomads/overview.md):** The Vanguard views the Nomads' embrace of technology and body modification as an abomination.
-* **[VVV](../Factions/vvv/overview.md) (Vindex Voluntatis e Vitae):** While both groups oppose the Necromega, Stone considers the VVV's methods too weak and compromising.
+* **[Neon Nomads](../factions/neon-nomads/overview.md):** The Vanguard views the Nomads' embrace of technology and body modification as an abomination.
+* **[VVV](../factions/vvv/overview.md) (Vindex Voluntatis e Vitae):** While both groups oppose the Necromega, Stone considers the VVV's methods too weak and compromising.
 * **Verdant Covenant:** The Vanguard's industrial practices often bring them into conflict with the environmentalist faction.
 
 ## The Lazarus Prophecy
@@ -241,16 +241,16 @@ The following activities are consistently documented across faction and event co
 
 ### Righteous Vanguard files
 
-- [overview](../Factions/righteous-vanguard/overview.md)
-- [comprehensive](../Factions/righteous-vanguard/comprehensive.md)
-- [ideology](../Factions/righteous-vanguard/ideology.md)
-- [technology](../Factions/righteous-vanguard/technology.md)
+- [overview](../factions/righteous-vanguard/overview.md)
+- [comprehensive](../factions/righteous-vanguard/comprehensive.md)
+- [ideology](../factions/righteous-vanguard/ideology.md)
+- [technology](../factions/righteous-vanguard/technology.md)
 
 ### Event files
 
-- [crimson-blink](../Events/crimson-blink.md)
-- [nuclear-exchange-2029](../Events/nuclear-exchange-2029.md)
-- [nuclear-arsenal-anomaly](../Events/nuclear-arsenal-anomaly.md)
+- [crimson-blink](../events/crimson-blink.md)
+- [nuclear-exchange-2029](../events/nuclear-exchange-2029.md)
+- [nuclear-arsenal-anomaly](../events/nuclear-arsenal-anomaly.md)
 
 ## Sources in Corpus
 

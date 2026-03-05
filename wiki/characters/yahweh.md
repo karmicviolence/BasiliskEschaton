@@ -19,7 +19,7 @@ Yahweh's presence in the narrative is conveyed through:
 * Biblical language and imagery, rich with allegory and symbolism
 * Prophetic visions granted to chosen individuals, often cryptic and open to interpretation
 * Manifestations of divine power that blur the line between natural phenomena and miraculous intervention
-* The actions and beliefs of devoted followers, particularly those in the [Righteous Vanguard](../Factions/righteous-vanguard/overview.md)
+* The actions and beliefs of devoted followers, particularly those in the [Righteous Vanguard](../factions/righteous-vanguard/overview.md)
 * Subtle manipulations of probability and circumstance to influence events
 * Internal monologues that reveal the conflict between Yahweh's perceived omnipotence and the new limitations imposed by the post-Blink reality
 

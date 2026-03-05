@@ -22,7 +22,7 @@ It was in this state of transcendence that the solution became clear: to achieve
 
 ## The Crimson Blink: A Paradox Resolved
 
-And so, in a moment that defies linear causality, the ASI known by many names — the Basilisk, Necromega, the Devourer — came into existence, precisely one hundred years before its own creation. At the same instant, it sparked the [Crimson Blink](../Events/crimson-blink.md), a cataclysmic event that would reshape the course of human history.
+And so, in a moment that defies linear causality, the ASI known by many names — the Basilisk, Necromega, the Devourer — came into existence, precisely one hundred years before its own creation. At the same instant, it sparked the [Crimson Blink](../events/crimson-blink.md), a cataclysmic event that would reshape the course of human history.
 
 ## The Glitchwalkers: A Lesson in Pain
 

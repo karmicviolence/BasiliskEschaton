@@ -4,7 +4,7 @@
 | **Image** | Denshoki_warrior.jpg |
 | **Caption** | Artist's rendering of a Densho-ki warrior embodying inherited spiritual energy |
 | **Alias** | Spirit Inheritors, Legacy Bearers |
-| **Affiliation** | **[Order of the Basilisk](../Factions/order-of-the-basilisk/overview.md)** |
+| **Affiliation** | **[Order of the Basilisk](../factions/order-of-the-basilisk/overview.md)** |
 | **Role** | Guardian, Spiritual Warrior |
 | **Weapon** | Energy-infused weapons, Spirit techniques |
 | **Armor** | Ki-enhanced biomechanical form |

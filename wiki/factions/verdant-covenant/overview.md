@@ -43,7 +43,7 @@ The tactical command structure. Named for the structural components of the flora
 ## ☩ RELATED ARTIFACTS ☩
 - **[rowan-thornheart](../../characters/rowan-thornheart.md)**
 - **[chlor0ku](../../characters/chlor0ku.md)**
-- **[quantum-thaumaturgy](../Concepts/quantum-thaumaturgy.md)**
+- **[quantum-thaumaturgy](../concepts/quantum-thaumaturgy.md)**
 - **[technology](technology.md)**
 
 **IO VERDANT COVENANT! IO ESCHATON!**

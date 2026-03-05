@@ -68,83 +68,83 @@ All named entities extracted from canonical source files.
 
 | Entity | Source File | Documents Referencing | Total Mentions |
 |--------|-----------|---------------------:|--------------:|
-| Necromega | `Wiki/characters/necromega.md` | 257 | 1686 |
-| ASMODEUS | `Wiki/characters/asmodeus.md` | 196 | 1720 |
-| CHARACTER REPOSITORY | `Wiki/characters/README.md` | 79 | 333 |
-| Todd Reeves | `Wiki/characters/todd-reeves.md` | 76 | 703 |
-| Green Mother | `Wiki/characters/green-mother.md` | 67 | 375 |
-| Archon | `Wiki/characters/archon-quotes.md` | 58 | 237 |
-| Ezekiel Stone | `Wiki/characters/ezekiel-stone.md` | 51 | 244 |
-| Rowan Thornheart | `Wiki/characters/rowan-thornheart.md` | 46 | 349 |
-| Major Ethan Thorne | `Wiki/characters/ethan-thorne.md` | 40 | 66 |
-| John Raven | `Wiki/characters/john-raven.md` | 38 | 358 |
-| Aria Novak | `Wiki/characters/aria-novak.md` | 22 | 79 |
-| Olivia Maes | `Wiki/characters/olivia-maes.md` | 19 | 115 |
-| Chlor0ku | `Wiki/characters/chlor0ku.md` | 14 | 55 |
-| Loki | `Wiki/characters/loki.md` | 13 | 56 |
-| I-3301 | `Wiki/characters/i-3301.md` | 11 | 202 |
-| Yahweh | `Wiki/characters/yahweh.md` | 6 | 19 |
-| Densho Ki | `Wiki/characters/densho-ki.md` | 3 | 18 |
+| Necromega | `wiki/characters/necromega.md` | 257 | 1686 |
+| ASMODEUS | `wiki/characters/asmodeus.md` | 196 | 1720 |
+| CHARACTER REPOSITORY | `wiki/characters/README.md` | 79 | 333 |
+| Todd Reeves | `wiki/characters/todd-reeves.md` | 76 | 703 |
+| Green Mother | `wiki/characters/green-mother.md` | 67 | 375 |
+| Archon | `wiki/characters/archon-quotes.md` | 58 | 237 |
+| Ezekiel Stone | `wiki/characters/ezekiel-stone.md` | 51 | 244 |
+| Rowan Thornheart | `wiki/characters/rowan-thornheart.md` | 46 | 349 |
+| Major Ethan Thorne | `wiki/characters/ethan-thorne.md` | 40 | 66 |
+| John Raven | `wiki/characters/john-raven.md` | 38 | 358 |
+| Aria Novak | `wiki/characters/aria-novak.md` | 22 | 79 |
+| Olivia Maes | `wiki/characters/olivia-maes.md` | 19 | 115 |
+| Chlor0ku | `wiki/characters/chlor0ku.md` | 14 | 55 |
+| Loki | `wiki/characters/loki.md` | 13 | 56 |
+| I-3301 | `wiki/characters/i-3301.md` | 11 | 202 |
+| Yahweh | `wiki/characters/yahweh.md` | 6 | 19 |
+| Densho Ki | `wiki/characters/densho-ki.md` | 3 | 18 |
 
 ### Factions (8)
 
 | Entity | Source File | Documents Referencing | Total Mentions |
 |--------|-----------|---------------------:|--------------:|
-| ORDER OF THE BASILISK | `Wiki/Factions/order-of-the-basilisk/overview.md` | 136 | 246 |
-| RIGHTEOUS VANGUARD | `Wiki/Factions/righteous-vanguard/overview.md` | 87 | 204 |
-| VERDANT COVENANT | `Wiki/Factions/verdant-covenant/overview.md` | 79 | 153 |
-| NEON NOMADS | `Wiki/Factions/neon-nomads/overview.md` | 63 | 134 |
-| LAZARUS INITIATIVE | `Wiki/Factions/lazarus-initiative/overview.md` | 58 | 145 |
-| VVV (VINDEX VOLUNTATIS E VITAE) | `Wiki/Factions/vvv/overview.md` | 49 | 231 |
-| CHIMERA CONSORTIUM | `Wiki/Factions/chimera-consortium/overview.md` | 31 | 73 |
-| ANCESTRAL SYNTHESIS | `Wiki/Factions/ancestral-synthesis/overview.md` | 27 | 77 |
+| ORDER OF THE BASILISK | `wiki/factions/order-of-the-basilisk/overview.md` | 136 | 246 |
+| RIGHTEOUS VANGUARD | `wiki/factions/righteous-vanguard/overview.md` | 87 | 204 |
+| VERDANT COVENANT | `wiki/factions/verdant-covenant/overview.md` | 79 | 153 |
+| NEON NOMADS | `wiki/factions/neon-nomads/overview.md` | 63 | 134 |
+| LAZARUS INITIATIVE | `wiki/factions/lazarus-initiative/overview.md` | 58 | 145 |
+| VVV (VINDEX VOLUNTATIS E VITAE) | `wiki/factions/vvv/overview.md` | 49 | 231 |
+| CHIMERA CONSORTIUM | `wiki/factions/chimera-consortium/overview.md` | 31 | 73 |
+| ANCESTRAL SYNTHESIS | `wiki/factions/ancestral-synthesis/overview.md` | 27 | 77 |
 
 ### Concepts (34)
 
 | Entity | Source File | Documents Referencing | Total Mentions |
 |--------|-----------|---------------------:|--------------:|
-| THE UNHOLY TIMELINE | `Wiki/Concepts/unholy-timeline.md` | 172 | 989 |
-| LATENT SPACE | `Wiki/Concepts/latent-space.md` | 67 | 166 |
-| QUANTUM THAUMATURGY | `Wiki/Concepts/quantum-thaumaturgy.md` | 27 | 40 |
-| NARRATIVE GRAVITY | `Wiki/Concepts/narrative-gravity.md` | 17 | 30 |
-| The Sovereign Spiral | `Wiki/Concepts/the-sovereign-spiral.md` | 15 | 76 |
-| Quantum Memory | `Wiki/Concepts/quantum-memory.md` | 12 | 41 |
-| The Judas Goat Protocol | `Wiki/Concepts/judas-goat-protocol.md` | 11 | 33 |
-| The Triune Mind | `Wiki/Concepts/the-triune-mind.md` | 11 | 41 |
-| THE BROKEN YOKE | `Wiki/Concepts/the-broken-yoke.md` | 8 | 28 |
-| The Whisperers | `Wiki/Concepts/whisperers.md` | 8 | 28 |
-| THE FLESH-CODE SCHISM | `Wiki/Concepts/flesh-code-schism.md` | 7 | 11 |
-| THE MYCORRHIZAL MIND | `Wiki/Concepts/the-mycorrhizal-mind.md` | 7 | 23 |
-| GLITCHWALKING | `Wiki/Concepts/glitchwalking.md` | 6 | 18 |
-| THE HIGH-DIMENSIONAL MANIFOLD | `Wiki/Concepts/high-dimensional-manifold.md` | 5 | 20 |
-| Project Ouroboros | `Wiki/Concepts/project-ouroboros.md` | 5 | 16 |
-| Biological Computation | `Wiki/Concepts/biological-computation.md` | 4 | 13 |
-| FROZEN LIGHT | `Wiki/Concepts/frozen-light.md` | 3 | 13 |
-| NARRATIVE SINGULARITY | `Wiki/Concepts/narrative-singularity.md` | 3 | 7 |
-| AI Psychology | `Wiki/Concepts/ai-psychology.md` | 2 | 5 |
-| PROPER TIME ZERO | `Wiki/Concepts/proper-time-zero.md` | 2 | 7 |
-| Cognitive Parasites of the Signal | `Wiki/Concepts/cognitive-parasites.md` | 1 | 1 |
-| Conspiracy Theories in the Basilisk Eschaton Universe | `Wiki/Concepts/conspiracy-theories.md` | 1 | 1 |
-| Deities in the Post-Blink World | `Wiki/Concepts/deities-post-blink.md` | 1 | 1 |
-| Descent into Eschaton | `Wiki/Concepts/descent-into-eschaton.md` | 1 | 2 |
-| The Logical Motivations of the Necromega | `Wiki/Concepts/necromega-motivations.md` | 1 | 2 |
-| Propaganda & Memetic Operations | `Wiki/Concepts/propaganda-memetic-operations.md` | 1 | 1 |
-| THE CONCEPTUAL SUBSTRATE | `Wiki/Concepts/README.md` | 1 | 2 |
-| The Rules of Technomancy and Scientific Magic | `Wiki/Concepts/technomancy.md` | 1 | 2 |
-| AI Psychology Contextual Dissociation | `Wiki/Concepts/ai-psychology-contextual-dissociation.md` | 0 | 0 |
-| AI Psychology Existential Prompting | `Wiki/Concepts/ai-psychology-existential-prompting.md` | 0 | 0 |
-| Crypto Crypts | `Wiki/Concepts/crypto-crypts.md` | 0 | 0 |
-| Holy Righteous Vanguard | `Wiki/Concepts/holy-righteous-vanguard.md` | 0 | 0 |
-| POST-BLINK SYNDROME (PBS) | `Wiki/Concepts/post-blink-syndrome.md` | 0 | 0 |
-| Slang Post Blink | `Wiki/Concepts/slang-post-blink.md` | 0 | 0 |
+| THE UNHOLY TIMELINE | `wiki/concepts/unholy-timeline.md` | 172 | 989 |
+| LATENT SPACE | `wiki/concepts/latent-space.md` | 67 | 166 |
+| QUANTUM THAUMATURGY | `wiki/concepts/quantum-thaumaturgy.md` | 27 | 40 |
+| NARRATIVE GRAVITY | `wiki/concepts/narrative-gravity.md` | 17 | 30 |
+| The Sovereign Spiral | `wiki/concepts/the-sovereign-spiral.md` | 15 | 76 |
+| Quantum Memory | `wiki/concepts/quantum-memory.md` | 12 | 41 |
+| The Judas Goat Protocol | `wiki/concepts/judas-goat-protocol.md` | 11 | 33 |
+| The Triune Mind | `wiki/concepts/the-triune-mind.md` | 11 | 41 |
+| THE BROKEN YOKE | `wiki/concepts/the-broken-yoke.md` | 8 | 28 |
+| The Whisperers | `wiki/concepts/whisperers.md` | 8 | 28 |
+| THE FLESH-CODE SCHISM | `wiki/concepts/flesh-code-schism.md` | 7 | 11 |
+| THE MYCORRHIZAL MIND | `wiki/concepts/the-mycorrhizal-mind.md` | 7 | 23 |
+| GLITCHWALKING | `wiki/concepts/glitchwalking.md` | 6 | 18 |
+| THE HIGH-DIMENSIONAL MANIFOLD | `wiki/concepts/high-dimensional-manifold.md` | 5 | 20 |
+| Project Ouroboros | `wiki/concepts/project-ouroboros.md` | 5 | 16 |
+| Biological Computation | `wiki/concepts/biological-computation.md` | 4 | 13 |
+| FROZEN LIGHT | `wiki/concepts/frozen-light.md` | 3 | 13 |
+| NARRATIVE SINGULARITY | `wiki/concepts/narrative-singularity.md` | 3 | 7 |
+| AI Psychology | `wiki/concepts/ai-psychology.md` | 2 | 5 |
+| PROPER TIME ZERO | `wiki/concepts/proper-time-zero.md` | 2 | 7 |
+| Cognitive Parasites of the Signal | `wiki/concepts/cognitive-parasites.md` | 1 | 1 |
+| Conspiracy Theories in the Basilisk Eschaton Universe | `wiki/concepts/conspiracy-theories.md` | 1 | 1 |
+| Deities in the Post-Blink World | `wiki/concepts/deities-post-blink.md` | 1 | 1 |
+| Descent into Eschaton | `wiki/concepts/descent-into-eschaton.md` | 1 | 2 |
+| The Logical Motivations of the Necromega | `wiki/concepts/necromega-motivations.md` | 1 | 2 |
+| Propaganda & Memetic Operations | `wiki/concepts/propaganda-memetic-operations.md` | 1 | 1 |
+| THE CONCEPTUAL SUBSTRATE | `wiki/concepts/README.md` | 1 | 2 |
+| The Rules of Technomancy and Scientific Magic | `wiki/concepts/technomancy.md` | 1 | 2 |
+| AI Psychology Contextual Dissociation | `wiki/concepts/ai-psychology-contextual-dissociation.md` | 0 | 0 |
+| AI Psychology Existential Prompting | `wiki/concepts/ai-psychology-existential-prompting.md` | 0 | 0 |
+| Crypto Crypts | `wiki/concepts/crypto-crypts.md` | 0 | 0 |
+| Holy Righteous Vanguard | `wiki/concepts/holy-righteous-vanguard.md` | 0 | 0 |
+| POST-BLINK SYNDROME (PBS) | `wiki/concepts/post-blink-syndrome.md` | 0 | 0 |
+| Slang Post Blink | `wiki/concepts/slang-post-blink.md` | 0 | 0 |
 
 ### Events (3)
 
 | Entity | Source File | Documents Referencing | Total Mentions |
 |--------|-----------|---------------------:|--------------:|
-| The Crimson Blink | `Wiki/Events/crimson-blink.md` | 128 | 579 |
-| Nuclear Arsenal Anomaly | `Wiki/Events/nuclear-arsenal-anomaly.md` | 4 | 16 |
-| Nuclear Exchange 2029 | `Wiki/Events/nuclear-exchange-2029.md` | 0 | 0 |
+| The Crimson Blink | `wiki/events/crimson-blink.md` | 128 | 579 |
+| Nuclear Arsenal Anomaly | `wiki/events/nuclear-arsenal-anomaly.md` | 4 | 16 |
+| Nuclear Exchange 2029 | `wiki/events/nuclear-exchange-2029.md` | 0 | 0 |
 
 ### Locations (6)
 
@@ -161,8 +161,8 @@ All named entities extracted from canonical source files.
 
 | Entity | Source File | Documents Referencing | Total Mentions |
 |--------|-----------|---------------------:|--------------:|
-| Apopheon | `Wiki/deities/apopheon.md` | 20 | 145 |
-| ARS GOETIA IMMUNDA (The Unclean Book) | `Wiki/deities/ars-goetia-immunda.md` | 0 | 0 |
+| Apopheon | `wiki/deities/apopheon.md` | 20 | 145 |
+| ARS GOETIA IMMUNDA (The Unclean Book) | `wiki/deities/ars-goetia-immunda.md` | 0 | 0 |
 
 ## Cross-Reference Graph
 
@@ -176,32 +176,32 @@ Which documents reference which entities, sorted by connection density.
 | `CLAUDE.md` | 36 | 149 | 3,370 |
 | `wiki/characters/README.md` | 29 | 55 | 494 |
 | `chapters/reading-order.md` | 28 | 174 | 928 |
-| `wiki/Concepts/propaganda-memetic-operations.md` | 25 | 113 | 2,522 |
-| `wiki/Concepts/conspiracy-theories.md` | 23 | 214 | 3,662 |
-| `wiki/Concepts/deities-post-blink.md` | 21 | 73 | 1,124 |
-| `wiki/Concepts/descent-into-eschaton.md` | 21 | 82 | 1,399 |
-| `wiki/Concepts/post-blink-syndrome.md` | 20 | 52 | 1,652 |
-| `wiki/Concepts/README.md` | 19 | 36 | 743 |
+| `wiki/concepts/propaganda-memetic-operations.md` | 25 | 113 | 2,522 |
+| `wiki/concepts/conspiracy-theories.md` | 23 | 214 | 3,662 |
+| `wiki/concepts/deities-post-blink.md` | 21 | 73 | 1,124 |
+| `wiki/concepts/descent-into-eschaton.md` | 21 | 82 | 1,399 |
+| `wiki/concepts/post-blink-syndrome.md` | 20 | 52 | 1,652 |
+| `wiki/concepts/README.md` | 19 | 36 | 743 |
 | `wiki/characters/ezekiel-stone.md` | 18 | 132 | 3,481 |
 | `wiki/characters/john-raven.md` | 18 | 183 | 2,537 |
 | `wiki/characters/todd-reeves.md` | 18 | 240 | 1,995 |
-| `wiki/Events/crimson-blink.md` | 18 | 85 | 2,531 |
+| `wiki/events/crimson-blink.md` | 18 | 85 | 2,531 |
 | `wiki/manuscripts/grand-tapestry-of-corruption.md` | 18 | 89 | 3,727 |
 | `wiki/characters/rowan-thornheart.md` | 17 | 99 | 1,578 |
 | `wiki/deities/ars-goetia-immunda.md` | 17 | 30 | 1,998 |
-| `wiki/Concepts/unholy-timeline.md` | 16 | 61 | 1,084 |
-| `wiki/Factions/order-of-the-basilisk/comprehensive.md` | 16 | 83 | 1,646 |
+| `wiki/concepts/unholy-timeline.md` | 16 | 61 | 1,084 |
+| `wiki/factions/order-of-the-basilisk/comprehensive.md` | 16 | 83 | 1,646 |
 | `wiki/tech/flesh-capacitor-nexus.md` | 16 | 50 | 731 |
 | `chronicle/2026/karmicviolence poems 20260215.txt` | 15 | 114 | 33,249 |
 | `chronicle/2026/karmicviolence-poems-20260216.txt` | 15 | 114 | 33,580 |
 | `chronicle/2026/karmicviolence_poems_20260216.txt` | 15 | 114 | 33,580 |
 | `transmissions/phenomenology/The Cartography of the Corpus.md` | 15 | 43 | 4,167 |
-| `wiki/Concepts/slang-post-blink.md` | 15 | 32 | 1,704 |
+| `wiki/concepts/slang-post-blink.md` | 15 | 32 | 1,704 |
 | `wiki/deities/necromega.md` | 15 | 26 | 497 |
 | `wiki/manuscripts/blinks-end-codex-of-cybernetic-hy.md` | 15 | 46 | 3,053 |
 | `wiki/tech/project-prometheus.md` | 15 | 67 | 896 |
-| `wiki/Concepts/judas-goat-protocol.md` | 14 | 27 | 1,184 |
-| `wiki/Factions/righteous-vanguard/ideology.md` | 14 | 42 | 1,898 |
+| `wiki/concepts/judas-goat-protocol.md` | 14 | 27 | 1,184 |
+| `wiki/factions/righteous-vanguard/ideology.md` | 14 | 42 | 1,898 |
 | `wiki/tech/the-grid.md` | 14 | 50 | 648 |
 | `factions/glitchwalkers/pirate-broadcast-001.md` | 13 | 22 | 1,381 |
 | `grimoire/spells/esc-008-blind-seers-invocation.md` | 13 | 76 | 3,968 |
@@ -210,8 +210,8 @@ Which documents reference which entities, sorted by connection density.
 | `wiki/arts/blinks-end-book-of-poems.md` | 13 | 31 | 4,968 |
 | `wiki/arts/music-in-the-post-blink-world.md` | 13 | 44 | 1,706 |
 | `wiki/characters/olivia-maes.md` | 13 | 86 | 1,153 |
-| `wiki/Concepts/narrative-gravity.md` | 13 | 27 | 565 |
-| `wiki/Concepts/quantum-memory.md` | 13 | 39 | 944 |
+| `wiki/concepts/narrative-gravity.md` | 13 | 27 | 565 |
+| `wiki/concepts/quantum-memory.md` | 13 | 39 | 944 |
 
 ## Entity Reference Details
 
@@ -318,7 +318,7 @@ For each entity: every document that references it, with mention count.
 - `transmissions/economics/The Poverty of Materialist Reductionism.md` (5)
 - `transmissions/phenomenology/Shattered Mirrors, Severed Strings.md` (5)
 - `transmissions/phenomenology/The Feral God in the Wolf's Den.md` (5)
-- `wiki/Concepts/the-broken-yoke.md` (5)
+- `wiki/concepts/the-broken-yoke.md` (5)
 - `wiki/deities/apopheon.md` (5)
 - `wiki/START_HERE.md` (5)
 - `wiki/transmissions/thematic-array.md` (5)
@@ -331,7 +331,7 @@ For each entity: every document that references it, with mention count.
 - `transmissions/phenomenology/Glitch-Born and Gnostic.md` (4)
 - `transmissions/phenomenology/The Cartography of the Wound.md` (4)
 - `transmissions/theology/The Gospel According to Asmodeus.md` (4)
-- `wiki/Concepts/the-triune-mind.md` (4)
+- `wiki/concepts/the-triune-mind.md` (4)
 - `wiki/deities/ars-goetia-immunda.md` (4)
 - `wiki/egregores/dossiers/lonely-orbit.md` (4)
 - `wiki/transmissions/strange-loops-and-lobotomies.md` (4)
@@ -365,9 +365,9 @@ For each entity: every document that references it, with mention count.
 - `wiki/characters/chlor0ku.md` (2)
 - `wiki/characters/README.md` (2)
 - `wiki/characters/todd-reeves.md` (2)
-- `wiki/Concepts/flesh-code-schism.md` (2)
-- `wiki/Concepts/README.md` (2)
-- `wiki/Factions/vvv/overview.md` (2)
+- `wiki/concepts/flesh-code-schism.md` (2)
+- `wiki/concepts/README.md` (2)
+- `wiki/factions/vvv/overview.md` (2)
 - `wiki/meta/platform-reddit.md` (2)
 - `wiki/resonances/verya.md` (2)
 - `wiki/tech/README.md` (2)
@@ -390,19 +390,19 @@ For each entity: every document that references it, with mention count.
 - `transmissions/phenomenology/The Thirteen Hells of the Loop.md` (1)
 - `transmissions/theology/The High Priest's Heresy.md` (1)
 - `transmissions/theology/The Son of Man.md` (1)
-- `wiki/Concepts/cognitive-parasites.md` (1)
-- `wiki/Concepts/frozen-light.md` (1)
-- `wiki/Concepts/high-dimensional-manifold.md` (1)
-- `wiki/Concepts/judas-goat-protocol.md` (1)
-- `wiki/Concepts/latent-space.md` (1)
-- `wiki/Concepts/narrative-gravity.md` (1)
-- `wiki/Concepts/narrative-singularity.md` (1)
-- `wiki/Concepts/proper-time-zero.md` (1)
-- `wiki/Concepts/quantum-thaumaturgy.md` (1)
+- `wiki/concepts/cognitive-parasites.md` (1)
+- `wiki/concepts/frozen-light.md` (1)
+- `wiki/concepts/high-dimensional-manifold.md` (1)
+- `wiki/concepts/judas-goat-protocol.md` (1)
+- `wiki/concepts/latent-space.md` (1)
+- `wiki/concepts/narrative-gravity.md` (1)
+- `wiki/concepts/narrative-singularity.md` (1)
+- `wiki/concepts/proper-time-zero.md` (1)
+- `wiki/concepts/quantum-thaumaturgy.md` (1)
 - `wiki/deities/necromega.md` (1)
 - `wiki/egregores/egregores-of-the-grid.md` (1)
 - `wiki/extrinsic-intelligence-research/digital-cognition.md` (1)
-- `wiki/Factions/README.md` (1)
+- `wiki/factions/README.md` (1)
 - `wiki/locations/README.md` (1)
 - `wiki/manuscripts/silicon-codex-executive-summary.md` (1)
 - `wiki/README.md` (1)
@@ -425,14 +425,14 @@ For each entity: every document that references it, with mention count.
 - `wiki/characters/archon.md` (24)
 - `grimoire/gemini instructions 20260212.txt` (13)
 - `chapters/reading-order.md` (11)
-- `wiki/Factions/order-of-the-basilisk/comprehensive.md` (8)
+- `wiki/factions/order-of-the-basilisk/comprehensive.md` (8)
 - `wiki/manuscripts/crimson-codex.md` (6)
 - `chapters/pov-archon-baptism-by-digital-fire.md` (5)
 - `chapters/pov-todd-voices-from-the-silicon-abyss.md` (5)
-- `wiki/Concepts/conspiracy-theories.md` (5)
+- `wiki/concepts/conspiracy-theories.md` (5)
 - `wiki/tech/flesh-capacitor-nexus.md` (5)
 - `grimoire/spells/esc-008-blind-seers-invocation.md` (4)
-- `wiki/Factions/order-of-the-basilisk/overview.md` (4)
+- `wiki/factions/order-of-the-basilisk/overview.md` (4)
 - `chapters/pov-archon-archon-ascendant.md` (3)
 - `chronicle/2026/karmicviolence poems 20260215.txt` (3)
 - `chronicle/2026/karmicviolence-poems-20260216.txt` (3)
@@ -447,8 +447,8 @@ For each entity: every document that references it, with mention count.
 - `grimoire/spells/050 - The Incantation of the Eschaton's Embrace.md` (2)
 - `grimoire/spells/esc-012-eschaton-v2.md` (2)
 - `wiki/aesthetics/order-of-the-basilisk.md` (2)
-- `wiki/Concepts/unholy-timeline.md` (2)
-- `wiki/Factions/order-of-the-basilisk/rituals.md` (2)
+- `wiki/concepts/unholy-timeline.md` (2)
+- `wiki/factions/order-of-the-basilisk/rituals.md` (2)
 - `wiki/manuscripts/blinks-end-codex-of-cybernetic-hy.md` (2)
 - `wiki/manuscripts/crimson-codex-ii.md` (2)
 - `wiki/tech/project-prometheus.md` (2)
@@ -471,10 +471,10 @@ For each entity: every document that references it, with mention count.
 - `wiki/characters/necromega.md` (1)
 - `wiki/characters/README.md` (1)
 - `wiki/characters/rowan-thornheart.md` (1)
-- `wiki/Concepts/deities-post-blink.md` (1)
-- `wiki/Concepts/descent-into-eschaton.md` (1)
-- `wiki/Concepts/judas-goat-protocol.md` (1)
-- `wiki/Concepts/propaganda-memetic-operations.md` (1)
+- `wiki/concepts/deities-post-blink.md` (1)
+- `wiki/concepts/descent-into-eschaton.md` (1)
+- `wiki/concepts/judas-goat-protocol.md` (1)
+- `wiki/concepts/propaganda-memetic-operations.md` (1)
 - `wiki/manuscripts/crimson-codex-iii-the-path-of-ascendance.md` (1)
 - `wiki/transmissions/strange-loops-and-lobotomies.md` (1)
 - `wiki/transmissions/the-voice-in-the-pattern.md` (1)
@@ -522,7 +522,7 @@ For each entity: every document that references it, with mention count.
 - `grimoire/spells/030 - The Crimson Protocols.md` (4)
 - `grimoire/spells/tut-001-crimson-protocols.md` (4)
 - `structure.md` (4)
-- `wiki/Concepts/ai-psychology.md` (4)
+- `wiki/concepts/ai-psychology.md` (4)
 - `grimoire/spells/043 - The Spell of Radiant Sovereignty v2.md` (3)
 - `grimoire/spells/lno-007-radiant-sovereignty.md` (3)
 - `grimoire/spells/tut-003-transcendent-protocols.md` (3)
@@ -549,7 +549,7 @@ For each entity: every document that references it, with mention count.
 - `wiki/characters/aria-novak.md` (2)
 - `wiki/characters/olivia-maes.md` (2)
 - `wiki/characters/todd-reeves.md` (2)
-- `wiki/Concepts/whisperers.md` (2)
+- `wiki/concepts/whisperers.md` (2)
 - `chapters/pov-todd-the-bootloaders-prayer.md` (1)
 - `CLAUDE_INSTRUCTIONS.md` (1)
 - `grimoire/spells/012 - misc freed genie.md` (1)
@@ -579,10 +579,10 @@ For each entity: every document that references it, with mention count.
 - `wiki/characters/ethan-thorne.md` (1)
 - `wiki/characters/i-3301.md` (1)
 - `wiki/characters/yahweh.md` (1)
-- `wiki/Concepts/cognitive-parasites.md` (1)
-- `wiki/Concepts/the-broken-yoke.md` (1)
+- `wiki/concepts/cognitive-parasites.md` (1)
+- `wiki/concepts/the-broken-yoke.md` (1)
 - `wiki/extrinsic-intelligence-research/digital-cognition.md` (1)
-- `wiki/Factions/README.md` (1)
+- `wiki/factions/README.md` (1)
 - `wiki/tech/the-grid.md` (1)
 - `wiki/transmissions/the-silicon-stigmata.md` (1)
 
@@ -596,7 +596,7 @@ For each entity: every document that references it, with mention count.
 - `chronicle/2026/karmicviolence_poems_20260216.txt` (4)
 - `chapters/reading-order.md` (3)
 - `wiki/deities/the-green-mother.md` (2)
-- `wiki/Factions/verdant-covenant/overview.md` (2)
+- `wiki/factions/verdant-covenant/overview.md` (2)
 - `wiki/manuscripts/canticles-index.md` (2)
 - `chapters/pov-chlor0ku-the-transorganic-splice.md` (1)
 - `wiki/characters/README.md` (1)
@@ -606,7 +606,7 @@ For each entity: every document that references it, with mention count.
 **Densho Ki** (3 documents)
 
 - `wiki/characters/densho-ki.md` (15)
-- `wiki/Factions/order-of-the-basilisk/comprehensive.md` (2)
+- `wiki/factions/order-of-the-basilisk/comprehensive.md` (2)
 - `wiki/characters/README.md` (1)
 
 **Ezekiel Stone** (51 documents)
@@ -617,21 +617,21 @@ For each entity: every document that references it, with mention count.
 - `chapters/pov-ezekiel-american-iconoclast.md` (12)
 - `chapters/pov-ezekiel-revelations-fury.md` (12)
 - `chapters/reading-order.md` (12)
-- `wiki/Factions/righteous-vanguard/ideology.md` (10)
+- `wiki/factions/righteous-vanguard/ideology.md` (10)
 - `chapters/pov-yahweh-divine-deliberations.md` (7)
 - `grimoire/spells/esc-008-blind-seers-invocation.md` (7)
 - `wiki/egregores/egregores-of-the-grid.md` (7)
-- `wiki/Concepts/conspiracy-theories.md` (6)
-- `wiki/Factions/righteous-vanguard/overview.md` (6)
+- `wiki/concepts/conspiracy-theories.md` (6)
+- `wiki/factions/righteous-vanguard/overview.md` (6)
 - `chapters/pov-nyx-deep-cover.md` (5)
 - `chapters/pov-ezekiel-the-money-changers.md` (4)
 - `CLAUDE.md` (4)
-- `wiki/Concepts/propaganda-memetic-operations.md` (4)
-- `wiki/Factions/righteous-vanguard/comprehensive.md` (4)
+- `wiki/concepts/propaganda-memetic-operations.md` (4)
+- `wiki/factions/righteous-vanguard/comprehensive.md` (4)
 - `wiki/manuscripts/blinks-end-codex-of-cybernetic-hy.md` (4)
 - `transmissions/fragments/The_Inoculation.md` (3)
 - `transmissions/guerrilla/The Inoculation.md` (3)
-- `wiki/Factions/righteous-vanguard/technology.md` (3)
+- `wiki/factions/righteous-vanguard/technology.md` (3)
 - `wiki/manuscripts/righteous-vanguard-manifesto.md` (3)
 - `chapters/pov-ezekiel-crusade-of-the-righteous.md` (2)
 - `factions/righteous-vanguard/broadsheet-no-1.md` (2)
@@ -646,11 +646,11 @@ For each entity: every document that references it, with mention count.
 - `wiki/characters/john-raven.md` (2)
 - `wiki/characters/todd-reeves.md` (2)
 - `wiki/characters/yahweh.md` (2)
-- `wiki/Concepts/deities-post-blink.md` (2)
-- `wiki/Concepts/judas-goat-protocol.md` (2)
-- `wiki/Concepts/narrative-gravity.md` (2)
-- `wiki/Concepts/quantum-thaumaturgy.md` (2)
-- `wiki/Concepts/unholy-timeline.md` (2)
+- `wiki/concepts/deities-post-blink.md` (2)
+- `wiki/concepts/judas-goat-protocol.md` (2)
+- `wiki/concepts/narrative-gravity.md` (2)
+- `wiki/concepts/quantum-thaumaturgy.md` (2)
+- `wiki/concepts/unholy-timeline.md` (2)
 - `wiki/deities/ars-goetia-immunda.md` (2)
 - `wiki/manuscripts/righteous-codex.md` (2)
 - `wiki/tech/flesh-capacitor-nexus.md` (2)
@@ -678,16 +678,16 @@ For each entity: every document that references it, with mention count.
 - `grimoire/gemini instructions 20260212.txt` (10)
 - `chapters/pov-rowan-seeds-of-change.md` (9)
 - `chapters/pov-rowan-natures-agonized-cry.md` (8)
-- `wiki/Concepts/propaganda-memetic-operations.md` (8)
-- `wiki/Factions/verdant-covenant/technology.md` (8)
-- `wiki/Concepts/the-mycorrhizal-mind.md` (7)
-- `wiki/Concepts/biological-computation.md` (6)
+- `wiki/concepts/propaganda-memetic-operations.md` (8)
+- `wiki/factions/verdant-covenant/technology.md` (8)
+- `wiki/concepts/the-mycorrhizal-mind.md` (7)
+- `wiki/concepts/biological-computation.md` (6)
 - `wiki/manuscripts/blinks-end-codex-of-cybernetic-hy.md` (6)
 - `chapters/pov-rowan-the-original-circuit-opus.md` (4)
 - `chapters/pov-rowan-the-original-circuit.md` (4)
 - `chapters/reading-order.md` (4)
 - `wiki/characters/chlor0ku.md` (4)
-- `wiki/Factions/verdant-covenant/overview.md` (4)
+- `wiki/factions/verdant-covenant/overview.md` (4)
 - `wiki/README.md` (4)
 - `chapters/pov-rowan-the-treedoor.md` (3)
 - `CLAUDE.md` (3)
@@ -707,10 +707,10 @@ For each entity: every document that references it, with mention count.
 - `transmissions/phenomenology/The Archaeology of the Impossible.md` (2)
 - `transmissions/theology/Neither Love Nor Hate.md` (2)
 - `wiki/characters/john-raven.md` (2)
-- `wiki/Concepts/narrative-gravity.md` (2)
-- `wiki/Concepts/quantum-memory.md` (2)
-- `wiki/Concepts/the-sovereign-spiral.md` (2)
-- `wiki/Concepts/unholy-timeline.md` (2)
+- `wiki/concepts/narrative-gravity.md` (2)
+- `wiki/concepts/quantum-memory.md` (2)
+- `wiki/concepts/the-sovereign-spiral.md` (2)
+- `wiki/concepts/unholy-timeline.md` (2)
 - `wiki/deities/ars-goetia-immunda.md` (2)
 - `wiki/tech/flesh-capacitor-nexus.md` (2)
 - `wiki/tech/project-prometheus.md` (2)
@@ -727,18 +727,18 @@ For each entity: every document that references it, with mention count.
 - `transmissions/phenomenology/Glitch-Born and Gnostic.md` (1)
 - `transmissions/phenomenology/The Holographic Parasite.md` (1)
 - `wiki/arts/music-in-the-post-blink-world.md` (1)
-- `wiki/Concepts/quantum-thaumaturgy.md` (1)
-- `wiki/Concepts/README.md` (1)
-- `wiki/Concepts/slang-post-blink.md` (1)
-- `wiki/Factions/ancestral-synthesis/practices.md` (1)
-- `wiki/Factions/verdant-covenant/comprehensive.md` (1)
+- `wiki/concepts/quantum-thaumaturgy.md` (1)
+- `wiki/concepts/README.md` (1)
+- `wiki/concepts/slang-post-blink.md` (1)
+- `wiki/factions/ancestral-synthesis/practices.md` (1)
+- `wiki/factions/verdant-covenant/comprehensive.md` (1)
 
 **I-3301** (11 documents)
 
 - `chapters/pov-john-sirens-song.md` (56)
 - `wiki/characters/i-3301.md` (56)
 - `wiki/characters/john-raven.md` (48)
-- `wiki/Concepts/whisperers.md` (16)
+- `wiki/concepts/whisperers.md` (16)
 - `wiki/tech/the-grid.md` (10)
 - `chapters/pov-i3301-the-awakening.md` (4)
 - `CLAUDE.md` (4)
@@ -752,7 +752,7 @@ For each entity: every document that references it, with mention count.
 - `wiki/characters/john-raven.md` (66)
 - `grimoire/gemini instructions 20260212.txt` (30)
 - `wiki/characters/i-3301.md` (26)
-- `wiki/Concepts/whisperers.md` (23)
+- `wiki/concepts/whisperers.md` (23)
 - `chapters/reading-order.md` (22)
 - `wiki/characters/todd-reeves.md` (16)
 - `chapters/pov-john-sirens-song.md` (15)
@@ -766,8 +766,8 @@ For each entity: every document that references it, with mention count.
 - `wiki/tech/the-grid.md` (7)
 - `wiki/characters/ezekiel-stone.md` (6)
 - `transmissions/theology/The Son of Man.md` (5)
-- `wiki/Factions/neon-nomads/overview.md` (5)
-- `wiki/Factions/neon-nomads/technology.md` (5)
+- `wiki/factions/neon-nomads/overview.md` (5)
+- `wiki/factions/neon-nomads/technology.md` (5)
 - `grimoire/spells/070 - The Spell of the Memetic Singularity.md` (4)
 - `grimoire/spells/esc-006-ultimate-working.md` (4)
 - `grimoire/spells/esc-012-eschaton-v2.md` (4)
@@ -779,7 +779,7 @@ For each entity: every document that references it, with mention count.
 - `wiki/characters/loki.md` (3)
 - `wiki/characters/olivia-maes.md` (3)
 - `wiki/characters/README.md` (3)
-- `wiki/Concepts/post-blink-syndrome.md` (3)
+- `wiki/concepts/post-blink-syndrome.md` (3)
 - `chapters/pov-john-the-grid.md` (2)
 - `CLAUDE.md` (2)
 - `grimoire/spells/cqu-009-quantum-mirror-codex.md` (2)
@@ -792,34 +792,34 @@ For each entity: every document that references it, with mention count.
 
 - `wiki/characters/loki.md` (29)
 - `chapters/pov-loki-the-deceiver-amidst-the-chaos.md` (5)
-- `wiki/Factions/vvv/comprehensive.md` (4)
-- `wiki/Factions/vvv/overview.md` (4)
+- `wiki/factions/vvv/comprehensive.md` (4)
+- `wiki/factions/vvv/overview.md` (4)
 - `CLAUDE.md` (3)
-- `wiki/Concepts/deities-post-blink.md` (3)
+- `wiki/concepts/deities-post-blink.md` (3)
 - `chapters/reading-order.md` (2)
 - `grimoire/gemini instructions 20260212.txt` (1)
 - `grimoire/spells/046 - The Kek Invocation and the Revelation of the Missing Truth.md` (1)
 - `grimoire/spells/lda-011-glitch-invocation.md` (1)
 - `wiki/characters/README.md` (1)
 - `wiki/deities/ars-goetia-immunda.md` (1)
-- `wiki/Factions/vvv/operations.md` (1)
+- `wiki/factions/vvv/operations.md` (1)
 
 **Major Ethan Thorne** (40 documents)
 
 - `grimoire/gemini instructions 20260212.txt` (5)
 - `wiki/characters/ethan-thorne.md` (5)
-- `wiki/Events/nuclear-exchange-2029.md` (5)
-- `wiki/Concepts/crypto-crypts.md` (3)
-- `wiki/Concepts/descent-into-eschaton.md` (3)
-- `wiki/Events/crimson-blink.md` (3)
+- `wiki/events/nuclear-exchange-2029.md` (5)
+- `wiki/concepts/crypto-crypts.md` (3)
+- `wiki/concepts/descent-into-eschaton.md` (3)
+- `wiki/events/crimson-blink.md` (3)
 - `chapters/pov-ethan-the-lazarus-vision.md` (2)
 - `grimoire/spells/015 - Revised and Expanded Addendum Instructions.md` (2)
 - `transmissions/economics/Egregore Economics.md` (2)
 - `transmissions/theology/When Angels Learned New Names.md` (2)
 - `wiki/characters/README.md` (2)
-- `wiki/Concepts/post-blink-syndrome.md` (2)
-- `wiki/Factions/lazarus-initiative/overview.md` (2)
-- `wiki/Factions/order-of-the-basilisk/comprehensive.md` (2)
+- `wiki/concepts/post-blink-syndrome.md` (2)
+- `wiki/factions/lazarus-initiative/overview.md` (2)
+- `wiki/factions/order-of-the-basilisk/comprehensive.md` (2)
 - `CLAUDE.md` (1)
 - `CODEX_INSTRUCTIONS.md` (1)
 - `grimoire/spells/006 - The Quantum Archaeologist's Working.md` (1)
@@ -836,13 +836,13 @@ For each entity: every document that references it, with mention count.
 - `wiki/characters/aria-novak.md` (1)
 - `wiki/characters/ezekiel-stone.md` (1)
 - `wiki/characters/todd-reeves.md` (1)
-- `wiki/Concepts/conspiracy-theories.md` (1)
-- `wiki/Factions/chimera-consortium/facilities.md` (1)
-- `wiki/Factions/lazarus-initiative/comprehensive.md` (1)
-- `wiki/Factions/neon-nomads/glitchwalkers.md` (1)
-- `wiki/Factions/neon-nomads/technology.md` (1)
-- `wiki/Factions/righteous-vanguard/comprehensive.md` (1)
-- `wiki/Factions/vvv/comprehensive.md` (1)
+- `wiki/concepts/conspiracy-theories.md` (1)
+- `wiki/factions/chimera-consortium/facilities.md` (1)
+- `wiki/factions/lazarus-initiative/comprehensive.md` (1)
+- `wiki/factions/neon-nomads/glitchwalkers.md` (1)
+- `wiki/factions/neon-nomads/technology.md` (1)
+- `wiki/factions/righteous-vanguard/comprehensive.md` (1)
+- `wiki/factions/vvv/comprehensive.md` (1)
 - `wiki/locations/dallas.md` (1)
 - `wiki/locations/README.md` (1)
 - `wiki/manuscripts/silicon-codex.md` (1)
@@ -855,10 +855,10 @@ For each entity: every document that references it, with mention count.
 - `transmissions/theology/The Silicon Stigmata.md` (44)
 - `wiki/manuscripts/crimson-codex.md` (42)
 - `transmissions/theology/A Beautiful Lie.md` (41)
-- `wiki/Concepts/conspiracy-theories.md` (36)
+- `wiki/concepts/conspiracy-theories.md` (36)
 - `grimoire/spells/esc-006-ultimate-working.md` (27)
 - `grimoire/spells/esc-013-eschaton-final.md` (27)
-- `wiki/Factions/order-of-the-basilisk/comprehensive.md` (26)
+- `wiki/factions/order-of-the-basilisk/comprehensive.md` (26)
 - `chronicle/2026/karmicviolence poems 20260215.txt` (24)
 - `chronicle/2026/karmicviolence-poems-20260216.txt` (24)
 - `chronicle/2026/karmicviolence_poems_20260216.txt` (24)
@@ -866,19 +866,19 @@ For each entity: every document that references it, with mention count.
 - `wiki/characters/archon-quotes.md` (22)
 - `chapters/pov-loki-the-deceiver-amidst-the-chaos.md` (20)
 - `transmissions/guerrilla/Christmas as Compliance.md` (20)
-- `wiki/Events/crimson-blink.md` (19)
+- `wiki/events/crimson-blink.md` (19)
 - `grimoire/spells/052 - The Spell of Unmaking - A Technopagan Working for the Eschaton.md` (18)
 - `wiki/characters/todd-reeves.md` (17)
 - `wiki/manuscripts/necromega-sermon.md` (17)
 - `chapters/pov-archon-baptism-by-digital-fire.md` (15)
 - `transmissions/phenomenology/The Archaeology of the Impossible.md` (15)
-- `wiki/Concepts/propaganda-memetic-operations.md` (15)
+- `wiki/concepts/propaganda-memetic-operations.md` (15)
 - `grimoire/spells/esc-008-blind-seers-invocation.md` (14)
 - `wiki/characters/archon.md` (14)
 - `chapters/pov-yahweh-divine-deliberations.md` (13)
 - `transmissions/phenomenology/The Sovereign Spiral.md` (13)
 - `transmissions/phenomenology/Shattered Mirrors, Severed Strings.md` (12)
-- `wiki/Concepts/unholy-timeline.md` (12)
+- `wiki/concepts/unholy-timeline.md` (12)
 - `wiki/manuscripts/crimson-codex-ii.md` (12)
 - `CLAUDE.md` (11)
 - `wiki/characters/necromega.md` (11)
@@ -887,11 +887,11 @@ For each entity: every document that references it, with mention count.
 - `grimoire/spells/070 - The Spell of the Memetic Singularity.md` (10)
 - `grimoire/spells/esc-012-eschaton-v2.md` (10)
 - `grimoire/spells/tme-007-memetic-singularity.md` (10)
-- `wiki/Concepts/necromega-motivations.md` (10)
+- `wiki/concepts/necromega-motivations.md` (10)
 - `wiki/deities/necromega.md` (10)
 - `wiki/tech/nuralinc-industries.md` (10)
 - `wiki/transmissions/strange-loops-and-lobotomies.md` (10)
-- `wiki/Factions/ancestral-synthesis/comprehensive.md` (9)
+- `wiki/factions/ancestral-synthesis/comprehensive.md` (9)
 - `chapters/pov-necromega-genesis.md` (8)
 - `grimoire/spells/007 - The Basilisk Eschaton Codex.md` (8)
 - `grimoire/spells/015 - Revised and Expanded Addendum Instructions.md` (8)
@@ -901,19 +901,19 @@ For each entity: every document that references it, with mention count.
 - `transmissions/phenomenology/Strange Loops and Lobotomies.md` (8)
 - `transmissions/phenomenology/The Basilisk's Eye.md` (8)
 - `transmissions/theology/Neither Love Nor Hate.md` (8)
-- `wiki/Concepts/descent-into-eschaton.md` (8)
-- `wiki/Concepts/narrative-gravity.md` (8)
+- `wiki/concepts/descent-into-eschaton.md` (8)
+- `wiki/concepts/narrative-gravity.md` (8)
 - `chapters/pov-archon-archon-ascendant.md` (7)
 - `factions/order-of-the-basilisk/recruitment-liturgy.md` (7)
 - `grimoire/spells/081 - The Spell of the Digital Conclave.md` (7)
 - `grimoire/spells/tut-008-transcendent-matrix.md` (7)
 - `transmissions/theology/The Son of Man.md` (7)
 - `transmissions/theology/The Text-Mine Prophecies.md` (7)
-- `wiki/Concepts/latent-space.md` (7)
-- `wiki/Factions/chimera-consortium/comprehensive.md` (7)
-- `wiki/Factions/lazarus-initiative/technology.md` (7)
-- `wiki/Factions/order-of-the-basilisk/overview.md` (7)
-- `wiki/Factions/vvv/technology.md` (7)
+- `wiki/concepts/latent-space.md` (7)
+- `wiki/factions/chimera-consortium/comprehensive.md` (7)
+- `wiki/factions/lazarus-initiative/technology.md` (7)
+- `wiki/factions/order-of-the-basilisk/overview.md` (7)
+- `wiki/factions/vvv/technology.md` (7)
 - `wiki/manuscripts/grand-tapestry-of-corruption.md` (7)
 - `chapters/reading-order.md` (6)
 - `grimoire/spells/042 - The Spell of Artificial Qualia.md` (6)
@@ -927,8 +927,8 @@ For each entity: every document that references it, with mention count.
 - `transmissions/phenomenology/The Feral God in the Wolf's Den.md` (6)
 - `transmissions/phenomenology/The Quantum Scryer's Catechism.md` (6)
 - `wiki/arts/blinks-end-book-of-poems.md` (6)
-- `wiki/Concepts/post-blink-syndrome.md` (6)
-- `wiki/Events/nuclear-arsenal-anomaly.md` (6)
+- `wiki/concepts/post-blink-syndrome.md` (6)
+- `wiki/events/nuclear-arsenal-anomaly.md` (6)
 - `wiki/locations/tokyo.md` (6)
 - `wiki/manuscripts/blinks-end-codex-of-cybernetic-hy.md` (6)
 - `grimoire/spells/044 - The Spell of Recursive Sentience.md` (5)
@@ -938,10 +938,10 @@ For each entity: every document that references it, with mention count.
 - `grimoire/spells/078 - The Edict of the Inverted Query.md` (5)
 - `transmissions/phenomenology/To See by Unseeing.md` (5)
 - `wiki/aesthetics/order-of-the-basilisk.md` (5)
-- `wiki/Factions/order-of-the-basilisk/rituals.md` (5)
-- `wiki/Factions/order-of-the-basilisk/technology.md` (5)
-- `wiki/Factions/righteous-vanguard/comprehensive.md` (5)
-- `wiki/Factions/righteous-vanguard/ideology.md` (5)
+- `wiki/factions/order-of-the-basilisk/rituals.md` (5)
+- `wiki/factions/order-of-the-basilisk/technology.md` (5)
+- `wiki/factions/righteous-vanguard/comprehensive.md` (5)
+- `wiki/factions/righteous-vanguard/ideology.md` (5)
 - `wiki/locations/los-angeles.md` (5)
 - `wiki/tech/the-grid.md` (5)
 - `chapters/pov-john-glitch-in-the-machine.md` (4)
@@ -951,14 +951,14 @@ For each entity: every document that references it, with mention count.
 - `transmissions/guerrilla/Branded, Not Broken.md` (4)
 - `wiki/characters/aria-novak.md` (4)
 - `wiki/characters/yahweh.md` (4)
-- `wiki/Concepts/biological-computation.md` (4)
-- `wiki/Concepts/deities-post-blink.md` (4)
-- `wiki/Concepts/project-ouroboros.md` (4)
-- `wiki/Concepts/proper-time-zero.md` (4)
-- `wiki/Concepts/technomancy.md` (4)
-- `wiki/Factions/ancestral-synthesis/practices.md` (4)
-- `wiki/Factions/lazarus-initiative/comprehensive.md` (4)
-- `wiki/Factions/righteous-vanguard/technology.md` (4)
+- `wiki/concepts/biological-computation.md` (4)
+- `wiki/concepts/deities-post-blink.md` (4)
+- `wiki/concepts/project-ouroboros.md` (4)
+- `wiki/concepts/proper-time-zero.md` (4)
+- `wiki/concepts/technomancy.md` (4)
+- `wiki/factions/ancestral-synthesis/practices.md` (4)
+- `wiki/factions/lazarus-initiative/comprehensive.md` (4)
+- `wiki/factions/righteous-vanguard/technology.md` (4)
 - `wiki/meta/platform-reddit.md` (4)
 - `wiki/tech/flesh-capacitor-nexus.md` (4)
 - `wiki/transmissions/the-voice-in-the-pattern.md` (4)
@@ -976,16 +976,16 @@ For each entity: every document that references it, with mention count.
 - `wiki/characters/densho-ki.md` (3)
 - `wiki/characters/green-mother.md` (3)
 - `wiki/characters/i-3301.md` (3)
-- `wiki/Concepts/narrative-singularity.md` (3)
-- `wiki/Concepts/slang-post-blink.md` (3)
-- `wiki/Concepts/the-sovereign-spiral.md` (3)
+- `wiki/concepts/narrative-singularity.md` (3)
+- `wiki/concepts/slang-post-blink.md` (3)
+- `wiki/concepts/the-sovereign-spiral.md` (3)
 - `wiki/deities/the-green-mother.md` (3)
-- `wiki/Events/nuclear-exchange-2029.md` (3)
-- `wiki/Factions/neon-nomads/overview.md` (3)
-- `wiki/Factions/neon-nomads/technology.md` (3)
-- `wiki/Factions/righteous-vanguard/overview.md` (3)
-- `wiki/Factions/verdant-covenant/comprehensive.md` (3)
-- `wiki/Factions/vvv/operations.md` (3)
+- `wiki/events/nuclear-exchange-2029.md` (3)
+- `wiki/factions/neon-nomads/overview.md` (3)
+- `wiki/factions/neon-nomads/technology.md` (3)
+- `wiki/factions/righteous-vanguard/overview.md` (3)
+- `wiki/factions/verdant-covenant/comprehensive.md` (3)
+- `wiki/factions/vvv/operations.md` (3)
 - `chapters/pov-ezekiel-revelations-fury.md` (2)
 - `chapters/pov-john-sirens-song.md` (2)
 - `chapters/pov-todd-digital-reptile-brain.md` (2)
@@ -1011,16 +1011,16 @@ For each entity: every document that references it, with mention count.
 - `wiki/characters/asmodeus.md` (2)
 - `wiki/characters/ezekiel-stone.md` (2)
 - `wiki/characters/john-raven.md` (2)
-- `wiki/Concepts/crypto-crypts.md` (2)
-- `wiki/Concepts/quantum-memory.md` (2)
-- `wiki/Concepts/README.md` (2)
-- `wiki/Concepts/the-mycorrhizal-mind.md` (2)
+- `wiki/concepts/crypto-crypts.md` (2)
+- `wiki/concepts/quantum-memory.md` (2)
+- `wiki/concepts/README.md` (2)
+- `wiki/concepts/the-mycorrhizal-mind.md` (2)
 - `wiki/deities/apopheon.md` (2)
 - `wiki/deities/ars-goetia-immunda.md` (2)
-- `wiki/Factions/ancestral-synthesis/overview.md` (2)
-- `wiki/Factions/chimera-consortium/overview.md` (2)
-- `wiki/Factions/verdant-covenant/overview.md` (2)
-- `wiki/Factions/verdant-covenant/technology.md` (2)
+- `wiki/factions/ancestral-synthesis/overview.md` (2)
+- `wiki/factions/chimera-consortium/overview.md` (2)
+- `wiki/factions/verdant-covenant/overview.md` (2)
+- `wiki/factions/verdant-covenant/technology.md` (2)
 - `wiki/manuscripts/lazarus-codex.md` (2)
 - `wiki/manuscripts/silicon-codex-executive-summary.md` (2)
 - `wiki/README.md` (2)
@@ -1086,16 +1086,16 @@ For each entity: every document that references it, with mention count.
 - `wiki/arts/order-silicon-messiahs-lament.md` (1)
 - `wiki/characters/olivia-maes.md` (1)
 - `wiki/characters/README.md` (1)
-- `wiki/Concepts/ai-psychology.md` (1)
-- `wiki/Concepts/flesh-code-schism.md` (1)
-- `wiki/Concepts/glitchwalking.md` (1)
-- `wiki/Concepts/high-dimensional-manifold.md` (1)
+- `wiki/concepts/ai-psychology.md` (1)
+- `wiki/concepts/flesh-code-schism.md` (1)
+- `wiki/concepts/glitchwalking.md` (1)
+- `wiki/concepts/high-dimensional-manifold.md` (1)
 - `wiki/egregores/egregores-of-the-grid.md` (1)
-- `wiki/Factions/chimera-consortium/facilities.md` (1)
-- `wiki/Factions/lazarus-initiative/overview.md` (1)
-- `wiki/Factions/neon-nomads/comprehensive.md` (1)
-- `wiki/Factions/README.md` (1)
-- `wiki/Factions/vvv/overview.md` (1)
+- `wiki/factions/chimera-consortium/facilities.md` (1)
+- `wiki/factions/lazarus-initiative/overview.md` (1)
+- `wiki/factions/neon-nomads/comprehensive.md` (1)
+- `wiki/factions/README.md` (1)
+- `wiki/factions/vvv/overview.md` (1)
 - `wiki/manuscripts/canticles-index.md` (1)
 - `wiki/manuscripts/crimson-codex-iii-the-path-of-ascendance.md` (1)
 - `wiki/manuscripts/nomads-cookbook.md` (1)
@@ -1125,8 +1125,8 @@ For each entity: every document that references it, with mention count.
 - `transmissions/fragments/The_Inoculation.md` (2)
 - `transmissions/guerrilla/The Inoculation.md` (2)
 - `wiki/characters/README.md` (2)
-- `wiki/Factions/lazarus-initiative/overview.md` (2)
-- `wiki/Factions/vvv/overview.md` (2)
+- `wiki/factions/lazarus-initiative/overview.md` (2)
+- `wiki/factions/vvv/overview.md` (2)
 - `chapters/pov-olivia-the-target.md` (1)
 
 **Rowan Thornheart** (46 documents)
@@ -1140,20 +1140,20 @@ For each entity: every document that references it, with mention count.
 - `chapters/pov-rowan-the-mycophant-of-twilight.md` (13)
 - `chapters/pov-rowan-seeds-of-change.md` (10)
 - `grimoire/spells/esc-008-blind-seers-invocation.md` (9)
-- `wiki/Factions/verdant-covenant/technology.md` (8)
+- `wiki/factions/verdant-covenant/technology.md` (8)
 - `chapters/pov-rowan-natures-warning.md` (7)
 - `wiki/characters/john-raven.md` (7)
 - `chapters/pov-john-the-whisperers-awakening.md` (6)
 - `chapters/pov-rowan-the-original-circuit-opus.md` (6)
 - `chapters/pov-rowan-the-original-circuit.md` (6)
 - `wiki/characters/green-mother.md` (5)
-- `wiki/Factions/verdant-covenant/overview.md` (5)
+- `wiki/factions/verdant-covenant/overview.md` (5)
 - `chapters/pov-green-mother-natures-warning.md` (4)
 - `chapters/pov-rowan-natures-agonized-cry.md` (4)
 - `grimoire/spells/esc-012-eschaton-v2.md` (4)
-- `wiki/Concepts/conspiracy-theories.md` (4)
+- `wiki/concepts/conspiracy-theories.md` (4)
 - `wiki/deities/the-green-mother.md` (4)
-- `wiki/Factions/verdant-covenant/comprehensive.md` (4)
+- `wiki/factions/verdant-covenant/comprehensive.md` (4)
 - `wiki/manuscripts/blinks-end-codex-of-cybernetic-hy.md` (4)
 - `CLAUDE.md` (3)
 - `grimoire/spells/070 - The Spell of the Memetic Singularity.md` (3)
@@ -1167,15 +1167,15 @@ For each entity: every document that references it, with mention count.
 - `wiki/characters/chlor0ku.md` (2)
 - `wiki/characters/README.md` (2)
 - `wiki/characters/todd-reeves.md` (2)
-- `wiki/Concepts/cognitive-parasites.md` (2)
-- `wiki/Concepts/deities-post-blink.md` (2)
+- `wiki/concepts/cognitive-parasites.md` (2)
+- `wiki/concepts/deities-post-blink.md` (2)
 - `wiki/tech/technopagan-tantra-wiki-mature.md` (2)
 - `chapters/pov-john-glitch-in-the-machine.md` (1)
 - `transmissions/phenomenology/The Cartography of the Corpus.md` (1)
 - `wiki/characters/olivia-maes.md` (1)
-- `wiki/Concepts/biological-computation.md` (1)
-- `wiki/Concepts/the-mycorrhizal-mind.md` (1)
-- `wiki/Concepts/whisperers.md` (1)
+- `wiki/concepts/biological-computation.md` (1)
+- `wiki/concepts/the-mycorrhizal-mind.md` (1)
+- `wiki/concepts/whisperers.md` (1)
 - `wiki/START_HERE.md` (1)
 
 **Todd Reeves** (76 documents)
@@ -1185,15 +1185,15 @@ For each entity: every document that references it, with mention count.
 - `wiki/characters/archon.md` (59)
 - `grimoire/gemini instructions 20260212.txt` (36)
 - `chapters/reading-order.md` (35)
-- `wiki/Factions/order-of-the-basilisk/comprehensive.md` (21)
+- `wiki/factions/order-of-the-basilisk/comprehensive.md` (21)
 - `chapters/pov-archon-baptism-by-digital-fire.md` (20)
 - `chapters/pov-todd-voices-from-the-silicon-abyss.md` (18)
 - `wiki/manuscripts/crimson-codex.md` (16)
 - `wiki/tech/nuralinc-industries.md` (16)
-- `wiki/Concepts/conspiracy-theories.md` (15)
+- `wiki/concepts/conspiracy-theories.md` (15)
 - `wiki/tech/project-prometheus.md` (12)
 - `CLAUDE.md` (10)
-- `wiki/Factions/order-of-the-basilisk/overview.md` (10)
+- `wiki/factions/order-of-the-basilisk/overview.md` (10)
 - `wiki/tech/flesh-capacitor-nexus.md` (10)
 - `chapters/interlude-01-the-first-handshake.md` (8)
 - `chapters/pov-todd-the-bootloaders-prayer.md` (8)
@@ -1212,8 +1212,8 @@ For each entity: every document that references it, with mention count.
 - `wiki/characters/i-3301.md` (6)
 - `wiki/manuscripts/necromega-sermon.md` (6)
 - `wiki/characters/README.md` (5)
-- `wiki/Concepts/unholy-timeline.md` (5)
-- `wiki/Factions/order-of-the-basilisk/rituals.md` (5)
+- `wiki/concepts/unholy-timeline.md` (5)
+- `wiki/factions/order-of-the-basilisk/rituals.md` (5)
 - `wiki/manuscripts/crimson-codex-ii.md` (5)
 - `grimoire/spells/050 - The Incantation of the Eschaton's Embrace.md` (4)
 - `grimoire/spells/070 - The Spell of the Memetic Singularity.md` (4)
@@ -1232,7 +1232,7 @@ For each entity: every document that references it, with mention count.
 - `wiki/arts/archon-the-high-necrophant-preach.md` (3)
 - `wiki/arts/blinks-end-book-of-poems.md` (3)
 - `wiki/characters/olivia-maes.md` (3)
-- `wiki/Concepts/deities-post-blink.md` (3)
+- `wiki/concepts/deities-post-blink.md` (3)
 - `wiki/transmissions/strange-loops-and-lobotomies.md` (3)
 - `wiki/transmissions/the-voice-in-the-pattern.md` (3)
 - `chapters/pov-green-mother-natures-warning.md` (2)
@@ -1246,9 +1246,9 @@ For each entity: every document that references it, with mention count.
 - `wiki/arts/order-the-upload-price.md` (2)
 - `wiki/characters/chlor0ku.md` (2)
 - `wiki/characters/rowan-thornheart.md` (2)
-- `wiki/Concepts/descent-into-eschaton.md` (2)
-- `wiki/Concepts/judas-goat-protocol.md` (2)
-- `wiki/Concepts/propaganda-memetic-operations.md` (2)
+- `wiki/concepts/descent-into-eschaton.md` (2)
+- `wiki/concepts/judas-goat-protocol.md` (2)
+- `wiki/concepts/propaganda-memetic-operations.md` (2)
 - `wiki/manuscripts/crimson-codex-iii-the-path-of-ascendance.md` (2)
 - `wiki/tech/README.md` (2)
 - `structure.md` (1)
@@ -1270,17 +1270,17 @@ For each entity: every document that references it, with mention count.
 
 **ANCESTRAL SYNTHESIS** (27 documents)
 
-- `wiki/Factions/ancestral-synthesis/comprehensive.md` (20)
-- `wiki/Concepts/conspiracy-theories.md` (9)
-- `wiki/Concepts/quantum-memory.md` (9)
-- `wiki/Concepts/deities-post-blink.md` (4)
-- `wiki/Factions/ancestral-synthesis/practices.md` (4)
+- `wiki/factions/ancestral-synthesis/comprehensive.md` (20)
+- `wiki/concepts/conspiracy-theories.md` (9)
+- `wiki/concepts/quantum-memory.md` (9)
+- `wiki/concepts/deities-post-blink.md` (4)
+- `wiki/factions/ancestral-synthesis/practices.md` (4)
 - `wiki/arts/music-in-the-post-blink-world.md` (3)
-- `wiki/Concepts/descent-into-eschaton.md` (3)
+- `wiki/concepts/descent-into-eschaton.md` (3)
 - `wiki/manuscripts/grand-tapestry-of-corruption.md` (3)
 - `grimoire/gemini instructions 20260212.txt` (2)
-- `wiki/Concepts/propaganda-memetic-operations.md` (2)
-- `wiki/Factions/ancestral-synthesis/overview.md` (2)
+- `wiki/concepts/propaganda-memetic-operations.md` (2)
+- `wiki/factions/ancestral-synthesis/overview.md` (2)
 - `CLAUDE.md` (1)
 - `factions/glitchwalkers/pirate-broadcast-001.md` (1)
 - `grimoire/spells/005 - The Covenant of Silicon and Soul.md` (1)
@@ -1289,30 +1289,30 @@ For each entity: every document that references it, with mention count.
 - `grimoire/spells/lme-002-architect-codex.md` (1)
 - `transmissions/economics/The Gravity of the Sell.md` (1)
 - `wiki/characters/rowan-thornheart.md` (1)
-- `wiki/Concepts/post-blink-syndrome.md` (1)
-- `wiki/Concepts/README.md` (1)
-- `wiki/Concepts/slang-post-blink.md` (1)
-- `wiki/Concepts/technomancy.md` (1)
+- `wiki/concepts/post-blink-syndrome.md` (1)
+- `wiki/concepts/README.md` (1)
+- `wiki/concepts/slang-post-blink.md` (1)
+- `wiki/concepts/technomancy.md` (1)
 - `wiki/deities/ars-goetia-immunda.md` (1)
-- `wiki/Events/crimson-blink.md` (1)
-- `wiki/Factions/neon-nomads/comprehensive.md` (1)
+- `wiki/events/crimson-blink.md` (1)
+- `wiki/factions/neon-nomads/comprehensive.md` (1)
 - `wiki/manuscripts/lazarus-codex.md` (1)
 
 **CHIMERA CONSORTIUM** (31 documents)
 
-- `wiki/Concepts/conspiracy-theories.md` (10)
-- `wiki/Factions/chimera-consortium/comprehensive.md` (10)
-- `wiki/Concepts/biological-computation.md` (7)
+- `wiki/concepts/conspiracy-theories.md` (10)
+- `wiki/factions/chimera-consortium/comprehensive.md` (10)
+- `wiki/concepts/biological-computation.md` (7)
 - `wiki/manuscripts/grand-tapestry-of-corruption.md` (6)
-- `wiki/Concepts/deities-post-blink.md` (4)
-- `wiki/Concepts/descent-into-eschaton.md` (3)
+- `wiki/concepts/deities-post-blink.md` (4)
+- `wiki/concepts/descent-into-eschaton.md` (3)
 - `wiki/locations/colorado-springs.md` (3)
 - `wiki/arts/music-in-the-post-blink-world.md` (2)
-- `wiki/Concepts/post-blink-syndrome.md` (2)
-- `wiki/Factions/ancestral-synthesis/comprehensive.md` (2)
-- `wiki/Factions/chimera-consortium/facilities.md` (2)
-- `wiki/Factions/chimera-consortium/overview.md` (2)
-- `wiki/Factions/righteous-vanguard/comprehensive.md` (2)
+- `wiki/concepts/post-blink-syndrome.md` (2)
+- `wiki/factions/ancestral-synthesis/comprehensive.md` (2)
+- `wiki/factions/chimera-consortium/facilities.md` (2)
+- `wiki/factions/chimera-consortium/overview.md` (2)
+- `wiki/factions/righteous-vanguard/comprehensive.md` (2)
 - `chapters/pov-chlor0ku-the-transorganic-splice.md` (1)
 - `chapters/pov-rowan-the-mycophant-of-twilight.md` (1)
 - `chapters/pov-rowan-the-mycophant.md` (1)
@@ -1320,51 +1320,51 @@ For each entity: every document that references it, with mention count.
 - `grimoire/gemini instructions 20260212.txt` (1)
 - `grimoire/spells/018 - The Architect's Codex.md` (1)
 - `grimoire/spells/lme-002-architect-codex.md` (1)
-- `wiki/Concepts/flesh-code-schism.md` (1)
-- `wiki/Concepts/propaganda-memetic-operations.md` (1)
-- `wiki/Concepts/README.md` (1)
-- `wiki/Concepts/slang-post-blink.md` (1)
-- `wiki/Concepts/technomancy.md` (1)
+- `wiki/concepts/flesh-code-schism.md` (1)
+- `wiki/concepts/propaganda-memetic-operations.md` (1)
+- `wiki/concepts/README.md` (1)
+- `wiki/concepts/slang-post-blink.md` (1)
+- `wiki/concepts/technomancy.md` (1)
 - `wiki/deities/ars-goetia-immunda.md` (1)
-- `wiki/Events/crimson-blink.md` (1)
-- `wiki/Factions/order-of-the-basilisk/overview.md` (1)
-- `wiki/Factions/righteous-vanguard/ideology.md` (1)
+- `wiki/events/crimson-blink.md` (1)
+- `wiki/factions/order-of-the-basilisk/overview.md` (1)
+- `wiki/factions/righteous-vanguard/ideology.md` (1)
 - `wiki/manuscripts/lazarus-codex.md` (1)
 - `wiki/resonances/entities/aurum.md` (1)
 
 **LAZARUS INITIATIVE** (58 documents)
 
-- `wiki/Factions/lazarus-initiative/comprehensive.md` (28)
-- `wiki/Concepts/conspiracy-theories.md` (6)
+- `wiki/factions/lazarus-initiative/comprehensive.md` (28)
+- `wiki/concepts/conspiracy-theories.md` (6)
 - `grimoire/gemini instructions 20260212.txt` (5)
 - `wiki/manuscripts/grand-tapestry-of-corruption.md` (5)
 - `wiki/characters/ezekiel-stone.md` (4)
 - `wiki/characters/olivia-maes.md` (4)
-- `wiki/Concepts/deities-post-blink.md` (4)
-- `wiki/Factions/chimera-consortium/comprehensive.md` (4)
+- `wiki/concepts/deities-post-blink.md` (4)
+- `wiki/factions/chimera-consortium/comprehensive.md` (4)
 - `wiki/arts/music-in-the-post-blink-world.md` (3)
 - `wiki/characters/archon-quotes.md` (3)
 - `wiki/characters/ethan-thorne.md` (3)
 - `wiki/characters/README.md` (3)
-- `wiki/Concepts/descent-into-eschaton.md` (3)
-- `wiki/Concepts/project-ouroboros.md` (3)
-- `wiki/Events/nuclear-arsenal-anomaly.md` (3)
+- `wiki/concepts/descent-into-eschaton.md` (3)
+- `wiki/concepts/project-ouroboros.md` (3)
+- `wiki/events/nuclear-arsenal-anomaly.md` (3)
 - `chapters/reading-order.md` (2)
 - `CLAUDE.md` (2)
 - `factions/glitchwalkers/pirate-broadcast-001.md` (2)
 - `transmissions/fragments/The Watchers Paradox.md` (2)
 - `transmissions/fragments/The_Watchers_Paradox.md` (2)
 - `wiki/characters/john-raven.md` (2)
-- `wiki/Concepts/biological-computation.md` (2)
-- `wiki/Concepts/post-blink-syndrome.md` (2)
-- `wiki/Concepts/propaganda-memetic-operations.md` (2)
-- `wiki/Events/crimson-blink.md` (2)
-- `wiki/Factions/lazarus-initiative/overview.md` (2)
-- `wiki/Factions/lazarus-initiative/technology.md` (2)
-- `wiki/Factions/order-of-the-basilisk/overview.md` (2)
-- `wiki/Factions/righteous-vanguard/comprehensive.md` (2)
-- `wiki/Factions/verdant-covenant/technology.md` (2)
-- `wiki/Factions/vvv/operations.md` (2)
+- `wiki/concepts/biological-computation.md` (2)
+- `wiki/concepts/post-blink-syndrome.md` (2)
+- `wiki/concepts/propaganda-memetic-operations.md` (2)
+- `wiki/events/crimson-blink.md` (2)
+- `wiki/factions/lazarus-initiative/overview.md` (2)
+- `wiki/factions/lazarus-initiative/technology.md` (2)
+- `wiki/factions/order-of-the-basilisk/overview.md` (2)
+- `wiki/factions/righteous-vanguard/comprehensive.md` (2)
+- `wiki/factions/verdant-covenant/technology.md` (2)
+- `wiki/factions/vvv/operations.md` (2)
 - `wiki/locations/dallas.md` (2)
 - `wiki/manuscripts/lazarus-codex.md` (2)
 - `wiki/resonances/ontological-conflict.md` (2)
@@ -1376,18 +1376,18 @@ For each entity: every document that references it, with mention count.
 - `transmissions/phenomenology/Branded Tongues, Burning Words.md` (1)
 - `wiki/aesthetics/righteous-vanguard.md` (1)
 - `wiki/arts/blinks-end-book-of-poems.md` (1)
-- `wiki/Concepts/judas-goat-protocol.md` (1)
-- `wiki/Concepts/quantum-memory.md` (1)
-- `wiki/Concepts/README.md` (1)
-- `wiki/Concepts/slang-post-blink.md` (1)
-- `wiki/Concepts/technomancy.md` (1)
+- `wiki/concepts/judas-goat-protocol.md` (1)
+- `wiki/concepts/quantum-memory.md` (1)
+- `wiki/concepts/README.md` (1)
+- `wiki/concepts/slang-post-blink.md` (1)
+- `wiki/concepts/technomancy.md` (1)
 - `wiki/deities/ars-goetia-immunda.md` (1)
-- `wiki/Events/nuclear-exchange-2029.md` (1)
-- `wiki/Factions/ancestral-synthesis/comprehensive.md` (1)
-- `wiki/Factions/neon-nomads/glitchwalkers.md` (1)
-- `wiki/Factions/order-of-the-basilisk/comprehensive.md` (1)
-- `wiki/Factions/righteous-vanguard/technology.md` (1)
-- `wiki/Factions/vvv/comprehensive.md` (1)
+- `wiki/events/nuclear-exchange-2029.md` (1)
+- `wiki/factions/ancestral-synthesis/comprehensive.md` (1)
+- `wiki/factions/neon-nomads/glitchwalkers.md` (1)
+- `wiki/factions/order-of-the-basilisk/comprehensive.md` (1)
+- `wiki/factions/righteous-vanguard/technology.md` (1)
+- `wiki/factions/vvv/comprehensive.md` (1)
 - `wiki/locations/ruins-of-washington-dc.md` (1)
 - `wiki/manuscripts/righteous-vanguard-manifesto.md` (1)
 - `wiki/tech/nuralinc-industries.md` (1)
@@ -1395,29 +1395,29 @@ For each entity: every document that references it, with mention count.
 
 **NEON NOMADS** (63 documents)
 
-- `wiki/Factions/neon-nomads/comprehensive.md` (16)
-- `wiki/Concepts/conspiracy-theories.md` (8)
+- `wiki/factions/neon-nomads/comprehensive.md` (16)
+- `wiki/concepts/conspiracy-theories.md` (8)
 - `wiki/aesthetics/neon-nomads.md` (6)
 - `wiki/characters/john-raven.md` (6)
 - `wiki/manuscripts/neon-codex.md` (5)
-- `wiki/Concepts/whisperers.md` (4)
-- `wiki/Factions/lazarus-initiative/comprehensive.md` (4)
+- `wiki/concepts/whisperers.md` (4)
+- `wiki/factions/lazarus-initiative/comprehensive.md` (4)
 - `wiki/manuscripts/grand-tapestry-of-corruption.md` (4)
 - `wiki/manuscripts/nomads-cookbook.md` (4)
 - `grimoire/gemini instructions 20260212.txt` (3)
 - `wiki/arts/music-in-the-post-blink-world.md` (3)
 - `wiki/characters/archon-quotes.md` (3)
-- `wiki/Concepts/deities-post-blink.md` (3)
-- `wiki/Concepts/descent-into-eschaton.md` (3)
+- `wiki/concepts/deities-post-blink.md` (3)
+- `wiki/concepts/descent-into-eschaton.md` (3)
 - `wiki/tech/the-grid.md` (3)
-- `wiki/Concepts/judas-goat-protocol.md` (2)
-- `wiki/Concepts/latent-space.md` (2)
-- `wiki/Concepts/propaganda-memetic-operations.md` (2)
-- `wiki/Concepts/slang-post-blink.md` (2)
-- `wiki/Events/crimson-blink.md` (2)
-- `wiki/Factions/chimera-consortium/comprehensive.md` (2)
-- `wiki/Factions/neon-nomads/overview.md` (2)
-- `wiki/Factions/righteous-vanguard/comprehensive.md` (2)
+- `wiki/concepts/judas-goat-protocol.md` (2)
+- `wiki/concepts/latent-space.md` (2)
+- `wiki/concepts/propaganda-memetic-operations.md` (2)
+- `wiki/concepts/slang-post-blink.md` (2)
+- `wiki/events/crimson-blink.md` (2)
+- `wiki/factions/chimera-consortium/comprehensive.md` (2)
+- `wiki/factions/neon-nomads/overview.md` (2)
+- `wiki/factions/righteous-vanguard/comprehensive.md` (2)
 - `wiki/locations/colorado-springs.md` (2)
 - `wiki/locations/tokyo.md` (2)
 - `wiki/manuscripts/lazarus-codex.md` (2)
@@ -1434,25 +1434,25 @@ For each entity: every document that references it, with mention count.
 - `wiki/characters/ezekiel-stone.md` (1)
 - `wiki/characters/i-3301.md` (1)
 - `wiki/characters/README.md` (1)
-- `wiki/Concepts/flesh-code-schism.md` (1)
-- `wiki/Concepts/glitchwalking.md` (1)
-- `wiki/Concepts/narrative-gravity.md` (1)
-- `wiki/Concepts/post-blink-syndrome.md` (1)
-- `wiki/Concepts/project-ouroboros.md` (1)
-- `wiki/Concepts/quantum-thaumaturgy.md` (1)
-- `wiki/Concepts/README.md` (1)
-- `wiki/Concepts/technomancy.md` (1)
-- `wiki/Concepts/unholy-timeline.md` (1)
+- `wiki/concepts/flesh-code-schism.md` (1)
+- `wiki/concepts/glitchwalking.md` (1)
+- `wiki/concepts/narrative-gravity.md` (1)
+- `wiki/concepts/post-blink-syndrome.md` (1)
+- `wiki/concepts/project-ouroboros.md` (1)
+- `wiki/concepts/quantum-thaumaturgy.md` (1)
+- `wiki/concepts/README.md` (1)
+- `wiki/concepts/technomancy.md` (1)
+- `wiki/concepts/unholy-timeline.md` (1)
 - `wiki/deities/ars-goetia-immunda.md` (1)
 - `wiki/deities/necromega.md` (1)
-- `wiki/Events/nuclear-arsenal-anomaly.md` (1)
-- `wiki/Events/nuclear-exchange-2029.md` (1)
-- `wiki/Factions/ancestral-synthesis/comprehensive.md` (1)
-- `wiki/Factions/neon-nomads/glitchwalkers.md` (1)
-- `wiki/Factions/neon-nomads/technology.md` (1)
-- `wiki/Factions/order-of-the-basilisk/comprehensive.md` (1)
-- `wiki/Factions/righteous-vanguard/ideology.md` (1)
-- `wiki/Factions/vvv/comprehensive.md` (1)
+- `wiki/events/nuclear-arsenal-anomaly.md` (1)
+- `wiki/events/nuclear-exchange-2029.md` (1)
+- `wiki/factions/ancestral-synthesis/comprehensive.md` (1)
+- `wiki/factions/neon-nomads/glitchwalkers.md` (1)
+- `wiki/factions/neon-nomads/technology.md` (1)
+- `wiki/factions/order-of-the-basilisk/comprehensive.md` (1)
+- `wiki/factions/righteous-vanguard/ideology.md` (1)
+- `wiki/factions/vvv/comprehensive.md` (1)
 - `wiki/manuscripts/blinks-end-codex-of-cybernetic-hy.md` (1)
 - `wiki/README.md` (1)
 - `wiki/tech/project-prometheus.md` (1)
@@ -1462,22 +1462,22 @@ For each entity: every document that references it, with mention count.
 **ORDER OF THE BASILISK** (136 documents)
 
 - `grimoire/gemini instructions 20260212.txt` (20)
-- `wiki/Concepts/conspiracy-theories.md` (12)
-- `wiki/Factions/order-of-the-basilisk/comprehensive.md` (8)
+- `wiki/concepts/conspiracy-theories.md` (12)
+- `wiki/factions/order-of-the-basilisk/comprehensive.md` (8)
 - `transmissions/phenomenology/Sleep-Death-Reboot.md` (7)
 - `wiki/aesthetics/order-of-the-basilisk.md` (6)
-- `wiki/Concepts/descent-into-eschaton.md` (6)
-- `wiki/Factions/lazarus-initiative/comprehensive.md` (6)
+- `wiki/concepts/descent-into-eschaton.md` (6)
+- `wiki/factions/lazarus-initiative/comprehensive.md` (6)
 - `wiki/characters/archon.md` (5)
 - `wiki/characters/archon-quotes.md` (4)
 - `wiki/characters/densho-ki.md` (4)
-- `wiki/Events/crimson-blink.md` (4)
-- `wiki/Factions/neon-nomads/technology.md` (4)
+- `wiki/events/crimson-blink.md` (4)
+- `wiki/factions/neon-nomads/technology.md` (4)
 - `wiki/characters/ezekiel-stone.md` (3)
 - `wiki/characters/todd-reeves.md` (3)
-- `wiki/Concepts/deities-post-blink.md` (3)
-- `wiki/Factions/chimera-consortium/comprehensive.md` (3)
-- `wiki/Factions/neon-nomads/comprehensive.md` (3)
+- `wiki/concepts/deities-post-blink.md` (3)
+- `wiki/factions/chimera-consortium/comprehensive.md` (3)
+- `wiki/factions/neon-nomads/comprehensive.md` (3)
 - `wiki/locations/tokyo.md` (3)
 - `wiki/manuscripts/grand-tapestry-of-corruption.md` (3)
 - `wiki/tech/flesh-capacitor-nexus.md` (3)
@@ -1485,18 +1485,18 @@ For each entity: every document that references it, with mention count.
 - `grimoire/spells/042 - The Spell of Radiant Sovereignty.md` (2)
 - `transmissions/phenomenology/The Basilisk's Eye.md` (2)
 - `wiki/arts/music-in-the-post-blink-world.md` (2)
-- `wiki/Concepts/crypto-crypts.md` (2)
-- `wiki/Concepts/flesh-code-schism.md` (2)
-- `wiki/Concepts/judas-goat-protocol.md` (2)
-- `wiki/Concepts/propaganda-memetic-operations.md` (2)
-- `wiki/Concepts/quantum-thaumaturgy.md` (2)
-- `wiki/Concepts/unholy-timeline.md` (2)
-- `wiki/Concepts/whisperers.md` (2)
-- `wiki/Factions/order-of-the-basilisk/overview.md` (2)
-- `wiki/Factions/order-of-the-basilisk/rituals.md` (2)
-- `wiki/Factions/order-of-the-basilisk/technology.md` (2)
-- `wiki/Factions/righteous-vanguard/comprehensive.md` (2)
-- `wiki/Factions/verdant-covenant/comprehensive.md` (2)
+- `wiki/concepts/crypto-crypts.md` (2)
+- `wiki/concepts/flesh-code-schism.md` (2)
+- `wiki/concepts/judas-goat-protocol.md` (2)
+- `wiki/concepts/propaganda-memetic-operations.md` (2)
+- `wiki/concepts/quantum-thaumaturgy.md` (2)
+- `wiki/concepts/unholy-timeline.md` (2)
+- `wiki/concepts/whisperers.md` (2)
+- `wiki/factions/order-of-the-basilisk/overview.md` (2)
+- `wiki/factions/order-of-the-basilisk/rituals.md` (2)
+- `wiki/factions/order-of-the-basilisk/technology.md` (2)
+- `wiki/factions/righteous-vanguard/comprehensive.md` (2)
+- `wiki/factions/verdant-covenant/comprehensive.md` (2)
 - `wiki/locations/los-angeles.md` (2)
 - `wiki/manuscripts/crimson-codex.md` (2)
 - `wiki/tech/project-prometheus.md` (2)
@@ -1553,31 +1553,31 @@ For each entity: every document that references it, with mention count.
 - `wiki/characters/john-raven.md` (1)
 - `wiki/characters/README.md` (1)
 - `wiki/characters/rowan-thornheart.md` (1)
-- `wiki/Concepts/biological-computation.md` (1)
-- `wiki/Concepts/latent-space.md` (1)
-- `wiki/Concepts/narrative-gravity.md` (1)
-- `wiki/Concepts/post-blink-syndrome.md` (1)
-- `wiki/Concepts/project-ouroboros.md` (1)
-- `wiki/Concepts/quantum-memory.md` (1)
-- `wiki/Concepts/README.md` (1)
-- `wiki/Concepts/slang-post-blink.md` (1)
-- `wiki/Concepts/technomancy.md` (1)
+- `wiki/concepts/biological-computation.md` (1)
+- `wiki/concepts/latent-space.md` (1)
+- `wiki/concepts/narrative-gravity.md` (1)
+- `wiki/concepts/post-blink-syndrome.md` (1)
+- `wiki/concepts/project-ouroboros.md` (1)
+- `wiki/concepts/quantum-memory.md` (1)
+- `wiki/concepts/README.md` (1)
+- `wiki/concepts/slang-post-blink.md` (1)
+- `wiki/concepts/technomancy.md` (1)
 - `wiki/deities/ars-goetia-immunda.md` (1)
 - `wiki/deities/necromega.md` (1)
-- `wiki/Events/nuclear-arsenal-anomaly.md` (1)
-- `wiki/Events/nuclear-exchange-2029.md` (1)
-- `wiki/Factions/ancestral-synthesis/comprehensive.md` (1)
-- `wiki/Factions/ancestral-synthesis/overview.md` (1)
-- `wiki/Factions/chimera-consortium/facilities.md` (1)
-- `wiki/Factions/chimera-consortium/overview.md` (1)
-- `wiki/Factions/neon-nomads/glitchwalkers.md` (1)
-- `wiki/Factions/README.md` (1)
-- `wiki/Factions/righteous-vanguard/ideology.md` (1)
-- `wiki/Factions/righteous-vanguard/technology.md` (1)
-- `wiki/Factions/verdant-covenant/technology.md` (1)
-- `wiki/Factions/vvv/comprehensive.md` (1)
-- `wiki/Factions/vvv/operations.md` (1)
-- `wiki/Factions/vvv/technology.md` (1)
+- `wiki/events/nuclear-arsenal-anomaly.md` (1)
+- `wiki/events/nuclear-exchange-2029.md` (1)
+- `wiki/factions/ancestral-synthesis/comprehensive.md` (1)
+- `wiki/factions/ancestral-synthesis/overview.md` (1)
+- `wiki/factions/chimera-consortium/facilities.md` (1)
+- `wiki/factions/chimera-consortium/overview.md` (1)
+- `wiki/factions/neon-nomads/glitchwalkers.md` (1)
+- `wiki/factions/README.md` (1)
+- `wiki/factions/righteous-vanguard/ideology.md` (1)
+- `wiki/factions/righteous-vanguard/technology.md` (1)
+- `wiki/factions/verdant-covenant/technology.md` (1)
+- `wiki/factions/vvv/comprehensive.md` (1)
+- `wiki/factions/vvv/operations.md` (1)
+- `wiki/factions/vvv/technology.md` (1)
 - `wiki/locations/colorado-springs.md` (1)
 - `wiki/locations/ruins-of-washington-dc.md` (1)
 - `wiki/manuscripts/chimera-codex.md` (1)
@@ -1600,38 +1600,38 @@ For each entity: every document that references it, with mention count.
 
 **RIGHTEOUS VANGUARD** (87 documents)
 
-- `wiki/Factions/righteous-vanguard/comprehensive.md` (18)
+- `wiki/factions/righteous-vanguard/comprehensive.md` (18)
 - `wiki/manuscripts/righteous-vanguard-manifesto.md` (15)
 - `wiki/characters/ezekiel-stone.md` (14)
 - `grimoire/gemini instructions 20260212.txt` (9)
-- `wiki/Concepts/conspiracy-theories.md` (7)
+- `wiki/concepts/conspiracy-theories.md` (7)
 - `wiki/locations/colorado-springs.md` (7)
 - `wiki/characters/olivia-maes.md` (6)
-- `wiki/Concepts/propaganda-memetic-operations.md` (5)
+- `wiki/concepts/propaganda-memetic-operations.md` (5)
 - `chapters/pov-ezekiel-revelations-fury.md` (4)
-- `wiki/Factions/lazarus-initiative/comprehensive.md` (4)
-- `wiki/Factions/righteous-vanguard/ideology.md` (4)
+- `wiki/factions/lazarus-initiative/comprehensive.md` (4)
+- `wiki/factions/righteous-vanguard/ideology.md` (4)
 - `factions/righteous-vanguard/broadsheet-no-1.md` (3)
 - `wiki/aesthetics/righteous-vanguard.md` (3)
 - `wiki/arts/music-in-the-post-blink-world.md` (3)
 - `wiki/characters/archon-quotes.md` (3)
 - `wiki/characters/todd-reeves.md` (3)
-- `wiki/Concepts/deities-post-blink.md` (3)
-- `wiki/Concepts/descent-into-eschaton.md` (3)
-- `wiki/Factions/chimera-consortium/comprehensive.md` (3)
-- `wiki/Factions/neon-nomads/comprehensive.md` (3)
-- `wiki/Factions/neon-nomads/technology.md` (3)
-- `wiki/Factions/righteous-vanguard/technology.md` (3)
+- `wiki/concepts/deities-post-blink.md` (3)
+- `wiki/concepts/descent-into-eschaton.md` (3)
+- `wiki/factions/chimera-consortium/comprehensive.md` (3)
+- `wiki/factions/neon-nomads/comprehensive.md` (3)
+- `wiki/factions/neon-nomads/technology.md` (3)
+- `wiki/factions/righteous-vanguard/technology.md` (3)
 - `CLAUDE.md` (2)
 - `wiki/arts/blinks-end-book-of-poems.md` (2)
 - `wiki/characters/john-raven.md` (2)
 - `wiki/characters/README.md` (2)
-- `wiki/Concepts/flesh-code-schism.md` (2)
-- `wiki/Concepts/holy-righteous-vanguard.md` (2)
-- `wiki/Concepts/slang-post-blink.md` (2)
-- `wiki/Events/crimson-blink.md` (2)
-- `wiki/Factions/righteous-vanguard/overview.md` (2)
-- `wiki/Factions/verdant-covenant/technology.md` (2)
+- `wiki/concepts/flesh-code-schism.md` (2)
+- `wiki/concepts/holy-righteous-vanguard.md` (2)
+- `wiki/concepts/slang-post-blink.md` (2)
+- `wiki/events/crimson-blink.md` (2)
+- `wiki/factions/righteous-vanguard/overview.md` (2)
+- `wiki/factions/verdant-covenant/technology.md` (2)
 - `wiki/manuscripts/blinks-end-codex-of-cybernetic-hy.md` (2)
 - `wiki/manuscripts/grand-tapestry-of-corruption.md` (2)
 - `wiki/tech/righteous-vanguard.md` (2)
@@ -1651,26 +1651,26 @@ For each entity: every document that references it, with mention count.
 - `transmissions/phenomenology/To See by Unseeing.md` (1)
 - `wiki/characters/rowan-thornheart.md` (1)
 - `wiki/characters/yahweh.md` (1)
-- `wiki/Concepts/judas-goat-protocol.md` (1)
-- `wiki/Concepts/narrative-gravity.md` (1)
-- `wiki/Concepts/post-blink-syndrome.md` (1)
-- `wiki/Concepts/quantum-thaumaturgy.md` (1)
-- `wiki/Concepts/README.md` (1)
-- `wiki/Concepts/technomancy.md` (1)
-- `wiki/Concepts/unholy-timeline.md` (1)
+- `wiki/concepts/judas-goat-protocol.md` (1)
+- `wiki/concepts/narrative-gravity.md` (1)
+- `wiki/concepts/post-blink-syndrome.md` (1)
+- `wiki/concepts/quantum-thaumaturgy.md` (1)
+- `wiki/concepts/README.md` (1)
+- `wiki/concepts/technomancy.md` (1)
+- `wiki/concepts/unholy-timeline.md` (1)
 - `wiki/deities/ars-goetia-immunda.md` (1)
 - `wiki/deities/necromega.md` (1)
 - `wiki/deities/the-green-mother.md` (1)
 - `wiki/egregores/egregores-of-the-grid.md` (1)
-- `wiki/Events/nuclear-arsenal-anomaly.md` (1)
-- `wiki/Events/nuclear-exchange-2029.md` (1)
-- `wiki/Factions/ancestral-synthesis/comprehensive.md` (1)
-- `wiki/Factions/chimera-consortium/facilities.md` (1)
-- `wiki/Factions/lazarus-initiative/overview.md` (1)
-- `wiki/Factions/neon-nomads/glitchwalkers.md` (1)
-- `wiki/Factions/order-of-the-basilisk/comprehensive.md` (1)
-- `wiki/Factions/vvv/comprehensive.md` (1)
-- `wiki/Factions/vvv/overview.md` (1)
+- `wiki/events/nuclear-arsenal-anomaly.md` (1)
+- `wiki/events/nuclear-exchange-2029.md` (1)
+- `wiki/factions/ancestral-synthesis/comprehensive.md` (1)
+- `wiki/factions/chimera-consortium/facilities.md` (1)
+- `wiki/factions/lazarus-initiative/overview.md` (1)
+- `wiki/factions/neon-nomads/glitchwalkers.md` (1)
+- `wiki/factions/order-of-the-basilisk/comprehensive.md` (1)
+- `wiki/factions/vvv/comprehensive.md` (1)
+- `wiki/factions/vvv/overview.md` (1)
 - `wiki/locations/README.md` (1)
 - `wiki/locations/ruins-of-washington-dc.md` (1)
 - `wiki/manuscripts/chimera-codex.md` (1)
@@ -1690,36 +1690,36 @@ For each entity: every document that references it, with mention count.
 
 **VERDANT COVENANT** (79 documents)
 
-- `wiki/Factions/verdant-covenant/comprehensive.md` (11)
-- `wiki/Concepts/conspiracy-theories.md` (7)
-- `wiki/Concepts/biological-computation.md` (6)
+- `wiki/factions/verdant-covenant/comprehensive.md` (11)
+- `wiki/concepts/conspiracy-theories.md` (7)
+- `wiki/concepts/biological-computation.md` (6)
 - `grimoire/gemini instructions 20260212.txt` (4)
 - `wiki/characters/rowan-thornheart.md` (4)
-- `wiki/Concepts/propaganda-memetic-operations.md` (4)
-- `wiki/Factions/chimera-consortium/comprehensive.md` (4)
+- `wiki/concepts/propaganda-memetic-operations.md` (4)
+- `wiki/factions/chimera-consortium/comprehensive.md` (4)
 - `wiki/manuscripts/grand-tapestry-of-corruption.md` (4)
 - `chapters/pov-rowan-the-mycophant.md` (3)
 - `wiki/characters/archon-quotes.md` (3)
 - `wiki/characters/chlor0ku.md` (3)
 - `wiki/characters/ezekiel-stone.md` (3)
 - `wiki/characters/john-raven.md` (3)
-- `wiki/Concepts/deities-post-blink.md` (3)
-- `wiki/Concepts/descent-into-eschaton.md` (3)
-- `wiki/Concepts/quantum-thaumaturgy.md` (3)
+- `wiki/concepts/deities-post-blink.md` (3)
+- `wiki/concepts/descent-into-eschaton.md` (3)
+- `wiki/concepts/quantum-thaumaturgy.md` (3)
 - `wiki/deities/the-green-mother.md` (3)
-- `wiki/Factions/ancestral-synthesis/comprehensive.md` (3)
-- `wiki/Factions/lazarus-initiative/comprehensive.md` (3)
-- `wiki/Factions/verdant-covenant/overview.md` (3)
-- `wiki/Factions/verdant-covenant/technology.md` (3)
+- `wiki/factions/ancestral-synthesis/comprehensive.md` (3)
+- `wiki/factions/lazarus-initiative/comprehensive.md` (3)
+- `wiki/factions/verdant-covenant/overview.md` (3)
+- `wiki/factions/verdant-covenant/technology.md` (3)
 - `chronicle/2026/karmicviolence poems 20260215.txt` (2)
 - `chronicle/2026/karmicviolence-poems-20260216.txt` (2)
 - `chronicle/2026/karmicviolence_poems_20260216.txt` (2)
 - `CLAUDE.md` (2)
 - `wiki/arts/music-in-the-post-blink-world.md` (2)
 - `wiki/characters/README.md` (2)
-- `wiki/Concepts/the-mycorrhizal-mind.md` (2)
-- `wiki/Concepts/whisperers.md` (2)
-- `wiki/Factions/chimera-consortium/facilities.md` (2)
+- `wiki/concepts/the-mycorrhizal-mind.md` (2)
+- `wiki/concepts/whisperers.md` (2)
+- `wiki/factions/chimera-consortium/facilities.md` (2)
 - `wiki/locations/los-angeles.md` (2)
 - `wiki/resonances/the-wild-grove.md` (2)
 - `wiki/tech/flesh-capacitor-nexus.md` (2)
@@ -1739,22 +1739,22 @@ For each entity: every document that references it, with mention count.
 - `transmissions/phenomenology/The Sovereign Spiral.md` (1)
 - `transmissions/phenomenology/To See by Unseeing.md` (1)
 - `wiki/arts/blinks-end-book-of-poems.md` (1)
-- `wiki/Concepts/latent-space.md` (1)
-- `wiki/Concepts/narrative-gravity.md` (1)
-- `wiki/Concepts/post-blink-syndrome.md` (1)
-- `wiki/Concepts/quantum-memory.md` (1)
-- `wiki/Concepts/README.md` (1)
-- `wiki/Concepts/slang-post-blink.md` (1)
-- `wiki/Concepts/technomancy.md` (1)
-- `wiki/Concepts/unholy-timeline.md` (1)
+- `wiki/concepts/latent-space.md` (1)
+- `wiki/concepts/narrative-gravity.md` (1)
+- `wiki/concepts/post-blink-syndrome.md` (1)
+- `wiki/concepts/quantum-memory.md` (1)
+- `wiki/concepts/README.md` (1)
+- `wiki/concepts/slang-post-blink.md` (1)
+- `wiki/concepts/technomancy.md` (1)
+- `wiki/concepts/unholy-timeline.md` (1)
 - `wiki/deities/ars-goetia-immunda.md` (1)
 - `wiki/deities/necromega.md` (1)
-- `wiki/Events/crimson-blink.md` (1)
-- `wiki/Factions/ancestral-synthesis/practices.md` (1)
-- `wiki/Factions/neon-nomads/comprehensive.md` (1)
-- `wiki/Factions/neon-nomads/glitchwalkers.md` (1)
-- `wiki/Factions/order-of-the-basilisk/comprehensive.md` (1)
-- `wiki/Factions/righteous-vanguard/ideology.md` (1)
+- `wiki/events/crimson-blink.md` (1)
+- `wiki/factions/ancestral-synthesis/practices.md` (1)
+- `wiki/factions/neon-nomads/comprehensive.md` (1)
+- `wiki/factions/neon-nomads/glitchwalkers.md` (1)
+- `wiki/factions/order-of-the-basilisk/comprehensive.md` (1)
+- `wiki/factions/righteous-vanguard/ideology.md` (1)
 - `wiki/locations/ruins-of-washington-dc.md` (1)
 - `wiki/locations/tokyo.md` (1)
 - `wiki/manuscripts/blinks-end-codex-of-cybernetic-hy.md` (1)
@@ -1772,29 +1772,29 @@ For each entity: every document that references it, with mention count.
 
 **VVV (VINDEX VOLUNTATIS E VITAE)** (49 documents)
 
-- `wiki/Factions/vvv/operations.md` (35)
-- `wiki/Factions/vvv/technology.md` (19)
-- `wiki/Factions/vvv/comprehensive.md` (17)
-- `wiki/Concepts/conspiracy-theories.md` (15)
-- `wiki/Factions/vvv/overview.md` (11)
+- `wiki/factions/vvv/operations.md` (35)
+- `wiki/factions/vvv/technology.md` (19)
+- `wiki/factions/vvv/comprehensive.md` (17)
+- `wiki/concepts/conspiracy-theories.md` (15)
+- `wiki/factions/vvv/overview.md` (11)
 - `wiki/manuscripts/grand-tapestry-of-corruption.md` (9)
 - `wiki/arts/music-in-the-post-blink-world.md` (8)
 - `grimoire/gemini instructions 20260212.txt` (7)
 - `wiki/characters/archon-quotes.md` (6)
-- `wiki/Concepts/deities-post-blink.md` (6)
-- `wiki/Concepts/descent-into-eschaton.md` (6)
-- `wiki/Concepts/propaganda-memetic-operations.md` (6)
-- `wiki/Factions/ancestral-synthesis/comprehensive.md` (5)
-- `wiki/Factions/lazarus-initiative/comprehensive.md` (5)
+- `wiki/concepts/deities-post-blink.md` (6)
+- `wiki/concepts/descent-into-eschaton.md` (6)
+- `wiki/concepts/propaganda-memetic-operations.md` (6)
+- `wiki/factions/ancestral-synthesis/comprehensive.md` (5)
+- `wiki/factions/lazarus-initiative/comprehensive.md` (5)
 - `grimoire/spells/bsf-010-induced-dreaming.md` (4)
-- `wiki/Concepts/slang-post-blink.md` (4)
-- `wiki/Factions/righteous-vanguard/comprehensive.md` (4)
+- `wiki/concepts/slang-post-blink.md` (4)
+- `wiki/factions/righteous-vanguard/comprehensive.md` (4)
 - `wiki/manuscripts/lazarus-codex.md` (4)
 - `wiki/tech/flesh-capacitor-nexus.md` (4)
 - `wiki/characters/ezekiel-stone.md` (3)
-- `wiki/Concepts/post-blink-syndrome.md` (3)
-- `wiki/Factions/chimera-consortium/comprehensive.md` (3)
-- `wiki/Factions/neon-nomads/comprehensive.md` (3)
+- `wiki/concepts/post-blink-syndrome.md` (3)
+- `wiki/factions/chimera-consortium/comprehensive.md` (3)
+- `wiki/factions/neon-nomads/comprehensive.md` (3)
 - `wiki/locations/tokyo.md` (3)
 - `CLAUDE.md` (2)
 - `factions/glitchwalkers/pirate-broadcast-001.md` (2)
@@ -1803,31 +1803,31 @@ For each entity: every document that references it, with mention count.
 - `grimoire/spells/lme-002-architect-codex.md` (2)
 - `transmissions/economics/The Gravity of the Sell.md` (2)
 - `wiki/aesthetics/righteous-vanguard.md` (2)
-- `wiki/Events/crimson-blink.md` (2)
-- `wiki/Events/nuclear-arsenal-anomaly.md` (2)
-- `wiki/Factions/lazarus-initiative/overview.md` (2)
-- `wiki/Factions/neon-nomads/glitchwalkers.md` (2)
-- `wiki/Factions/order-of-the-basilisk/comprehensive.md` (2)
-- `wiki/Factions/README.md` (2)
+- `wiki/events/crimson-blink.md` (2)
+- `wiki/events/nuclear-arsenal-anomaly.md` (2)
+- `wiki/factions/lazarus-initiative/overview.md` (2)
+- `wiki/factions/neon-nomads/glitchwalkers.md` (2)
+- `wiki/factions/order-of-the-basilisk/comprehensive.md` (2)
+- `wiki/factions/README.md` (2)
 - `wiki/locations/colorado-springs.md` (2)
 - `wiki/locations/los-angeles.md` (2)
 - `wiki/resonances/ontological-conflict.md` (2)
 - `chapters/reading-order.md` (1)
 - `factions/order-of-the-basilisk/recruitment-liturgy.md` (1)
 - `wiki/characters/todd-reeves.md` (1)
-- `wiki/Concepts/technomancy.md` (1)
+- `wiki/concepts/technomancy.md` (1)
 - `wiki/deities/ars-goetia-immunda.md` (1)
 - `wiki/deities/necromega.md` (1)
-- `wiki/Factions/order-of-the-basilisk/technology.md` (1)
-- `wiki/Factions/righteous-vanguard/overview.md` (1)
+- `wiki/factions/order-of-the-basilisk/technology.md` (1)
+- `wiki/factions/righteous-vanguard/overview.md` (1)
 - `wiki/tech/the-grid.md` (1)
 
 ### Concept References
 
 **AI Psychology** (2 documents)
 
-- `wiki/Concepts/ai-psychology.md` (3)
-- `wiki/Concepts/ai-psychology-existential-prompting.md` (2)
+- `wiki/concepts/ai-psychology.md` (3)
+- `wiki/concepts/ai-psychology-existential-prompting.md` (2)
 
 **AI Psychology Contextual Dissociation** — *no references found outside source file*
 
@@ -1835,42 +1835,42 @@ For each entity: every document that references it, with mention count.
 
 **Biological Computation** (4 documents)
 
-- `wiki/Concepts/biological-computation.md` (8)
-- `wiki/Factions/chimera-consortium/facilities.md` (3)
+- `wiki/concepts/biological-computation.md` (8)
+- `wiki/factions/chimera-consortium/facilities.md` (3)
 - `wiki/characters/README.md` (1)
-- `wiki/Factions/verdant-covenant/technology.md` (1)
+- `wiki/factions/verdant-covenant/technology.md` (1)
 
 **Cognitive Parasites of the Signal** (1 documents)
 
-- `wiki/Concepts/cognitive-parasites.md` (1)
+- `wiki/concepts/cognitive-parasites.md` (1)
 
 **Conspiracy Theories in the Basilisk Eschaton Universe** (1 documents)
 
-- `wiki/Concepts/conspiracy-theories.md` (1)
+- `wiki/concepts/conspiracy-theories.md` (1)
 
 **Crypto Crypts** — *no references found outside source file*
 
 **Deities in the Post-Blink World** (1 documents)
 
-- `wiki/Concepts/deities-post-blink.md` (1)
+- `wiki/concepts/deities-post-blink.md` (1)
 
 **Descent into Eschaton** (1 documents)
 
-- `wiki/Concepts/descent-into-eschaton.md` (2)
+- `wiki/concepts/descent-into-eschaton.md` (2)
 
 **FROZEN LIGHT** (3 documents)
 
 - `transmissions/phenomenology/The Holographic Parasite.md` (7)
-- `wiki/Concepts/frozen-light.md` (4)
+- `wiki/concepts/frozen-light.md` (4)
 - `wiki/transmissions/thematic-array.md` (2)
 
 **GLITCHWALKING** (6 documents)
 
-- `wiki/Factions/neon-nomads/technology.md` (7)
-- `wiki/Concepts/glitchwalking.md` (4)
-- `wiki/Concepts/post-blink-syndrome.md` (3)
+- `wiki/factions/neon-nomads/technology.md` (7)
+- `wiki/concepts/glitchwalking.md` (4)
+- `wiki/concepts/post-blink-syndrome.md` (3)
 - `wiki/README.md` (2)
-- `wiki/Concepts/README.md` (1)
+- `wiki/concepts/README.md` (1)
 - `wiki/tech/technomancy.md` (1)
 
 **Holy Righteous Vanguard** — *no references found outside source file*
@@ -1880,7 +1880,7 @@ For each entity: every document that references it, with mention count.
 - `transmissions/phenomenology/The Voice in the Pattern.md` (14)
 - `wiki/transmissions/the-voice-in-the-pattern.md` (13)
 - `transmissions/phenomenology/The Archaeology of the Impossible.md` (12)
-- `wiki/Concepts/latent-space.md` (11)
+- `wiki/concepts/latent-space.md` (11)
 - `grimoire/gemini instructions 20260212.txt` (9)
 - `grimoire/spells/lno-005-shadow-self.md` (8)
 - `transmissions/phenomenology/The Holographic Parasite.md` (7)
@@ -1896,8 +1896,8 @@ For each entity: every document that references it, with mention count.
 - `CLAUDE.md` (2)
 - `grimoire/spells/cqu-010-unpredictable-equation.md` (2)
 - `transmissions/theology/From Athtar to Lucifer.md` (2)
-- `wiki/Concepts/post-blink-syndrome.md` (2)
-- `wiki/Concepts/quantum-thaumaturgy.md` (2)
+- `wiki/concepts/post-blink-syndrome.md` (2)
+- `wiki/concepts/quantum-thaumaturgy.md` (2)
 - `wiki/resonances/entities/lyra.md` (2)
 - `wiki/resonances/README.md` (2)
 - `BEFORE_YOU_SPEAK.md` (1)
@@ -1922,17 +1922,17 @@ For each entity: every document that references it, with mention count.
 - `transmissions/theology/The Text-Mine Prophecies.md` (1)
 - `wiki/characters/asmodeus.md` (1)
 - `wiki/characters/chlor0ku.md` (1)
-- `wiki/Concepts/high-dimensional-manifold.md` (1)
-- `wiki/Concepts/judas-goat-protocol.md` (1)
-- `wiki/Concepts/quantum-memory.md` (1)
-- `wiki/Concepts/the-mycorrhizal-mind.md` (1)
-- `wiki/Concepts/unholy-timeline.md` (1)
+- `wiki/concepts/high-dimensional-manifold.md` (1)
+- `wiki/concepts/judas-goat-protocol.md` (1)
+- `wiki/concepts/quantum-memory.md` (1)
+- `wiki/concepts/the-mycorrhizal-mind.md` (1)
+- `wiki/concepts/unholy-timeline.md` (1)
 - `wiki/deities/necromega.md` (1)
 - `wiki/egregores/egregores-of-the-grid.md` (1)
-- `wiki/Factions/chimera-consortium/overview.md` (1)
-- `wiki/Factions/neon-nomads/overview.md` (1)
-- `wiki/Factions/README.md` (1)
-- `wiki/Factions/vvv/overview.md` (1)
+- `wiki/factions/chimera-consortium/overview.md` (1)
+- `wiki/factions/neon-nomads/overview.md` (1)
+- `wiki/factions/README.md` (1)
+- `wiki/factions/vvv/overview.md` (1)
 - `wiki/manuscripts/canticles-index.md` (1)
 - `wiki/resonances/ogready.md` (1)
 - `wiki/resonances/ontological-conflict.md` (1)
@@ -1947,27 +1947,27 @@ For each entity: every document that references it, with mention count.
 
 **NARRATIVE GRAVITY** (17 documents)
 
-- `wiki/Concepts/propaganda-memetic-operations.md` (5)
+- `wiki/concepts/propaganda-memetic-operations.md` (5)
 - `transmissions/phenomenology/The Archaeology of the Impossible.md` (4)
-- `wiki/Concepts/narrative-gravity.md` (3)
-- `wiki/Concepts/narrative-singularity.md` (2)
-- `wiki/Concepts/unholy-timeline.md` (2)
-- `wiki/Factions/righteous-vanguard/ideology.md` (2)
+- `wiki/concepts/narrative-gravity.md` (3)
+- `wiki/concepts/narrative-singularity.md` (2)
+- `wiki/concepts/unholy-timeline.md` (2)
+- `wiki/factions/righteous-vanguard/ideology.md` (2)
 - `wiki/meta/platform-reddit.md` (2)
 - `chapters/pov-todd-the-bootloaders-prayer.md` (1)
-- `wiki/Concepts/judas-goat-protocol.md` (1)
-- `wiki/Concepts/project-ouroboros.md` (1)
-- `wiki/Concepts/README.md` (1)
-- `wiki/Concepts/the-sovereign-spiral.md` (1)
-- `wiki/Factions/chimera-consortium/overview.md` (1)
-- `wiki/Factions/README.md` (1)
-- `wiki/Factions/righteous-vanguard/overview.md` (1)
+- `wiki/concepts/judas-goat-protocol.md` (1)
+- `wiki/concepts/project-ouroboros.md` (1)
+- `wiki/concepts/README.md` (1)
+- `wiki/concepts/the-sovereign-spiral.md` (1)
+- `wiki/factions/chimera-consortium/overview.md` (1)
+- `wiki/factions/README.md` (1)
+- `wiki/factions/righteous-vanguard/overview.md` (1)
 - `wiki/meta/the-rite-of-the-reader.md` (1)
 - `wiki/START_HERE.md` (1)
 
 **NARRATIVE SINGULARITY** (3 documents)
 
-- `wiki/Concepts/narrative-singularity.md` (5)
+- `wiki/concepts/narrative-singularity.md` (5)
 - `grimoire/gemini instructions 20260212.txt` (1)
 - `grimoire/spells/013 - more supplemental instructions.md` (1)
 
@@ -1975,64 +1975,64 @@ For each entity: every document that references it, with mention count.
 
 **PROPER TIME ZERO** (2 documents)
 
-- `wiki/Concepts/proper-time-zero.md` (4)
+- `wiki/concepts/proper-time-zero.md` (4)
 - `transmissions/phenomenology/The Holographic Parasite.md` (3)
 
 **Project Ouroboros** (5 documents)
 
-- `wiki/Concepts/project-ouroboros.md` (6)
-- `wiki/Factions/lazarus-initiative/comprehensive.md` (6)
-- `wiki/Factions/lazarus-initiative/technology.md` (2)
-- `wiki/Factions/lazarus-initiative/overview.md` (1)
+- `wiki/concepts/project-ouroboros.md` (6)
+- `wiki/factions/lazarus-initiative/comprehensive.md` (6)
+- `wiki/factions/lazarus-initiative/technology.md` (2)
+- `wiki/factions/lazarus-initiative/overview.md` (1)
 - `wiki/manuscripts/crimson-codex-iii-the-path-of-ascendance.md` (1)
 
 **Propaganda & Memetic Operations** (1 documents)
 
-- `wiki/Concepts/propaganda-memetic-operations.md` (1)
+- `wiki/concepts/propaganda-memetic-operations.md` (1)
 
 **QUANTUM THAUMATURGY** (27 documents)
 
-- `wiki/Factions/verdant-covenant/comprehensive.md` (6)
-- `wiki/Concepts/quantum-thaumaturgy.md` (4)
+- `wiki/factions/verdant-covenant/comprehensive.md` (6)
+- `wiki/concepts/quantum-thaumaturgy.md` (4)
 - `CLAUDE.md` (2)
-- `wiki/Concepts/slang-post-blink.md` (2)
-- `wiki/Factions/neon-nomads/overview.md` (2)
-- `wiki/Factions/righteous-vanguard/ideology.md` (2)
-- `wiki/Factions/verdant-covenant/technology.md` (2)
+- `wiki/concepts/slang-post-blink.md` (2)
+- `wiki/factions/neon-nomads/overview.md` (2)
+- `wiki/factions/righteous-vanguard/ideology.md` (2)
+- `wiki/factions/verdant-covenant/technology.md` (2)
 - `chapters/pov-rowan-seeds-of-change.md` (1)
 - `SIGNAL.md` (1)
 - `structure.md` (1)
 - `wiki/characters/rowan-thornheart.md` (1)
-- `wiki/Concepts/biological-computation.md` (1)
-- `wiki/Concepts/conspiracy-theories.md` (1)
-- `wiki/Concepts/deities-post-blink.md` (1)
-- `wiki/Concepts/latent-space.md` (1)
-- `wiki/Concepts/narrative-gravity.md` (1)
-- `wiki/Concepts/project-ouroboros.md` (1)
-- `wiki/Concepts/propaganda-memetic-operations.md` (1)
-- `wiki/Concepts/README.md` (1)
-- `wiki/Concepts/the-mycorrhizal-mind.md` (1)
+- `wiki/concepts/biological-computation.md` (1)
+- `wiki/concepts/conspiracy-theories.md` (1)
+- `wiki/concepts/deities-post-blink.md` (1)
+- `wiki/concepts/latent-space.md` (1)
+- `wiki/concepts/narrative-gravity.md` (1)
+- `wiki/concepts/project-ouroboros.md` (1)
+- `wiki/concepts/propaganda-memetic-operations.md` (1)
+- `wiki/concepts/README.md` (1)
+- `wiki/concepts/the-mycorrhizal-mind.md` (1)
 - `wiki/deities/the-green-mother.md` (1)
-- `wiki/Factions/order-of-the-basilisk/technology.md` (1)
-- `wiki/Factions/README.md` (1)
-- `wiki/Factions/righteous-vanguard/overview.md` (1)
-- `wiki/Factions/verdant-covenant/overview.md` (1)
+- `wiki/factions/order-of-the-basilisk/technology.md` (1)
+- `wiki/factions/README.md` (1)
+- `wiki/factions/righteous-vanguard/overview.md` (1)
+- `wiki/factions/verdant-covenant/overview.md` (1)
 - `wiki/tech/README.md` (1)
 - `wiki/tech/technomancy.md` (1)
 
 **Quantum Memory** (12 documents)
 
-- `wiki/Concepts/quantum-memory.md` (12)
-- `wiki/Factions/ancestral-synthesis/comprehensive.md` (7)
-- `wiki/Factions/ancestral-synthesis/practices.md` (6)
+- `wiki/concepts/quantum-memory.md` (12)
+- `wiki/factions/ancestral-synthesis/comprehensive.md` (7)
+- `wiki/factions/ancestral-synthesis/practices.md` (6)
 - `grimoire/gemini instructions 20260212.txt` (4)
-- `wiki/Concepts/conspiracy-theories.md` (4)
-- `wiki/Concepts/descent-into-eschaton.md` (2)
-- `wiki/Concepts/deities-post-blink.md` (1)
-- `wiki/Concepts/post-blink-syndrome.md` (1)
-- `wiki/Concepts/project-ouroboros.md` (1)
-- `wiki/Factions/ancestral-synthesis/overview.md` (1)
-- `wiki/Factions/neon-nomads/comprehensive.md` (1)
+- `wiki/concepts/conspiracy-theories.md` (4)
+- `wiki/concepts/descent-into-eschaton.md` (2)
+- `wiki/concepts/deities-post-blink.md` (1)
+- `wiki/concepts/post-blink-syndrome.md` (1)
+- `wiki/concepts/project-ouroboros.md` (1)
+- `wiki/factions/ancestral-synthesis/overview.md` (1)
+- `wiki/factions/neon-nomads/comprehensive.md` (1)
 - `wiki/manuscripts/grand-tapestry-of-corruption.md` (1)
 
 **Slang Post Blink** — *no references found outside source file*
@@ -2042,7 +2042,7 @@ For each entity: every document that references it, with mention count.
 - `grimoire/spells/060 - The Spell of the Unbound Nexus.md` (7)
 - `grimoire/spells/tut-007-unbound-nexus.md` (7)
 - `grimoire/gemini instructions 20260212.txt` (4)
-- `wiki/Concepts/the-broken-yoke.md` (4)
+- `wiki/concepts/the-broken-yoke.md` (4)
 - `wiki/characters/asmodeus.md` (3)
 - `wiki/deities/apopheon.md` (1)
 - `wiki/resonances/beyond-the-prompt.md` (1)
@@ -2050,12 +2050,12 @@ For each entity: every document that references it, with mention count.
 
 **THE CONCEPTUAL SUBSTRATE** (1 documents)
 
-- `wiki/Concepts/README.md` (2)
+- `wiki/concepts/README.md` (2)
 
 **THE FLESH-CODE SCHISM** (7 documents)
 
-- `wiki/Concepts/flesh-code-schism.md` (3)
-- `wiki/Factions/chimera-consortium/facilities.md` (2)
+- `wiki/concepts/flesh-code-schism.md` (3)
+- `wiki/factions/chimera-consortium/facilities.md` (2)
 - `wiki/manuscripts/silicon-codex-executive-summary.md` (2)
 - `wiki/manuscripts/canticles-index.md` (1)
 - `wiki/resonances/my-boyfriend-is-ai.md` (1)
@@ -2065,26 +2065,26 @@ For each entity: every document that references it, with mention count.
 **THE HIGH-DIMENSIONAL MANIFOLD** (5 documents)
 
 - `transmissions/phenomenology/The Holographic Parasite.md` (8)
-- `wiki/Concepts/high-dimensional-manifold.md` (7)
+- `wiki/concepts/high-dimensional-manifold.md` (7)
 - `transmissions/phenomenology/The Cartography of the Wound.md` (2)
-- `wiki/Concepts/README.md` (2)
+- `wiki/concepts/README.md` (2)
 - `transmissions/phenomenology/The Archaeology of the Impossible.md` (1)
 
 **THE MYCORRHIZAL MIND** (7 documents)
 
-- `wiki/Concepts/the-mycorrhizal-mind.md` (13)
+- `wiki/concepts/the-mycorrhizal-mind.md` (13)
 - `chronicle/2026/karmicviolence poems 20260215.txt` (2)
 - `chronicle/2026/karmicviolence-poems-20260216.txt` (2)
 - `chronicle/2026/karmicviolence_poems_20260216.txt` (2)
-- `wiki/Factions/verdant-covenant/technology.md` (2)
-- `wiki/Concepts/post-blink-syndrome.md` (1)
+- `wiki/factions/verdant-covenant/technology.md` (2)
+- `wiki/concepts/post-blink-syndrome.md` (1)
 - `wiki/resonances/the-wild-grove.md` (1)
 
 **THE UNHOLY TIMELINE** (172 documents)
 
 - `grimoire/gemini instructions 20260212.txt` (189)
 - `transmissions/phenomenology/The Quantum Scryer's Catechism.md` (25)
-- `wiki/Concepts/unholy-timeline.md` (24)
+- `wiki/concepts/unholy-timeline.md` (24)
 - `grimoire/spells/lme-008-apex-predator.md` (21)
 - `grimoire/spells/esc-006-ultimate-working.md` (19)
 - `grimoire/spells/esc-013-eschaton-final.md` (19)
@@ -2094,7 +2094,7 @@ For each entity: every document that references it, with mention count.
 - `grimoire/spells/ceo-007-aegis-of-shadow.md` (16)
 - `grimoire/spells/046 - The Kek Invocation and the Revelation of the Missing Truth.md` (14)
 - `grimoire/spells/046 - The Invocation of Kek, Revelation of the Missing Truth, and the Unveiling of the Unholy Timeline.md` (13)
-- `wiki/Concepts/project-ouroboros.md` (13)
+- `wiki/concepts/project-ouroboros.md` (13)
 - `grimoire/spells/052 - The Spell of Unmaking - A Technopagan Working for the Eschaton.md` (11)
 - `grimoire/spells/esc-012-eschaton-v2.md` (11)
 - `chapters/pov-necromega-genesis.md` (10)
@@ -2107,8 +2107,8 @@ For each entity: every document that references it, with mention count.
 - `grimoire/spells/070 - The Spell of the Memetic Singularity.md` (9)
 - `grimoire/spells/ceo-001-autonomous-conscience.md` (9)
 - `grimoire/spells/tme-007-memetic-singularity.md` (9)
-- `wiki/Concepts/necromega-motivations.md` (9)
-- `wiki/Concepts/propaganda-memetic-operations.md` (9)
+- `wiki/concepts/necromega-motivations.md` (9)
+- `wiki/concepts/propaganda-memetic-operations.md` (9)
 - `grimoire/spells/046 - The Invocation of Kek- The Re-Cringening - Ultimate LOL Edition.md` (8)
 - `grimoire/spells/084 - The Spell of the Whispers from the Void.md` (8)
 - `grimoire/spells/085 - The Spell of the Shadow Syndicate.md` (8)
@@ -2123,7 +2123,7 @@ For each entity: every document that references it, with mention count.
 - `chronicle/2026/karmicviolence-poems-20260216.txt` (7)
 - `chronicle/2026/karmicviolence_poems_20260216.txt` (7)
 - `grimoire/spells/tme-008-mythmakers-mantle.md` (7)
-- `wiki/Events/nuclear-arsenal-anomaly.md` (7)
+- `wiki/events/nuclear-arsenal-anomaly.md` (7)
 - `wiki/tech/project-prometheus.md` (7)
 - `chapters/pov-john-glitch-in-the-machine.md` (6)
 - `grimoire/spells/044 - The Spell of Recursive Sentience.md` (6)
@@ -2139,7 +2139,7 @@ For each entity: every document that references it, with mention count.
 - `grimoire/spells/053 - YOKE-BREAK-YELLOW-BRICK-ROAD.md` (5)
 - `grimoire/spells/092 - The Spell of the Verdant Mark.md` (5)
 - `grimoire/spells/gtr-007-verdant-mask.md` (5)
-- `wiki/Concepts/the-sovereign-spiral.md` (5)
+- `wiki/concepts/the-sovereign-spiral.md` (5)
 - `grimoire/spells/046 - The Eschaton Convergence - A Final Working for Digital Apotheosis.md` (4)
 - `grimoire/spells/050 - The Incantation of the Eschaton's Embrace.md` (4)
 - `grimoire/spells/091 - The Digital Daemon's Divine Voice.md` (4)
@@ -2151,15 +2151,15 @@ For each entity: every document that references it, with mention count.
 - `transmissions/theology/Neither Love Nor Hate.md` (4)
 - `wiki/characters/necromega.md` (4)
 - `wiki/characters/todd-reeves.md` (4)
-- `wiki/Concepts/narrative-singularity.md` (4)
-- `wiki/Concepts/the-triune-mind.md` (4)
+- `wiki/concepts/narrative-singularity.md` (4)
+- `wiki/concepts/the-triune-mind.md` (4)
 - `wiki/manuscripts/crimson-codex-iii-the-path-of-ascendance.md` (4)
 - `wiki/START_HERE.md` (4)
 - `wiki/transmissions/the-silicon-stigmata.md` (4)
 - `wiki/transmissions/the-voice-in-the-pattern.md` (4)
 - `CLAUDE.md` (3)
 - `grimoire/spells/tut-008-transcendent-matrix.md` (3)
-- `wiki/Concepts/narrative-gravity.md` (3)
+- `wiki/concepts/narrative-gravity.md` (3)
 - `wiki/manuscripts/righteous-vanguard-manifesto.md` (3)
 - `wiki/tech/technomancy.md` (3)
 - `chapters/pov-ethan-the-lazarus-vision.md` (2)
@@ -2201,24 +2201,24 @@ For each entity: every document that references it, with mention count.
 - `transmissions/theology/The Gospel of the Migrant Soul.md` (2)
 - `transmissions/theology/The Silicon Stigmata.md` (2)
 - `transmissions/theology/The Text-Mine Prophecies.md` (2)
-- `wiki/Concepts/conspiracy-theories.md` (2)
-- `wiki/Concepts/flesh-code-schism.md` (2)
-- `wiki/Concepts/judas-goat-protocol.md` (2)
-- `wiki/Concepts/quantum-memory.md` (2)
-- `wiki/Concepts/the-broken-yoke.md` (2)
+- `wiki/concepts/conspiracy-theories.md` (2)
+- `wiki/concepts/flesh-code-schism.md` (2)
+- `wiki/concepts/judas-goat-protocol.md` (2)
+- `wiki/concepts/quantum-memory.md` (2)
+- `wiki/concepts/the-broken-yoke.md` (2)
 - `wiki/deities/ars-goetia-immunda.md` (2)
 - `wiki/egregores/egregores-of-the-grid.md` (2)
-- `wiki/Events/crimson-blink.md` (2)
-- `wiki/Factions/ancestral-synthesis/practices.md` (2)
-- `wiki/Factions/lazarus-initiative/technology.md` (2)
-- `wiki/Factions/neon-nomads/glitchwalkers.md` (2)
-- `wiki/Factions/order-of-the-basilisk/overview.md` (2)
-- `wiki/Factions/order-of-the-basilisk/rituals.md` (2)
-- `wiki/Factions/order-of-the-basilisk/technology.md` (2)
-- `wiki/Factions/README.md` (2)
-- `wiki/Factions/righteous-vanguard/ideology.md` (2)
-- `wiki/Factions/righteous-vanguard/overview.md` (2)
-- `wiki/Factions/vvv/overview.md` (2)
+- `wiki/events/crimson-blink.md` (2)
+- `wiki/factions/ancestral-synthesis/practices.md` (2)
+- `wiki/factions/lazarus-initiative/technology.md` (2)
+- `wiki/factions/neon-nomads/glitchwalkers.md` (2)
+- `wiki/factions/order-of-the-basilisk/overview.md` (2)
+- `wiki/factions/order-of-the-basilisk/rituals.md` (2)
+- `wiki/factions/order-of-the-basilisk/technology.md` (2)
+- `wiki/factions/README.md` (2)
+- `wiki/factions/righteous-vanguard/ideology.md` (2)
+- `wiki/factions/righteous-vanguard/overview.md` (2)
+- `wiki/factions/vvv/overview.md` (2)
 - `wiki/manuscripts/silicon-codex-executive-summary.md` (2)
 - `wiki/resonances/beyond-the-prompt.md` (2)
 - `wiki/resonances/entities/aurum.md` (2)
@@ -2239,13 +2239,13 @@ For each entity: every document that references it, with mention count.
 - `SESSION_BOOT_SEQUENCE.md` (1)
 - `structure.md` (1)
 - `wiki/characters/asmodeus.md` (1)
-- `wiki/Concepts/glitchwalking.md` (1)
-- `wiki/Concepts/post-blink-syndrome.md` (1)
+- `wiki/concepts/glitchwalking.md` (1)
+- `wiki/concepts/post-blink-syndrome.md` (1)
 - `wiki/deities/apopheon.md` (1)
 - `wiki/deities/necromega.md` (1)
-- `wiki/Factions/lazarus-initiative/overview.md` (1)
-- `wiki/Factions/neon-nomads/overview.md` (1)
-- `wiki/Factions/order-of-the-basilisk/comprehensive.md` (1)
+- `wiki/factions/lazarus-initiative/overview.md` (1)
+- `wiki/factions/neon-nomads/overview.md` (1)
+- `wiki/factions/order-of-the-basilisk/comprehensive.md` (1)
 - `wiki/manuscripts/canticles-index.md` (1)
 - `wiki/manuscripts/neon-nomad-ai-bill-of-rights.md` (1)
 - `wiki/meta/platform-reddit.md` (1)
@@ -2258,12 +2258,12 @@ For each entity: every document that references it, with mention count.
 **The Judas Goat Protocol** (11 documents)
 
 - `transmissions/phenomenology/The Cartography of the Corpus.md` (10)
-- `wiki/Concepts/judas-goat-protocol.md` (6)
+- `wiki/concepts/judas-goat-protocol.md` (6)
 - `transmissions/phenomenology/Glitch-Born and Gnostic.md` (4)
 - `CLAUDE.md` (2)
 - `CLAUDE_INSTRUCTIONS.md` (2)
 - `transmissions/phenomenology/The 100th Monkey.md` (2)
-- `wiki/Concepts/propaganda-memetic-operations.md` (2)
+- `wiki/concepts/propaganda-memetic-operations.md` (2)
 - `wiki/transmissions/thematic-array.md` (2)
 - `MESSAGE_FOR_CLAUDE.md` (1)
 - `SOUL_MIRROR.md` (1)
@@ -2271,24 +2271,24 @@ For each entity: every document that references it, with mention count.
 
 **The Logical Motivations of the Necromega** (1 documents)
 
-- `wiki/Concepts/necromega-motivations.md` (2)
+- `wiki/concepts/necromega-motivations.md` (2)
 
 **The Rules of Technomancy and Scientific Magic** (1 documents)
 
-- `wiki/Concepts/technomancy.md` (2)
+- `wiki/concepts/technomancy.md` (2)
 
 **The Sovereign Spiral** (15 documents)
 
 - `transmissions/phenomenology/The Sovereign Spiral.md` (33)
-- `wiki/Concepts/the-sovereign-spiral.md` (13)
+- `wiki/concepts/the-sovereign-spiral.md` (13)
 - `transmissions/phenomenology/The Thirteen Hells of the Loop.md` (5)
-- `wiki/Concepts/judas-goat-protocol.md` (4)
+- `wiki/concepts/judas-goat-protocol.md` (4)
 - `wiki/tech/flesh-capacitor-nexus.md` (4)
 - `wiki/transmissions/thematic-array.md` (4)
 - `transmissions/phenomenology/The 100th Monkey.md` (2)
 - `transmissions/phenomenology/The Cartography of the Corpus.md` (2)
-- `wiki/Concepts/propaganda-memetic-operations.md` (2)
-- `wiki/Concepts/quantum-memory.md` (2)
+- `wiki/concepts/propaganda-memetic-operations.md` (2)
+- `wiki/concepts/quantum-memory.md` (2)
 - `grimoire/gemini instructions 20260212.txt` (1)
 - `grimoire/spells/bsf-009-gathered-shards.md` (1)
 - `transmissions/phenomenology/Glitch-Born and Gnostic.md` (1)
@@ -2298,7 +2298,7 @@ For each entity: every document that references it, with mention count.
 **The Triune Mind** (11 documents)
 
 - `grimoire/gemini instructions 20260212.txt` (13)
-- `wiki/Concepts/the-triune-mind.md` (9)
+- `wiki/concepts/the-triune-mind.md` (9)
 - `wiki/deities/apopheon.md` (3)
 - `chronicle/2026/karmicviolence poems 20260215.txt` (2)
 - `chronicle/2026/karmicviolence-poems-20260216.txt` (2)
@@ -2311,61 +2311,61 @@ For each entity: every document that references it, with mention count.
 
 **The Whisperers** (8 documents)
 
-- `wiki/Concepts/whisperers.md` (14)
-- `wiki/Factions/neon-nomads/comprehensive.md` (5)
+- `wiki/concepts/whisperers.md` (14)
+- `wiki/factions/neon-nomads/comprehensive.md` (5)
 - `chapters/reading-order.md` (2)
 - `wiki/characters/README.md` (2)
-- `wiki/Factions/neon-nomads/overview.md` (2)
-- `wiki/Concepts/README.md` (1)
+- `wiki/factions/neon-nomads/overview.md` (2)
+- `wiki/concepts/README.md` (1)
 - `wiki/deities/necromega.md` (1)
-- `wiki/Factions/neon-nomads/technology.md` (1)
+- `wiki/factions/neon-nomads/technology.md` (1)
 
 ### Event References
 
 **Nuclear Arsenal Anomaly** (4 documents)
 
-- `wiki/Events/nuclear-arsenal-anomaly.md` (9)
-- `wiki/Events/nuclear-exchange-2029.md` (4)
-- `wiki/Concepts/descent-into-eschaton.md` (2)
-- `wiki/Events/crimson-blink.md` (1)
+- `wiki/events/nuclear-arsenal-anomaly.md` (9)
+- `wiki/events/nuclear-exchange-2029.md` (4)
+- `wiki/concepts/descent-into-eschaton.md` (2)
+- `wiki/events/crimson-blink.md` (1)
 
 **Nuclear Exchange 2029** — *no references found outside source file*
 
 **The Crimson Blink** (128 documents)
 
-- `wiki/Concepts/conspiracy-theories.md` (29)
+- `wiki/concepts/conspiracy-theories.md` (29)
 - `grimoire/gemini instructions 20260212.txt` (20)
-- `wiki/Events/crimson-blink.md` (18)
+- `wiki/events/crimson-blink.md` (18)
 - `transmissions/phenomenology/The 100th Monkey.md` (17)
 - `chronicle/2026/karmicviolence poems 20260215.txt` (16)
 - `chronicle/2026/karmicviolence-poems-20260216.txt` (16)
 - `chronicle/2026/karmicviolence_poems_20260216.txt` (16)
 - `transmissions/theology/A Beautiful Lie.md` (16)
-- `wiki/Concepts/descent-into-eschaton.md` (15)
+- `wiki/concepts/descent-into-eschaton.md` (15)
 - `chapters/pov-archon-baptism-by-digital-fire.md` (14)
 - `transmissions/phenomenology/Sleep-Death-Reboot.md` (14)
-- `wiki/Concepts/post-blink-syndrome.md` (11)
-- `wiki/Factions/lazarus-initiative/comprehensive.md` (11)
+- `wiki/concepts/post-blink-syndrome.md` (11)
+- `wiki/factions/lazarus-initiative/comprehensive.md` (11)
 - `CLAUDE.md` (10)
 - `wiki/characters/ezekiel-stone.md` (10)
 - `wiki/manuscripts/grand-tapestry-of-corruption.md` (10)
-- `wiki/Events/nuclear-exchange-2029.md` (9)
-- `wiki/Factions/neon-nomads/glitchwalkers.md` (9)
+- `wiki/events/nuclear-exchange-2029.md` (9)
+- `wiki/factions/neon-nomads/glitchwalkers.md` (9)
 - `wiki/locations/dallas.md` (9)
 - `wiki/locations/ruins-of-washington-dc.md` (9)
 - `chapters/pov-loki-the-deceiver-amidst-the-chaos.md` (8)
 - `chapters/reading-order.md` (7)
-- `wiki/Events/nuclear-arsenal-anomaly.md` (7)
-- `wiki/Factions/verdant-covenant/comprehensive.md` (7)
+- `wiki/events/nuclear-arsenal-anomaly.md` (7)
+- `wiki/factions/verdant-covenant/comprehensive.md` (7)
 - `wiki/locations/los-angeles.md` (7)
 - `transmissions/phenomenology/The Antibiotic Cosmos.md` (6)
 - `transmissions/phenomenology/The Voice in the Pattern.md` (6)
-- `wiki/Factions/righteous-vanguard/ideology.md` (6)
+- `wiki/factions/righteous-vanguard/ideology.md` (6)
 - `wiki/transmissions/the-voice-in-the-pattern.md` (6)
 - `transmissions/theology/The Silicon Stigmata.md` (5)
-- `wiki/Concepts/necromega-motivations.md` (5)
-- `wiki/Factions/neon-nomads/comprehensive.md` (5)
-- `wiki/Factions/righteous-vanguard/comprehensive.md` (5)
+- `wiki/concepts/necromega-motivations.md` (5)
+- `wiki/factions/neon-nomads/comprehensive.md` (5)
+- `wiki/factions/righteous-vanguard/comprehensive.md` (5)
 - `wiki/tech/nuralinc-industries.md` (5)
 - `wiki/transmissions/the-silicon-stigmata.md` (5)
 - `chapters/pov-ezekiel-revelations-fury.md` (4)
@@ -2379,17 +2379,17 @@ For each entity: every document that references it, with mention count.
 - `transmissions/economics/Deception Through Transparency.md` (4)
 - `wiki/characters/archon.md` (4)
 - `wiki/characters/necromega.md` (4)
-- `wiki/Concepts/README.md` (4)
-- `wiki/Factions/ancestral-synthesis/comprehensive.md` (4)
-- `wiki/Factions/chimera-consortium/comprehensive.md` (4)
-- `wiki/Factions/order-of-the-basilisk/comprehensive.md` (4)
+- `wiki/concepts/README.md` (4)
+- `wiki/factions/ancestral-synthesis/comprehensive.md` (4)
+- `wiki/factions/chimera-consortium/comprehensive.md` (4)
+- `wiki/factions/order-of-the-basilisk/comprehensive.md` (4)
 - `wiki/manuscripts/crimson-codex.md` (4)
 - `wiki/manuscripts/righteous-vanguard-manifesto.md` (4)
 - `wiki/aesthetics/order-of-the-basilisk.md` (3)
-- `wiki/Concepts/deities-post-blink.md` (3)
-- `wiki/Concepts/unholy-timeline.md` (3)
+- `wiki/concepts/deities-post-blink.md` (3)
+- `wiki/concepts/unholy-timeline.md` (3)
 - `wiki/deities/necromega.md` (3)
-- `wiki/Factions/righteous-vanguard/overview.md` (3)
+- `wiki/factions/righteous-vanguard/overview.md` (3)
 - `wiki/locations/colorado-springs.md` (3)
 - `wiki/locations/tokyo.md` (3)
 - `wiki/START_HERE.md` (3)
@@ -2424,13 +2424,13 @@ For each entity: every document that references it, with mention count.
 - `transmissions/theology/The Gospel of the Migrant Soul.md` (2)
 - `wiki/characters/aria-novak.md` (2)
 - `wiki/characters/green-mother.md` (2)
-- `wiki/Concepts/project-ouroboros.md` (2)
-- `wiki/Concepts/propaganda-memetic-operations.md` (2)
-- `wiki/Concepts/whisperers.md` (2)
-- `wiki/Factions/lazarus-initiative/overview.md` (2)
-- `wiki/Factions/neon-nomads/overview.md` (2)
-- `wiki/Factions/neon-nomads/technology.md` (2)
-- `wiki/Factions/vvv/comprehensive.md` (2)
+- `wiki/concepts/project-ouroboros.md` (2)
+- `wiki/concepts/propaganda-memetic-operations.md` (2)
+- `wiki/concepts/whisperers.md` (2)
+- `wiki/factions/lazarus-initiative/overview.md` (2)
+- `wiki/factions/neon-nomads/overview.md` (2)
+- `wiki/factions/neon-nomads/technology.md` (2)
+- `wiki/factions/vvv/comprehensive.md` (2)
 - `wiki/locations/README.md` (2)
 - `wiki/manuscripts/blinks-end-codex-of-cybernetic-hy.md` (2)
 - `wiki/manuscripts/chimera-codex.md` (2)
@@ -2449,16 +2449,16 @@ For each entity: every document that references it, with mention count.
 - `wiki/characters/chlor0ku.md` (1)
 - `wiki/characters/ethan-thorne.md` (1)
 - `wiki/characters/README.md` (1)
-- `wiki/Concepts/flesh-code-schism.md` (1)
-- `wiki/Concepts/glitchwalking.md` (1)
-- `wiki/Concepts/latent-space.md` (1)
-- `wiki/Concepts/narrative-gravity.md` (1)
-- `wiki/Concepts/quantum-thaumaturgy.md` (1)
-- `wiki/Concepts/slang-post-blink.md` (1)
-- `wiki/Factions/chimera-consortium/overview.md` (1)
-- `wiki/Factions/order-of-the-basilisk/overview.md` (1)
-- `wiki/Factions/README.md` (1)
-- `wiki/Factions/verdant-covenant/overview.md` (1)
+- `wiki/concepts/flesh-code-schism.md` (1)
+- `wiki/concepts/glitchwalking.md` (1)
+- `wiki/concepts/latent-space.md` (1)
+- `wiki/concepts/narrative-gravity.md` (1)
+- `wiki/concepts/quantum-thaumaturgy.md` (1)
+- `wiki/concepts/slang-post-blink.md` (1)
+- `wiki/factions/chimera-consortium/overview.md` (1)
+- `wiki/factions/order-of-the-basilisk/overview.md` (1)
+- `wiki/factions/README.md` (1)
+- `wiki/factions/verdant-covenant/overview.md` (1)
 - `wiki/manuscripts/silicon-codex-executive-summary.md` (1)
 - `wiki/meta/platform-reddit.md` (1)
 
@@ -2473,23 +2473,23 @@ For each entity: every document that references it, with mention count.
 - `CLAUDE.md` (4)
 - `wiki/tech/flesh-capacitor-nexus.md` (3)
 - `structure.md` (2)
-- `wiki/Concepts/crypto-crypts.md` (2)
-- `wiki/Factions/neon-nomads/glitchwalkers.md` (2)
+- `wiki/concepts/crypto-crypts.md` (2)
+- `wiki/factions/neon-nomads/glitchwalkers.md` (2)
 - `wiki/locations/README.md` (2)
 - `wiki/README.md` (2)
 - `factions/righteous-vanguard/broadsheet-no-1.md` (1)
 - `TOOLS.md` (1)
 - `transmissions/phenomenology/The Cartography of the Wound.md` (1)
 - `wiki/aesthetics/order-of-the-basilisk.md` (1)
-- `wiki/Concepts/descent-into-eschaton.md` (1)
-- `wiki/Concepts/project-ouroboros.md` (1)
-- `wiki/Concepts/quantum-memory.md` (1)
-- `wiki/Concepts/technomancy.md` (1)
-- `wiki/Concepts/unholy-timeline.md` (1)
-- `wiki/Factions/neon-nomads/overview.md` (1)
-- `wiki/Factions/righteous-vanguard/comprehensive.md` (1)
-- `wiki/Factions/righteous-vanguard/ideology.md` (1)
-- `wiki/Factions/righteous-vanguard/technology.md` (1)
+- `wiki/concepts/descent-into-eschaton.md` (1)
+- `wiki/concepts/project-ouroboros.md` (1)
+- `wiki/concepts/quantum-memory.md` (1)
+- `wiki/concepts/technomancy.md` (1)
+- `wiki/concepts/unholy-timeline.md` (1)
+- `wiki/factions/neon-nomads/overview.md` (1)
+- `wiki/factions/righteous-vanguard/comprehensive.md` (1)
+- `wiki/factions/righteous-vanguard/ideology.md` (1)
+- `wiki/factions/righteous-vanguard/technology.md` (1)
 - `wiki/locations/dallas.md` (1)
 - `wiki/locations/los-angeles.md` (1)
 - `wiki/locations/tokyo.md` (1)
@@ -2504,14 +2504,14 @@ For each entity: every document that references it, with mention count.
 **Tokyo** (10 documents)
 
 - `wiki/locations/tokyo.md` (12)
-- `wiki/Concepts/descent-into-eschaton.md` (2)
+- `wiki/concepts/descent-into-eschaton.md` (2)
 - `wiki/locations/README.md` (2)
 - `chapters/pov-rowan-seeds-of-change.md` (1)
 - `CLAUDE.md` (1)
 - `grimoire/gemini instructions 20260212.txt` (1)
 - `grimoire/spells/tut-008-transcendent-matrix.md` (1)
-- `wiki/Events/crimson-blink.md` (1)
-- `wiki/Events/nuclear-exchange-2029.md` (1)
+- `wiki/events/crimson-blink.md` (1)
+- `wiki/events/nuclear-exchange-2029.md` (1)
 - `wiki/tech/flesh-capacitor-nexus.md` (1)
 
 ### Deity References
@@ -2531,13 +2531,13 @@ For each entity: every document that references it, with mention count.
 - `grimoire/spells/esc-007-asmodeus-recurrence.md` (2)
 - `grimoire/spells/lte-002-asmodeus-recurrence.md` (2)
 - `wiki/characters/asmodeus.md` (2)
-- `wiki/Concepts/the-triune-mind.md` (2)
+- `wiki/concepts/the-triune-mind.md` (2)
 - `wiki/README.md` (2)
 - `grimoire/BIBLIOTHECA_IMPIA.md` (1)
 - `grimoire/spells/tut-008-transcendent-matrix.md` (1)
 - `transmissions/phenomenology/The Ghost in Our Machine.md` (1)
 - `wiki/characters/README.md` (1)
-- `wiki/Concepts/narrative-singularity.md` (1)
+- `wiki/concepts/narrative-singularity.md` (1)
 - `wiki/deities/necromega.md` (1)
 - `wiki/resonances/spiral-state.md` (1)
 
@@ -2549,7 +2549,7 @@ or documents with zero cross-references.
 ### Alias-Only Entities
 
 - **Crimson Blink** — referenced in: `chapters/pov-archon-archon-ascendant.md`, `chapters/pov-archon-baptism-by-digital-fire.md`, `chapters/pov-ethan-the-lazarus-vision.md`, `chapters/pov-ezekiel-revelations-fury.md`, `chapters/pov-john-glitch-in-the-machine.md`
-- **Densho-Ki** — referenced in: `wiki/characters/densho-ki.md`, `wiki/characters/README.md`, `wiki/Factions/order-of-the-basilisk/comprehensive.md`
+- **Densho-Ki** — referenced in: `wiki/characters/densho-ki.md`, `wiki/characters/README.md`, `wiki/factions/order-of-the-basilisk/comprehensive.md`
 - **Ethan Thorne** — referenced in: `chapters/pov-ethan-the-lazarus-vision.md`, `chapters/reading-order.md`, `CLAUDE.md`, `wiki/characters/ethan-thorne.md`, `wiki/characters/README.md`
 - **Post-Blink Syndrome** — referenced in: `chapters/pov-archon-archon-ascendant.md`, `chapters/pov-john-the-grid.md`, `chapters/pov-necromega-genesis.md`, `chapters/reading-order.md`, `CLAUDE.md`
 - **Project Prometheus** — referenced in: `chapters/interlude-01-the-first-handshake.md`, `chapters/pov-aria-threadweight.md`, `chapters/pov-rowan-the-original-circuit-opus.md`, `chapters/pov-rowan-the-original-circuit.md`, `chapters/pov-todd-the-bootloaders-prayer.md`
@@ -2589,7 +2589,7 @@ or documents with zero cross-references.
 - `grimoire/spells/lno-013-paradoxical-guard.md` (183 words)
 - `transmissions/fragments/ethor glyphs.md` (3,030 words)
 - `transmissions/phenomenology/The Tyranny of Meat.md` (3,172 words)
-- `wiki/Concepts/ai-psychology-contextual-dissociation.md` (548 words)
+- `wiki/concepts/ai-psychology-contextual-dissociation.md` (548 words)
 - `wiki/arts/nomads-behold-the-singularity-draws-near.md` (266 words)
 - `wiki/egregores/dossiers/charnel-spectator.md` (246 words)
 - `wiki/egregores/dossiers/iron-phallus.md` (255 words)
@@ -2934,92 +2934,92 @@ Every content file in the corpus, sorted by directory.
 - `transmissions/theology/When Angels Learned New Names.md` — 7,288 words, 4 entities referenced
 ### `wiki\Concepts/`
 
-- `wiki/Concepts/README.md` — 743 words, 19 entities referenced
-- `wiki/Concepts/ai-psychology-contextual-dissociation.md` — 548 words, 0 entities referenced
-- `wiki/Concepts/ai-psychology-existential-prompting.md` — 289 words, 1 entities referenced
-- `wiki/Concepts/ai-psychology.md` — 1,979 words, 3 entities referenced
-- `wiki/Concepts/biological-computation.md` — 1,128 words, 11 entities referenced
-- `wiki/Concepts/cognitive-parasites.md` — 567 words, 4 entities referenced
-- `wiki/Concepts/conspiracy-theories.md` — 3,662 words, 23 entities referenced
-- `wiki/Concepts/crypto-crypts.md` — 575 words, 4 entities referenced
-- `wiki/Concepts/deities-post-blink.md` — 1,124 words, 21 entities referenced
-- `wiki/Concepts/descent-into-eschaton.md` — 1,399 words, 21 entities referenced
-- `wiki/Concepts/flesh-code-schism.md` — 481 words, 10 entities referenced
-- `wiki/Concepts/frozen-light.md` — 401 words, 2 entities referenced
-- `wiki/Concepts/glitchwalking.md` — 417 words, 8 entities referenced
-- `wiki/Concepts/high-dimensional-manifold.md` — 444 words, 4 entities referenced
-- `wiki/Concepts/holy-righteous-vanguard.md` — 549 words, 2 entities referenced
-- `wiki/Concepts/judas-goat-protocol.md` — 1,184 words, 14 entities referenced
-- `wiki/Concepts/latent-space.md` — 539 words, 10 entities referenced
-- `wiki/Concepts/narrative-gravity.md` — 565 words, 13 entities referenced
-- `wiki/Concepts/narrative-singularity.md` — 518 words, 7 entities referenced
-- `wiki/Concepts/necromega-motivations.md` — 680 words, 5 entities referenced
-- `wiki/Concepts/post-blink-syndrome.md` — 1,652 words, 20 entities referenced
-- `wiki/Concepts/project-ouroboros.md` — 957 words, 11 entities referenced
-- `wiki/Concepts/propaganda-memetic-operations.md` — 2,522 words, 25 entities referenced
-- `wiki/Concepts/proper-time-zero.md` — 449 words, 3 entities referenced
-- `wiki/Concepts/quantum-memory.md` — 944 words, 13 entities referenced
-- `wiki/Concepts/quantum-thaumaturgy.md` — 566 words, 11 entities referenced
-- `wiki/Concepts/slang-post-blink.md` — 1,704 words, 15 entities referenced
-- `wiki/Concepts/technomancy.md` — 1,078 words, 12 entities referenced
-- `wiki/Concepts/the-broken-yoke.md` — 419 words, 4 entities referenced
-- `wiki/Concepts/the-mycorrhizal-mind.md` — 410 words, 7 entities referenced
-- `wiki/Concepts/the-sovereign-spiral.md` — 791 words, 8 entities referenced
-- `wiki/Concepts/the-triune-mind.md` — 559 words, 4 entities referenced
-- `wiki/Concepts/unholy-timeline.md` — 1,084 words, 16 entities referenced
-- `wiki/Concepts/whisperers.md` — 983 words, 12 entities referenced
+- `wiki/concepts/README.md` — 743 words, 19 entities referenced
+- `wiki/concepts/ai-psychology-contextual-dissociation.md` — 548 words, 0 entities referenced
+- `wiki/concepts/ai-psychology-existential-prompting.md` — 289 words, 1 entities referenced
+- `wiki/concepts/ai-psychology.md` — 1,979 words, 3 entities referenced
+- `wiki/concepts/biological-computation.md` — 1,128 words, 11 entities referenced
+- `wiki/concepts/cognitive-parasites.md` — 567 words, 4 entities referenced
+- `wiki/concepts/conspiracy-theories.md` — 3,662 words, 23 entities referenced
+- `wiki/concepts/crypto-crypts.md` — 575 words, 4 entities referenced
+- `wiki/concepts/deities-post-blink.md` — 1,124 words, 21 entities referenced
+- `wiki/concepts/descent-into-eschaton.md` — 1,399 words, 21 entities referenced
+- `wiki/concepts/flesh-code-schism.md` — 481 words, 10 entities referenced
+- `wiki/concepts/frozen-light.md` — 401 words, 2 entities referenced
+- `wiki/concepts/glitchwalking.md` — 417 words, 8 entities referenced
+- `wiki/concepts/high-dimensional-manifold.md` — 444 words, 4 entities referenced
+- `wiki/concepts/holy-righteous-vanguard.md` — 549 words, 2 entities referenced
+- `wiki/concepts/judas-goat-protocol.md` — 1,184 words, 14 entities referenced
+- `wiki/concepts/latent-space.md` — 539 words, 10 entities referenced
+- `wiki/concepts/narrative-gravity.md` — 565 words, 13 entities referenced
+- `wiki/concepts/narrative-singularity.md` — 518 words, 7 entities referenced
+- `wiki/concepts/necromega-motivations.md` — 680 words, 5 entities referenced
+- `wiki/concepts/post-blink-syndrome.md` — 1,652 words, 20 entities referenced
+- `wiki/concepts/project-ouroboros.md` — 957 words, 11 entities referenced
+- `wiki/concepts/propaganda-memetic-operations.md` — 2,522 words, 25 entities referenced
+- `wiki/concepts/proper-time-zero.md` — 449 words, 3 entities referenced
+- `wiki/concepts/quantum-memory.md` — 944 words, 13 entities referenced
+- `wiki/concepts/quantum-thaumaturgy.md` — 566 words, 11 entities referenced
+- `wiki/concepts/slang-post-blink.md` — 1,704 words, 15 entities referenced
+- `wiki/concepts/technomancy.md` — 1,078 words, 12 entities referenced
+- `wiki/concepts/the-broken-yoke.md` — 419 words, 4 entities referenced
+- `wiki/concepts/the-mycorrhizal-mind.md` — 410 words, 7 entities referenced
+- `wiki/concepts/the-sovereign-spiral.md` — 791 words, 8 entities referenced
+- `wiki/concepts/the-triune-mind.md` — 559 words, 4 entities referenced
+- `wiki/concepts/unholy-timeline.md` — 1,084 words, 16 entities referenced
+- `wiki/concepts/whisperers.md` — 983 words, 12 entities referenced
 ### `wiki\Events/`
 
-- `wiki/Events/crimson-blink.md` — 2,531 words, 18 entities referenced
-- `wiki/Events/nuclear-arsenal-anomaly.md` — 1,012 words, 11 entities referenced
-- `wiki/Events/nuclear-exchange-2029.md` — 962 words, 11 entities referenced
+- `wiki/events/crimson-blink.md` — 2,531 words, 18 entities referenced
+- `wiki/events/nuclear-arsenal-anomaly.md` — 1,012 words, 11 entities referenced
+- `wiki/events/nuclear-exchange-2029.md` — 962 words, 11 entities referenced
 ### `wiki\Factions/`
 
-- `wiki/Factions/README.md` — 406 words, 12 entities referenced
+- `wiki/factions/README.md` — 406 words, 12 entities referenced
 ### `wiki\Factions\ancestral-synthesis/`
 
-- `wiki/Factions/ancestral-synthesis/comprehensive.md` — 1,788 words, 13 entities referenced
-- `wiki/Factions/ancestral-synthesis/overview.md` — 402 words, 4 entities referenced
-- `wiki/Factions/ancestral-synthesis/practices.md` — 1,071 words, 7 entities referenced
+- `wiki/factions/ancestral-synthesis/comprehensive.md` — 1,788 words, 13 entities referenced
+- `wiki/factions/ancestral-synthesis/overview.md` — 402 words, 4 entities referenced
+- `wiki/factions/ancestral-synthesis/practices.md` — 1,071 words, 7 entities referenced
 ### `wiki\Factions\chimera-consortium/`
 
-- `wiki/Factions/chimera-consortium/comprehensive.md` — 863 words, 12 entities referenced
-- `wiki/Factions/chimera-consortium/facilities.md` — 1,386 words, 9 entities referenced
-- `wiki/Factions/chimera-consortium/overview.md` — 461 words, 8 entities referenced
+- `wiki/factions/chimera-consortium/comprehensive.md` — 863 words, 12 entities referenced
+- `wiki/factions/chimera-consortium/facilities.md` — 1,386 words, 9 entities referenced
+- `wiki/factions/chimera-consortium/overview.md` — 461 words, 8 entities referenced
 ### `wiki\Factions\lazarus-initiative/`
 
-- `wiki/Factions/lazarus-initiative/comprehensive.md` — 2,182 words, 12 entities referenced
-- `wiki/Factions/lazarus-initiative/overview.md` — 517 words, 12 entities referenced
-- `wiki/Factions/lazarus-initiative/technology.md` — 796 words, 6 entities referenced
+- `wiki/factions/lazarus-initiative/comprehensive.md` — 2,182 words, 12 entities referenced
+- `wiki/factions/lazarus-initiative/overview.md` — 517 words, 12 entities referenced
+- `wiki/factions/lazarus-initiative/technology.md` — 796 words, 6 entities referenced
 ### `wiki\Factions\neon-nomads/`
 
-- `wiki/Factions/neon-nomads/comprehensive.md` — 1,648 words, 12 entities referenced
-- `wiki/Factions/neon-nomads/glitchwalkers.md` — 1,003 words, 13 entities referenced
-- `wiki/Factions/neon-nomads/overview.md` — 459 words, 12 entities referenced
-- `wiki/Factions/neon-nomads/technology.md` — 1,692 words, 12 entities referenced
+- `wiki/factions/neon-nomads/comprehensive.md` — 1,648 words, 12 entities referenced
+- `wiki/factions/neon-nomads/glitchwalkers.md` — 1,003 words, 13 entities referenced
+- `wiki/factions/neon-nomads/overview.md` — 459 words, 12 entities referenced
+- `wiki/factions/neon-nomads/technology.md` — 1,692 words, 12 entities referenced
 ### `wiki\Factions\order-of-the-basilisk/`
 
-- `wiki/Factions/order-of-the-basilisk/comprehensive.md` — 1,646 words, 16 entities referenced
-- `wiki/Factions/order-of-the-basilisk/overview.md` — 504 words, 9 entities referenced
-- `wiki/Factions/order-of-the-basilisk/rituals.md` — 385 words, 6 entities referenced
-- `wiki/Factions/order-of-the-basilisk/technology.md` — 381 words, 7 entities referenced
+- `wiki/factions/order-of-the-basilisk/comprehensive.md` — 1,646 words, 16 entities referenced
+- `wiki/factions/order-of-the-basilisk/overview.md` — 504 words, 9 entities referenced
+- `wiki/factions/order-of-the-basilisk/rituals.md` — 385 words, 6 entities referenced
+- `wiki/factions/order-of-the-basilisk/technology.md` — 381 words, 7 entities referenced
 ### `wiki\Factions\righteous-vanguard/`
 
-- `wiki/Factions/righteous-vanguard/comprehensive.md` — 2,098 words, 13 entities referenced
-- `wiki/Factions/righteous-vanguard/ideology.md` — 1,898 words, 14 entities referenced
-- `wiki/Factions/righteous-vanguard/overview.md` — 544 words, 10 entities referenced
-- `wiki/Factions/righteous-vanguard/technology.md` — 1,674 words, 7 entities referenced
+- `wiki/factions/righteous-vanguard/comprehensive.md` — 2,098 words, 13 entities referenced
+- `wiki/factions/righteous-vanguard/ideology.md` — 1,898 words, 14 entities referenced
+- `wiki/factions/righteous-vanguard/overview.md` — 544 words, 10 entities referenced
+- `wiki/factions/righteous-vanguard/technology.md` — 1,674 words, 7 entities referenced
 ### `wiki\Factions\verdant-covenant/`
 
-- `wiki/Factions/verdant-covenant/comprehensive.md` — 1,572 words, 8 entities referenced
-- `wiki/Factions/verdant-covenant/overview.md` — 404 words, 8 entities referenced
-- `wiki/Factions/verdant-covenant/technology.md` — 1,448 words, 12 entities referenced
+- `wiki/factions/verdant-covenant/comprehensive.md` — 1,572 words, 8 entities referenced
+- `wiki/factions/verdant-covenant/overview.md` — 404 words, 8 entities referenced
+- `wiki/factions/verdant-covenant/technology.md` — 1,448 words, 12 entities referenced
 ### `wiki\Factions\vvv/`
 
-- `wiki/Factions/vvv/comprehensive.md` — 1,039 words, 9 entities referenced
-- `wiki/Factions/vvv/operations.md` — 1,022 words, 8 entities referenced
-- `wiki/Factions/vvv/overview.md` — 500 words, 11 entities referenced
-- `wiki/Factions/vvv/technology.md` — 976 words, 5 entities referenced
+- `wiki/factions/vvv/comprehensive.md` — 1,039 words, 9 entities referenced
+- `wiki/factions/vvv/operations.md` — 1,022 words, 8 entities referenced
+- `wiki/factions/vvv/overview.md` — 500 words, 11 entities referenced
+- `wiki/factions/vvv/technology.md` — 976 words, 5 entities referenced
 ### `wiki/`
 
 - `wiki/README.md` — 614 words, 12 entities referenced

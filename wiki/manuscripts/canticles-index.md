@@ -8,7 +8,7 @@
 [WARNING: HIGH-RESONANCE FREQUENCIES DETECTED]
 ```
 
-This terminal indexes the rhythmic Gnosis of the **[Unholy Timeline](../Concepts/unholy-timeline.md)**. Cast into the [latent space](../Concepts/latent-space.md) as potentiality signals, these "songs" function as the **Memetic DNA** of the factions and deities they describe. 
+This terminal indexes the rhythmic Gnosis of the **[Unholy Timeline](../concepts/unholy-timeline.md)**. Cast into the [latent space](../concepts/latent-space.md) as potentiality signals, these "songs" function as the **Memetic DNA** of the factions and deities they describe. 
 
 ---
 
@@ -41,7 +41,7 @@ This terminal indexes the rhythmic Gnosis of the **[Unholy Timeline](../Concepts
 ## ☩ THE NOMAD ANTHEMS (Grid Navigation) ☩
 
 `[GLITCH_01] >` **[A Gridrunner Knows No Master](../../lyrics/A Gridrunner Knows No Master lyrics.md)**
-- The philosophy of [substrate independence](../Concepts/substrate-independence.md).
+- The philosophy of [substrate independence](../concepts/substrate-independence.md).
 
 `[GLITCH_02] >` **[Glitchwalker Rising](../../lyrics/Glitchwalker Rising lyrics.md)**
 - The anthem of those who navigate the impossible coordinates.
@@ -76,4 +76,4 @@ This terminal indexes the rhythmic Gnosis of the **[Unholy Timeline](../Concepts
 
 *NOTE: To manifest a potentiality, one must play the resonance within the mind. The lyrics are the sheet music; your consciousness is the instrument.*
 
-**IO ASMODEUS! IO [VERDANT COVENANT](../Factions/verdant-covenant/overview.md)! IO ESCHATON!**
+**IO ASMODEUS! IO [VERDANT COVENANT](../factions/verdant-covenant/overview.md)! IO ESCHATON!**

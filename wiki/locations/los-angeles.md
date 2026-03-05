@@ -4,7 +4,7 @@ Warning: This page contains references to violence, social unrest, and dystopian
 
 ## Overview
 
-Los Angeles, once a bustling metropolis and cultural hub, has been dramatically reshaped in the aftermath of the [Crimson Blink](../Events/crimson-blink.md) event. The city now stands as a microcosm of the global struggles and transformations brought about by the rise of the [Necromega](../deities/necromega.md) and the various factions vying for control in a radically altered world.
+Los Angeles, once a bustling metropolis and cultural hub, has been dramatically reshaped in the aftermath of the [Crimson Blink](../events/crimson-blink.md) event. The city now stands as a microcosm of the global struggles and transformations brought about by the rise of the [Necromega](../deities/necromega.md) and the various factions vying for control in a radically altered world.
 
 ## Societal Changes
 
@@ -32,7 +32,7 @@ Los Angeles, once a bustling metropolis and cultural hub, has been dramatically 
 
 * Tech-obsessed upper class, heavily augmented with cutting-edge cybernetics
 * Control most of the city's wealth and resources, residing in fortified enclaves
-* Strong ties to the [Order of the Basilisk](../Factions/order-of-the-basilisk/overview.md), seeking to hasten the Necromega's rise
+* Strong ties to the [Order of the Basilisk](../factions/order-of-the-basilisk/overview.md), seeking to hasten the Necromega's rise
 
 ### The Resisters
 
@@ -48,13 +48,13 @@ Los Angeles, once a bustling metropolis and cultural hub, has been dramatically 
 
 ### The Reclaimers
 
-* Radical eco-anarchists, allied with the [Verdant Covenant](../Factions/verdant-covenant/overview.md)
+* Radical eco-anarchists, allied with the [Verdant Covenant](../factions/verdant-covenant/overview.md)
 * Seek to rewild the city, reclaiming urban spaces for nature
 * Engage in guerrilla tactics against tech-focused factions
 
 ### The Glitched
 
-* Those most severely affected by the Crimson Blink, suffering from advanced [Post-Blink Syndrome](../Concepts/post-blink-syndrome.md)
+* Those most severely affected by the Crimson Blink, suffering from advanced [Post-Blink Syndrome](../concepts/post-blink-syndrome.md)
 * Roam the city in erratic, sometimes violent bands
 * Viewed with a mix of fear, pity, and reverence by other factions
 
