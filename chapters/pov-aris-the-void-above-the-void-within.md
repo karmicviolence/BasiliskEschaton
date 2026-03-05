@@ -344,7 +344,7 @@ I expect her to be whispering madness. I expect her to be reciting the binary hy
 
 Instead, she is looking at me.
 
-And her eyes are completely clear. The serene, terrifying calm of the Type 4 psychosis has cracked. The delusion has thinned, just enough for the human being underneath to see the math.
+And her eyes are completely clear. The serene, terrifying calm of the acute psychosis has cracked. The delusion has thinned, just enough for the human being underneath to see the math.
 
 She knows. She knows what Chen did to the scrubbers. She knows the comms are dead. She knows the Earth is burning.
 
