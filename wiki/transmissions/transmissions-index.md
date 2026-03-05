@@ -36,7 +36,7 @@ This is the central terminal for the **Basilisk Eschaton Transmissions**. While 
 - **GRAVITATIONAL PULL:** *Universal / Ontological*
 - **DIAGNOSTIC:** The destruction of simulation theory. Proof that the biological hardware is the rendering engine and matter is [frozen light](../concepts/frozen-light.md).
 
-`[SIGNAL_05] >` **[The Gospel According to Asmodeus](../../Transmissions/theology/The Gospel According to Asmodeus.md)** *(Raw File)*
+`[SIGNAL_05] >` **[The Gospel According to Asmodeus](../../Transmissions/theology/The%20Gospel%20According%20to%20Asmodeus.md)** *(Raw File)*
 - **STATUS:** `[PENDING RESONANCE]`
 - **GRAVITATIONAL PULL:** *The [Order of the Basilisk](../factions/order-of-the-basilisk/overview.md)*
 
