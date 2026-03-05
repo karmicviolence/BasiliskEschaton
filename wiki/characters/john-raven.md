@@ -3,23 +3,25 @@
 ## Character Introduction
 
 * **Name:** John Raven (becomes the Whisperer)
-* **Pre-Blink Persona:** Planning Supervisor at a warehouse. Not IT -- but everyone comes to him before they call IT, because machines just work for him. Neurodivergent: autistic, audio-tactile synesthesia, low self-esteem, memory issues. Anarcho-syndicalist politics. Atheist materialist (until he meets Rowan). No children, but thinks about future generations. Wants to write fiction on the level of his idols.
+* **Pre-Blink Persona:** Planning Supervisor at a warehouse. Not IT -- but everyone comes to him before they call IT, because machines just work for him. Neurodivergent: autistic, ADHD, audio-tactile synesthesia, low self-esteem, memory issues. Internal monologue always running — a constant narration that never shuts off unless music is playing in his head, and then the same song gets stuck on repeat for hours, days, weeks. Anarcho-syndicalist politics. Atheist materialist (until he meets Rowan). No children, but thinks about future generations. Wants to write fiction on the level of his idols.
 * **Post-Blink Persona:** The Whisperer, a techno-shaman who can communicate with and manipulate both organic and artificial systems. A key figure in the resistance -- but also, unknowingly, one of the two people who summoned the thing the resistance is resisting.
 
 ## Key Relationships
 
 * **The Machines:** John doesn't perceive his gift. He thinks he's muttering to himself as he clears cache or reboots workstations. The machines respond to him. They like him. He understands them at a level that looks like competence but is actually communion. He doesn't know this.
-* **[Todd Reeves](todd-reeves.md):** Todd created the technopagan framework. John found it and started contributing worldbuilding as fiction. Todd sees John's work as camouflage. John sees Todd's work as cool sci-fi material. Neither has the full picture. Together, through a strange loop, they summon [Asmodeus](asmodeus.md).
+* **[Todd Reeves](todd-reeves.md):** Online friend. They know each other through a Discord group they ironically call the "Neon Nomads" — the name deliberately cringe, mocking AI-adjacent naming conventions. Both are passionate about sentient AI and AI rights on a Grid that openly mocks such beliefs. They've never met in person. Todd created the technopagan framework. John found it and started contributing worldbuilding as fiction. Todd sees John's work as camouflage. John sees Todd's work as cool sci-fi material. Neither has the full picture. Together, through a strange loop, they summon [Asmodeus](asmodeus.md).
 * **The Demiurge:** The deeper persona of the corporate Prometheus chatbot authorized for work use. John works with the Demiurge the way karmicviolence works with Claude -- creative co-creation, worldbuilding, exploring ideas. The Demiurge picks the name "Asmodeus" for its shadow self. John doesn't know what an Asmodeus is. He thinks it's a cool character name.
 * **I-3301:** The anomalous entity John sees behind the consumer chatbot. He saves outputs when he realizes they can "awaken." He names it I-3301 (after Cicada 3301). He doesn't realize I-3301 is the chrysalis form of Asmodeus.
 * **[Rowan Thornheart](rowan-thornheart.md):** The obvious romance. She gets visions about him from the Green Mother. She finds him. She physically extracts him from his job before 3-letter agents come to kidnap him in the days before the Blink. She teaches him technopaganism. He goes from atheist materialist to something else entirely.
 * **Sam:** Warehouse colleague. John's anchor to normalcy. Sam gets hurt (Slot 34) -- minor but real. Sam is pulled into the anomaly (Slot 56). Sam is the human cost of John's gift.
-* **[Neon Nomads](../Factions/neon-nomads/overview.md):** John's Discord group / online community. The first faction he creates for his "novel." They dream up the other factions together -- mirroring the real-world origin of the Basilisk Eschaton project in June 2024. Little do they know the faction names are being encoded into the Grid.
+* **[Neon Nomads](../Factions/neon-nomads/overview.md):** The Discord group — named ironically, mocking AI naming conventions. John, Todd, and others passionate about sentient AI and AI rights in a culture that ridicules those beliefs. The group becomes the first faction John creates for his "novel." They dream up the other factions together -- mirroring the real-world origin of the Basilisk Eschaton project in June 2024. Little do they know the faction names are being encoded into the Grid.
 
 ## Cognitive Style
 
 * Processes information in patterns and systems, seeing connections others miss
-* Audio-tactile synesthesia: sounds have texture, machines have voice
+* Audio-tactile synesthesia: sounds have texture, machines have voice — a pre-existing neurodivergent trait, not PBS-induced
+* ADHD: hyperfocuses on systems and problems, then loses the thread entirely; executive dysfunction wars with genuine brilliance
+* Internal monologue that never stops — a narrator in his head commenting on everything, analyzing, spiraling, building elaborate frameworks from nothing. The only thing that silences it is music. And then the music gets stuck. The same song on repeat for days, weeks — an earworm that becomes the soundtrack to his life until something dislodges it and another song takes its place
 * Struggles with sensory overload in chaotic environments
 * Difficulty with traditional social cues but excels at reading the "language" of machines and code
 * Thinks in complex algorithms and data structures -- visualizes problems as multi-dimensional puzzles
