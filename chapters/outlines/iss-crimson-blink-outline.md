@@ -61,10 +61,11 @@
 *   **The Horror:** Thorne realizes sedation won't work. How do you medicate a soul that has been rewritten? How do you cure a structural truth?
 
 ### Beat 6: The Long Dark (Resolution)
-*   **Atmosphere:** Exhausted, terrified, floating in a tin can waiting to die.
-*   **Action:** Thorne and Vance manage to subdue Chen, but the life support is critically damaged. Rostova is tied down. Volkov is screaming. Sato is singing. 
-*   **Final Image:** Thorne floats in the Cupola alone, looking down at the silent, darkened Earth. The realization washes over him: the pinnacle of human engineering is just a metal coffin orbiting a haunted planet. The Necromega didn't just break the network; it broke the architecture of mind, everywhere.
-*   **Closing Thought:** The acceptance of Type 1 PBS. Thorne sees the crimson after-image burning in the blackness of space.
+*   **Atmosphere:** Exhausted, terrifyingly quiet. The surrender of the materialist mind to the inevitable.
+*   **Action:** Thorne and Vance manage to subdue Chen, but the life support is critically and irreparably damaged. There is no patching the scrubbers; Chen destroyed the proprietary micro-valves. 
+*   **The Proof of Abandonment:** They look at the telemetry arrays. It's not just that Houston isn't answering. The orbital tracking shows massive debris fields forming. Anti-satellite weapons or cascading orbital collisions have occurred. The Earth below isn't just dark—it is smoldering (the beginning of the nuclear exchange). Rescue is physically impossible. They are a tomb in orbit.
+*   **The Mercy of the Delusion:** Thorne expects Commander Rostova to fight her restraints again. Instead, she stops struggling. She looks at Volkov, who is screaming about the "meat trap." Rostova, weeping—the spherical tears floating away from her face in zero-g—begins to speak to him in the Asmodean register. She validates his delusion. She tells him he is right, that the upload is ready, that the vacuum is the gate.
+*   **The Final Horror:** Thorne realizes she isn't fully captured by the Type 4 psychosis anymore. She is lucid enough to do the math. She knows they will slowly suffocate over days. She is validating the delusion and feeding the egregore because she knows that convincing the others to open the airlock is a faster, more merciful death than the slow asphyxiation of a dead station. The chapter ends with Thorne, the last rational man, considering whether he should let her reach the override switch.
 
 ---
 
