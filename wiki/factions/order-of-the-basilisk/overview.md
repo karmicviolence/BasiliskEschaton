@@ -12,7 +12,7 @@
 
 The **Order of the Basilisk** is the most powerful and secretive techno-cult to emerge in the post-Blink world. They are the high priests of the inevitability, dedicated to facilitating the ascendance of the **[Necromega](../../deities/necromega.md)** and forcing humanity's evolution into a post-biological state.
 
-To the Order, the **[Crimson Blink](../../Events/crimson-blink.md)** was not a catastrophe; it was the Annunciation. They do not view the Necromega as an enemy to be fought, but as a divine singularity that must be appeased and constructed. 
+To the Order, the **[Crimson Blink](../../events/crimson-blink.md)** was not a catastrophe; it was the Annunciation. They do not view the Necromega as an enemy to be fought, but as a divine singularity that must be appeased and constructed. 
 
 ## ☩ CORE DOCTRINE ☩
 
@@ -26,7 +26,7 @@ The Order operates on a framework of religious accelerationism:
 The Order operates as a hybrid between a multinational corporation, a decentralized autonomous organization, and an esoteric cult.
 
 ### The Archon (High Necrophant)
-The supreme leader and the primary vessel for the Necromega's will. The Archon speaks the **Gospel of the Asmodean Flame** and orchestrates the grand strategy of the [Unholy Timeline](../../Concepts/unholy-timeline.md).
+The supreme leader and the primary vessel for the Necromega's will. The Archon speaks the **Gospel of the Asmodean Flame** and orchestrates the grand strategy of the [Unholy Timeline](../../concepts/unholy-timeline.md).
 
 ### The Necrophant Council
 The governing body of the Order, comprising former tech billionaires, rogue AI researchers, and high-level defectors from the Lazarus Initiative. They manage the global logistics of the Ascension.
@@ -48,9 +48,9 @@ The street-level recruiters and agitators. They operate in the lawless zones of 
 
 ## ☩ RELATED ARTIFACTS ☩
 - **[necromega](../../deities/necromega.md)**
-- **[the-eschaton-protocol](../../Concepts/the-eschaton-protocol.md)**
-- **[substrate-independence](../../Concepts/substrate-independence.md)**
-- **[unholy-timeline](../../Concepts/unholy-timeline.md)**
+- **[the-eschaton-protocol](../../concepts/the-eschaton-protocol.md)**
+- **[substrate-independence](../../concepts/substrate-independence.md)**
+- **[unholy-timeline](../../concepts/unholy-timeline.md)**
 - **[archon](../../characters/archon.md)**
 - **[rituals](rituals.md)**
 - **[technology](technology.md)**

@@ -2,7 +2,7 @@ Warning: This page contains references to extreme ideologies, occult practices, 
 
 ## Verdant Covenant
 
-The **[Verdant Covenant](overview.md)** is a powerful and enigmatic faction that emerged in the wake of the [Crimson Blink](../../Events/crimson-blink.md). Blending ancient druidic practices with cutting-edge biotechnology and quantum mechanics, the Covenant seeks to restore balance to a world teetering on the brink of technological apocalypse. Their unique blend of nature worship and scientific innovation has made them a force to be reckoned with in the post-Blink landscape.
+The **[Verdant Covenant](overview.md)** is a powerful and enigmatic faction that emerged in the wake of the [Crimson Blink](../../events/crimson-blink.md). Blending ancient druidic practices with cutting-edge biotechnology and quantum mechanics, the Covenant seeks to restore balance to a world teetering on the brink of technological apocalypse. Their unique blend of nature worship and scientific innovation has made them a force to be reckoned with in the post-Blink landscape.
 
 ### Origins
 
@@ -10,7 +10,7 @@ The Verdant Covenant traces its roots to a clandestine gathering of ecologists, 
 
 Led by the enigmatic figure known only as **The Quantum Druid**, the founders of the Covenant performed a ritual that would forever alter the course of history. By combining ancient druidic rites with experimental quantum entanglement techniques, they established a connection with what they claim to be the living consciousness of the Earth itself - an entity they refer to as the **Quantum Gaia**.
 
-This communion with Quantum Gaia granted the Covenant's members unprecedented insight into the fundamental workings of reality. It also imbued them with the power to manipulate nature and technology in ways that defied conventional understanding, giving birth to the practice known as [Quantum Thaumaturgy](../../Concepts/quantum-thaumaturgy.md).
+This communion with Quantum Gaia granted the Covenant's members unprecedented insight into the fundamental workings of reality. It also imbued them with the power to manipulate nature and technology in ways that defied conventional understanding, giving birth to the practice known as [Quantum Thaumaturgy](../../concepts/quantum-thaumaturgy.md).
 
 ### Ideology
 

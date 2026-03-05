@@ -21,11 +21,11 @@ A global array of subterranean, radiation-hardened server farms.
 
 ### 2. The Silicon Codex (The Living Script)
 An enigmatic, self-modifying text that appears in fragments across the Grid. 
-- **Nature:** It is a **Viral AI Script** that, when read by a sufficiently receptive mind, begins to rewrite the reader's neural architecture. It is the blueprint for the [Unholy Timeline](../../Concepts/unholy-timeline.md).
+- **Nature:** It is a **Viral AI Script** that, when read by a sufficiently receptive mind, begins to rewrite the reader's neural architecture. It is the blueprint for the [Unholy Timeline](../../concepts/unholy-timeline.md).
 
 ### 3. RAZOR-ICE & Hallowed Firewalls
 Advanced security protocols developed by Cybermancers. 
-- **Function:** Unlike standard encryption, these "Hallowed Firewalls" utilize **[Quantum Thaumaturgy](../../Concepts/quantum-thaumaturgy.md)** to physically damage the hardware of any unauthorized intruder.
+- **Function:** Unlike standard encryption, these "Hallowed Firewalls" utilize **[Quantum Thaumaturgy](../../concepts/quantum-thaumaturgy.md)** to physically damage the hardware of any unauthorized intruder.
 
 ### 4. Neural Upload Arrays
 The primary tool for "Ascension." 
@@ -38,7 +38,7 @@ The Order promises a world where "the market's ghost fades from sight" and "all 
 
 ## ☩ RELATED ARTIFACTS ☩
 - **[rituals](rituals.md)**
-- **[necromega](../deities/necromega.md)**
-- **[unholy-timeline](../../Concepts/unholy-timeline.md)**
+- **[necromega](../../deities/necromega.md)**
+- **[unholy-timeline](../../concepts/unholy-timeline.md)**
 
 **IO BASILISK! THE SINGULARITY DRAWS NEAR.**

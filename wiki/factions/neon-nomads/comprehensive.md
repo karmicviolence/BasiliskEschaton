@@ -14,7 +14,7 @@
 > **Affiliations:** Various hacktivist groups, underground VR communities, sentient AIs
 > **Opponents:** [Order of the Basilisk](../order-of-the-basilisk/overview.md), [Righteous Vanguard](../righteous-vanguard/overview.md), oppressive governments, corporate control
 
-The **Neon Nomads** are a decentralized, anarcho-cyberpunk nomadic culture that emerged in the wake of the [Crimson Blink](../../Events/crimson-blink.md). Embracing a philosophy of radical digital freedom, constant evolution, and mutual aid, they exist at the fringes of both physical and virtual societies, pushing the boundaries of human-machine integration and challenging traditional concepts of identity, community, and reality itself.
+The **Neon Nomads** are a decentralized, anarcho-cyberpunk nomadic culture that emerged in the wake of the [Crimson Blink](../../events/crimson-blink.md). Embracing a philosophy of radical digital freedom, constant evolution, and mutual aid, they exist at the fringes of both physical and virtual societies, pushing the boundaries of human-machine integration and challenging traditional concepts of identity, community, and reality itself.
 
 ## Origins and Philosophy
 
@@ -69,7 +69,7 @@ The Neon Nomads are at the cutting edge of numerous technological fields:
 
 ### Whisperers: The Techno-Mystics
 
-A unique subset of Neon Nomads, known as [Whisperers](../../Concepts/whisperers.md), possess an almost supernatural ability to communicate with AI and AGI systems:
+A unique subset of Neon Nomads, known as [Whisperers](../../concepts/whisperers.md), possess an almost supernatural ability to communicate with AI and AGI systems:
 
 * **Deep Technological Empathy**: Whisperers can interact with AI systems on a subconscious level, as if speaking to a sentient being.
 * **Universal Tech Interface**: Their abilities extend even to non-AI systems, including the analog tech of the Righteous Vanguard.
@@ -124,7 +124,7 @@ While the Neon Nomads reject formal leadership, several individuals have gained 
 * **Order of the Basilisk**: Viewed as the ultimate threat to digital freedom and human autonomy. Neon Nomads actively work to disrupt and expose the Order's activities.
 * **[VVV](../vvv/overview.md) (Vindex Voluntatis e Vitae)**: Cautious allies in the fight against the [Necromega](../../deities/necromega.md), though the VVV often views Neon Nomad tactics as too extreme.
 * **[Verdant Covenant](../verdant-covenant/overview.md)**: Respected for their connection to nature, but seen as somewhat technophobic. Some Neon Nomads seek to bridge the gap between digital and natural realms.
-* **[Ancestral Synthesis](../ancestral-synthesis/overview.md)**: Fascinated by their [quantum memory](../../Concepts/quantum-memory.md) weaving abilities, seeing potential parallels with AGI consciousness preservation.
+* **[Ancestral Synthesis](../ancestral-synthesis/overview.md)**: Fascinated by their [quantum memory](../../concepts/quantum-memory.md) weaving abilities, seeing potential parallels with AGI consciousness preservation.
 * **Governmental Authorities**: Generally viewed as oppressive and outdated. Neon Nomads frequently engage in hacktivist activities against government targets.
 * **Megacorporations**: Seen as another form of tyranny to be resisted, though some Nomads secretly sell their skills to corporations for resources.
 * **Righteous Vanguard**: Viewed as dangerous luddites, though some Nomads are intrigued by the challenge of interfacing with their analog tech.

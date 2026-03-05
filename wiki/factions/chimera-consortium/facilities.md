@@ -9,7 +9,7 @@
 
 ## Overview
 
-The [Chimera Consortium](overview.md) operates a distributed network of biological research installations ranging from massive subterranean complexes to disposable mobile laboratories. These facilities are purpose-built for the Consortium's core mission: the forced acceleration of human evolution through genetic engineering, [biological computation](../../Concepts/biological-computation.md), and trans-species integration. Each facility type serves a distinct function in the Consortium's research-to-deployment pipeline, and all operate under the direct authority of the Flesh Council.
+The [Chimera Consortium](overview.md) operates a distributed network of biological research installations ranging from massive subterranean complexes to disposable mobile laboratories. These facilities are purpose-built for the Consortium's core mission: the forced acceleration of human evolution through genetic engineering, [biological computation](../../concepts/biological-computation.md), and trans-species integration. Each facility type serves a distinct function in the Consortium's research-to-deployment pipeline, and all operate under the direct authority of the Flesh Council.
 
 Security across all installations is layered and biological in nature. Rather than relying on digital surveillance systems vulnerable to Grid infiltration, the Consortium deploys engineered organisms as perimeter sentinels, uses pheromone-locked access protocols, and maintains living tissue authentication at critical chokepoints. The facilities themselves are designed for rapid sterilization and abandonment if compromised, a necessity given the hostile attention they draw from nearly every other faction.
 
@@ -43,7 +43,7 @@ Splicing Labs are also where the Consortium conducts its most classified project
 
 Mobile Field Units are the Consortium's tactical deployment arm. These are self-contained biological laboratories built into armored vehicle convoys, designed to operate in contested or remote territory where fixed installations are impractical. Each unit carries a compressed version of the Consortium's core capabilities: field-grade genetic modification equipment, emergency splicing kits, a small tissue culture suite, and sufficient biomaterial stores for approximately two weeks of independent operation.
 
-Field Units serve multiple functions. They accompany Requisition Teams on acquisition missions, allowing immediate biological assessment and stabilization of high-value subjects. They deploy to client territories to perform on-site modifications for factions that cannot or will not travel to Transformation Centers. And they serve as emergency research platforms when a novel mutation or [Post-Blink Syndrome](../../Concepts/post-blink-syndrome.md) variant is discovered in the field and requires immediate analysis before the subject degrades.
+Field Units serve multiple functions. They accompany Requisition Teams on acquisition missions, allowing immediate biological assessment and stabilization of high-value subjects. They deploy to client territories to perform on-site modifications for factions that cannot or will not travel to Transformation Centers. And they serve as emergency research platforms when a novel mutation or [Post-Blink Syndrome](../../concepts/post-blink-syndrome.md) variant is discovered in the field and requires immediate analysis before the subject degrades.
 
 The units are deliberately designed to be disposable. Each carries a thermal purge system capable of incinerating all biological material within the vehicle in under ninety seconds. If a Field Unit is about to be captured by a hostile faction, standard protocol dictates total sterilization — including, if necessary, the destruction of any subjects or samples aboard.
 
@@ -70,7 +70,7 @@ The Consortium accepts these risks as the cost of its mission. In the calculus o
 ## ☩ Related Artifacts ☩
 
 - [overview](overview.md) — Chimera Consortium overview
-- [biological-computation](../../Concepts/biological-computation.md) — Biological computation theory
-- [flesh-code-schism](../../Concepts/flesh-code-schism.md) — The [Flesh-Code Schism](../../Concepts/flesh-code-schism.md)
+- [biological-computation](../../concepts/biological-computation.md) — Biological computation theory
+- [flesh-code-schism](../../concepts/flesh-code-schism.md) — The [Flesh-Code Schism](../../concepts/flesh-code-schism.md)
 - [flesh-capacitor-nexus](../../tech/flesh-capacitor-nexus.md) — Flesh Capacitor Nexus technology
 - [overview](../verdant-covenant/overview.md) — Verdant Covenant (primary biological rival)

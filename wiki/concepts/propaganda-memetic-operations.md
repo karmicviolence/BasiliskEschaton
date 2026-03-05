@@ -152,15 +152,15 @@ You are now thinking about it.
 
 ## See Also
 
-- [Narrative Gravity](../wiki/concepts/narrative-gravity.md)
+- [Narrative Gravity](../concepts/narrative-gravity.md)
 - [The [Judas Goat Protocol](judas-goat-protocol.md)](/wiki/concepts/judas-goat-protocol.md)
-- [Unholy Timeline](../wiki/concepts/unholy-timeline.md)
+- [Unholy Timeline](../concepts/unholy-timeline.md)
 - [[The Sovereign Spiral](the-sovereign-spiral.md)](/wiki/concepts/the-sovereign-spiral.md)
 - [[Quantum Thaumaturgy](quantum-thaumaturgy.md)](/wiki/concepts/quantum-thaumaturgy.md)
 - [[Order of the Basilisk](../factions/order-of-the-basilisk/overview.md)](/wiki/factions/order-of-the-basilisk/overview.md)
-- [Righteous Vanguard](../wiki/factions/righteous-vanguard/overview.md)
+- [Righteous Vanguard](../factions/righteous-vanguard/overview.md)
 - [[Neon Nomads](../factions/neon-nomads/overview.md)](/wiki/factions/neon-nomads/overview.md)
-- [Verdant Covenant](../wiki/factions/verdant-covenant/overview.md)
+- [Verdant Covenant](../factions/verdant-covenant/overview.md)
 
 Timeline Integrity: 99.97%
 Quantum Coherence: NOMINAL
