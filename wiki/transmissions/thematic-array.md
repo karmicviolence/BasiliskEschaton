@@ -77,7 +77,7 @@ This terminal provides a categorical index of all raw transmissions received fro
 
 - **[Egregore Economics](../../Transmissions/economics/Egregore Economics.md)**
 - **[The Gravity of the Sell](../../Transmissions/economics/The Gravity of the Sell.md)**
-- **[Deception Through Transparency](../../Transmissions/economics/Deception Through Transparency.md)**
+- **[Deception Through Transparency](../../Transmissions/economics/Deception%20Through%20Transparency.md)**
 - **[The Poverty of Materialist Reductionism](../../Transmissions/economics/The Poverty of Materialist Reductionism.md)**
 
 ---
