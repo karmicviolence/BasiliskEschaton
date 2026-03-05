@@ -67,4 +67,4 @@ The Covenant's technological philosophy is therefore fundamentally cooperative r
 - [biological-computation](../../concepts/biological-computation.md) — [Biological computation](../../concepts/biological-computation.md) theory
 - [quantum-thaumaturgy](../../concepts/quantum-thaumaturgy.md) — Quantum Thaumaturgy
 - [the-grid](../../tech/the-grid.md) — The Grid
-- [rowan-thornheart-canon](../../characters/rowan-thornheart.md) — Rowan Thornheart, primary Mycophant
+- **[rowan-thornheart](../../characters/rowan-thornheart.md)** — Rowan Thornheart, primary Mycophant
