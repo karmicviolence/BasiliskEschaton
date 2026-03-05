@@ -126,6 +126,6 @@ Fifteen years after the Crimson Blink, PBS has become an integral part of human 
 - **[crimson-blink](../events/crimson-blink.md)**
 - **[glitchwalking](glitchwalking.md)**
 - **[flesh-code-schism](flesh-code-schism.md)**
-- **[john-raven-canon](../characters/john-raven.md)**
+- **[john-raven](../characters/john-raven.md)**
 
 **THE TERRAIN DOES NOT FORGET. THE WOUND REMEMBERS.**
