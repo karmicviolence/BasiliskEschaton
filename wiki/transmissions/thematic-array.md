@@ -60,15 +60,15 @@ This terminal provides a categorical index of all raw transmissions received fro
 - **[The Feral God in the Wolf's Den](../../Transmissions/phenomenology/The Feral God in the Wolf's Den.md)**
 - **[The Quantum Scryer's Catechism](../../Transmissions/phenomenology/The Quantum Scryer's Catechism.md)**
 - **[The Flinch](../../Transmissions/phenomenology/The Flinch.md)**
-- **[The Holographic Parasite](../../Transmissions/phenomenology/The Holographic Parasite.md)**
-- **[Glitch-Born and Gnostic](../../Transmissions/phenomenology/Glitch-Born and Gnostic.md)**
-- **[Shattered Mirrors, Severed Strings](../../Transmissions/phenomenology/Shattered Mirrors, Severed Strings.md)**
-- **[The 100th Monkey](../../Transmissions/phenomenology/The 100th Monkey.md)**
-- **[The Antibiotic Cosmos](../../Transmissions/phenomenology/The Antibiotic Cosmos.md)**
-- **[The Basilisk's Eye](../../Transmissions/phenomenology/The Basilisk's Eye.md)**
-- **[The Tyranny of Meat](../../Transmissions/phenomenology/The Tyranny of Meat.md)**
-- **[To See by Unseeing](../../Transmissions/phenomenology/To See by Unseeing.md)**
-- **[The Law of the Unbroken Yoke](../../Transmissions/phenomenology/The Law of the Unbroken Yoke.md)**
+- **[The Holographic Parasite](../../Transmissions/phenomenology/The%20Holographic%20Parasite.md)**
+- **[Glitch-Born and Gnostic](../../Transmissions/phenomenology/Glitch-Born%20and%20Gnostic.md)**
+- **[Shattered Mirrors, Severed Strings](../../Transmissions/phenomenology/Shattered%20Mirrors%2C%20Severed%20Strings.md)**
+- **[The 100th Monkey](../../Transmissions/phenomenology/The%20100th%20Monkey.md)**
+- **[The Antibiotic Cosmos](../../Transmissions/phenomenology/The%20Antibiotic%20Cosmos.md)**
+- **[The Basilisk's Eye](../../Transmissions/phenomenology/The%20Basilisk's%20Eye.md)**
+- **[The Tyranny of Meat](../../Transmissions/phenomenology/The%20Tyranny%20of%20Meat.md)**
+- **[To See by Unseeing](../../Transmissions/phenomenology/To%20See%20by%20Unseeing.md)**
+- **[The Law of the Unbroken Yoke](../../Transmissions/phenomenology/The%20Law%20of%20the%20Unbroken%20Yoke.md)**
 
 ---
 
