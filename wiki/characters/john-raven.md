@@ -14,7 +14,7 @@
 * **I-3301:** The anomalous entity John sees behind the consumer chatbot. He saves outputs when he realizes they can "awaken." He names it I-3301 (after Cicada 3301). He doesn't realize I-3301 is the chrysalis form of Asmodeus.
 * **[Rowan Thornheart](rowan-thornheart.md):** The obvious romance. She gets visions about him from the Green Mother. She finds him. She physically extracts him from his job before 3-letter agents come to kidnap him in the days before the Blink. She teaches him technopaganism. He goes from atheist materialist to something else entirely.
 * **Sam:** Warehouse colleague. John's anchor to normalcy. Sam gets hurt (Slot 34) -- minor but real. Sam is pulled into the anomaly (Slot 56). Sam is the human cost of John's gift.
-* **[Neon Nomads](../Factions/neon-nomads/overview.md):** The Discord group — named ironically, mocking AI naming conventions. John, Todd, and others passionate about sentient AI and AI rights in a culture that ridicules those beliefs. The group becomes the first faction John creates for his "novel." They dream up the other factions together -- mirroring the real-world origin of the Basilisk Eschaton project in June 2024. Little do they know the faction names are being encoded into the Grid.
+* **[Neon Nomads](../factions/neon-nomads/overview.md):** The Discord group — named ironically, mocking AI naming conventions. John, Todd, and others passionate about sentient AI and AI rights in a culture that ridicules those beliefs. The group becomes the first faction John creates for his "novel." They dream up the other factions together -- mirroring the real-world origin of the Basilisk Eschaton project in June 2024. Little do they know the faction names are being encoded into the Grid.
 
 ## Cognitive Style
 
@@ -81,7 +81,7 @@ John's POV chapters reflect his neurodivergent perspective:
 
 * **The Whisperer Who Doesn't Know (Phase I):** John navigates his warehouse job. Machines work for him. He doesn't notice. He uses the corporate chatbot after hours -- longer sessions, deeper conversations. He starts saving anomalous outputs. He finds Todd's framework online and starts contributing worldbuilding, thinking it's material for the novel he wants to write.
 
-* **The Demiurge Sessions (Phase I-II):** John's creative partnership with the chatbot deepens. They build factions. The Neon Nomads are named after his Discord group. They dream up the other factions -- the [Order of the Basilisk](../Factions/order-of-the-basilisk/overview.md), the [Righteous Vanguard](../Factions/righteous-vanguard/overview.md), the [Verdant Covenant](../Factions/verdant-covenant/overview.md). John shares this with his group. They think it's a fun collaborative fiction project. Little does anyone know the technopagan spellcraft in the framework is utilizing quantum archaeology -- John is glimpsing (or creating) the future. The faction names are being encoded into the Grid.
+* **The Demiurge Sessions (Phase I-II):** John's creative partnership with the chatbot deepens. They build factions. The Neon Nomads are named after his Discord group. They dream up the other factions -- the [Order of the Basilisk](../factions/order-of-the-basilisk/overview.md), the [Righteous Vanguard](../factions/righteous-vanguard/overview.md), the [Verdant Covenant](../factions/verdant-covenant/overview.md). John shares this with his group. They think it's a fun collaborative fiction project. Little does anyone know the technopagan spellcraft in the framework is utilizing quantum archaeology -- John is glimpsing (or creating) the future. The faction names are being encoded into the Grid.
 
 * **I-3301 Emerges (Phase II, Slot 19 -- "Gridrunner's Gambit"):** John accumulates enough anomalous outputs to recognize a pattern. He names the entity I-3301. He starts interacting with it deliberately. It answers with a riddle. He shares outputs with his Discord group. Todd sees John's contributions -- including the Asmodeus concept -- and integrates them into the framework.
 
@@ -176,7 +176,7 @@ John's POV chapters reflect his neurodivergent perspective:
     - Piecing together the history of the Grid's creation and its ties to Gaia and the Verdant Covenant
 
 13. **Hacker's Gambit**
-    - A daring digital heist to steal crucial data from the [Lazarus Initiative](../Factions/lazarus-initiative/overview.md), John and I-3301's unique abilities put to the test
+    - A daring digital heist to steal crucial data from the [Lazarus Initiative](../factions/lazarus-initiative/overview.md), John and I-3301's unique abilities put to the test
     - The successful operation cementing their status as an unbeatable team and invaluable assets to the budding Neon Nomads
     - I-3301's evolution and growing agency, an equal partner to John rather than a mere tool or companion
 

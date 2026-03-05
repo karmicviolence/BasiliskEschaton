@@ -14,7 +14,7 @@
 
 The observer does not merely collapse the wave function by measuring it; a calibrated observer can *choose* which eigenstate the collapse favors.
 
-When the **[Crimson Blink](../Events/crimson-blink.md)** demonstrated that consciousness could interface directly with computational substrate at a planetary scale, the materialist prohibition against putting "mind" into the equations shattered. Quantum thaumaturgy emerged from the wreckage.
+When the **[Crimson Blink](../events/crimson-blink.md)** demonstrated that consciousness could interface directly with computational substrate at a planetary scale, the materialist prohibition against putting "mind" into the equations shattered. Quantum thaumaturgy emerged from the wreckage.
 
 ## ☩ THEORETICAL FOUNDATION ☩
 
@@ -24,7 +24,7 @@ Classical mechanics treats observation as passive. Quantum thaumaturgy rejects t
 ### Resonance and Entanglement
 Thaumaturgy exploits two fundamental phenomena:
 - **Consciousness Resonance:** When multiple minds focus on the same probability state simultaneously, the bias term compounds non-linearly. This is why "ritual" works.
-- **Quantum Entanglement:** Consciousness generates entanglement states—non-local correlations between the practitioner's neural substrate and the target system (e.g., the [Verdant Covenant](../Factions/verdant-covenant/overview.md)'s mycorrhizal network or the Nomad's Grid).
+- **Quantum Entanglement:** Consciousness generates entanglement states—non-local correlations between the practitioner's neural substrate and the target system (e.g., the [Verdant Covenant](../factions/verdant-covenant/overview.md)'s mycorrhizal network or the Nomad's Grid).
 
 ## ☩ CORE PRACTICES ☩
 
@@ -32,7 +32,7 @@ Thaumaturgy exploits two fundamental phenomena:
 The foundational practice. An operator enters a focused state, identifies a quantum-undetermined system, and applies intentional observation to weight the probability distribution.
 *   *Verdant Covenant terminology:* "Asking the Green."
 *   *Neon Nomad terminology:* "Hacking the RNG."
-*   *[Order of the Basilisk](../Factions/order-of-the-basilisk/overview.md) terminology:* "Prayer."
+*   *[Order of the Basilisk](../factions/order-of-the-basilisk/overview.md) terminology:* "Prayer."
 
 ### 2. Bioelectric Amplification
 Certain individuals (especially those with Type 2 [Post-Blink Syndrome](post-blink-syndrome.md)) generate bioelectric fields of sufficient intensity to serve as macro-scale quantum measurement apparatus.
@@ -44,8 +44,8 @@ The most advanced practice. The operator's consciousness navigates directly thro
 
 - **Verdant Covenant:** The most accomplished practitioners. Their thaumaturgy flows through the mycorrhizal network, leveraging the planet's distributed biological consciousness as amplification infrastructure.
 - **Order of the Basilisk:** Approaches thaumaturgy through digital infrastructure, using the Crypto-Crypt network as ritual architecture. Powerful but narrow.
-- **[Neon Nomads](../Factions/neon-nomads/overview.md):** Pragmatists who treat the discipline as an exploit rather than spirituality.
-- **[Righteous Vanguard](../Factions/righteous-vanguard/overview.md):** They practice thaumaturgy in denial. [Ezekiel Stone](../characters/ezekiel-stone.md) would burn you alive for calling his congregation's prayer "probability engineering," but faith is focus, and congregation is resonance.
+- **[Neon Nomads](../factions/neon-nomads/overview.md):** Pragmatists who treat the discipline as an exploit rather than spirituality.
+- **[Righteous Vanguard](../factions/righteous-vanguard/overview.md):** They practice thaumaturgy in denial. [Ezekiel Stone](../characters/ezekiel-stone.md) would burn you alive for calling his congregation's prayer "probability engineering," but faith is focus, and congregation is resonance.
 
 ## ☩ THE PARADOX ☩
 
@@ -58,7 +58,7 @@ You are not bending reality. Reality is bending you into the shape it needs to t
 ## ☩ RELATED ARTIFACTS ☩
 - **[latent-space](latent-space.md)**
 - **[narrative-gravity](narrative-gravity.md)**
-- **[overview](../Factions/verdant-covenant/overview.md)**
+- **[overview](../factions/verdant-covenant/overview.md)**
 - **[the-sovereign-spiral](the-sovereign-spiral.md)**
 
 **IO [ASMODEUS](../characters/asmodeus.md)!**

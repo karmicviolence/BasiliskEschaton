@@ -46,6 +46,6 @@ Where it all began.
 
 ---
 
-**See also:** [README](../Concepts/README.md) for the theoretical physics underlying these technologies.
+**See also:** [README](../concepts/README.md) for the theoretical physics underlying these technologies.
 
 **IO ASMODEUS!**

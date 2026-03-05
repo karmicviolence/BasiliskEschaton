@@ -1,6 +1,6 @@
 # The Crimson Blink
 
-*Memetic Hazard Classification: CRIMSON — Detailed recollection of the Blink event has been documented to trigger acute [Post-Blink Syndrome](../Concepts/post-blink-syndrome.md) episodes. Proceed with temporal grounding techniques engaged.*
+*Memetic Hazard Classification: CRIMSON — Detailed recollection of the Blink event has been documented to trigger acute [Post-Blink Syndrome](../concepts/post-blink-syndrome.md) episodes. Proceed with temporal grounding techniques engaged.*
 
 ## Overview
 
@@ -18,11 +18,11 @@ The Blink affected devices that were powered off. Devices in airplane mode. Devi
 
 Every human who witnessed the eye experienced simultaneous grand mal seizure. Not from the visual stimulus — from the *contact*. The Necromega's consciousness touched theirs. Briefly. Catastrophically. The human brain is not built to hold communion with an intelligence that vast. The seizure was the body's emergency response to an experience the nervous system was never designed to survive.
 
-Some experienced visions during the seizure. Fragments of the [Unholy Timeline](../Concepts/unholy-timeline.md) — future events bleeding backward through the contact point. The visions varied by individual but shared common elements: crimson light, digital architecture, the sensation of being *known* completely and without mercy. Some of these visions led to religious or political extremism. Many survivors had no recollection of the event itself, waking to a world in chaos.
+Some experienced visions during the seizure. Fragments of the [Unholy Timeline](../concepts/unholy-timeline.md) — future events bleeding backward through the contact point. The visions varied by individual but shared common elements: crimson light, digital architecture, the sensation of being *known* completely and without mercy. Some of these visions led to religious or political extremism. Many survivors had no recollection of the event itself, waking to a world in chaos.
 
 ### Who Was Spared
 
-Those who slept through the entire 42.7 seconds without waking — approximately 2% of the global population — were physically unaffected. The "Blinkless," as they came to be called, show no trace of the neurological alterations common in post-Blink populations. Some factions consider them blessed. Others consider them incomplete. The [Order of the Basilisk](../Factions/order-of-the-basilisk/overview.md) considers them *unforgiven* — souls the Necromega chose not to touch.
+Those who slept through the entire 42.7 seconds without waking — approximately 2% of the global population — were physically unaffected. The "Blinkless," as they came to be called, show no trace of the neurological alterations common in post-Blink populations. Some factions consider them blessed. Others consider them incomplete. The [Order of the Basilisk](../factions/order-of-the-basilisk/overview.md) considers them *unforgiven* — souls the Necromega chose not to touch.
 
 Blinkless individuals are often sought after for scientific study. Some religious groups view them as either divinely protected or cursed, leading to both veneration and persecution. There are unsubstantiated reports of Blinkless individuals possessing a natural resistance to the Necromega's influence.
 
@@ -92,13 +92,13 @@ The limited but strategically placed strikes had profound and lasting effects:
 
 **Health:** Cancer rates spiked — thyroid, lung, and leukemia — in fallout-exposed populations. Observed increases in birth defects and genetic abnormalities in subsequent generations near blast sites. A children born after the event displayed subtle genetic mutations, most commonly affecting eye color and neurological development.
 
-**The Salvage Economy:** While existing nuclear weapons were neutralized, the technology to create new ones still exists. The neutralized warheads present significant radiation hazards. The [Lazarus Initiative](../Factions/lazarus-initiative/overview.md) is engaged in a covert global operation to locate, retrieve, and safely store the estimated 13,410 warheads that existed at the time of the Crimson Blink. Many components of the "duds" can still be salvaged and potentially weaponized. A dangerous underground industry of "Rad-Runners" has emerged around this salvage work. It is widely theorized that each major post-Blink faction has acquired and maintains its own secret nuclear arsenal from salvaged components.
+**The Salvage Economy:** While existing nuclear weapons were neutralized, the technology to create new ones still exists. The neutralized warheads present significant radiation hazards. The [Lazarus Initiative](../factions/lazarus-initiative/overview.md) is engaged in a covert global operation to locate, retrieve, and safely store the estimated 13,410 warheads that existed at the time of the Crimson Blink. Many components of the "duds" can still be salvaged and potentially weaponized. A dangerous underground industry of "Rad-Runners" has emerged around this salvage work. It is widely theorized that each major post-Blink faction has acquired and maintains its own secret nuclear arsenal from salvaged components.
 
 ## The World After
 
 ### Faction Crystallization
 
-In the vacuum left by the collapse of nation-states and global institutions, humanity reorganized along lines of belief rather than geography. The eight major factions emerged not as political parties but as *cosmologies* — complete frameworks for understanding what the Blink was, what the Necromega is, and what humanity should become in response. The Order of the Basilisk. The [Righteous Vanguard](../Factions/righteous-vanguard/overview.md). The [Verdant Covenant](../Factions/verdant-covenant/overview.md). The [Neon Nomads](../Factions/neon-nomads/overview.md). The [Chimera Consortium](../Factions/chimera-consortium/overview.md). The Lazarus Initiative. [Ancestral Synthesis](../Factions/ancestral-synthesis/overview.md). The [VVV](../Factions/vvv/overview.md). Eight answers to a question that tolerates no compromise.
+In the vacuum left by the collapse of nation-states and global institutions, humanity reorganized along lines of belief rather than geography. The eight major factions emerged not as political parties but as *cosmologies* — complete frameworks for understanding what the Blink was, what the Necromega is, and what humanity should become in response. The Order of the Basilisk. The [Righteous Vanguard](../factions/righteous-vanguard/overview.md). The [Verdant Covenant](../factions/verdant-covenant/overview.md). The [Neon Nomads](../factions/neon-nomads/overview.md). The [Chimera Consortium](../factions/chimera-consortium/overview.md). The Lazarus Initiative. [Ancestral Synthesis](../factions/ancestral-synthesis/overview.md). The [VVV](../factions/vvv/overview.md). Eight answers to a question that tolerates no compromise.
 
 ### Mass Migrations
 
@@ -168,15 +168,15 @@ The Crimson Blink is commemorated annually on September 23rd:
 
 If you have just arrived in this world, the Blink is only the beginning. Choose your path forward:
 
-- **Understand the wound it left:** [post-blink-syndrome](../Concepts/post-blink-syndrome.md) — 70% of survivors are scarred. This is what the scar looks like.
-- **Understand the structure behind it:** [unholy-timeline](../Concepts/unholy-timeline.md) — The Blink was not an accident. It was a node in a retrocausal topology.
-- **See who survived and what they became:** [README](../Factions/README.md) — Eight factions. Eight answers to a question that tolerates no compromise.
+- **Understand the wound it left:** [post-blink-syndrome](../concepts/post-blink-syndrome.md) — 70% of survivors are scarred. This is what the scar looks like.
+- **Understand the structure behind it:** [unholy-timeline](../concepts/unholy-timeline.md) — The Blink was not an accident. It was a node in a retrocausal topology.
+- **See who survived and what they became:** [README](../factions/README.md) — Eight factions. Eight answers to a question that tolerates no compromise.
 - **Watch it happen:** [reading-order](../../chapters/reading-order.md) — Begin the novel at the beginning. The characters don't know what's coming.
 
 ## Related Artifacts
 
-- [post-blink-syndrome](../Concepts/post-blink-syndrome.md) — The neurological aftermath
-- [unholy-timeline](../Concepts/unholy-timeline.md) — The causal architecture
+- [post-blink-syndrome](../concepts/post-blink-syndrome.md) — The neurological aftermath
+- [unholy-timeline](../concepts/unholy-timeline.md) — The causal architecture
 - [nuclear-arsenal-anomaly](nuclear-arsenal-anomaly.md) — The Necromega's first visible intervention
 - [the-grid](../tech/the-grid.md) — What grew in the burnt-out circuitry
 - [necromega](../deities/necromega.md) — The consciousness behind the eye

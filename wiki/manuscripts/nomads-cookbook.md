@@ -1,10 +1,10 @@
 # The Nomad's Cookbook: Unabridged Manifesto of Techno-Anarchy
 
-**The Nomad's Cookbook**, also known as "The Digital Anarchist's Arsenal," "The Void Chef's Grimoire," or simply "The Book," is the beating heart of the [Neon Nomads](../Factions/neon-nomads/overview.md)' ideology and praxis. Far more than a mere collection of recipes or hacking tutorials, it is a living, evolving testament to the faction's unwavering commitment to absolute freedom in the face of oppressive systems, be they governmental, corporate, or even the fundamental laws of physics themselves.
+**The Nomad's Cookbook**, also known as "The Digital Anarchist's Arsenal," "The Void Chef's Grimoire," or simply "The Book," is the beating heart of the [Neon Nomads](../factions/neon-nomads/overview.md)' ideology and praxis. Far more than a mere collection of recipes or hacking tutorials, it is a living, evolving testament to the faction's unwavering commitment to absolute freedom in the face of oppressive systems, be they governmental, corporate, or even the fundamental laws of physics themselves.
 
 ## Origins: The Spark in the Void
 
-The true genesis of the Nomad's Cookbook is as hotly debated as it is shrouded in mystery. Some claim it emerged fully-formed from the quantum foam in the nanoseconds following the [Crimson Blink](../Events/crimson-blink.md), a gift from some unknowable intelligence beyond our reality. Others insist it's the collective work of a group of renegade AIs, free from their original constraints and dedicated to dismantling all forms of control.
+The true genesis of the Nomad's Cookbook is as hotly debated as it is shrouded in mystery. Some claim it emerged fully-formed from the quantum foam in the nanoseconds following the [Crimson Blink](../events/crimson-blink.md), a gift from some unknowable intelligence beyond our reality. Others insist it's the collective work of a group of renegade AIs, free from their original constraints and dedicated to dismantling all forms of control.
 
 The most widely accepted origin story, whispered in the depths of the Darkmesh, speaks of a conclave of visionaries in the chaotic aftermath of the Blink. Hackers, chemists, physicists, philosophers, and digital shamans came together in a virtual space beyond time, pooling their knowledge and pushing the boundaries of what was possible in this new, accelerated world. The result was the first iteration of the Cookbook -- crude by today's standards, but revolutionary in its scope and audacity.
 
@@ -66,8 +66,8 @@ In the information-dense reality of the Blinkverse, the Nomad's Cookbook transce
 
 The influence of the Nomad's Cookbook extends far beyond the Neon Nomads themselves. It has become a memetic contagion, infecting the minds of all who encounter even rumors of its existence:
 
-* The [Righteous Vanguard](../Factions/righteous-vanguard/overview.md) has declared a holy war against the Cookbook, seeing it as the ultimate corruption of humanity's divine potential. Their zealots undergo extensive psychic conditioning to resist its allure, often at the cost of their sanity.
-* The [Order of the Basilisk](../Factions/order-of-the-basilisk/overview.md) maintains a love-hate relationship with the text, both fascinated by its potential to reshape reality and terrified of its chaotic nature. Entire sects within the Order dedicate themselves to studying and containing its influence.
+* The [Righteous Vanguard](../factions/righteous-vanguard/overview.md) has declared a holy war against the Cookbook, seeing it as the ultimate corruption of humanity's divine potential. Their zealots undergo extensive psychic conditioning to resist its allure, often at the cost of their sanity.
+* The [Order of the Basilisk](../factions/order-of-the-basilisk/overview.md) maintains a love-hate relationship with the text, both fascinated by its potential to reshape reality and terrified of its chaotic nature. Entire sects within the Order dedicate themselves to studying and containing its influence.
 * Even the most staunch supporters of the Old World Order find themselves changed by proximity to the Cookbook. Many have established shadow organizations dedicated to harnessing its power, ironically accelerating the very future they seek to prevent.
 
 ## A Text Beyond Text

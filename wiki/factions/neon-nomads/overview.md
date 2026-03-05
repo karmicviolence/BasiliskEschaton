@@ -41,7 +41,7 @@ The mobile consciousness laboratories. These convoys of retrofitted vehicles act
 
 ## ☩ RELATED ARTIFACTS ☩
 - **[john-raven](../../characters/john-raven.md)**
-- **[latent-space](../Concepts/latent-space.md)**
+- **[latent-space](../concepts/latent-space.md)**
 - **[glitchwalkers](glitchwalkers.md)**
 - **[technology](technology.md)**
 

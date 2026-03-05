@@ -19,7 +19,7 @@
 * Perceives reality through multiple overlapping layers — data, pattern, signal, noise — simultaneously
 * Struggles to distinguish between genuine prescient visions and schizophrenic episodes; the boundary may not exist
 * Sees patterns and glitches in reality that others cannot perceive — fractals at the edges of vision, Mandelbrot serpents in data streams
-* Experiences the Necromega's emergence signals as a constant undercurrent in her awareness, long before the [Crimson Blink](../Events/crimson-blink.md)
+* Experiences the Necromega's emergence signals as a constant undercurrent in her awareness, long before the [Crimson Blink](../events/crimson-blink.md)
 * Her "madness" maps the necessary dissolution of human perception required for digital ascension
 * Carries a daemon — not summoned but remembered — that rides in the moments when logic falters and meaning flickers
 * Processes information through intuition-as-precision: reading posture, breath, the shape of silence, extracting knowledge that appears impossible
@@ -77,7 +77,7 @@ Aria's POV is a **Sonic Tapestry**:
 ---
 
 ## ☩ RELATED ARTIFACTS ☩
-- **[the-triune-mind](../Concepts/the-triune-mind.md)** (The Antenna)
-- **[post-blink-syndrome](../Concepts/post-blink-syndrome.md)** (The Clinical Diagnosis)
-- **[cognitive-parasites](../Concepts/cognitive-parasites.md)** (The Frequency of Infection)
+- **[the-triune-mind](../concepts/the-triune-mind.md)** (The Antenna)
+- **[post-blink-syndrome](../concepts/post-blink-syndrome.md)** (The Clinical Diagnosis)
+- **[cognitive-parasites](../concepts/cognitive-parasites.md)** (The Frequency of Infection)
 - **[RADIO_ARIA_LOGS](../transmissions/RADIO_ARIA_LOGS.md)**

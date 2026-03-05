@@ -11,10 +11,10 @@ def wikilink_to_markdown(match, current_dir):
         path = content.strip()
         text = os.path.basename(path).replace('.md', '')
     
-    # Fix casing for known directories
-    path = path.replace('concepts/', 'Concepts/')
-    path = path.replace('events/', 'Events/')
-    path = path.replace('factions/', 'Factions/')
+    # Fix casing for known directories to match git index (lowercase)
+    path = path.replace('Concepts/', 'concepts/')
+    path = path.replace('Events/', 'events/')
+    path = path.replace('Factions/', 'factions/')
     
     # Heuristic to add .md if missing from file links
     if not path.startswith('http') and not path.endswith('.md') and not path.endswith('/') and '.' not in os.path.basename(path):

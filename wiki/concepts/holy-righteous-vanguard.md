@@ -2,7 +2,7 @@ Warning: This page contains descriptions of extreme political views and pseudosc
 
 ## "Holy Magic" and Human Potential
 
-The [Righteous Vanguard](../Factions/righteous-vanguard/overview.md) rejects modern technology, instead focusing on what they call "holy magic" - a mix of ancient religious practices and advanced understanding of human biology. Their scientists and spiritual leaders work together to unlock the hidden potential of the human body and mind.
+The [Righteous Vanguard](../factions/righteous-vanguard/overview.md) rejects modern technology, instead focusing on what they call "holy magic" - a mix of ancient religious practices and advanced understanding of human biology. Their scientists and spiritual leaders work together to unlock the hidden potential of the human body and mind.
 
 ### Healing Touch
 

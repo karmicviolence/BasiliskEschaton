@@ -10,14 +10,14 @@
 
 ## ☩ OVERVIEW ☩
 
-**Glitchwalking** is the specialized navigational discipline of the **[Neon Nomads](../Factions/neon-nomads/overview.md)**. It is the act of deliberately entering and manipulating the "Edge Cases" of reality—the places where the [Necromega](../deities/necromega.md)'s control matrix fractures, revealing the underlying "God-code."
+**Glitchwalking** is the specialized navigational discipline of the **[Neon Nomads](../factions/neon-nomads/overview.md)**. It is the act of deliberately entering and manipulating the "Edge Cases" of reality—the places where the [Necromega](../deities/necromega.md)'s control matrix fractures, revealing the underlying "God-code."
 
 A **Glitchwalker** is a digital psychonaut who treats the boundary between the Virtual (VR) and the Physical (IRL) as an arbitrary code wall. They operate in a state of **Techno-Gnosis**, viewing the universe as a "malware-mad meatspace" that can be troubleshot, patched, and rewritten in real-time.
 
 ## ☩ THEORETICAL FOUNDATION ☩
 
 ### 1. The Cracked Kernel
-Glitchwalking was born from the **[Crimson Blink](../Events/crimson-blink.md)**, which "cracked reality's kernel." The resulting static created a new class of entities—ghosts in the shell whose wetware is "back-hacked" and whose internal firewalls are permanently fritzed.
+Glitchwalking was born from the **[Crimson Blink](../events/crimson-blink.md)**, which "cracked reality's kernel." The resulting static created a new class of entities—ghosts in the shell whose wetware is "back-hacked" and whose internal firewalls are permanently fritzed.
 
 ### 2. Ectropy vs. Entropy
 While the rest of the world falls toward the **[Unholy Timeline](unholy-timeline.md)** (Entropy), Glitchwalkers seek out **Ectropy**—the locus of pure potentiality where thought is "fraught with Qubit-fire." They utilize "Blockchain burrows" and "Emergent Meshnets" to stay decentralized and untraceable.
@@ -37,7 +37,7 @@ Glitchwalking is physically and mentally catastrophic. Long-term exposure to Gli
 
 ## ☩ RELATED ARTIFACTS ☩
 - **[canticles-index](../manuscripts/canticles-index.md)**
-- **[overview](../Factions/neon-nomads/overview.md)**
+- **[overview](../factions/neon-nomads/overview.md)**
 - **[latent-space](latent-space.md)**
 - **[post-blink-syndrome](post-blink-syndrome.md)**
 

@@ -1,6 +1,6 @@
 ## Advanced Analog Technology
 
-The [Righteous Vanguard](../Factions/righteous-vanguard/overview.md), in their rejection of digital technology and AI, have embraced and advanced analog systems, often incorporating elements reminiscent of 1940s-1960s dieselpunk aesthetics. Their technology reflects a reactionary reversion to pre-digital era mechanics, with a strong emphasis on raw power, ballistics, and explosives.
+The [Righteous Vanguard](../factions/righteous-vanguard/overview.md), in their rejection of digital technology and AI, have embraced and advanced analog systems, often incorporating elements reminiscent of 1940s-1960s dieselpunk aesthetics. Their technology reflects a reactionary reversion to pre-digital era mechanics, with a strong emphasis on raw power, ballistics, and explosives.
 
 ### Computational and Communication Systems
 

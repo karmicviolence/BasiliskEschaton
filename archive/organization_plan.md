@@ -32,7 +32,7 @@ G:\My Drive\BasiliskEschaton\
 - Remove "Wiki_-_" prefix after moving to Wiki folder.
 - Remove "Novel_-_" prefix after moving to Novel folder.
 - Lowercase for consistency (optional, but cleaner). I'll stick to maintaining some capitalization for readability but ensuring no spaces.
-- Example: `Wiki - Faction - Guan Dynasty.txt` -> `Wiki/Factions/Guan_Dynasty.txt`
+- Example: `Wiki - Faction - Guan Dynasty.txt` -> `wiki/factions/Guan_Dynasty.txt`
 
 ## 3. Execution Steps
 1. Create directories.

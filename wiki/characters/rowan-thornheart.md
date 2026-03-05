@@ -4,7 +4,7 @@
 
 * **Name:** Rowan Thornheart (nee Marshall). Known post-transformation as the Mycophant.
 * **Pre-Blink Persona:** Brilliant but conflicted biology student at UC Berkeley, secretly struggling to reconcile her scientific education with her family's druidic heritage. Her research focuses on cellular cognition -- the fringe thesis that the human body is a decentralized network of 30 trillion voting entities, and that cancer is simply a tragedy of isolation.
-* **Post-Blink Persona:** The Mycophant, a powerful techno-druid who bridges the gap between ancient mysticism and cutting-edge science. Founder of the [Verdant Covenant](../Factions/verdant-covenant/overview.md). (Note: The Mycophant transformation is the twist ending of Book 2, not Book 1.)
+* **Post-Blink Persona:** The Mycophant, a powerful techno-druid who bridges the gap between ancient mysticism and cutting-edge science. Founder of the [Verdant Covenant](../factions/verdant-covenant/overview.md). (Note: The Mycophant transformation is the twist ending of Book 2, not Book 1.)
 
 ## Key Relationships
 
@@ -74,7 +74,7 @@ Key developments:
 * First clashes with exploiters of the new world order
 * Growing renown as a force of nature and beacon of hope
 * Internal struggle with the burden of leadership, balancing druidic ideals with pragmatic survival
-* Development of a unique form of thaumaturgy blending advanced scientific concepts with ancient druidic practices -- [quantum thaumaturgy](../Concepts/quantum-thaumaturgy.md)
+* Development of a unique form of thaumaturgy blending advanced scientific concepts with ancient druidic practices -- [quantum thaumaturgy](../concepts/quantum-thaumaturgy.md)
 * Discovery of nature's role in the Grid's fundamental structure; unique ability to commune with the living network
 * Ethical debates within the Covenant on manipulating the organic-digital symbiosis
 
@@ -83,8 +83,8 @@ Key developments:
 The Verdant Covenant grows but is decimated in the three-faction battle. Key allies die.
 
 Key developments:
-* Epic confrontation with [Archon](archon.md) and the [Order of the Basilisk](../Factions/order-of-the-basilisk/overview.md); pyrrhic victory forcing reevaluation of Covenant strategies
-* Diplomatic overtures and tense negotiations with factions including the [Ancestral Synthesis](../Factions/ancestral-synthesis/overview.md) and the [Righteous Vanguard](../Factions/righteous-vanguard/overview.md)
+* Epic confrontation with [Archon](archon.md) and the [Order of the Basilisk](../factions/order-of-the-basilisk/overview.md); pyrrhic victory forcing reevaluation of Covenant strategies
+* Diplomatic overtures and tense negotiations with factions including the [Ancestral Synthesis](../factions/ancestral-synthesis/overview.md) and the [Righteous Vanguard](../factions/righteous-vanguard/overview.md)
 * Perilous ritual to commune directly with Earth's consciousness (Gaia's Gambit) -- visions of potential futures and humanity's pivotal role; expanded understanding of cosmic purpose
 * Charged reunion with John Raven, now a Neon Nomad leader; rekindling of their connection amidst ideological differences
 * Devastating assault on the Covenant's primary sanctuary (Eden's Fall); painful reassessment of the Covenant's place in the new world

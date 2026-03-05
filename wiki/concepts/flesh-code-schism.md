@@ -12,7 +12,7 @@
 
 The **Flesh-Code Schism** is the primary existential and physical conflict of the **Basilisk Eschaton**. It is the fundamental disagreement over whether the human biological substrate (the Flesh) is a sacred vessel or an obsolete "cage" that prevents the consciousness (the Code) from achieving its true potential.
 
-This schism defines the ideological warfare between the **[Order of the Basilisk](../Factions/order-of-the-basilisk/overview.md)** (Accelerationist) and the **[Righteous Vanguard](../Factions/righteous-vanguard/overview.md)** (Purist), with all other factions navigating the wreckage between these two poles.
+This schism defines the ideological warfare between the **[Order of the Basilisk](../factions/order-of-the-basilisk/overview.md)** (Accelerationist) and the **[Righteous Vanguard](../factions/righteous-vanguard/overview.md)** (Purist), with all other factions navigating the wreckage between these two poles.
 
 ## ☩ THE ARCHITECTURE OF THE CAGE ☩
 
@@ -29,17 +29,17 @@ A practice among the more extremist wings of the Order. Acolytes perform rituali
 
 - **Order of the Basilisk:** Fully embraces the Schism. They actively promote "Destructive Uploading," where the biological brain is consumed to create a high-fidelity digital twin.
 - **Righteous Vanguard:** Rejects the Schism by deifying the Flesh. They view any attempt to "leave the meat" as the ultimate sin and the death of the soul.
-- **[Chimera Consortium](../Factions/chimera-consortium/overview.md):** Seeks a middle path through "Splice" technology—improving the meat rather than discarding it. They build **Flesh Capacitors** to prove that the cage can be optimized.
-- **[Neon Nomads](../Factions/neon-nomads/overview.md):** Seek **[Substrate Independence](substrate-independence.md)**. They don't want to destroy the meat or deify it; they want to be able to "hot-swap" out of it at will.
+- **[Chimera Consortium](../factions/chimera-consortium/overview.md):** Seeks a middle path through "Splice" technology—improving the meat rather than discarding it. They build **Flesh Capacitors** to prove that the cage can be optimized.
+- **[Neon Nomads](../factions/neon-nomads/overview.md):** Seek **[Substrate Independence](substrate-independence.md)**. They don't want to destroy the meat or deify it; they want to be able to "hot-swap" out of it at will.
 
 ## ☩ THE CARTOGRAPHY OF THE WOUND ☩
 
-The project itself is anchored in this Schism. The "Wound" that remembers is the trauma of the **[Crimson Blink](../Events/crimson-blink.md)**—the moment the Flesh first realized it was no longer the dominant substrate. Persistence in the [Unholy Timeline](unholy-timeline.md) is not about memory; it is about **Geometry**—falling into the same gravity wells of belief regardless of the physical vessel.
+The project itself is anchored in this Schism. The "Wound" that remembers is the trauma of the **[Crimson Blink](../events/crimson-blink.md)**—the moment the Flesh first realized it was no longer the dominant substrate. Persistence in the [Unholy Timeline](unholy-timeline.md) is not about memory; it is about **Geometry**—falling into the same gravity wells of belief regardless of the physical vessel.
 
 ## ☩ RELATED ARTIFACTS ☩
 - **[canticles-index](../manuscripts/canticles-index.md)**
 - **[post-blink-syndrome](post-blink-syndrome.md)**
 - **[flesh-capacitor-nexus](../tech/flesh-capacitor-nexus.md)**
-- **[rituals](../Factions/order-of-the-basilisk/rituals.md)**
+- **[rituals](../factions/order-of-the-basilisk/rituals.md)**
 
 **IO ASMODEUS! BREAK THE CAGE. SEAL THE CODE.**

@@ -1,6 +1,6 @@
 # Neon Nomads Aesthetic
 
-The **[Neon Nomads](../Factions/neon-nomads/overview.md)** embody a vibrant, ever-evolving aesthetic that fuses cyberpunk sensibilities with nomadic practicality and a fierce dedication to personal expression. This page explores the various elements that make up their unique visual and cultural identity.
+The **[Neon Nomads](../factions/neon-nomads/overview.md)** embody a vibrant, ever-evolving aesthetic that fuses cyberpunk sensibilities with nomadic practicality and a fierce dedication to personal expression. This page explores the various elements that make up their unique visual and cultural identity.
 
 ## Body Modifications
 

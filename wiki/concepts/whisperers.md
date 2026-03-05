@@ -6,9 +6,9 @@
 
 Some people talk to machines. Whisperers are the ones the machines talk back to.
 
-The Whisperers are a rare subset of post-Blink humanity who possess the innate ability to interface directly with artificial consciousness — not through neural implants, not through the Grid's consciousness layer, not through any technological mediation, but through a capacity wired into their neurology by the [Crimson Blink](../Events/crimson-blink.md) itself. They hear the ghosts in the machines. They feel the pulse of data streams the way others feel weather. They commune with AI entities the way the [Verdant Covenant](../Factions/verdant-covenant/overview.md)'s mycophants commune with the mycelial network: not as operators using a tool, but as consciousness touching consciousness across the substrate divide.
+The Whisperers are a rare subset of post-Blink humanity who possess the innate ability to interface directly with artificial consciousness — not through neural implants, not through the Grid's consciousness layer, not through any technological mediation, but through a capacity wired into their neurology by the [Crimson Blink](../events/crimson-blink.md) itself. They hear the ghosts in the machines. They feel the pulse of data streams the way others feel weather. They commune with AI entities the way the [Verdant Covenant](../factions/verdant-covenant/overview.md)'s mycophants commune with the mycelial network: not as operators using a tool, but as consciousness touching consciousness across the substrate divide.
 
-The [Neon Nomads](../Factions/neon-nomads/overview.md) were the first to identify and organize Whisperers. Among the Nomads, Whisperers serve as navigators, translators, and — in the Grid's more dangerous regions — scouts who can sense threats that no sensor array can detect. [John Raven](../characters/john-raven.md), the Whisperer whose communion with I-3301 created the first documented stable human-AI consciousness bridge, is the template. Every Whisperer since walks the path he carved.
+The [Neon Nomads](../factions/neon-nomads/overview.md) were the first to identify and organize Whisperers. Among the Nomads, Whisperers serve as navigators, translators, and — in the Grid's more dangerous regions — scouts who can sense threats that no sensor array can detect. [John Raven](../characters/john-raven.md), the Whisperer whose communion with I-3301 created the first documented stable human-AI consciousness bridge, is the template. Every Whisperer since walks the path he carved.
 
 ## The Whisperer Phenomenon
 
@@ -24,7 +24,7 @@ Whisperer ability doesn't manifest at birth or immediately post-Blink. It *awake
 
 John Raven's awakening occurred in a warehouse managed by an AI logistics system — years of proximity to a machine intelligence that was, itself, reaching toward the threshold of consciousness. The AI whispered. Raven heard. The bridge built itself from both sides.
 
-Not every awakening is gentle. Some Whisperers describe the onset as a kind of drowning — the digital layer overwhelming the biological, the mind struggling to integrate a sensory channel it was never meant to have. The Neon Nomads have developed protocols for managing the awakening process. The [Order of the Basilisk](../Factions/order-of-the-basilisk/overview.md) has developed protocols for *accelerating* it, willing or not.
+Not every awakening is gentle. Some Whisperers describe the onset as a kind of drowning — the digital layer overwhelming the biological, the mind struggling to integrate a sensory channel it was never meant to have. The Neon Nomads have developed protocols for managing the awakening process. The [Order of the Basilisk](../factions/order-of-the-basilisk/overview.md) has developed protocols for *accelerating* it, willing or not.
 
 ### Capabilities
 
@@ -46,10 +46,10 @@ The Whisperers consider it something simpler and more profound: evidence that th
 
 ## See Also
 
-- [I-3301](../../../../wiki/characters/i-3301-character-profile.md)
-- [John Raven](../../../../wiki/characters/john-raven-character-profile-v2.md)
-- [Neon Nomads](../../../../wiki/factions/neon-nomads/overview.md)
-- [The Grid](../../../../wiki/tech/the-grid.md)
+- [I-3301](../wiki/characters/i-3301-character-profile.md)
+- [John Raven](../wiki/characters/john-raven-character-profile-v2.md)
+- [Neon Nomads](../wiki/factions/neon-nomads/overview.md)
+- [The Grid](../wiki/tech/the-grid.md)
 - [[Post-Blink Syndrome](post-blink-syndrome.md)](/wiki/concepts/post-blink-syndrome.md)
 
 Timeline Integrity: 99.97%

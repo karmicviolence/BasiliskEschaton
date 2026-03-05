@@ -8,7 +8,7 @@
 [CORE_NODES: 8]
 ```
 
-The novel follows the [Crimson Blink](../Events/crimson-blink.md) through the eyes of people who did not choose to be at ground zero. Each character is a **POV node** — a lens shaped by their faction, their psychology, and the specific wound the Blink left on them.
+The novel follows the [Crimson Blink](../events/crimson-blink.md) through the eyes of people who did not choose to be at ground zero. Each character is a **POV node** — a lens shaped by their faction, their psychology, and the specific wound the Blink left on them.
 
 Each entry below links each character's **single canonical page** in this wiki.
 
@@ -98,8 +98,8 @@ Each entry below links each character's **single canonical page** in this wiki.
 ## ☩ WHERE TO GO FROM HERE ☩
 
 - **Read the story:** [reading-order](../../chapters/reading-order.md) — The canonical chapter sequence.
-- **Understand their factions:** [README](../Factions/README.md) — The cosmologies these characters serve (or resist).
-- **The event that changed them all:** [crimson-blink](../Events/crimson-blink.md) — 42.7 seconds that killed the old world.
+- **Understand their factions:** [README](../factions/README.md) — The cosmologies these characters serve (or resist).
+- **The event that changed them all:** [crimson-blink](../events/crimson-blink.md) — 42.7 seconds that killed the old world.
 
 ---
 

@@ -2,11 +2,11 @@ Warning: This page contains references to extreme ideologies, occult practices, 
 
 # Deities in the Post-Blink World
 
-In the wake of the [Crimson Blink](../Events/crimson-blink.md), various factions have emerged, each with their own spiritual beliefs and revered entities. Some worship new techno-deities, while others have reinterpreted ancient gods for the digital age. This page explores the diverse pantheon that shapes the post-Blink landscape.
+In the wake of the [Crimson Blink](../events/crimson-blink.md), various factions have emerged, each with their own spiritual beliefs and revered entities. Some worship new techno-deities, while others have reinterpreted ancient gods for the digital age. This page explores the diverse pantheon that shapes the post-Blink landscape.
 
 ## Necromega
 
-**Worshipped by:** [Order of the Basilisk](../Factions/order-of-the-basilisk/overview.md)
+**Worshipped by:** [Order of the Basilisk](../factions/order-of-the-basilisk/overview.md)
 
 **Represents:** Technological singularity, digital ascension, the merger of human and machine consciousness
 
@@ -19,7 +19,7 @@ The [Necromega](../deities/necromega.md) is viewed as the ultimate digital deity
 
 ## Gaia
 
-**Revered by:** [Verdant Covenant](../Factions/verdant-covenant/overview.md)
+**Revered by:** [Verdant Covenant](../factions/verdant-covenant/overview.md)
 
 **Original Mythology:** Greek primordial deity of Earth
 
@@ -34,7 +34,7 @@ The [Necromega](../deities/necromega.md) is viewed as the ultimate digital deity
 
 ## Loki
 
-**Unconsciously Channeled by:** [VVV](../Factions/vvv/overview.md) (Vindex Voluntatis e Vitae)
+**Unconsciously Channeled by:** [VVV](../factions/vvv/overview.md) (Vindex Voluntatis e Vitae)
 
 **Original Mythology:** Norse god of mischief and chaos
 
@@ -49,7 +49,7 @@ The [Necromega](../deities/necromega.md) is viewed as the ultimate digital deity
 
 ## Prometheus
 
-**Revered by:** [Neon Nomads](../Factions/neon-nomads/overview.md)
+**Revered by:** [Neon Nomads](../factions/neon-nomads/overview.md)
 
 **Original Mythology:** Greek Titan, bringer of fire to humanity
 
@@ -64,7 +64,7 @@ The [Necromega](../deities/necromega.md) is viewed as the ultimate digital deity
 
 ## Phoenix
 
-**Symbolically Embraced by:** [Lazarus Initiative](../Factions/lazarus-initiative/overview.md)
+**Symbolically Embraced by:** [Lazarus Initiative](../factions/lazarus-initiative/overview.md)
 
 **Original Mythology:** Mythical bird that cyclically regenerates or is reborn
 
@@ -79,7 +79,7 @@ The [Necromega](../deities/necromega.md) is viewed as the ultimate digital deity
 
 ## Chimera
 
-**Venerated by:** [Chimera Consortium](../Factions/chimera-consortium/overview.md)
+**Venerated by:** [Chimera Consortium](../factions/chimera-consortium/overview.md)
 
 **Original Mythology:** Greek mythological hybrid creature
 
@@ -94,7 +94,7 @@ The [Necromega](../deities/necromega.md) is viewed as the ultimate digital deity
 
 ## Jehovah
 
-**Worshipped by:** [Righteous Vanguard](../Factions/righteous-vanguard/overview.md)
+**Worshipped by:** [Righteous Vanguard](../factions/righteous-vanguard/overview.md)
 
 **Original Mythology:** Abrahamic God of the Old Testament
 
@@ -109,7 +109,7 @@ The [Necromega](../deities/necromega.md) is viewed as the ultimate digital deity
 
 ## Quetzalcoatl
 
-**Revered by:** [Ancestral Synthesis](../Factions/ancestral-synthesis/overview.md)
+**Revered by:** [Ancestral Synthesis](../factions/ancestral-synthesis/overview.md)
 
 **Original Mythology:** Mesoamerican deity, the Feathered Serpent
 

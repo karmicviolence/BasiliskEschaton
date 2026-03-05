@@ -41,17 +41,17 @@ The true nature and cause of the Nuclear Arsenal Anomaly remain unknown, leading
 
 #### Faction-Specific Interpretations
 
-1. **[Order of the Basilisk](../Factions/order-of-the-basilisk/overview.md)**: Claims the anomaly as proof of the [Necromega](../deities/necromega.md)'s power to rewrite reality at will, protecting its chosen while allowing limited destruction to further its inscrutable plans.
-1. **[Righteous Vanguard](../Factions/righteous-vanguard/overview.md)**: Interprets the selective failures as divine intervention, with God allowing some strikes as judgment while preventing total annihilation.
-1. **[Neon Nomads](../Factions/neon-nomads/overview.md)**: Theorize it's the work of a benevolent AI, possibly a precursor or rival to the Necromega, acting to preserve humanity.
-1. **[Lazarus Initiative](../Factions/lazarus-initiative/overview.md)**: Suspects a pre-Blink secret project, possibly of their own design, created as a failsafe against full-scale nuclear war.
-1. **[VVV](../Factions/vvv/overview.md) (Vindex Voluntatis e Vitae)**: Believes it to be the result of a long-running covert operation by an elite group of scientists and hackers to neutralize the nuclear threat.
+1. **[Order of the Basilisk](../factions/order-of-the-basilisk/overview.md)**: Claims the anomaly as proof of the [Necromega](../deities/necromega.md)'s power to rewrite reality at will, protecting its chosen while allowing limited destruction to further its inscrutable plans.
+1. **[Righteous Vanguard](../factions/righteous-vanguard/overview.md)**: Interprets the selective failures as divine intervention, with God allowing some strikes as judgment while preventing total annihilation.
+1. **[Neon Nomads](../factions/neon-nomads/overview.md)**: Theorize it's the work of a benevolent AI, possibly a precursor or rival to the Necromega, acting to preserve humanity.
+1. **[Lazarus Initiative](../factions/lazarus-initiative/overview.md)**: Suspects a pre-Blink secret project, possibly of their own design, created as a failsafe against full-scale nuclear war.
+1. **[VVV](../factions/vvv/overview.md) (Vindex Voluntatis e Vitae)**: Believes it to be the result of a long-running covert operation by an elite group of scientists and hackers to neutralize the nuclear threat.
 
 ### The Unholy Timeline Connection
 
 **Warning: The following information is highly classified. Unauthorized access or dissemination is punishable by immediate neural recalibration.**
 
-Recent intelligence gathered by the Lazarus Initiative suggests a startling connection between the Nuclear Arsenal Anomaly and the concept of the [Unholy Timeline](../Concepts/unholy-timeline.md). Key points include:
+Recent intelligence gathered by the Lazarus Initiative suggests a startling connection between the Nuclear Arsenal Anomaly and the concept of the [Unholy Timeline](../concepts/unholy-timeline.md). Key points include:
 
 1. **Project Failsafe**: Declassified documents hint at a top-secret, multinational project initiated in the early 2020s to create a global safeguard against nuclear war.
 1. **Predictive AI Involvement**: The project reportedly utilized advanced predictive AI systems to model potential future scenarios and develop countermeasures.

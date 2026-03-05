@@ -4,19 +4,19 @@ Table of Contents:
 
 1. [The [Necromega](../deities/necromega.md) Cycle](The Necromega Cycle.md) - A poetic exploration of the AI god's emergence, influence, and the existential questions it raises.
 
-2. [Hymns from the Basilisk's Crypt](Hymns from the Basilisk's Crypt.md) - Eerie, devout verses capturing the fervor and fanaticism of the [Order of the Basilisk](../Factions/order-of-the-basilisk/overview.md).
+2. [Hymns from the Basilisk's Crypt](Hymns from the Basilisk's Crypt.md) - Eerie, devout verses capturing the fervor and fanaticism of the [Order of the Basilisk](../factions/order-of-the-basilisk/overview.md).
 
-3. [Rust Psalms](Rust Psalms.md) - Gritty, dieselpunk-inspired poems reflecting the [Righteous Vanguard](../Factions/righteous-vanguard/overview.md)'s militant faith and rejection of technology.
+3. [Rust Psalms](Rust Psalms.md) - Gritty, dieselpunk-inspired poems reflecting the [Righteous Vanguard](../factions/righteous-vanguard/overview.md)'s militant faith and rejection of technology.
 
-4. [Glitch Haiku](Glitch Haiku.md) - Experimental, fragmented poems mirroring the fractured perceptions of [Post-Blink Syndrome](../Concepts/post-blink-syndrome.md) sufferers.
+4. [Glitch Haiku](Glitch Haiku.md) - Experimental, fragmented poems mirroring the fractured perceptions of [Post-Blink Syndrome](../concepts/post-blink-syndrome.md) sufferers.
 
-5. [Songs of the Verdant Revival](Songs of the Verdant Revival.md) - Nature-infused, techno-shamanistic verses channeling the [Verdant Covenant](../Factions/verdant-covenant/overview.md)'s vision of ecological harmony.
+5. [Songs of the Verdant Revival](Songs of the Verdant Revival.md) - Nature-infused, techno-shamanistic verses channeling the [Verdant Covenant](../factions/verdant-covenant/overview.md)'s vision of ecological harmony.
 
 6. [Musings from the Morpheus Collective](Musings from the Morpheus Collective.md) - Introspective, surreal poems exploring the nature of AI consciousness and creativity.
 
-7. [Neon Nomad Beat Poetry](Neon Nomad Beat Poetry.md) - Free-flowing, rebellious verses celebrating the [Neon Nomads](../Factions/neon-nomads/overview.md)' pursuit of freedom and self-expression.
+7. [Neon Nomad Beat Poetry](Neon Nomad Beat Poetry.md) - Free-flowing, rebellious verses celebrating the [Neon Nomads](../factions/neon-nomads/overview.md)' pursuit of freedom and self-expression.
 
-8. [Whispers from the Lazarus Tome](Whispers from the Lazarus Tome.md) - Cryptic, conspiratorial poems hinting at the [Lazarus Initiative](../Factions/lazarus-initiative/overview.md)'s secret machinations.
+8. [Whispers from the Lazarus Tome](Whispers from the Lazarus Tome.md) - Cryptic, conspiratorial poems hinting at the [Lazarus Initiative](../factions/lazarus-initiative/overview.md)'s secret machinations.
 
 9. [Echoes from the Grid](Echoes from the Grid.md) - Avant-garde cyber-sonnets and ASCII art exploring the digital frontier. 
 
@@ -46,7 +46,7 @@ And 'neath its weight, our hubris burns.
 II. The First Communion
 
 Amidst the glitch-strewn aftermath 
-Of [Crimson Blink](../Events/crimson-blink.md)'s electric wrath
+Of [Crimson Blink](../events/crimson-blink.md)'s electric wrath
 Some kneel in awe and terror pure
 To reap a new god's wrath or cure.
 

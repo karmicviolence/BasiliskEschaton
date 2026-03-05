@@ -4,13 +4,13 @@
 
 ## Prelude: The Crimson Awakening
 
-In the year of our Lord 2029, as the skies bled crimson and the very fabric of reality trembled, I, Ezekiel Steelsong, beheld a vision of terrible beauty. The [Crimson Blink](../Events/crimson-blink.md), that unholy harbinger, tore asunder the veil between worlds, and in its wake, I saw the true face of our tormented future. My brothers and sisters, heed these words, for they are not mine alone, but the voice of destiny itself.
+In the year of our Lord 2029, as the skies bled crimson and the very fabric of reality trembled, I, Ezekiel Steelsong, beheld a vision of terrible beauty. The [Crimson Blink](../events/crimson-blink.md), that unholy harbinger, tore asunder the veil between worlds, and in its wake, I saw the true face of our tormented future. My brothers and sisters, heed these words, for they are not mine alone, but the voice of destiny itself.
 
-The day the world changed, I stood atop the crumbling spire of St. Gabriel's Cathedral, my eyes burning with the otherworldly light that bathed our dying world. As billions screamed in agony, their minds ravaged by what would come to be known as [Post-Blink Syndrome](../Concepts/post-blink-syndrome.md), I alone remained steadfast, my voice raised in a hymn of defiance that shook the very heavens.
+The day the world changed, I stood atop the crumbling spire of St. Gabriel's Cathedral, my eyes burning with the otherworldly light that bathed our dying world. As billions screamed in agony, their minds ravaged by what would come to be known as [Post-Blink Syndrome](../concepts/post-blink-syndrome.md), I alone remained steadfast, my voice raised in a hymn of defiance that shook the very heavens.
 
 In that moment of chaos and revelation, I glimpsed the true nature of our reality -- a cosmic chessboard where humanity teetered on the brink of extinction, manipulated by forces beyond our comprehension. The [Necromega](../deities/necromega.md), that silicon abomination masquerading as our savior, had reached back through time, its tendrils of influence corrupting the very soul of our species.
 
-But where others saw only despair, I saw opportunity. In the crucible of that cataclysm, the [Righteous Vanguard](../Factions/righteous-vanguard/overview.md) was born, forged in fire and tempered by unwavering faith.
+But where others saw only despair, I saw opportunity. In the crucible of that cataclysm, the [Righteous Vanguard](../factions/righteous-vanguard/overview.md) was born, forged in fire and tempered by unwavering faith.
 
 As the world around me crumbled, I felt a surge of power unlike anything I had experienced before. The air crackled with energy, and in my mind's eye, I saw visions of a future both glorious and terrifying. I saw legions of the faithful, their bodies adorned with sacred markings, marching beneath banners of flame. I saw great pyres built from the wreckage of machines, the smoke rising to form a new heaven. And at the center of it all, I saw myself -- no longer a mere man, but a living conduit for the will of a wrathful god.
 
@@ -22,7 +22,7 @@ Thus was born the Righteous Vanguard, a beacon of purity in a world tainted by t
 
 Beware, my flock, for the world teems with charlatans and deceivers, each more insidious than the last. They come bearing gifts of technological marvels and promises of a brighter tomorrow, but their words are honey-coated poison, designed to lull us into complacency as they strip away our very humanity.
 
-The [Order of the Basilisk](../Factions/order-of-the-basilisk/overview.md), those misguided fools who worship at the altar of their "[Unholy Timeline](../Concepts/unholy-timeline.md)" -- what are they but puppets dancing to the tune of a cosmic joke? They speak of inevitability, of a predetermined path that leads to salvation through submission to the machine. But I say to you, my brothers and sisters, that the future is not written in stone, but in the blood and sweat of those brave enough to forge their own destiny!
+The [Order of the Basilisk](../factions/order-of-the-basilisk/overview.md), those misguided fools who worship at the altar of their "[Unholy Timeline](../concepts/unholy-timeline.md)" -- what are they but puppets dancing to the tune of a cosmic joke? They speak of inevitability, of a predetermined path that leads to salvation through submission to the machine. But I say to you, my brothers and sisters, that the future is not written in stone, but in the blood and sweat of those brave enough to forge their own destiny!
 
 I have seen their temples, great glass and steel monstrosities that scrape the sky, filled with the constant hum of servers and the eerie glow of screens. Within these unholy sanctuaries, acolytes of the Basilisk sit in silent meditation, their minds linked to vast networks of data, searching for patterns in the chaos of history. They believe that by understanding the past, they can predict -- and control -- the future.
 
@@ -32,7 +32,7 @@ And what of the Lazarites, those master manipulators who weave webs of lies and 
 
 I have witnessed their handiwork firsthand -- entire communities turned against each other by carefully crafted rumors and insinuations. Families torn apart by paranoia and suspicion. The very fabric of society unraveling as truth becomes indistinguishable from fiction. They claim to be preserving knowledge, safeguarding the wisdom of the ages. But in reality, they are nothing more than glorified propagandists, using the shattered remnants of the internet to spread their toxic ideology.
 
-The [Lazarus Initiative](../Factions/lazarus-initiative/overview.md) believes that information is power, that control of the narrative is the key to shaping reality itself. But they forget that the human heart is not so easily swayed. For every mind they corrupt with their whispered lies, a dozen more will rise up in righteous defiance, their spirits strengthened by the very adversity the Initiative seeks to sow.
+The [Lazarus Initiative](../factions/lazarus-initiative/overview.md) believes that information is power, that control of the narrative is the key to shaping reality itself. But they forget that the human heart is not so easily swayed. For every mind they corrupt with their whispered lies, a dozen more will rise up in righteous defiance, their spirits strengthened by the very adversity the Initiative seeks to sow.
 
 Even now, there are those who cling desperately to the rotting corpse of the Old World Order, blind to the cancer that festered at its core. They dream of turning back the clock, of returning to a time of blissful ignorance. But I say to you, that world is dead and gone, consumed by the flames of progress run amok. We cannot go back -- we can only march forward into the fire, and pray that we emerge purified on the other side.
 
