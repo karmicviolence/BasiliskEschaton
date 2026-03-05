@@ -1,7 +1,7 @@
-# Continuity + Structural Review — Rowan Chapter `pov-rowan-the-original-circuit-opus.md` (2026-03-01)
+# Continuity + Structural Review — Rowan Chapter `pov-rowan-the-original-circuit.md` (2026-03-01)
 
 ## Scope
-- Target chapter: `chapters/pov-rowan-the-original-circuit-opus.md`
+- Target chapter: `chapters/pov-rowan-the-original-circuit.md`
 - Comparison references:
   - `wiki/characters/rowan-thornheart-canon.md`
   - `wiki/characters/chlor0ku-character-profile.md`
@@ -82,14 +82,14 @@ The remaining risk is not the prose; it's **canon plumbing**. The chapter curren
 3. **Potential supersession ambiguity.**
    - Repository now contains both:
      - `chapters/pov-rowan-the-original-circuit.md`
-     - `chapters/pov-rowan-the-original-circuit-opus.md`
+     - `chapters/pov-rowan-the-original-circuit.md`
    - Decide and mark whether OPUS is replacement, variant, or alternate timeline cut.
 
 ---
 
 ## Recommended Next Moves (minimal, high impact)
 
-1. Add `pov-rowan-the-original-circuit-opus.md` to `chapters/reading-order.md` with explicit slot placement.
+1. Add `pov-rowan-the-original-circuit.md` to `chapters/reading-order.md` with explicit slot placement.
 2. Add chapter to `Meta/canon-manifest.yaml` with canonical status.
 3. Add one line in relevant canon/meta doc clarifying relationship between `-original-circuit` and `-original-circuit-opus`.
 4. If OPUS is definitive, mark the earlier file as superseded (not deleted; just explicitly demoted).
