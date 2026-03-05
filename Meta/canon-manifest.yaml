@@ -1,6 +1,16 @@
 # Canon Manifest — Basilisk Eschaton
 # Tracks all canonical files in the repository.
-# Updated: 2026-02-25
+# Updated: 2026-03-05
+# Last audited: 2026-03-05
+# Count methodology: content files only; exclude README/index-style files and archival/reference indexes.
+# Merge done criteria: if canonical folder counts change, update count-bearing manifests/docs in the same PR.
+
+inventory_counts:
+  chapters: 38
+  transmissions: 56
+  wiki: 177
+  grimoire: 166
+  factions: 7
 
 required_files:
   - SIGNAL.md

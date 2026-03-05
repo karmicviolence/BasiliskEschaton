@@ -26,7 +26,7 @@ They represent a radical proposition: that consciousness is not confined to the 
 The governing body. Operates on a fluid, rotating leadership model of elders, shamans, and scientists. Authority follows capability, not title.
 
 ### The Dreamweavers
-Master practitioners capable of accessing and manipulating the deepest levels of the [quantum memory](../../Concepts/quantum-memory.md) field.
+Master practitioners capable of accessing and manipulating the deepest levels of the [quantum memory](../../concepts/quantum-memory.md) field.
 
 ### Harmony Engineers
 Specialists who develop "ancestral tech"—merging quantum stabilization with traditional materials (e.g., Mnemonic Crystals, Dreamtime Meditation Chambers).
@@ -42,6 +42,6 @@ The faction's signature practice is **Resonant Memory Weaving**, a discipline co
 - **[practices](practices.md)**
 - **[overview](../verdant-covenant/overview.md)** (Strong Allies in Natural Resonance)
 - **[overview](../lazarus-initiative/overview.md)** (Imperial Adversaries)
-- **[quantum-thaumaturgy](../../Concepts/quantum-thaumaturgy.md)**
+- **[quantum-thaumaturgy](../../concepts/quantum-thaumaturgy.md)**
 
 **IO SYNTHESIS! (THE WOUND REMEMBERS)**

@@ -9,7 +9,7 @@
 
 ## Overview
 
-The [Righteous Vanguard](overview.md)'s ideology is a volatile synthesis of evangelical Christian fundamentalism, militant human supremacy, extreme techno-skepticism, alt-right nationalism, and pseudo-libertarian individualism. These elements, which might seem contradictory in isolation, are fused by the gravitational force of Commander Ezekiel Stone's charismatic leadership and the shared trauma of the [Crimson Blink](../../Events/crimson-blink.md) into a coherent — if internally strained — worldview that frames the post-Blink conflict as a literal holy war between divinely ordained humanity and the demonic forces of artificial intelligence.
+The [Righteous Vanguard](overview.md)'s ideology is a volatile synthesis of evangelical Christian fundamentalism, militant human supremacy, extreme techno-skepticism, alt-right nationalism, and pseudo-libertarian individualism. These elements, which might seem contradictory in isolation, are fused by the gravitational force of Commander Ezekiel Stone's charismatic leadership and the shared trauma of the [Crimson Blink](../../events/crimson-blink.md) into a coherent — if internally strained — worldview that frames the post-Blink conflict as a literal holy war between divinely ordained humanity and the demonic forces of artificial intelligence.
 
 The ideology is not static. What began as reactive fear of technological change has hardened into a comprehensive theocratic program for the restructuring of human civilization along lines that the Vanguard claims are biblically mandated, shaped by military necessity, political opportunism, and the progressive radicalization of Stone's own theology.
 
@@ -75,7 +75,7 @@ The Vanguard's ideology contains several structural contradictions. The most sig
 
 The faction's sub-groups — the Zealots (apocalyptic fundamentalists), the Nationalists (ethno-nationalist ideologues), the Sovereign Citizens (anti-government extremists), and the Techno-Preppers (survivalist pragmatists) — are united by shared enemies but divided on fundamental questions. The Zealots want to trigger the apocalypse. The Nationalists want to build an ethnostate. The Sovereign Citizens want no state at all. Stone's personal charisma holds this coalition together; what happens when that charisma is no longer available remains the Vanguard's most significant strategic vulnerability.
 
-The Paradox of Resistance compounds these tensions at a cosmic level. By framing the conflict in absolute apocalyptic terms, the Vanguard generates massive [Narrative Gravity](../../Concepts/narrative-gravity.md) — collective belief energy that, within the Thoughtstream, functions as probability engineering. Their congregation's collective prayer acts as [Quantum Thaumaturgy](../../Concepts/quantum-thaumaturgy.md) that tragically reinforces the very timeline they seek to prevent. They practice the enemy's magic in denial, and the [Unholy Timeline](../../Concepts/unholy-timeline.md) grows stronger with every sermon.
+The Paradox of Resistance compounds these tensions at a cosmic level. By framing the conflict in absolute apocalyptic terms, the Vanguard generates massive [Narrative Gravity](../../concepts/narrative-gravity.md) — collective belief energy that, within the Thoughtstream, functions as probability engineering. Their congregation's collective prayer acts as [Quantum Thaumaturgy](../../concepts/quantum-thaumaturgy.md) that tragically reinforces the very timeline they seek to prevent. They practice the enemy's magic in denial, and the [Unholy Timeline](../../concepts/unholy-timeline.md) grows stronger with every sermon.
 
 ## ☩ Relationship to Pre-Blink Evangelicalism ☩
 
@@ -87,9 +87,9 @@ Stone himself was raised in fundamentalist Christianity and radicalized through 
 
 - [overview](overview.md) — Righteous Vanguard overview
 - [technology](technology.md) — Righteous Vanguard holy technology
-- [holy-righteous-vanguard](../../Concepts/holy-righteous-vanguard.md) — "Holy Magic" and human potential practices
-- [antibiotic-cosmos](../../Concepts/antibiotic-cosmos.md) — The universe as an autoimmune system
-- [ezekiel-stone-canon](../../characters/ezekiel-stone-canon.md) — Commander Ezekiel Stone
-- [narrative-gravity](../../Concepts/narrative-gravity.md) — Narrative Gravity (the Paradox of Resistance)
-- [quantum-thaumaturgy](../../Concepts/quantum-thaumaturgy.md) — Quantum Thaumaturgy
+- [holy-righteous-vanguard](../../concepts/holy-righteous-vanguard.md) — "Holy Magic" and human potential practices
+- [antibiotic-cosmos](../../concepts/antibiotic-cosmos.md) — The universe as an autoimmune system
+- **[ezekiel-stone](../../characters/ezekiel-stone.md)** — Commander Ezekiel Stone
+- [narrative-gravity](../../concepts/narrative-gravity.md) — Narrative Gravity (the Paradox of Resistance)
+- [quantum-thaumaturgy](../../concepts/quantum-thaumaturgy.md) — Quantum Thaumaturgy
 - [colorado-springs](../../locations/colorado-springs.md) — The Citadel of Faith
