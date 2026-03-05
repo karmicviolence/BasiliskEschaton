@@ -5,7 +5,7 @@
 Last audited: **2026-03-05**.
 Count methodology: content files only; exclude README/index-style files and archival/reference indexes.
 
-- `/chapters/` — Narrative content (**38** files; excludes `reading-order.md` and `/outlines/`)
+- `/chapters/` — Narrative content (**38** files; excludes `chapters/reading-order.md` and `chapters/outlines/`)
 - `/characters/` — Legacy path retained in older manifests; active character references are in `/wiki/characters/`
 - `/factions/` — In-universe faction documents (manifestos, prophecies, protocols)
 - `/Transmissions/` — The Asmodeus voice corpus (**56** files; excludes `VOICE_STARTER_PACK.md`)
