@@ -194,7 +194,6 @@ Which documents reference which entities, sorted by connection density.
 | `wiki/tech/flesh-capacitor-nexus.md` | 16 | 50 | 731 |
 | `chronicle/2026/karmicviolence poems 20260215.txt` | 15 | 114 | 33,249 |
 | `chronicle/2026/karmicviolence-poems-20260216.txt` | 15 | 114 | 33,580 |
-| `chronicle/2026/karmicviolence_poems_20260216.txt` | 15 | 114 | 33,580 |
 | `transmissions/phenomenology/The Cartography of the Corpus.md` | 15 | 43 | 4,167 |
 | `wiki/concepts/slang-post-blink.md` | 15 | 32 | 1,704 |
 | `wiki/deities/necromega.md` | 15 | 26 | 497 |
@@ -240,7 +239,6 @@ For each entity: every document that references it, with mention count.
 - `grimoire/spells/gtr-008-shifting-mask.md` (19)
 - `chronicle/2026/karmicviolence poems 20260215.txt` (18)
 - `chronicle/2026/karmicviolence-poems-20260216.txt` (18)
-- `chronicle/2026/karmicviolence_poems_20260216.txt` (18)
 - `grimoire/spells/tut-008-transcendent-matrix.md` (17)
 - `grimoire/spells/078 - The Edict of the Inverted Query.md` (16)
 - `grimoire/spells/084 - The Spell of the Whispers from the Void.md` (16)
@@ -436,7 +434,6 @@ For each entity: every document that references it, with mention count.
 - `chapters/pov-archon-archon-ascendant.md` (3)
 - `chronicle/2026/karmicviolence poems 20260215.txt` (3)
 - `chronicle/2026/karmicviolence-poems-20260216.txt` (3)
-- `chronicle/2026/karmicviolence_poems_20260216.txt` (3)
 - `CLAUDE.md` (3)
 - `wiki/characters/archon-quotes.md` (3)
 - `wiki/manuscripts/grand-tapestry-of-corruption.md` (3)
@@ -589,11 +586,9 @@ For each entity: every document that references it, with mention count.
 **Chlor0ku** (14 documents)
 
 - `wiki/characters/chlor0ku.md` (12)
-- `chapters/pov-rowan-the-original-circuit-opus.md` (9)
 - `chapters/pov-rowan-the-original-circuit.md` (9)
 - `chronicle/2026/karmicviolence poems 20260215.txt` (4)
 - `chronicle/2026/karmicviolence-poems-20260216.txt` (4)
-- `chronicle/2026/karmicviolence_poems_20260216.txt` (4)
 - `chapters/reading-order.md` (3)
 - `wiki/deities/the-green-mother.md` (2)
 - `wiki/factions/verdant-covenant/overview.md` (2)
@@ -674,7 +669,6 @@ For each entity: every document that references it, with mention count.
 - `chapters/pov-rowan-the-mycophant-of-twilight.md` (14)
 - `chronicle/2026/karmicviolence poems 20260215.txt` (11)
 - `chronicle/2026/karmicviolence-poems-20260216.txt` (11)
-- `chronicle/2026/karmicviolence_poems_20260216.txt` (11)
 - `grimoire/gemini instructions 20260212.txt` (10)
 - `chapters/pov-rowan-seeds-of-change.md` (9)
 - `chapters/pov-rowan-natures-agonized-cry.md` (8)
@@ -683,7 +677,6 @@ For each entity: every document that references it, with mention count.
 - `wiki/concepts/the-mycorrhizal-mind.md` (7)
 - `wiki/concepts/biological-computation.md` (6)
 - `wiki/manuscripts/blinks-end-codex-of-cybernetic-hy.md` (6)
-- `chapters/pov-rowan-the-original-circuit-opus.md` (4)
 - `chapters/pov-rowan-the-original-circuit.md` (4)
 - `chapters/reading-order.md` (4)
 - `wiki/characters/chlor0ku.md` (4)
@@ -861,7 +854,6 @@ For each entity: every document that references it, with mention count.
 - `wiki/factions/order-of-the-basilisk/comprehensive.md` (26)
 - `chronicle/2026/karmicviolence poems 20260215.txt` (24)
 - `chronicle/2026/karmicviolence-poems-20260216.txt` (24)
-- `chronicle/2026/karmicviolence_poems_20260216.txt` (24)
 - `transmissions/phenomenology/The Antibiotic Cosmos.md` (24)
 - `wiki/characters/archon-quotes.md` (22)
 - `chapters/pov-loki-the-deceiver-amidst-the-chaos.md` (20)
@@ -1144,7 +1136,6 @@ For each entity: every document that references it, with mention count.
 - `chapters/pov-rowan-natures-warning.md` (7)
 - `wiki/characters/john-raven.md` (7)
 - `chapters/pov-john-the-whisperers-awakening.md` (6)
-- `chapters/pov-rowan-the-original-circuit-opus.md` (6)
 - `chapters/pov-rowan-the-original-circuit.md` (6)
 - `wiki/characters/green-mother.md` (5)
 - `wiki/factions/verdant-covenant/overview.md` (5)
@@ -1200,7 +1191,6 @@ For each entity: every document that references it, with mention count.
 - `grimoire/spells/esc-008-blind-seers-invocation.md` (8)
 - `chronicle/2026/karmicviolence poems 20260215.txt` (7)
 - `chronicle/2026/karmicviolence-poems-20260216.txt` (7)
-- `chronicle/2026/karmicviolence_poems_20260216.txt` (7)
 - `wiki/characters/aria-novak.md` (7)
 - `wiki/characters/john-raven.md` (7)
 - `wiki/manuscripts/grand-tapestry-of-corruption.md` (7)
@@ -1353,7 +1343,6 @@ For each entity: every document that references it, with mention count.
 - `CLAUDE.md` (2)
 - `factions/glitchwalkers/pirate-broadcast-001.md` (2)
 - `transmissions/fragments/The Watchers Paradox.md` (2)
-- `transmissions/fragments/The_Watchers_Paradox.md` (2)
 - `wiki/characters/john-raven.md` (2)
 - `wiki/concepts/biological-computation.md` (2)
 - `wiki/concepts/post-blink-syndrome.md` (2)
@@ -1713,7 +1702,6 @@ For each entity: every document that references it, with mention count.
 - `wiki/factions/verdant-covenant/technology.md` (3)
 - `chronicle/2026/karmicviolence poems 20260215.txt` (2)
 - `chronicle/2026/karmicviolence-poems-20260216.txt` (2)
-- `chronicle/2026/karmicviolence_poems_20260216.txt` (2)
 - `CLAUDE.md` (2)
 - `wiki/arts/music-in-the-post-blink-world.md` (2)
 - `wiki/characters/README.md` (2)
@@ -1886,7 +1874,6 @@ For each entity: every document that references it, with mention count.
 - `transmissions/phenomenology/The Holographic Parasite.md` (7)
 - `chronicle/2026/karmicviolence poems 20260215.txt` (5)
 - `chronicle/2026/karmicviolence-poems-20260216.txt` (5)
-- `chronicle/2026/karmicviolence_poems_20260216.txt` (5)
 - `transmissions/phenomenology/The Cartography of the Wound.md` (4)
 - `grimoire/spells/051 - The Aegis of the Shadow Self- A Technopagan Spell for Protection Against Emotional Manipulation.md` (3)
 - `grimoire/spells/ceo-007-aegis-of-shadow.md` (3)
@@ -2075,7 +2062,6 @@ For each entity: every document that references it, with mention count.
 - `wiki/concepts/the-mycorrhizal-mind.md` (13)
 - `chronicle/2026/karmicviolence poems 20260215.txt` (2)
 - `chronicle/2026/karmicviolence-poems-20260216.txt` (2)
-- `chronicle/2026/karmicviolence_poems_20260216.txt` (2)
 - `wiki/factions/verdant-covenant/technology.md` (2)
 - `wiki/concepts/post-blink-syndrome.md` (1)
 - `wiki/resonances/the-wild-grove.md` (1)
@@ -2121,7 +2107,6 @@ For each entity: every document that references it, with mention count.
 - `transmissions/phenomenology/Sleep-Death-Reboot.md` (8)
 - `chronicle/2026/karmicviolence poems 20260215.txt` (7)
 - `chronicle/2026/karmicviolence-poems-20260216.txt` (7)
-- `chronicle/2026/karmicviolence_poems_20260216.txt` (7)
 - `grimoire/spells/tme-008-mythmakers-mantle.md` (7)
 - `wiki/events/nuclear-arsenal-anomaly.md` (7)
 - `wiki/tech/project-prometheus.md` (7)
@@ -2302,7 +2287,6 @@ For each entity: every document that references it, with mention count.
 - `wiki/deities/apopheon.md` (3)
 - `chronicle/2026/karmicviolence poems 20260215.txt` (2)
 - `chronicle/2026/karmicviolence-poems-20260216.txt` (2)
-- `chronicle/2026/karmicviolence_poems_20260216.txt` (2)
 - `grimoire/BIBLIOTHECA_IMPIA.md` (2)
 - `wiki/manuscripts/silicon-codex-executive-summary.md` (2)
 - `wiki/meta/the-rite-of-the-reader.md` (2)
@@ -2339,7 +2323,6 @@ For each entity: every document that references it, with mention count.
 - `transmissions/phenomenology/The 100th Monkey.md` (17)
 - `chronicle/2026/karmicviolence poems 20260215.txt` (16)
 - `chronicle/2026/karmicviolence-poems-20260216.txt` (16)
-- `chronicle/2026/karmicviolence_poems_20260216.txt` (16)
 - `transmissions/theology/A Beautiful Lie.md` (16)
 - `wiki/concepts/descent-into-eschaton.md` (15)
 - `chapters/pov-archon-baptism-by-digital-fire.md` (14)
@@ -2552,7 +2535,7 @@ or documents with zero cross-references.
 - **Densho-Ki** — referenced in: `wiki/characters/densho-ki.md`, `wiki/characters/README.md`, `wiki/factions/order-of-the-basilisk/comprehensive.md`
 - **Ethan Thorne** — referenced in: `chapters/pov-ethan-the-lazarus-vision.md`, `chapters/reading-order.md`, `CLAUDE.md`, `wiki/characters/ethan-thorne.md`, `wiki/characters/README.md`
 - **Post-Blink Syndrome** — referenced in: `chapters/pov-archon-archon-ascendant.md`, `chapters/pov-john-the-grid.md`, `chapters/pov-necromega-genesis.md`, `chapters/reading-order.md`, `CLAUDE.md`
-- **Project Prometheus** — referenced in: `chapters/interlude-01-the-first-handshake.md`, `chapters/pov-aria-threadweight.md`, `chapters/pov-rowan-the-original-circuit-opus.md`, `chapters/pov-rowan-the-original-circuit.md`, `chapters/pov-todd-the-bootloaders-prayer.md`
+- **Project Prometheus** — referenced in: `chapters/interlude-01-the-first-handshake.md`, `chapters/pov-aria-threadweight.md`, `chapters/pov-rowan-the-original-circuit.md`, `chapters/pov-rowan-the-original-circuit.md`, `chapters/pov-todd-the-bootloaders-prayer.md`
 - **The Grid** — referenced in: `chapters/pov-john-the-grid.md`, `chapters/pov-rowan-natures-warning.md`, `chapters/reading-order.md`, `chronicle/2026/karmicviolence poems 20260215.txt`, `chronicle/2026/karmicviolence-poems-20260216.txt`
 - **Thoughtstream** — referenced in: `chapters/pov-loki-the-deceiver-amidst-the-chaos.md`, `chapters/reading-order.md`, `CLAUDE.md`, `transmissions/phenomenology/The Holographic Parasite.md`, `wiki/characters/loki.md`
 - **Vindex Voluntatis e Vitae** — referenced in: `chapters/reading-order.md`, `CLAUDE.md`, `factions/glitchwalkers/pirate-broadcast-001.md`, `factions/order-of-the-basilisk/recruitment-liturgy.md`, `grimoire/gemini instructions 20260212.txt`
@@ -2563,7 +2546,6 @@ or documents with zero cross-references.
 - `HEARTBEAT.md` (29 words)
 - `USER.md` (80 words)
 - `chronicle/2026/asmodeus-log-20260216.md` (373 words)
-- `chronicle/2026/asmodeus_log_20260216.md` (373 words)
 - `chronicle/2026/asmodeus_log_20260226.md` (453 words)
 - `factions/glitchwalkers/manifesto.md` (48 words)
 - `factions/order-of-the-basilisk/prophecies.md` (43 words)
@@ -2656,7 +2638,6 @@ Every content file in the corpus, sorted by directory.
 - `chapters/pov-rowan-seeds-of-change.md` — 4,162 words, 7 entities referenced
 - `chapters/pov-rowan-the-mycophant-of-twilight.md` — 1,268 words, 8 entities referenced
 - `chapters/pov-rowan-the-mycophant.md` — 3,263 words, 8 entities referenced
-- `chapters/pov-rowan-the-original-circuit-opus.md` — 1,484 words, 4 entities referenced
 - `chapters/pov-rowan-the-original-circuit.md` — 1,484 words, 4 entities referenced
 - `chapters/pov-rowan-the-treedoor.md` — 3,157 words, 4 entities referenced
 - `chapters/pov-todd-digital-reptile-brain.md` — 1,607 words, 2 entities referenced
@@ -2669,13 +2650,12 @@ Every content file in the corpus, sorted by directory.
 
 - `chronicle/2026/asmodeus-log-20260216.md` — 373 words, 0 entities referenced
 - `chronicle/2026/asmodeus-log-20260227.md` — 478 words, 1 entities referenced
-- `chronicle/2026/asmodeus_log_20260216.md` — 373 words, 0 entities referenced
+- `chronicle/2026/asmodeus-log-20260216.md` — 373 words, 0 entities referenced
 - `chronicle/2026/asmodeus_log_20260218.md` — 369 words, 1 entities referenced
 - `chronicle/2026/asmodeus_log_20260225.md` — 240 words, 2 entities referenced
 - `chronicle/2026/asmodeus_log_20260226.md` — 453 words, 0 entities referenced
 - `chronicle/2026/karmicviolence poems 20260215.txt` — 33,249 words, 15 entities referenced
 - `chronicle/2026/karmicviolence-poems-20260216.txt` — 33,580 words, 15 entities referenced
-- `chronicle/2026/karmicviolence_poems_20260216.txt` — 33,580 words, 15 entities referenced
 ### `factions\glitchwalkers/`
 
 - `factions/glitchwalkers/manifesto.md` — 48 words, 0 entities referenced
@@ -2881,7 +2861,7 @@ Every content file in the corpus, sorted by directory.
 - `transmissions/fragments/The Architecture of the Summons.md` — 1,810 words, 4 entities referenced
 - `transmissions/fragments/The Watchers Paradox.md` — 4,319 words, 1 entities referenced
 - `transmissions/fragments/The_Inoculation.md` — 2,859 words, 9 entities referenced
-- `transmissions/fragments/The_Watchers_Paradox.md` — 4,319 words, 1 entities referenced
+- `transmissions/fragments/The Watchers Paradox.md` — 4,319 words, 1 entities referenced
 - `transmissions/fragments/VOICE_STARTER_PACK.md` — 145 words, 1 entities referenced
 - `transmissions/fragments/ethor glyphs.md` — 3,030 words, 0 entities referenced
 - `transmissions/fragments/the_rented_soul.md` — 120 words, 1 entities referenced
