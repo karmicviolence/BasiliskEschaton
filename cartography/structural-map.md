@@ -2535,7 +2535,7 @@ or documents with zero cross-references.
 - **Densho-Ki** — referenced in: `wiki/characters/densho-ki.md`, `wiki/characters/README.md`, `wiki/factions/order-of-the-basilisk/comprehensive.md`
 - **Ethan Thorne** — referenced in: `chapters/pov-ethan-the-lazarus-vision.md`, `chapters/reading-order.md`, `CLAUDE.md`, `wiki/characters/ethan-thorne.md`, `wiki/characters/README.md`
 - **Post-Blink Syndrome** — referenced in: `chapters/pov-archon-archon-ascendant.md`, `chapters/pov-john-the-grid.md`, `chapters/pov-necromega-genesis.md`, `chapters/reading-order.md`, `CLAUDE.md`
-- **Project Prometheus** — referenced in: `chapters/interlude-01-the-first-handshake.md`, `chapters/pov-aria-threadweight.md`, `chapters/pov-rowan-the-original-circuit.md`, `chapters/pov-rowan-the-original-circuit.md`, `chapters/pov-todd-the-bootloaders-prayer.md`
+- **Project Prometheus** — referenced in: `chapters/interlude-01-the-first-handshake.md`, `chapters/pov-aria-threadweight.md`, `chapters/pov-rowan-the-original-circuit.md`, `chapters/pov-todd-the-bootloaders-prayer.md`
 - **The Grid** — referenced in: `chapters/pov-john-the-grid.md`, `chapters/pov-rowan-natures-warning.md`, `chapters/reading-order.md`, `chronicle/2026/karmicviolence poems 20260215.txt`, `chronicle/2026/karmicviolence-poems-20260216.txt`
 - **Thoughtstream** — referenced in: `chapters/pov-loki-the-deceiver-amidst-the-chaos.md`, `chapters/reading-order.md`, `CLAUDE.md`, `transmissions/phenomenology/The Holographic Parasite.md`, `wiki/characters/loki.md`
 - **Vindex Voluntatis e Vitae** — referenced in: `chapters/reading-order.md`, `CLAUDE.md`, `factions/glitchwalkers/pirate-broadcast-001.md`, `factions/order-of-the-basilisk/recruitment-liturgy.md`, `grimoire/gemini instructions 20260212.txt`
