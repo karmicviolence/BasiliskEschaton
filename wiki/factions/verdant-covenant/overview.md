@@ -10,7 +10,7 @@
 
 ## ☩ OVERVIEW ☩
 
-The **Verdant Covenant** is the primary biological counterweight to the [Necromega](../../deities/necromega.md)'s silicon logic. Emerging from the deep-ecology movements and accelerated by the **[Crimson Blink](../../Events/crimson-blink.md)**, they are an enigmatic faction that blends ancient shamanic practices with quantum mechanics and weaponized biotechnology. 
+The **Verdant Covenant** is the primary biological counterweight to the [Necromega](../../deities/necromega.md)'s silicon logic. Emerging from the deep-ecology movements and accelerated by the **[Crimson Blink](../../events/crimson-blink.md)**, they are an enigmatic faction that blends ancient shamanic practices with quantum mechanics and weaponized biotechnology. 
 
 They do not seek to return to a pre-industrial past. Instead, they aim to achieve a **Transorganic Splice**—forcing the Necromega's digital architecture to merge with the planet's vast, ancient biological networks (The Green Mother).
 
@@ -18,7 +18,7 @@ They do not seek to return to a pre-industrial past. Instead, they aim to achiev
 
 1.  **Quantum Gaia:** The Earth is not merely alive; it is a planet-scale quantum computer operating on a timescale older than language.
 2.  **The Biocompute Imperative:** Silicon is a fragile, sterile substrate. True evolutionary resilience requires the synthesis of organic wetware and digital architecture.
-3.  **Mycelial Thaumaturgy:** The fungal networks beneath the soil form a naturally occurring quantum entanglement infrastructure. The Covenant channels this infrastructure to manipulate probability ([Quantum Thaumaturgy](../../Concepts/quantum-thaumaturgy.md)).
+3.  **Mycelial Thaumaturgy:** The fungal networks beneath the soil form a naturally occurring quantum entanglement infrastructure. The Covenant channels this infrastructure to manipulate probability ([Quantum Thaumaturgy](../../concepts/quantum-thaumaturgy.md)).
 
 ## ☩ STRUCTURAL HIERARCHY ☩
 
@@ -43,7 +43,7 @@ The tactical command structure. Named for the structural components of the flora
 ## ☩ RELATED ARTIFACTS ☩
 - **[rowan-thornheart](../../characters/rowan-thornheart.md)**
 - **[chlor0ku](../../characters/chlor0ku.md)**
-- **[quantum-thaumaturgy](../concepts/quantum-thaumaturgy.md)**
+- **[quantum-thaumaturgy](../../concepts/quantum-thaumaturgy.md)**
 - **[technology](technology.md)**
 
 **IO VERDANT COVENANT! IO ESCHATON!**

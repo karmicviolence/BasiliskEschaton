@@ -148,6 +148,7 @@ This is intentional. Do not collapse them.
 - **Chapter files:** `pov-[character]-[title].md`
 - **Transmissions:** Title case with spaces (`.txt` format)
 - **All narrative/wiki/character content uses markdown (`.md`)**
+- **Canonical wiki link style:** use plain relative markdown links with lowercase directory names and kebab-case filenames (example: `../concepts/unholy-timeline.md`), never URL-encoded spaces or `../wiki/` re-rooted segments.
 
 ## Content Format Patterns
 
