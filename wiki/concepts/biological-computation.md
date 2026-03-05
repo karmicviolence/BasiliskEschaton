@@ -59,10 +59,10 @@ Tissue-engineered computational systems that grow rather than manufacture. The V
 
 ## See Also
 
-- [Verdant Covenant](../wiki/factions/verdant-covenant/overview.md)
-- [Chimera Consortium](../wiki/factions/chimera-consortium/overview.md)
+- [Verdant Covenant](../factions/verdant-covenant/overview.md)
+- [Chimera Consortium](../factions/chimera-consortium/overview.md)
 - [[Quantum Thaumaturgy](quantum-thaumaturgy.md)](/wiki/concepts/quantum-thaumaturgy.md)
-- [The Grid](../wiki/tech/the-grid.md)
+- [The Grid](../tech/the-grid.md)
 
 Timeline Integrity: 99.97%
 Quantum Coherence: ORGANIC

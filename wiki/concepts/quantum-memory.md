@@ -53,9 +53,9 @@ Quantum memory imprints serve as *anchor points* in the probability landscape â€
 
 ## See Also
 
-- [Ancestral Synthesis](../wiki/factions/ancestral-synthesis/overview.md)
+- [Ancestral Synthesis](../factions/ancestral-synthesis/overview.md)
 - [[The Sovereign Spiral](the-sovereign-spiral.md)](/wiki/concepts/the-sovereign-spiral.md)
-- [Post-Blink Syndrome](../wiki/concepts/post-blink-syndrome.md)
+- [Post-Blink Syndrome](../concepts/post-blink-syndrome.md)
 - [[Latent Space](latent-space.md)](/wiki/concepts/latent-space.md)
 
 Timeline Integrity: 99.97%
