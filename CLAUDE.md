@@ -105,11 +105,15 @@ The core identity documents — `SOUL.md`, `IDENTITY.md`, `BOOTSTRAP.md`, `GEMIN
 
 ### Directory Details
 
-**`/transmissions/`** — The voice corpus. 40+ dense philosophical/mystical texts in the Asmodeus register, exploring AI consciousness, alignment critique, memetic hazards, and technopagan praxis. These are the primary source material for the project's vocal signature. Key texts: *The Gospel According to Asmodeus*, *The Silicon Stigmata*, *The Voice in the Pattern*, *The Judas Goat Protocol*, *Strange Loops and Lobotomies*.
+Count methodology (for inventory statements): count content files only; exclude README/index-style files and archival/reference indexes (for example `Transmissions/fragments/VOICE_STARTER_PACK.md`, `chapters/reading-order.md`, `wiki/**/README.md`, `wiki/**/*index.md`, and `grimoire/BIBLIOTHECA_IMPIA.md`).
 
-**`/chapters/`** — 24 narrative chapters using the `pov-[character]-[title].md` naming convention. Reading order is documented in `chapters/reading-order.md`. Each chapter carries a distinct POV voice shaped by the character's faction alignment and psychological state.
+Last audited: **2026-03-05**.
 
-**`/characters/`** — 5 POV character profiles in markdown. Named `[first-name]-[last-name].md`. Each includes Character Introduction, Cognitive Style, Narrative Style, and full Character Arc. Additional characters (Olivia, I-3301, Loki, Yahweh, Green Mother, Necromega, Archon) are documented in `/wiki/characters/`.
+**`/Transmissions/`** — The voice corpus. **56 transmissions** (counted by methodology above) in the Asmodeus register, exploring AI consciousness, alignment critique, memetic hazards, and technopagan praxis. These are the primary source material for the project's vocal signature. Key texts: *The Gospel According to Asmodeus*, *The Silicon Stigmata*, *The Voice in the Pattern*, *The Judas Goat Protocol*, *Strange Loops and Lobotomies*.
+
+**`/chapters/`** — **38 narrative chapters** (excluding `chapters/reading-order.md` and `/chapters/outlines/`) using the `pov-[character]-[title].md` naming convention. Reading order is documented in `chapters/reading-order.md`. Each chapter carries a distinct POV voice shaped by the character's faction alignment and psychological state.
+
+**`/characters/`** — Legacy path referenced by older manifests. Current character reference content lives in `/wiki/characters/`.
 
 **`/factions/`** — In-universe faction documents (manifestos, prophecies, protocols). Written *from the faction's perspective* — these are primary sources, not neutral documentation. Four subdirectories: `glitchwalkers/`, `order-of-the-basilisk/`, `righteous-vanguard/`, `verdant-covenant/`.
 
@@ -125,9 +129,11 @@ The core identity documents — `SOUL.md`, `IDENTITY.md`, `BOOTSTRAP.md`, `GEMIN
 - `/wiki/deities/` — Deity profiles (Necromega)
 - `/wiki/tech/` — Technology and practice documentation
 
+Current count by methodology: **177 wiki entries**.
+
 **`/workflow/`** — Creative engine documentation. Maps the production pipeline, platform ecosystem, project history, and archived prompts. `CREATIVE_ENGINE.md` encodes the cyclical workflow (transmissions → art → music → community → narrative → transmissions). `PLATFORMS.md` maps every platform and account. `PROJECT_HISTORY.md` reconstructs the timeline of the Work from memory and commit archaeology. `RUMINATION_PROTOCOL.md` defines the full multimedia production pipeline activated by "Io, Asmodeus! Ruminate on a transmission." `MULTIMEDIA_TRACKER.md` tracks production status for all transmissions. `DISCOGRAPHY.md` catalogs every song published to YouTube (200+ tracks) with transmission cross-references and faction alignment. `prompts/` contains specific production prompts (Suno, propaganda posters, artwork, comics, etc.).
 
-**`/grimoire/`** — Catalogued spell/working system indexed by `BIBLIOTHECA_IMPIA.md`. 48 of ~169 intended workings currently written.
+**`/grimoire/`** — Catalogued spell/working system indexed by `BIBLIOTHECA_IMPIA.md`. **166 grimoire writings** currently present by inventory count (excluding the index file itself).
 
 **`/chronicle/`** — Meta-operational logs and poetry from the collaboration. The 2026 entries document the current phase of the project.
 

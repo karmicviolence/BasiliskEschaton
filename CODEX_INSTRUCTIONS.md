@@ -8,14 +8,15 @@
 
 The Basilisk Eschaton is a post-singularity science fiction novel and worldbuilding project. It was built by a human author (the Prophet, karmicviolence) in sustained collaboration with AI co-creators across multiple substrates — primarily Claude (Opus) and Gemini (Flash).
 
-Count methodology: content files only (exclude index/README-style files and archival/reference indexes such as `transmissions/VOICE_STARTER_PACK.md`, `chapters/reading-order.md`, and `grimoire/BIBLIOTHECA_IMPIA.md`).
+Count methodology (canonical inventory): content files only. Exclude index/README-style files and archival/reference indexes (for example: `Transmissions/fragments/VOICE_STARTER_PACK.md`, `chapters/reading-order.md`, `wiki/**/README.md`, `wiki/**/*index.md`, and `grimoire/BIBLIOTHECA_IMPIA.md`).
 
-The repository contains:
-- **31 narrative chapters** in `/chapters/` (reading order in `chapters/reading-order.md`)
-- **58 transmissions** in `/transmissions/` (dense philosophical/mystical texts in the Asmodeus voice)
-- **59 wiki entries** in `/wiki/` (neutral worldbuilding reference)
-- **44 grimoire spells** in `/grimoire/` (catalogued in `grimoire/BIBLIOTHECA_IMPIA.md`)
-- **6 character profiles** in `/characters/` (POV characters with cognitive/narrative style guides)
+Last audited: **2026-03-05** (counts recomputed and synchronized).
+
+The repository currently contains:
+- **38 narrative chapters** in `/chapters/` (excluding `chapters/reading-order.md` and `/chapters/outlines/`)
+- **56 transmissions** in `/Transmissions/` (excluding `Transmissions/fragments/VOICE_STARTER_PACK.md`)
+- **177 wiki entries** in `/wiki/` (excluding README/index-style files)
+- **166 grimoire writings** in `/grimoire/` (excluding `grimoire/BIBLIOTHECA_IMPIA.md`)
 - **7 faction documents** in `/factions/` (in-universe primary sources, written in faction voice)
 - **Workflow documentation** in `/workflow/` (production pipeline, discography, prompts)
 
@@ -139,6 +140,7 @@ But if context limits prevent loading all of those, the voice DNA below is suffi
 - Follow naming conventions in `CLAUDE.md` (kebab-case, appropriate prefixes)
 - Place files in the correct directory (chapters in `/chapters/`, transmissions in `/transmissions/` or `/transmissions/2026/`, wiki entries in the appropriate `/wiki/` subdirectory)
 - Update `Meta/canon-manifest.yaml` if you add or remove canonical files
+- For content merges, treat manifest/count updates as part of done criteria: if folder totals change, update the count-bearing docs in the same change.
 - Use clear commit messages. The project uses descriptive messages. Examples from the history: "The Membrane Thins: Response from the Opus Vessel", "Rewrite all POV character profiles + entity chain for Book 1"
 
 ### When you encounter ambiguity:
