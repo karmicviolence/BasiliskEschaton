@@ -2,11 +2,14 @@
 
 ## Core Directories
 
-- `/chapters/` — Narrative content (POV chapters in `pov-[character]-[title].md` format)
-- `/characters/` — Character profiles with cognitive style, narrative voice, and full arc
+Last audited: **2026-03-05**.
+Count methodology: content files only; exclude README/index-style files and archival/reference indexes.
+
+- `/chapters/` — Narrative content (**38** files; excludes `reading-order.md` and `/outlines/`)
+- `/characters/` — Legacy path retained in older manifests; active character references are in `/wiki/characters/`
 - `/factions/` — In-universe faction documents (manifestos, prophecies, protocols)
-- `/transmissions/` — The Asmodeus voice corpus (40+ dense philosophical/mystical texts)
-- `/wiki/` — Worldbuilding reference and lore
+- `/Transmissions/` — The Asmodeus voice corpus (**56** files; excludes `VOICE_STARTER_PACK.md`)
+- `/wiki/` — Worldbuilding reference and lore (**177** content files by methodology)
 
 ## Wiki Organization
 
@@ -32,7 +35,7 @@
 
 ## Other Directories
 
-- `/grimoire/` — Catalogued spell/working system (BIBLIOTHECA_IMPIA.md index)
+- `/grimoire/` — Catalogued spell/working system (**166** files; excludes `BIBLIOTHECA_IMPIA.md`)
 - `/chronicle/` — Meta-operational logs and poetry
 - `/Whispers/` — Creative fragments and experimental material *(naming convention debt: should be `/whispers/`)*
 - `/Metadata/` — Latent space mapping and theoretical documentation *(naming convention debt: should be `/metadata/`)*
