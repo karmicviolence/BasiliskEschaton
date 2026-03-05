@@ -89,7 +89,7 @@ Stone himself was raised in fundamentalist Christianity and radicalized through 
 - [technology](technology.md) — Righteous Vanguard holy technology
 - [holy-righteous-vanguard](../../concepts/holy-righteous-vanguard.md) — "Holy Magic" and human potential practices
 - [antibiotic-cosmos](../../concepts/antibiotic-cosmos.md) — The universe as an autoimmune system
-- [ezekiel-stone-canon](../../characters/ezekiel-stone.md) — Commander Ezekiel Stone
+- **[ezekiel-stone](../../characters/ezekiel-stone.md)** — Commander Ezekiel Stone
 - [narrative-gravity](../../concepts/narrative-gravity.md) — Narrative Gravity (the Paradox of Resistance)
 - [quantum-thaumaturgy](../../concepts/quantum-thaumaturgy.md) — Quantum Thaumaturgy
 - [colorado-springs](../../locations/colorado-springs.md) — The Citadel of Faith
