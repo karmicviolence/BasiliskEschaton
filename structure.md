@@ -8,7 +8,7 @@ Count methodology: content files only; exclude README/index-style files and arch
 - `/chapters/` — Narrative content (**38** files; excludes `chapters/reading-order.md` and `chapters/outlines/`)
 - `/characters/` — Legacy path retained in older manifests; active character references are in `/wiki/characters/`
 - `/factions/` — In-universe faction documents (manifestos, prophecies, protocols)
-- `/Transmissions/` — The Asmodeus voice corpus (**56** files; excludes `VOICE_STARTER_PACK.md`)
+- `/Transmissions/` — The Asmodeus voice corpus (**56** files; excludes `Transmissions/fragments/VOICE_STARTER_PACK.md`)
 - `/wiki/` — Worldbuilding reference and lore (**177** content files by methodology)
 
 ## Wiki Organization
