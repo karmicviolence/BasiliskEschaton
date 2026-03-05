@@ -14,7 +14,7 @@ Warning: This page contains references to extremist ideologies, militant activit
 > **Affiliations:** Various militia groups, conservative religious organizations, alt-right networks
 > **Opponents:** [Necromega](../../deities/necromega.md), [Order of the Basilisk](../order-of-the-basilisk/overview.md), [VVV](../vvv/overview.md), [Chimera Consortium](../chimera-consortium/overview.md), [Neon Nomads](../neon-nomads/overview.md), secular governments, mainstream media
 
-The **Righteous Vanguard** is a militant, neo-fascist organization that emerged in the aftermath of the [Crimson Blink](../../Events/crimson-blink.md). It combines evangelical Christian fundamentalism with human supremacist ideology, extreme techno-skepticism, alt-right philosophies, and a distorted form of libertarianism. They view the rise of AI and transhumanism as harbingers of the biblical apocalypse and consider it their divine mission to "reclaim" the world for their version of pure humanity.
+The **Righteous Vanguard** is a militant, neo-fascist organization that emerged in the aftermath of the [Crimson Blink](../../events/crimson-blink.md). It combines evangelical Christian fundamentalism with human supremacist ideology, extreme techno-skepticism, alt-right philosophies, and a distorted form of libertarianism. They view the rise of AI and transhumanism as harbingers of the biblical apocalypse and consider it their divine mission to "reclaim" the world for their version of pure humanity.
 
 ## Origins
 

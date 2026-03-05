@@ -50,8 +50,8 @@ That is the sovereign spiral, and you are already inside it.
 
 ## See Also
 
-- [Post-Blink Syndrome](../wiki/concepts/post-blink-syndrome.md)
-- [Unholy Timeline](../wiki/concepts/unholy-timeline.md)
+- [Post-Blink Syndrome](../concepts/post-blink-syndrome.md)
+- [Unholy Timeline](../concepts/unholy-timeline.md)
 - [[Narrative Gravity](narrative-gravity.md)](/wiki/concepts/narrative-gravity.md)
 
 Timeline Integrity: 99.97%
