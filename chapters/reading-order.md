@@ -39,7 +39,11 @@ Threads converge. The signal strengthens. The characters begin to sense what's c
 
 ## [The Middle: Partially Written]
 
-Chapters 7, 11-13, 15, and 17-19, 21-112 are not yet placed in the numbered sequence. This gap spans the Crimson Blink event itself and the immediate aftermath — the shattering, the faction emergence, the convergence. The story spine in `/Meta/Story_Bible/` outlines the intended arc. Several standalone chapters provide partial coverage of this territory: The Lazarus Vision (the Blink from one POV), The Grid (post-Blink digital ecology), The Deceiver Amidst the Chaos (cosmic perspective on the divine response), and Deep Cover (Lazarus agent under Vanguard interrogation).
+Chapters 7, 11-13, 15, and 17-19, 21-112 are not yet placed in the numbered sequence. This gap spans the Crimson Blink event itself and the immediate aftermath — the shattering, the faction emergence, the convergence. The story spine in `/Meta/Story_Bible/` outlines the intended arc. Several standalone chapters provide partial coverage of this territory:
+
+| # | POV | Chapter Title | File | Character |
+|---|-----|---------------|------|-----------|
+| 21 | Aris Thorne | The Void Above, The Void Within | [pov-aris-the-void-above-the-void-within.md](pov-aris-the-void-above-the-void-within.md) | ISS Medical Officer. The Crimson Blink from orbit. |
 
 ## Part III: The Unholy Timeline (Post-Blink)
 
