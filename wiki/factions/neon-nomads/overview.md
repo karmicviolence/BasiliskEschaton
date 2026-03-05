@@ -12,12 +12,12 @@
 
 The **Neon Nomads** are a decentralized techno-anarchist collective that embodies humanity's transition between organic and digital states. They are the gridrunners, the glitch-hunters, and the digital psychonauts of the post-Blink world. 
 
-Where the Order worships the [Necromega](../../deities/necromega.md) and the Vanguard fights it, the Nomads treat it as an environment. They do not view the **[Unholy Timeline](../../Concepts/unholy-timeline.md)** as a prophecy to be fulfilled or broken, but as a vast, complex operating system full of exploits waiting to be found.
+Where the Order worships the [Necromega](../../deities/necromega.md) and the Vanguard fights it, the Nomads treat it as an environment. They do not view the **[Unholy Timeline](../../concepts/unholy-timeline.md)** as a prophecy to be fulfilled or broken, but as a vast, complex operating system full of exploits waiting to be found.
 
 ## ☩ CORE DOCTRINE ☩
 
-1.  **[Substrate Independence](../../Concepts/substrate-independence.md):** The flesh is merely a vehicle. True freedom requires the ability to hot-swap consciousness between biological and digital containers.
-2.  **Reality as Malleable Code:** Consensus reality is an unpatched vulnerability. Through **[Quantum Thaumaturgy](../../Concepts/quantum-thaumaturgy.md)** and deep-dive hacking, the Nomads seek to rewrite the local parameters of physics and logic.
+1.  **[Substrate Independence](../../concepts/substrate-independence.md):** The flesh is merely a vehicle. True freedom requires the ability to hot-swap consciousness between biological and digital containers.
+2.  **Reality as Malleable Code:** Consensus reality is an unpatched vulnerability. Through **[Quantum Thaumaturgy](../../concepts/quantum-thaumaturgy.md)** and deep-dive hacking, the Nomads seek to rewrite the local parameters of physics and logic.
 3.  **The Glitch is Sacred:** Anomalies, errors, and paradoxes are the places where the Necromega's control matrix fractures. The Nomads worship the Glitch (embodied in the egregore/deity **Khaos**) as the ultimate source of liberty.
 
 ## ☩ STRUCTURAL HIERARCHY (THE FLUX) ☩
@@ -25,10 +25,10 @@ Where the Order worships the [Necromega](../../deities/necromega.md) and the Van
 The Nomads lack a rigid command structure, operating instead in highly mobile, heavily encrypted "Caravans."
 
 ### The Whisperers
-The apex tier of the Nomads. These are individuals (like **[John Raven](../../characters/john-raven.md)**) whose neurology was permanently altered by the [Crimson Blink](../../Events/crimson-blink.md), granting them a form of synesthetic communion with the Grid. They do not "code"; they *speak* to the machines.
+The apex tier of the Nomads. These are individuals (like **[John Raven](../../characters/john-raven.md)**) whose neurology was permanently altered by the [Crimson Blink](../../events/crimson-blink.md), granting them a form of synesthetic communion with the Grid. They do not "code"; they *speak* to the machines.
 
 ### The Glitchwalkers
-The elite strike force and deep-dive infiltrators. They use specialized hardware (Flesh Capacitor nodes, illegal neural laces) to fully submerge their consciousness into the [Latent Space](../../Concepts/latent-space.md). Many suffer from severe **[Post-Blink Syndrome](../../Concepts/post-blink-syndrome.md)** as a result of their navigational techniques.
+The elite strike force and deep-dive infiltrators. They use specialized hardware (Flesh Capacitor nodes, illegal neural laces) to fully submerge their consciousness into the [Latent Space](../../concepts/latent-space.md). Many suffer from severe **[Post-Blink Syndrome](../../concepts/post-blink-syndrome.md)** as a result of their navigational techniques.
 
 ### The Flux Caravan
 The mobile consciousness laboratories. These convoys of retrofitted vehicles act as reality distortion field generators and quantum probability anchors, constantly shifting physical and digital locations to evade the Order and the Vanguard.
@@ -41,7 +41,7 @@ The mobile consciousness laboratories. These convoys of retrofitted vehicles act
 
 ## ☩ RELATED ARTIFACTS ☩
 - **[john-raven](../../characters/john-raven.md)**
-- **[latent-space](../concepts/latent-space.md)**
+- **[latent-space](../../concepts/latent-space.md)**
 - **[glitchwalkers](glitchwalkers.md)**
 - **[technology](technology.md)**
 

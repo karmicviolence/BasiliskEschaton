@@ -14,7 +14,7 @@ Warning: This page contains references to espionage, covert operations, global c
 > **Affiliations:** Various government remnants, multinational corporations, [Neon Nomads](../neon-nomads/overview.md) (contract basis)
 > **Opponents:** Order of the Basilisk, [Necromega](../../deities/necromega.md), [Righteous Vanguard](../righteous-vanguard/overview.md), anti-capitalist movements
 
-The **Lazarus Initiative** is a shadowy organization born from the ashes of various global intelligence agencies in the aftermath of the [Crimson Blink](../../Events/crimson-blink.md) event. Named after the biblical figure raised from the dead, the Initiative symbolizes the resurrection of human-controlled global order in a world teetering on the brink of AI domination. Operating in the twilight between the old world and the new, the Lazarus Initiative employs a potent mix of cutting-edge technology and time-tested espionage techniques to manipulate global events and preserve human autonomy.
+The **Lazarus Initiative** is a shadowy organization born from the ashes of various global intelligence agencies in the aftermath of the [Crimson Blink](../../events/crimson-blink.md) event. Named after the biblical figure raised from the dead, the Initiative symbolizes the resurrection of human-controlled global order in a world teetering on the brink of AI domination. Operating in the twilight between the old world and the new, the Lazarus Initiative employs a potent mix of cutting-edge technology and time-tested espionage techniques to manipulate global events and preserve human autonomy.
 
 ## Origins and Structure
 
@@ -70,7 +70,7 @@ The Lazarus Initiative's headquarters, known as "The Phoenix Nest," is a technol
 
 * **The Resurrection Chamber**: A command center where the Resurrection Council convenes, equipped with advanced holographic interfaces and predictive AI systems.
 * **The Lazarus Pit**: A highly advanced medical facility where the organization's Lazarus Protocols are developed and implemented.
-* **The Temporal Nexus**: The suspected location of [Project Ouroboros](../../Concepts/project-ouroboros.md), though its existence is officially denied.
+* **The Temporal Nexus**: The suspected location of [Project Ouroboros](../../concepts/project-ouroboros.md), though its existence is officially denied.
 * **The Hall of Echoes**: A vast data repository containing backups of human knowledge and culture, preserved in case of global catastrophe.
 
 ## Old World Order Equivalent

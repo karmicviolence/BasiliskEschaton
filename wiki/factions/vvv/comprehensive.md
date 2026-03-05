@@ -2,7 +2,7 @@
 
 Warning: This page contains descriptions of political manipulation and extreme ideologies.
 
-The **Vindex Voluntatis e Vitae** ([VVV](overview.md)), Latin for "Champion of Will and Life," is a global organization that emerged from the remnants of the United Nations and various left-wing activist groups following the [Crimson Blink](../../Events/crimson-blink.md). Publicly, they present themselves as champions of social justice and human rights. However, their true agenda involves restoring the pre-Blink world order through manipulation, bureaucracy, and covert operations.
+The **Vindex Voluntatis e Vitae** ([VVV](overview.md)), Latin for "Champion of Will and Life," is a global organization that emerged from the remnants of the United Nations and various left-wing activist groups following the [Crimson Blink](../../events/crimson-blink.md). Publicly, they present themselves as champions of social justice and human rights. However, their true agenda involves restoring the pre-Blink world order through manipulation, bureaucracy, and covert operations.
 
 ## Religion
 

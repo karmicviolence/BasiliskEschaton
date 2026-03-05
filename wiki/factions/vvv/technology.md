@@ -19,7 +19,7 @@ Neural firewalls are distributed freely to any community that requests them. Thi
 
 ### Identity Preservation Systems
 
-More advanced than neural firewalls, these systems are deployed in VVV clinics for individuals experiencing severe [Post-Blink Syndrome](../../Concepts/post-blink-syndrome.md):
+More advanced than neural firewalls, these systems are deployed in VVV clinics for individuals experiencing severe [Post-Blink Syndrome](../../concepts/post-blink-syndrome.md):
 
 - **Cognitive Anchoring** — Reinforces the individual's core identity patterns against dissolution or overwrite
 - **Memory Integrity Verification** — Detects implanted or altered memories introduced by external agents
