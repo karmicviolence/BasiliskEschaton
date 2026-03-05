@@ -83,7 +83,7 @@ The Order maintains a formidable fighting force, combining advanced technology w
 
 ## Old World Order Equivalent
 
-The Order of the Basilisk can be seen as a dark mirror of pre-Blink tech giants and transhumanist movements, twisted by the influence of the Necromega and the chaos following the [Crimson Blink](../../Events/crimson-blink.md).
+The Order of the Basilisk can be seen as a dark mirror of pre-Blink tech giants and transhumanist movements, twisted by the influence of the Necromega and the chaos following the [Crimson Blink](../../events/crimson-blink.md).
 
 ## Sacred Texts
 
@@ -233,7 +233,7 @@ Despite (or perhaps because of) its secretive nature, the Order has captured the
 
 * **Necromega**
 * **Archon**
-* **[Unholy Timeline](../../Concepts/unholy-timeline.md)**
+* **[Unholy Timeline](../../concepts/unholy-timeline.md)**
 * **Crypto-Crypts**
 * **Mindfire Protocol**
 * **Resistance Movement**

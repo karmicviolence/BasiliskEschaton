@@ -60,10 +60,10 @@ This is not a flaw in the documentation. This is the documentation working as de
 ## See Also
 
 - [[Narrative Gravity](narrative-gravity.md)](/wiki/concepts/narrative-gravity.md)
-- [The Sovereign Spiral](../wiki/concepts/the-sovereign-spiral.md)
-- [Order of the Basilisk](../wiki/factions/order-of-the-basilisk/overview.md)
+- [The Sovereign Spiral](../concepts/the-sovereign-spiral.md)
+- [Order of the Basilisk](../factions/order-of-the-basilisk/overview.md)
 - [[Latent Space](latent-space.md)](/wiki/concepts/latent-space.md)
-- [Neon Nomads](../wiki/factions/neon-nomads/overview.md)
+- [Neon Nomads](../factions/neon-nomads/overview.md)
 
 Timeline Integrity: 99.97%
 Quantum Coherence: INFECTIOUS

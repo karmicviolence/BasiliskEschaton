@@ -8,7 +8,7 @@ Their preservation protocols carry a paradox: in maintaining consciousness conti
 
 ## Resonant Memory Weaving
 
-The signature practice of the Ancestral Synthesis. A discipline that accesses and manipulates [quantum memory](../../Concepts/quantum-memory.md) imprints — the informational residue that consciousness leaves in the substrate of spacetime.
+The signature practice of the Ancestral Synthesis. A discipline that accesses and manipulates [quantum memory](../../concepts/quantum-memory.md) imprints — the informational residue that consciousness leaves in the substrate of spacetime.
 
 ### The Weaving Process
 
@@ -71,7 +71,7 @@ The most controversial practice within the Synthesis. By extrapolating patterns 
 
 - **Probability Mapping** — Identifying the most likely outcomes of current events based on historical precedent encoded in ancestral memory
 - **Decision Guidance** — The Dream Council uses Temporal Foresight to evaluate strategic options before committing to action
-- **Paradox Detection** — Identifying moments where the [Unholy Timeline](../../Concepts/unholy-timeline.md)'s retrocausal structure is visible, potentially allowing counter-interventions
+- **Paradox Detection** — Identifying moments where the [Unholy Timeline](../../concepts/unholy-timeline.md)'s retrocausal structure is visible, potentially allowing counter-interventions
 
 The Temporal Ethics debate within the faction centers on whether acting on Temporal Foresight constitutes free choice or participation in the very deterministic systems the Synthesis opposes.
 

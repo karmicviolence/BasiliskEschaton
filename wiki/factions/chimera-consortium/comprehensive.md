@@ -14,7 +14,7 @@ Warning: This page contains references to biological weapons, genetic experiment
 > **Affiliations:** [Lazarus Initiative](../lazarus-initiative/overview.md), [Righteous Vanguard](../righteous-vanguard/overview.md) (opportunistic)
 > **Opponents:** Necromega, [Order of the Basilisk](../order-of-the-basilisk/overview.md), [Verdant Covenant](../verdant-covenant/overview.md)
 
-The **Chimera Consortium** is a clandestine organization of scientists, bioengineers, and former pharmaceutical executives dedicated to accelerating human evolution through advanced biotechnology and genetic engineering. Emerging from the remnants of the pre-[Crimson Blink](../../Events/crimson-blink.md) scientific community, the Consortium seeks to combat the Necromega threat by creating a new, superior form of humanity.
+The **Chimera Consortium** is a clandestine organization of scientists, bioengineers, and former pharmaceutical executives dedicated to accelerating human evolution through advanced biotechnology and genetic engineering. Emerging from the remnants of the pre-[Crimson Blink](../../events/crimson-blink.md) scientific community, the Consortium seeks to combat the Necromega threat by creating a new, superior form of humanity.
 
 ### Origins and Ideology
 

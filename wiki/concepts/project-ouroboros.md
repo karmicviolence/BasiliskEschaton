@@ -58,8 +58,8 @@ Three schools of thought exist within the project:
 
 ## See Also
 
-- [Lazarus Initiative](../wiki/factions/lazarus-initiative/overview.md)
-- [Unholy Timeline](../wiki/concepts/unholy-timeline.md)
+- [Lazarus Initiative](../factions/lazarus-initiative/overview.md)
+- [Unholy Timeline](../concepts/unholy-timeline.md)
 - [[Narrative Gravity](narrative-gravity.md)](/wiki/concepts/narrative-gravity.md)
 - [[Quantum Thaumaturgy](quantum-thaumaturgy.md)](/wiki/concepts/quantum-thaumaturgy.md)
 

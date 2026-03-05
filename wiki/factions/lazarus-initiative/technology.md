@@ -39,7 +39,7 @@ Revolutionary fabrication technology capable of rapidly generating physical reso
 
 ## Chrono-Stabilizers
 
-Experimental devices rumored to protect against temporal anomalies. Allegedly developed as part of [Project Ouroboros](../../Concepts/project-ouroboros.md), Chrono-Stabilizers are said to create localized pockets of "temporal inertia" where retrocausal interference cannot penetrate. If functional, they would represent the only known defense against the [Unholy Timeline](../../Concepts/unholy-timeline.md)'s self-reinforcing causal structure. The Initiative officially classifies these devices as "theoretical prototypes." Field operatives tell different stories.
+Experimental devices rumored to protect against temporal anomalies. Allegedly developed as part of [Project Ouroboros](../../concepts/project-ouroboros.md), Chrono-Stabilizers are said to create localized pockets of "temporal inertia" where retrocausal interference cannot penetrate. If functional, they would represent the only known defense against the [Unholy Timeline](../../concepts/unholy-timeline.md)'s self-reinforcing causal structure. The Initiative officially classifies these devices as "theoretical prototypes." Field operatives tell different stories.
 
 ## Project Ouroboros Technologies
 

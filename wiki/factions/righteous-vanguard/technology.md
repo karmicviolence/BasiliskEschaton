@@ -72,6 +72,6 @@ This fusion produces a workforce that approaches manufacturing with devotional i
 - [overview](overview.md) — Righteous Vanguard overview
 - [ideology](ideology.md) — Righteous Vanguard ideological framework
 - [righteous-vanguard](../../tech/righteous-vanguard.md) — Detailed analog technology catalog
-- [holy-righteous-vanguard](../../Concepts/holy-righteous-vanguard.md) — "Holy Magic" and human potential
-- [ezekiel-stone-canon](../../characters/ezekiel-stone-canon.md) — Commander [Ezekiel Stone](../../characters/ezekiel-stone.md)
+- [holy-righteous-vanguard](../../concepts/holy-righteous-vanguard.md) — "Holy Magic" and human potential
+- [ezekiel-stone-canon](../../characters/ezekiel-stone.md) — Commander [Ezekiel Stone](../../characters/ezekiel-stone.md)
 - [colorado-springs](../../locations/colorado-springs.md) — The Citadel of Faith
