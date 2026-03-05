@@ -46,10 +46,10 @@ The Whisperers consider it something simpler and more profound: evidence that th
 
 ## See Also
 
-- [I-3301](../wiki/characters/i-3301-character-profile.md)
-- [John Raven](../wiki/characters/john-raven-character-profile-v2.md)
-- [Neon Nomads](../wiki/factions/neon-nomads/overview.md)
-- [The Grid](../wiki/tech/the-grid.md)
+- [I-3301](../characters/i-3301.md)
+- [John Raven](../characters/john-raven.md)
+- [Neon Nomads](../factions/neon-nomads/overview.md)
+- [The Grid](../tech/the-grid.md)
 - [[Post-Blink Syndrome](post-blink-syndrome.md)](/wiki/concepts/post-blink-syndrome.md)
 
 Timeline Integrity: 99.97%

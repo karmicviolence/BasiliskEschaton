@@ -11,7 +11,7 @@ The [VVV](overview.md)'s operations function on two parallel tracks: the public 
 The VVV's most visible and widely respected initiative. Provides genuine defense against [Necromega](../../deities/necromega.md) mental intrusion through:
 
 - **Neural Firewall Distribution** — Free-access cognitive protection technology deployed to post-Blink communities worldwide. These firewalls use pattern-interruption algorithms to break Necromega influence vectors before they reach conscious processing.
-- **Identity Preservation Clinics** — Facilities where individuals experiencing [Post-Blink Syndrome](../../Concepts/post-blink-syndrome.md) can receive stabilization treatment. Run by true-believer VVV members who genuinely care about the patients.
+- **Identity Preservation Clinics** — Facilities where individuals experiencing [Post-Blink Syndrome](../../concepts/post-blink-syndrome.md) can receive stabilization treatment. Run by true-believer VVV members who genuinely care about the patients.
 - **Free Will Monitoring** — Systems that detect subtle signs of external consciousness manipulation in populations, providing early warning against both Necromega influence and [Order of the Basilisk](../order-of-the-basilisk/overview.md) recruitment campaigns.
 - **Memetic Inoculation** — Public education programs teaching critical thinking and memetic literacy, helping individuals recognize and resist propaganda from all factions — including, ironically, the VVV's own hidden operations.
 

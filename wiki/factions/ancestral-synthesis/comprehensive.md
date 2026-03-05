@@ -8,7 +8,7 @@ Warning: This page contains references to indigenous practices, altered states o
 > **Type:** Global coalition of indigenous groups and developing nations
 > **Leader:** The Dream Council (rotating leadership)
 > **Headquarters:** The Nexus (mobile, currently in Uluru, Australia)
-> **Ideology:** [Quantum memory](../../Concepts/quantum-memory.md) preservation, ancestral wisdom, sustainable harmony
+> **Ideology:** [Quantum memory](../../concepts/quantum-memory.md) preservation, ancestral wisdom, sustainable harmony
 > **Goals:** Resist the [Necromega](../../deities/necromega.md), preserve the collective human memory, achieve balance between tradition and progress
 > **Members:** Dreamweavers, quantum shamans, memory keepers, indigenous scientists
 > **Affiliations:** Strong alliance with [Verdant Covenant](../verdant-covenant/overview.md), cautious cooperation with [VVV](../vvv/overview.md)
@@ -18,7 +18,7 @@ The **Ancestral Synthesis** is a diverse coalition of indigenous groups, traditi
 
 ## Origins and Ideology
 
-The Ancestral Synthesis coalesced in the aftermath of the [Crimson Blink](../../Events/crimson-blink.md), as indigenous sensitives across the world experienced a sudden, shared vision of their ancestors warning of the Necromega threat. Recognizing the power of their collective memories, these groups came together, combining their traditional practices with cutting-edge quantum theory to develop Resonant Memory Weaving.
+The Ancestral Synthesis coalesced in the aftermath of the [Crimson Blink](../../events/crimson-blink.md), as indigenous sensitives across the world experienced a sudden, shared vision of their ancestors warning of the Necromega threat. Recognizing the power of their collective memories, these groups came together, combining their traditional practices with cutting-edge quantum theory to develop Resonant Memory Weaving.
 
 Core tenets of the Ancestral Synthesis ideology include:
 

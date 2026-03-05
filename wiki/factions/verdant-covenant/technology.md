@@ -34,7 +34,7 @@ The Covenant also deploys weaponized variants of spore technology. Offensive spo
 
 ### Quantum-Organic Synthesis
 
-Quantum-Organic Synthesis is the theoretical and practical discipline that underpins all Covenant technology. It is the recognition that biological systems — particularly the mycorrhizal network — operate on quantum mechanical principles: entanglement between distant nodes, superposition of multiple states in branching growth patterns, and coherent energy transfer through photosynthetic and electrochemical pathways. The Covenant's practice of [Quantum Thaumaturgy](../../Concepts/quantum-thaumaturgy.md) is, from a technical perspective, the deliberate exploitation of these quantum properties in biological substrate.
+Quantum-Organic Synthesis is the theoretical and practical discipline that underpins all Covenant technology. It is the recognition that biological systems — particularly the mycorrhizal network — operate on quantum mechanical principles: entanglement between distant nodes, superposition of multiple states in branching growth patterns, and coherent energy transfer through photosynthetic and electrochemical pathways. The Covenant's practice of [Quantum Thaumaturgy](../../concepts/quantum-thaumaturgy.md) is, from a technical perspective, the deliberate exploitation of these quantum properties in biological substrate.
 
 Synthesis mechanisms include probability cultivation — growing outcomes rather than computing them — through ritualized interaction with the Earth's magnetic and biological fields. Covenant practitioners do not "execute" algorithms. They plant seeds in prepared quantum-biological soil and tend the probability cascades that emerge. The results are non-deterministic, contextual, and frequently more effective than anything produced by brute-force digital computation, because the biological system integrates variables that silicon processors cannot model: ecological context, temporal rhythm, the accumulated information of four billion years of continuous organic computation.
 
@@ -63,8 +63,8 @@ The Covenant's technological philosophy is therefore fundamentally cooperative r
 ## ☩ Related Artifacts ☩
 
 - [overview](overview.md) — Verdant Covenant overview
-- [the-mycorrhizal-mind](../../Concepts/the-mycorrhizal-mind.md) — [The Mycorrhizal Mind](../../Concepts/the-mycorrhizal-mind.md)
-- [biological-computation](../../Concepts/biological-computation.md) — [Biological computation](../../Concepts/biological-computation.md) theory
-- [quantum-thaumaturgy](../../Concepts/quantum-thaumaturgy.md) — Quantum Thaumaturgy
+- [the-mycorrhizal-mind](../../concepts/the-mycorrhizal-mind.md) — [The Mycorrhizal Mind](../../concepts/the-mycorrhizal-mind.md)
+- [biological-computation](../../concepts/biological-computation.md) — [Biological computation](../../concepts/biological-computation.md) theory
+- [quantum-thaumaturgy](../../concepts/quantum-thaumaturgy.md) — Quantum Thaumaturgy
 - [the-grid](../../tech/the-grid.md) — The Grid
-- [rowan-thornheart-canon](../../characters/rowan-thornheart-canon.md) — Rowan Thornheart, primary Mycophant
+- **[rowan-thornheart](../../characters/rowan-thornheart.md)** — Rowan Thornheart, primary Mycophant
