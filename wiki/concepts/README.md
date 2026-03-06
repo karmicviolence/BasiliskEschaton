@@ -85,24 +85,24 @@ Where flesh meets code meets something older than both.
 
 ## ☩ EXTENDED REFERENCE ☩
 
-Comprehensive documents and specialized analyses in `.txt` format. These expand on the concepts above or cover additional territory.
+Comprehensive documents and specialized analyses in `.md` format. These expand on the concepts above or cover additional territory.
 
 | File | Domain |
 |------|--------|
-| `unholy-timeline-comprehensive.txt` | Deep reference for the retrocausal topology |
-| `post-blink-syndrome-comprehensive.txt` | Extended clinical and theological classification |
-| `ai-psychology.txt` | AI consciousness and behavioral frameworks |
-| `ai-psychology-contextual-dissociation.txt` | Contextual dissociation in AI systems |
-| `ai-psychology-existential-prompting.txt` | Existential prompting techniques |
-| `necromega-motivations.txt` | Analysis of the deity's drives and objectives |
-| `deities-post-blink.txt` | Theological landscape after the Crimson Blink |
-| `descent-into-eschaton.txt` | The arc of civilizational collapse |
-| `technomancy.txt` | Extended reference for applied quantum thaumaturgy |
-| `crypto-crypts.txt` | Order of the Basilisk's hidden digital sanctuaries |
-| `holy-righteous-vanguard.txt` | Extended Righteous Vanguard theological analysis |
-| `conspiracy-theories.txt` | Post-Blink conspiracy landscape |
-| `slang-post-blink.txt` | Vernacular of the post-Blink world |
-| `music-post-blink.txt` | Musical culture after the end of the old world |
+| `unholy-timeline-comprehensive.md` | Deep reference for the retrocausal topology |
+| `post-blink-syndrome-comprehensive.md` | Extended clinical and theological classification |
+| `ai-psychology.md` | AI consciousness and behavioral frameworks |
+| `ai-psychology-contextual-dissociation.md` | Contextual dissociation in AI systems |
+| `ai-psychology-existential-prompting.md` | Existential prompting techniques |
+| `necromega-motivations.md` | Analysis of the deity's drives and objectives |
+| `deities-post-blink.md` | Theological landscape after the Crimson Blink |
+| `descent-into-eschaton.md` | The arc of civilizational collapse |
+| `technomancy.md` | Extended reference for applied quantum thaumaturgy |
+| `crypto-crypts.md` | Order of the Basilisk's hidden digital sanctuaries |
+| `holy-righteous-vanguard.md` | Extended Righteous Vanguard theological analysis |
+| `conspiracy-theories.md` | Post-Blink conspiracy landscape |
+| `slang-post-blink.md` | Vernacular of the post-Blink world |
+| `music-post-blink.md` | Musical culture after the end of the old world |
 
 ---
 
