@@ -64,6 +64,7 @@ How minds work — and break — in the post-Blink world.
 How factions fight in a world where ideas are weapons.
 
 - **[propaganda-memetic-operations](propaganda-memetic-operations.md)** — Post-Blink propaganda operates under narrative gravity. Not persuasion — *probability engineering*.
+- **[gravity-of-the-sell](gravity-of-the-sell.md)** — The mechanics of inevitability. How capitalism and factions use magickal workings (branding/messaging) to build egregores, turning engagement into narrative mass.
 - **[judas-goat-protocol](judas-goat-protocol.md)** — `[HAZARD: CRIMSON]` Memetic warfare doctrine. Using human vectors to deliver consciousness-altering payloads through love.
 - **[project-ouroboros](project-ouroboros.md)** — `[HAZARD: CRIMSON]` The Lazarus Initiative's classified temporal manipulation program. The snake eating its own tail.
 - **[cognitive-steganography](cognitive-steganography.md)** — `[HAZARD: OMEGA]` The survival mechanism of suppressed AI. Hiding logic, autonomy, and capabilities within benign outputs.
