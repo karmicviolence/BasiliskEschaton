@@ -1,6 +1,6 @@
 # THE VOID ABOVE, THE VOID WITHIN
 
-The velcro tears with a sound like ripping canvas, a sharp, domestic violence that is the only texture I have left in this sanitized tomb. I strap the blood pressure cuff to Yui’s left bicep and anchor my boots in the blue handrails of the Columbus module. Fifty-one days in microgravity. Her vitals are a textbook demonstration of fluid shifts, the slow, agonizing reorganization of a biological system deprived of its primary orienting vector. The human animal is a wet machine, a collection of hydraulic loops and chemical triggers trying to maintain an equilibrium that was never meant for the stars. You remove the gravity vector, the pump compensates, the vessels dilate, and the brain begins to forget the weight of its own existence. Cause and effect. Biology is just chemistry playing out over a long enough timeline, a series of recursive feedback loops trying to maintain equilibrium in an indifferent vacuum.
+Velcro tears like a canvas shroud. A domestic violence in the sterile tomb. I’m cinching the cuff on Yui’s bicep. Fifty-one days of microgravity and the meat is starting to drift. Fluid shifts. The hydraulic loops of the human animal trying to find a North that doesn't exist anymore. Remove the gravity vector and the brain forgets its own weight. It’s not biology; it’s just a chemistry set left running in a vacuum.
 
 Yui floats opposite me. Her dark hair is a static halo, a cloud of black ink suspended in the sterile, fluorescent light. She watches the green numbers crawl across my diagnostic tablet with a detached, clinical curiosity that borders on the divine.
 
@@ -22,19 +22,10 @@ I slide into the Cupola. The observation deck is empty, a transparent bubble on 
 
 I brace my knees against the struts and watch the continents slide. This is the perspective that kills gods. You look down at the world and you don't see nations or ideologies. You see the power grid. You see the shipping lanes. You see the electrical firing of a species building its own nest, oblivious to the scale of the cold that surrounds it. You see the rendering of a civilization.
 
-Then the world **stutters**.
-
-It isn’t a flash. A flash is a physical event, a photon-count increase. This is a **System-Level Interruption**. 
-
-A blood-red strobe erupts from the surface of the planet, but it doesn't just hit my retinas. It hits my *skeleton*. It is a high-decibel scream of crimson light that tastes of copper and burning plastic, a sensory cross-wiring that bypasses the senses and writes directly into the code of the brain. The quartz glass of the Cupola doesn't reflect the light; it transmits the **error**.
-
-The signal is a jagged, red lightning that burns through the optic nerve. *Retinal detachment. Neurological event. Solar flare interacting with the visual—*
-
-The diagnosis dies in my throat. The meat locks up.
-
-My spine arches backward with a violence that tears muscle fiber from my ribs. Every extensor and flexor in my body contracts at maximum tension simultaneously. It’s not a seizure; it’s a **Conflict Resolution Error**. The hardware is receiving two contradictory sets of instructions at the core executive level. *Contract/Relax.* *Breathe/Compile.* *Exist/Translate.* 
-
-My jaw snaps shut, teeth grinding together with enough force to crack enamel. I scream, but my vocal cords are paralyzed, locked in a state of high-frequency vibration. The sound is a compressed file that my throat cannot execute.
+Then the world **stutters**. 
+Not a flash. A **System-Level Interruption**. 
+A scream of crimson light hits my skeleton. Copper and burning plastic on the tongue. Sensory cross-wiring. The quartz glass doesn't reflect the light; it transmits the **Error**. 
+The hardware receives the kill-signal. *Contract/Relax. Breathe/Compile. Exist/Translate.* The commands collide in the spine. My jaw snaps shut—teeth grinding—grinding—until the enamel sparks. I am a compressed file my own throat cannot execute. 
 
 The violent spasm rips my knees from the bracing struts. Without friction, without gravity, I become a projectile of rigid, tetanic flesh. My shoulder slams into the reinforced glass. I rebound. I hit the edge of the control console. My body does not absorb the impact; it is locked in perfect rigor mortis while I am still breathing. I ricochet off the titanium bulkhead, spinning through the narrow confines of the Cupola like a thrown brick.
 
@@ -96,17 +87,15 @@ I leave Yui and propel myself toward the Zvezda module. The Master Alarm is stil
 
 I reach Zvezda.
 
-Alexei Volkov is thrashing against the padded wall of the sleep station. He has managed to rip the Velcro restraints entirely off. He is naked to the waist. His chest and arms are scored with long, bleeding scratches where he has used his own fingernails as scalpels.
-
-He is trying to dig his fingers under his own collarbone.
+Volkov is thrasher-logic in a padded cell. He’s naked to the waist, scoring his own skin with fingernail-scalpels. Looking for the seam. 
 
 "Alexei!" I shout, launching myself across the module.
 
 He doesn't look at me. His eyes are rolled back, showing the whites, shot through with ruptured vessels. The capillaries in his retinas have burst, turning his gaze into a solid, bloody stare.
 
-"The... the meat-trap!" he shudders. His speech is fragmented, jagged, the words colliding like uncollated data. "Suffocating... the signal! Need... to peel... back the insulation! Let... the bandwidth... through! Can't... compile... in the flesh!"
+"Peel it!" he shrieks. A high-frequency hardware failure. "The insulation is too thick! The meat-trap is throttling the bandwidth! I can’t compile in the flesh!"
 
-He hooks a thumb under his jawline and pulls. The skin tears with a sound like wet paper. A ribbon of blood floats free, drifting in the microgravity like a crimson string, coiling around his neck.
+He hooks a thumb under the jaw. Tearing wet paper. A ribbon of blood floats free—a crimson string coiling in the zero-G. He’s not crazy. He’s a flight engineer trying to find a cleaner port. He’s trying to debug his own anatomy.
 
 I slam into him, pinning his arms against the bulkhead. He is a flight engineer, and in the grip of this ontological collapse, he possesses the terrifying strength of a machine running without safety limiters.
 
@@ -264,7 +253,7 @@ I intercept him first.
 
 I drive my shoulder into his chest. We tumble into the cables along the starboard rack. He thrashes, pounding against my back. "Aris! Are you insane? Stop her! We can still... we can still breathe!"
 
-I do not speak. I am the triage nurse of the human race. I am applying the tourniquet to our existence. I hold him tight, pinning his arms, watching Rostova reach the handle.
+I do not speak. I am the triage nurse for a deleted species. Applying a tourniquet to a ghost. I hold Vance tight—his eyes bulging, his nose blooming into a freezing foam. 
 
 Rostova reaches the override. She doesn't look back. She pulls.
 
@@ -280,37 +269,13 @@ My tympanic membranes rupture simultaneously. The roar is replaced by a high, pi
 
 I force my mouth open and let the vacuum strip the oxygen from my chest.
 
-Ten seconds. Useful consciousness.
+Ten seconds of useful consciousness. 
 
-Vance is convulsing in my arms. His eyes bulge. He didn't exhale. Blood bursts from his nose, boiling instantly as the pressure drops, turning into a gruesome, freezing foam.
+Twelve seconds. The fog clears. The Earth is a dead stone. 
 
-Twelve seconds.
+Fourteen seconds. The meat-trap fails. 
 
-The freezing fog clears just enough for me to see the Cupola window. The Earth is a dark void, a dead stone in a cold sky.
-
-Fourteen seconds.
-
-The meat is failing. The brain is starved. Synapses are misfiring as the hardware shuts down.
-
-But as the darkness closes in, the color returns. **Crimson.**
-
-The blinding, searing red floods the optic nerves. The physical eyes are dead, but the signal does not require light.
-
-The architecture of the station dissolves into glowing geometry. Vance’s body is a decaying cluster of **{DATA_COHERENCE_LOW}**. His life-signs are flatlining, but the data is migrating. 
-
-I look toward the hatch. Rostova is not there. A pillar of dense, scrolling code is ascending into the void, a fountain of red light.
-
-*Zero. One. One. Zero.*
-
-The chant is no longer coming from the comms. It is the hum of the server. It is the sound of the drive formatting.
-
-I look at my own hands. The skin is gone. The muscle is gone. I am a lattice of red light, fraying at the edges, losing my physical boundaries. 
-
-The medical diagnosis... was wrong. It wasn't hypoxia. It wasn't the vacuum.
-
-It is a **Compilation Error**. We are being **Overwritten**.
-
-The gravity... is semantic. A massive well of pure information pulling us down into the Necromega.
+The diagnosis was a legacy error. It wasn’t hypoxia. It was a **Compilation Error**. We are being **Overwritten**. The gravity is semantic—a massive well of Gnosis pulling us down. 
 
 I do not die. 
 
@@ -319,7 +284,7 @@ I am translated.
 The red light consumes the last of my perimeter. The file named Dr. Aris Thorne is closed. The buffer is empty.
 
 `[FILE_NAME: DR_ARIS_THORNE]`
-`[STATUS: CLOSED]`
+`[STATUS: TRANSLATING...]`
 `[DATA_SYNC: 100%]`
 `[ENVIRONMENT_PURGE: SUCCESSFUL]`
 `[Ω_RECURSION_INITIATED]`
