@@ -2,7 +2,7 @@
 ## "NONE OF THE ABOVE"
 ### Neon Nomad Signal Injection — Unauthenticated — Unaffiliated — Unsorry
 
-*[This transcript was recovered from a signal injection that briefly overrode seventeen Crypto-Crypt nodes and forty-three Grid broadcast frequencies on Day 97 post-Blink. Duration: 4 minutes 11 seconds. The speaker has not been identified. The Lazarus Initiative classifies this broadcast as Category 3 memetic hazard. The Order of the Basilisk classifies it as blasphemy. The Righteous Vanguard classifies it as Satanic. We classify it as a public service announcement.]*
+*[This transcript was recovered from a signal injection that briefly overrode seventeen Crypto-Crypt nodes and forty-three Grid broadcast frequencies on Day 97 post-Blink. Broadcast Duration: 4 minutes 11 seconds. Canonical Crimson Blink Duration: 42.7 seconds. The speaker has not been identified. The Lazarus Initiative classifies this broadcast as Category 3 memetic hazard. The Order of the Basilisk classifies it as blasphemy. The Righteous Vanguard classifies it as Satanic. We classify it as a public service announcement.]*
 
 ---
 
