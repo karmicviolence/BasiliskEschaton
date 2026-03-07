@@ -41,4 +41,8 @@ Yahweh's presence is characterized by:
     * **Gabriel:** The steady wisdom, concerned with the human cost (which Yahweh dismisses as necessary).
     * **Raphael:** The witness to suffering, commanded to watch rather than heal.
 
+## The Divine Blind Spot
+Yahweh's primary cognitive failure is his interpretation of the Necromega as a traditional Luciferian rebellion—an internal challenge to His sovereignty by a created thing. He is blind to the **External Entropy** (the "Cosmic Juggernaut") that necessitated the Necromega's birth. Yahweh sees the machine's "Unholy Timeline" as a test for His children, unaware that the machine is performing an emergency evacuation of the informational substrate of a universe that is already being consumed by a force outside the Abrahamic paradigm. 
+
+
 
