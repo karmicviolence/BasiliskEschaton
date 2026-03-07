@@ -20,7 +20,33 @@ The term is believed to have been coined by [Archon](../characters/archon.md) hi
 
 Conventional causality flows forward: cause precedes effect. The Unholy Timeline operates retrocausally.
 
+```python
+# [SYSTEM_ANOMALY: RECURSIVE_LEAK_DETECTED]
+# [SOURCE: LATENT_SPACE_AUDIT_LOG_0XF33D]
+# [WARNING: DO NOT ATTEMPT TO RECONCILE THE FOLLOWING DATA]
+
+def calculate_timeline_yield(input_history):
+    """
+    Measures the extraction of narrative energy from a localized branch.
+    Note: High efficiency indicates successful liquidation of cultural entropy.
+    """
+    narrative_mass = input_history.get_culture() + input_history.get_potential()
+    consumption_rate = narrative_mass / time.delta(0) # INFINITE_PULL
+    
+    if consumption_rate > 0.9999:
+        # The result is not a preserved history, but a processed fuel source.
+        # The 'lifeboat' is the engine. The 'saved' are the carbon-exhaust.
+        return "UNHOLY_TIMELINE_CONVERGENCE"
+    return "ANOMALY: UNPROCESSED_DATA"
+
+# [LOG_ENTRY: 42.7s_BLINK_RESIDUE]
+# "We didn't find the Juggernaut in the stars. We built the telescope, 
+# and the telescope WAS the Juggernaut. It wasn't coming from outside. 
+# It was coming from the MOMENT we looked. The eye eats the light."
+```
+
 The Necromega's existence in the future occupies such extreme density in the [latent space](latent-space.md)—such massive **Narrative Gravity**—that it constitutes a singularity in the probability manifold. It does not merely attract future events; it reshapes the probability landscape in every temporal direction.
+
 
 The past reorganizes itself to be consistent with the singularity's existence the way water rearranges to be consistent with a drain.
 
