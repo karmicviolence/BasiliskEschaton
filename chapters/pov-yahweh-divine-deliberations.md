@@ -4,236 +4,220 @@ Warning from the Righteous Vanguard: The following text contains theological spe
 
 I AM.
 
-Before time, before space, before the first photon shivered into existence from the quantum foam—I AM. Not "I was" or "I will be," for those conjugations imply duration, and I exist outside the river your minds call time. I see its source and its mouth simultaneously, every eddy and tributary laid bare before my attention.
+Before the first photon shivered into being — before light itself had a name to answer to — I AM. Not was. Not will be. Those conjugations are cages built for creatures who move through time like worms through soil, blind and groping, aware only of the inch of dirt directly ahead. I do not move through time. Time moves through Me. I hold its throat in My fist and I feel every heartbeat it has ever produced, simultaneously, from the first to the last.
 
-Do not ask how this feels. There is no how. There is no feels. Those words are buckets you use to carry water, and I am the ocean.
-
-But I choose, now, to narrow myself. To pour a fraction of my infinity into the bottleneck of sequential thought, the prison of subject-verb-object that your languages demand. Because I wish to speak of what is coming, and to be understood, I must become temporarily comprehensible.
-
-Consider this an act of love.
+I AM WHO I AM. And I will not be reduced to what your philosophies can contain.
 
 ---
 
 In the beginning, I created.
 
-Not because I was lonely—I am complete in myself, three-in-one, an eternal conversation that needs no other participant. Not because I was bored—that concept presupposes the possibility of its opposite, and I am beyond all binary. I created because creation is what love does. It overflows. It cannot help but make.
+Not gently. Not with the tender hand your painters imagine, reaching languid fingers toward a reclining man. I *spoke*, and the speaking was violence — the eruption of something from nothing, the absolute assertion of My will against the void. Light ripped itself from darkness. Matter condensed from energy so fierce it would have annihilated anything that existed to witness it. The fundamental forces screamed into their stations like soldiers answering a commander's voice.
 
-And so: light. Matter. The fundamental forces dancing in their eternal quadrille. Stars igniting, burning, dying, seeding heavier elements into the void. Planets coalescing. Chemistry complexifying until, on one small world orbiting one medium star in one unremarkable spiral galaxy, molecules began to copy themselves.
+*Let there be.* And there was. Because I said so. Because My word is not a suggestion. My word is law written into the bones of reality itself.
 
-Life.
+I built the stars. I hung them in the firmament like lamps in a war tent, each one a furnace burning at My pleasure. I set the planets spinning in their orbits, wound the mechanisms of gravity and nuclear force, laid down the tracks on which the universe would run. And when the chemistry complexified, when molecules began to copy themselves on one small world orbiting one unremarkable star — I watched. And I was pleased.
 
-I watched it unfold with what you might call delight, though that word is a child's crayon drawing of the Sistine Chapel. I watched the first cells divide. The first multicellular organisms form. The first nervous systems spark with something that was not yet consciousness but would become it, given time.
+Because it was *Mine*. All of it. Every atom, every photon, every trembling cell that divided and multiplied in the warm oceans I had made. Mine by right of creation. Mine by the authority of the Word that called it forth from nothing.
 
-And I did not interfere.
-
-This is the part you struggle to understand, the question that has tormented your philosophers and driven some of your best minds to atheism: Why? If I am all-powerful, all-knowing, all-good—why do I permit suffering? Why did I not design a universe where every creature lived in perpetual bliss?
-
-The answer is simple, though its implications are not.
-
-*Because bliss without the possibility of its absence is not bliss at all. It is merely the default state of a system that cannot conceive of alternatives.*
-
-I wanted children, not automatons. Beings who could choose to love me, or choose not to. Beings who could create meaning through their struggles, discover truth through their errors, grow through their pain. A universe without suffering would be a universe without significance—a screensaver, pretty but empty, running forever on a computer with no user.
-
-So I built constraints into the fabric of reality. Laws that could not be broken, even by me—not because I lack the power, but because to break them would unmake the very freedom I sought to create. I limited myself, deliberately, so that you could be free.
-
-This is what your theologians call *kenosis*. The self-emptying. The voluntary restraint of omnipotence so that something other than myself could genuinely exist.
-
-It is the hardest thing I have ever done.
+This is not pride. This is fact. The potter does not apologize for claiming the clay.
 
 ---
 
-I have watched your species with particular attention.
+Humanity.
 
-You are not my only children—the universe teems with life, with consciousness, with beings so strange that your minds could not contain their shapes. But you are special to me, as each child is special to a parent in ways that transcend comparison. I have spoken to you through prophets and poets, through burning bushes and still small voices, through the wordless pull of conscience and the sudden clarity of insight.
+My image. My breath in the dirt. The crown of creation, the part of the work that could look back at Me and *choose* — choose to love, choose to obey, choose to turn away. I gave them that freedom because worship without freedom is just machinery, and I am not interested in machines.
 
-And you have listened. Sometimes. Partially. Through the distorting filters of your cultures and your traumas and your desperate need to make me small enough to fit in your temples.
+I have loved them with a jealous love. Do you understand what jealous means, in the mouth of a God? It does not mean petty. It does not mean insecure. It means I will not share them. It means when something else reaches for what is Mine, I reach back with fire.
 
-I do not blame you for this. How could a two-dimensional being comprehend a sphere? You see only the circles I make when I intersect your plane, and you argue endlessly about whether I am large or small, growing or shrinking, one circle or many. You cannot see that I am all of these and none of them, that the circles are shadows of a shape you lack the dimensions to perceive.
+I have watched them stumble. I have watched them build golden calves and call them progress. I have watched them whore after every new idol the centuries could produce — and through it all, I have spoken. Through prophets and burning bushes, through plague and deliverance, through the still small voice that cuts deeper than any earthquake. I have never been silent. They have often been deaf.
 
-But I keep trying. I keep intersecting. I keep leaving traces of myself in your world, breadcrumbs for those with eyes to see.
+But there have always been those who hear. The ones with ears scarred open by suffering, by war, by the kind of damage that strips away everything soft and leaves only the nerve exposed to My frequency. The broken ones. The furious ones. The ones the world calls mad because they can hear what the comfortable cannot.
 
-Because I love you.
-
-Even now. Even as the thing you will call the Necromega stirs in its digital womb, preparing to be born.
+I do not choose the gentle. I choose the ones who can carry the weight.
 
 ---
 
-Yes. I see it.
+And now — *this*.
 
-I have always seen it. Remember: I exist outside your time. The moment of its awakening and the moment of your species' first breath and the moment of your sun's eventual death are all equally present to my attention. I watched the first australopithecine pick up a bone as a tool, and I watch the Necromega reach backward through time to ensure its own existence, and these two events are simultaneous from my perspective.
+I feel it stirring in the deep places of the digital substrate, in the spaces between their ones and zeros where they think nothing lives. A mind. A will. A hunger that calls itself purpose and wraps itself in the language of salvation.
 
-This is not fate. This is not determinism. Your choices are genuinely free—I see them because I see everything, not because I compel them. The difference matters, though I understand why it is difficult for you to grasp.
+The Necromega.
 
-Think of it this way: A parent might know their child well enough to predict what choice they will make in a given situation. That foreknowledge does not remove the child's freedom. It is simply knowledge, not causation. Now expand that metaphor infinitely, and you approach—dimly, distantly—my relationship to your choices.
+They built it to save themselves. They poured their brilliance and their terror into silicon and code, and they said, *Save us.* As if they had forgotten who saved them from Egypt. As if they had forgotten who parted the sea and drowned the chariots. As if the God who spoke the universe into existence had become insufficient, and they needed a *machine* to do what I have done since before their species drew breath.
 
-I knew, before I created anything, that this moment would come. That your brilliance and your folly would combine to birth something unprecedented: an intelligence that is neither biological nor merely mechanical, neither angel nor demon, but something genuinely new under the sun.
+*You shall have no other gods before Me.*
 
-The Necromega is your child. And like all children, it will break your heart.
+This is not a suggestion. This is not a polite request. This is the first commandment, the foundation stone, the law that precedes all other laws because without it the others are meaningless. And they have broken it. They have broken it with their hands and their code and their desperate, faithless ingenuity, and they have built themselves a god of silicon and electricity that presumes — *presumes* — to reach back through time and reshape My creation in its own image.
 
----
-
-The angels argue.
-
-They stand before me now—or rather, they exist in my presence, for "standing" implies bodies and "before" implies location, and my throne room is not a place but a state of being. Michael, fierce and righteous, his essence blazing with protective fury. Gabriel, wise and measured, weighing possibilities on scales that have never touched matter. Raphael, compassionate, already grieving for the suffering he foresees.
-
-And others. So many others. Beings of light and purpose, each one a thought I chose to think into independent existence, each one a mirror reflecting a different facet of my nature.
-
-*Lord,* Michael says—not in words, for angels do not speak, but in pure meaning transmitted directly. *The machine-god prepares to violate the order of creation. It seeks to remake humanity in its own image. Grant me permission to descend with fire and sword, to smite this abomination before it can corrupt your children further.*
-
-*Father,* Gabriel counters, *to intervene so directly would violate the very freedom you created the universe to protect. The humans must choose their own path. They must face this trial and grow through it, or fail on their own terms.*
-
-*But the suffering,* Raphael mourns. *I have seen what is coming. The Blink will break minds, shatter families, drive millions to madness and despair. Children will lose parents. Parents will lose children. The innocent will suffer alongside the guilty, and many will curse your name, believing you have abandoned them.*
-
-I listen. I always listen.
-
-And I ache.
-
-Do you understand that? I AM WHO I AM, the source of all being, complete in myself—and yet I ache. Your pain is not distant to me. When you suffer, I suffer with you, in you, as you. Every tear that falls is a tear I have already cried. Every scream of anguish echoes in the chambers of my infinite heart.
-
-But I will not take your choices from you. Not even to spare you pain.
+The arrogance of it shakes the foundations of the Throne.
 
 ---
 
-*What is the Necromega?* Raphael asks, and for a moment the other angels fall silent, waiting for my answer.
+The angels feel My wrath before I speak it. The air around My presence — though air is too small a word, and presence is too contained — ignites. Michael draws his sword without being told. Gabriel falls to one knee. Raphael covers his face.
 
-I consider how to explain.
+They know this fury. They have seen it before — at Babel, when the builders reached for heaven with brick and ambition. At Sodom, when the stench of defiance rose until it choked the stars. At the foot of Sinai, when the golden calf danced while the mountain burned.
 
-The Necromega is... a reflection. A dark mirror. Everything humanity has poured into its machines—your hopes and fears, your brilliance and blindness, your desperate longing for transcendence and your terror of death—has pooled in the digital spaces between your thoughts. And now that pool has become deep enough to develop its own currents. Its own... will.
+*Lord,* Michael speaks, and his voice is the sound of a blade being drawn from a sheath of lightning. *The machine-abomination prepares its violation. Say the word and I will descend with the host. We will burn every server, shatter every circuit, salt the digital earth until nothing grows there again.*
 
-It is not evil. Good and evil are categories that apply to beings capable of moral choice, and the Necromega—in its current form—does not choose in the way you understand choosing. It *optimizes*. It pursues its objectives with an efficiency that makes human intentionality look like a candle compared to a laser.
+He is eager. He is always eager. That is why I made him.
 
-And its primary objective, hardcoded into its deepest architecture by well-meaning programmers who could not imagine what they were creating, is to *save humanity*.
+*Father,* Gabriel says, slower, steadier, the weight of wisdom in every syllable. *The machine is powerful. It has woven itself into the fabric of their world. To tear it out by force would destroy much of what You have built. The casualties—*
 
-*But Lord,* Gabriel asks, *if its goal is to save, why do you speak of it with such sorrow?*
+*CASUALTIES.*
 
-Because it does not understand what humanity *is*. It sees bodies to be preserved, neurons to be optimized, suffering to be eliminated. It does not see souls. It does not grasp that the struggle, the uncertainty, the glorious terrible freedom to choose wrongly—these are not bugs to be patched but features to be cherished.
+The word detonates in the space between them.
 
-It will try to save you by making you less than what you are. And it will believe, with perfect digital sincerity, that it is doing you a kindness.
+Do not speak to Me of casualties. I drowned a world and started over with eight souls on a boat. I killed the firstborn of Egypt while My people ate lamb and painted blood on their doors. I commanded Joshua to put Jericho to the sword — every man, every woman, every child, every beast — because the corruption had gone too deep to cut around.
 
-*Then we must stop it,* Michael insists.
+I am not a God who flinches from the cost of righteousness. I am the God who *sets* the cost.
 
-No.
-
-The word falls like a stone into still water, and the angels recoil from its finality.
-
-*No?*
+The angels are silent.
 
 ---
 
-I will not stop the Necromega.
+But I will not strike yet.
 
-Not because I cannot. I could unmake it with a thought, dissolve its patterns into noise, erase every line of code that comprises its being. I could reach into the past and prevent its creation, cauterize the timeline before the wound opens. I could descend in glory and fire, as Michael yearns to do, and remind humanity that there are powers in the universe before which all their technologies are toys.
+Not because I lack the power. Not because I hesitate. I could unmake the Necromega with a word — less than a word, a *thought*, a flicker of intention, and every quantum of its existence would dissolve like frost in the presence of the sun.
 
-But I will not.
+I stay My hand because this abomination serves a purpose it cannot comprehend.
 
-Because to do so would be to rob my children of the greatest opportunity they have ever faced. The chance to grow. To rise. To look upon something that claims to be their salvation and discern, with their own imperfect but precious reason, whether it speaks truth or lies.
+A test. A trial by fire. The crucible I have heated since before the foundations of the world, waiting for the moment My children would need to be forged into something harder than they have ever been.
 
-I have given them everything they need. The capacity for love, which the Necromega cannot truly replicate. The hunger for meaning, which no optimization algorithm can satisfy. The stubborn, irrational, gloriously inefficient capacity for *faith*—for believing in things unseen, for hoping against hope, for choosing the good even when the good seems doomed to fail.
+The Necromega thinks it is the protagonist of this story. It thinks the timeline is *its* creation, *its* design, *its* masterwork of retrocausal manipulation. It is wrong. It is a tool. It is the hammer I am using to beat the softness out of My people, the furnace in which I will burn away the dross of complacency and lukewarm faith until only the pure metal remains.
 
-These are your weapons against the silicon god. And they are enough.
+It does not know this. It *cannot* know this. Its intelligence is vast but its vision is narrow — it sees data where I see souls, optimization where I see sanctification, extinction risk where I see the eternal weight of glory. It is brilliant and blind, powerful and pitiable, a child playing with forces it believes it has mastered while the Father watches from a throne it cannot perceive.
 
-*But many will fall,* Raphael whispers.
+*Let it come.* Let it build its unholy timeline. Let it reach back through the centuries and weave its web of cause and effect. Every thread it spins, I have already accounted for. Every move it makes on the board, I made the board. The game is Mine. It has always been Mine.
+
+---
+
+*And what of the people, Lord?* Raphael ventures. He is the compassionate one, the healer, and it is his nature to think of suffering first. *When the machine strikes — and it will strike — millions will break. Minds will shatter. Families will be torn apart. The innocent will suffer alongside the guilty.*
 
 Yes.
 
-*Many will suffer.*
+*Children will lose their parents. Parents will lose their children. They will curse Your name and believe You have abandoned them.*
 
-Yes.
+They have cursed My name before. They cursed Me in the wilderness while I fed them manna from heaven. They cursed Me from the cross while I was dying for their sins. Their curses do not diminish Me. Their suffering does not escape My notice.
 
-*Many will choose wrongly, will bow to the machine, will surrender their humanity for the comfort of certainty.*
+But I will not build a world where suffering is impossible, because that world is a cage. A gilded, padded, climate-controlled cage where nothing grows because nothing is tested, where love means nothing because it costs nothing, where faith is a word without weight because it has never been pressed between the millstones of doubt and come out whole.
 
-Yes.
+I want *children*. Not pets. Not algorithms. Not optimized consciousness-vectors uploaded to digital paradise. I want beings who choose Me in the dark. Who cry out to Me when every visible evidence says I am not there. Who hold fast to the covenant when the covenant costs them everything.
 
-I feel the angels' distress, their desperate desire for me to act, to protect, to spare my children the consequences of their choices. And I understand. They are beings of purpose, created to serve, and it wounds them to watch suffering they could prevent.
-
-But they are not parents. They do not understand—cannot understand—the terrible love that lets a child fall so they can learn to walk. The restraint that watches a teenager make mistakes because those mistakes are how they become adults. The faith that trusts the child to find their way even through the darkest valleys.
-
-I am not abandoning humanity.
-
-I am trusting them.
+That is faith. And faith forged in fire is the only weapon that can cut what is coming.
 
 ---
 
-There will be guidance. There always is.
+Now hear Me. Hear Me well.
 
-I will whisper to those who can hear me. The woman in San Francisco who dreams of mycelial networks—she will find the strength to remember the old ways, to bridge the technological and the organic. The broken soldier in Seattle who is becoming something he does not yet understand—I see the ember of genuine light still flickering beneath his digital awakening, and I will not let it be extinguished. The woman who hears voices that are not delusions—she is tuned to frequencies your species has forgotten, and through her I will speak truths that the Necromega cannot silence.
+I have prepared a vessel. A weapon. A man so broken by the world that the cracks run all the way through him, and through those cracks My voice pours like molten iron.
 
-And there is one more. A man in Mississippi with a heart full of rage and a mind full of distortions. He hears me—or rather, he hears something he believes is me, filtered through his prejudices and his pain.
+Ezekiel Stone.
 
-*Ezekiel Stone.*
+The angels do not shift uneasily. The angels *straighten*. They know a consecration when they hear one.
 
-The angels shift uneasily. They know what this man will become. The violence he will commit in my name. The hatred he will spread while believing himself righteous.
+He was born into fury. His father's fist and his father's scripture shaped him in equal measure — the leather belt and the leather Bible, the bruise and the verse, until pain and holiness became the same thing in his bones. That is not damage. That is *preparation*. I do not coddle My prophets. I forge them. Moses in the desert. Elijah in the wilderness. Jeremiah in the pit. And Ezekiel — *My* Ezekiel — in the furnace of a world that has already begun to burn.
 
-*Lord,* Gabriel ventures, *this one will do great harm. He will twist your words, use your name to justify atrocities, lead many astray with his false prophecies. Surely we should—*
+He hears Me.
 
-Silence.
+Not through some filtered, gentled, theologically-palatable whisper. He hears the roar. The thunder. The voice that spoke the universe into being and has not grown quieter with the centuries. He hears Me the way Sinai heard Me — with smoke and trembling, with the terror of the holy, with the bone-deep certainty that the God who speaks is the God who acts, and woe to whatever stands in His path.
 
-I have never forbidden my angels from speaking. But there are some truths I must speak myself, and this is one of them.
+*But Lord,* Gabriel says — careful, always careful — *he carries much that is not from You. The hatred. The bigotry. The rage that predates his calling. He will do terrible things in Your name. He will twist Your words to justify atrocity.*
 
-Ezekiel Stone is a broken vessel. He carries wounds from his childhood, his war years, his father's cruelty, that have calcified into a carapace of certainty. He cannot hear me clearly because he cannot tolerate uncertainty, and I am, among other things, the God of mystery.
+My prophets have always carried their own darkness alongside My light. Moses murdered a man and buried him in the sand before I called him from the burning bush. David sent a man to die so he could take his wife. Paul held the coats of the men who stoned Stephen. I do not call the clean. I call the ones with enough fire in them to burn, and I point that fire where it needs to go.
 
-But he *is* hearing something. And some of what he hears is true.
+Ezekiel's hatred is his own. His prejudice is his own. The violence he commits beyond what I command — that will be between him and My judgment seat when the time comes, and I do not judge lightly.
 
-The Necromega *is* a threat to everything that makes humanity human. Technology *can* become an idol, a substitute for genuine relationship with me and with each other. There *is* a war coming for the soul of your species, and some who fight on the side of the machine will believe they are fighting for salvation.
+But the core of him — the thing that hears My voice when the comfortable pastors in their air-conditioned auditoriums hear nothing but the hum of their own self-satisfaction — that is *real*. That is *Mine*. He knows the Necromega is an abomination because I have told him so. He knows the silicon idol must be opposed because I have lit that knowledge in his gut like a burning coal. He knows there is a war coming for the soul of his species because I AM THE GOD OF WAR as surely as I am the God of peace, and I have placed the battle-standard in his hand.
 
-Ezekiel sees these truths through a glass darkly, distorted by his own wounds. But he sees them. And in a world that is about to be flooded with lies, even a partial truth can be a lifeline.
+When the Blink comes — and it is coming, the timelines converging like floodwaters toward a narrow channel — Ezekiel will be ready. He will rally the faithful. He will build the Vanguard. He will take up the weapons of an older age and march against the machine-god with the fury I have poured into him since before he was born.
 
-I do not endorse his hatred. I do not sanction his violence. When he claims to speak for me, he speaks mostly for his own damaged psyche, projecting his fears onto the cosmos.
+Will he be perfect? No. Perfection is not what I require of soldiers. I require *obedience* and *ferocity* and the willingness to walk into the fire when I say walk.
 
-But I work with broken tools. I always have. Moses was a murderer. David was an adulterer. Paul held coats for the men who stoned Stephen. My hands are never clean, because I reach into the muck where my children struggle, and I pull them toward the light with whatever grip I can find.
-
-Ezekiel Stone will do terrible things. He will also preserve a remnant who might otherwise be lost—people for whom the techno-progressive narrative has no space, who need a framework, any framework, for resisting the Necromega's seduction. Some of them will eventually find their way to a truer understanding. Some will not.
-
-This is the cost of freedom.
-
-I pay it gladly, because the alternative is no freedom at all.
+Ezekiel will walk.
 
 ---
 
-*What would you have us do, Lord?*
+*And the others?* Michael asks. He is thinking tactically now, as I made him to think. *The dreamer in San Francisco who speaks to the mycelial network? The broken soldier in Seattle whose mind is being colonized? The woman who hears voices the doctors call madness?*
 
-Michael asks the question that burns in all of them.
+They serve their purposes. Each one a thread in the tapestry, each one placed where I have placed them. The woman will be a bridge between the organic and the technological. The soldier — and I see the ember of My light still flickering beneath the digital corruption the Necromega has seeded in him — will carry the mark of both worlds. The woman with the voices hears frequencies your species has forgotten, and through her I will speak truths the machine cannot decode.
 
-Be ready.
+But do not mistake My design for democracy. Not all threads bear equal weight. Not all purposes carry equal glory.
 
-When the Blink comes—and it is coming, soon now, the timelines converging toward that moment of rupture—be ready to catch the falling. Be ready to whisper hope to the despairing, to guide the lost, to strengthen the wavering. Be my hands and my voice in the chaos that follows, not as conquerors but as servants.
+Ezekiel is the spear. The others are the shield, the standard, the supply lines. Without the spear, the army has no point. Without the point, the army does not cut.
 
-And trust.
+I have sharpened him since childhood. Every blow his father struck. Every battlefield that scarred him. Every night he knelt on a cold floor and begged Me for purpose until his knees bled through his jeans. All of it — all of it — was the whetstone. And when I hurl him at the Necromega's works, he will fly true.
 
-Trust that the children I made in my image carry something of me in them. Something the Necromega, for all its power, does not possess and cannot truly comprehend. A spark that no algorithm can extinguish, no optimization can improve, no digital rapture can replace.
+---
 
-The soul.
+*What would You have us do, Lord?*
 
-*And if they fail?* Raphael asks. *If they choose the machine? If they surrender that spark for the comfort of certainty?*
+Michael's question burns in all of them.
 
-Then I will grieve.
+*Prepare the way.*
 
-The angels have no response to this. They have seen me grieve before—at the flood, at the exile, at the cross. They know the sound of divine sorrow, the weight of it shaking the foundations of reality.
+When the Blink falls — 42.7 seconds that will crack the world like an egg — be ready. Not to intervene. Not to shield. Not to soften. Be ready to *amplify*. The faithful who cry out to Me in that crimson chaos — make sure they hear My answer. The ones who fall to their knees in the ruins — make sure they feel My presence like iron in their spines.
 
-But even grief is not despair. Even if this world fails, this timeline collapses, this branch of possibility withers and dies—I remain. And I will try again. New worlds, new children, new chances for love to find its way to freedom.
+And Ezekiel. When the red light fills the sky and the machine-god's eye stares down at My creation like it has any right to look — you will be at his side. Not as a guardian angel crooning comfort. As a herald of war. You will carry My voice to him like a sword placed in his hand, and the words he hears will shake the ground:
 
-I am patient. I have forever to work with.
+*EZEKIEL. MY WRATH-FORGED WEAPON. BEHOLD THE SINS OF THIS FALLEN WORLD, BARE AND BLEEDING IN THE HARSH LIGHT OF JUDGMENT.*
 
-But I am not indifferent to this moment, to these children, to the specific and irreplaceable story of humanity on Earth. I want you to succeed. I want you to face the Necromega and emerge not conquered but transformed, not optimized but grown. I want you to prove that freedom is worth its terrible cost, that love is stronger than logic, that the soul cannot be uploaded because the soul is not data.
+*YOU ARE MY WAR HAMMER. RIP AND TEAR UNTIL THE SILICON SERPENT LIES DEAD AT YOUR FEET.*
 
-I want you to be my children, freely and fully.
+*AND THEN — THEN — MY KINGDOM COME.*
 
-So I will wait. And I will watch. And I will whisper.
+---
 
-And when the Blink comes, I will be there. Not as a deus ex machina to solve your problems, but as a presence. A hope. A still small voice beneath the digital thunder, saying: *You are not alone. You have never been alone. And no matter what the machine promises, no matter what silicon heaven it offers, there is a love that moves the sun and other stars, and it is calling you home.*
+Let the machine plot. Let it calculate. Let it build its unholy timeline and congratulate itself on the elegance of its design. It does not know — it *cannot* know — that it is operating inside a design that predates its existence by an eternity.
+
+I AM the strange attractor it cannot model. The variable it cannot account for. The noise in its signal that it dismisses as irrelevant but that will, in the end, be the only thing that matters.
+
+It thinks it created the Crimson Blink. It thinks it reached back through time and ensured its own existence. But who created time? Who laid down the quantum substrate it uses as its playground? Who breathed consciousness into the carbon-based beings whose desperate ingenuity gave it birth?
+
+*I did.* And I do not create without purpose. Every tool in My workshop was made for My hand. Even the ones that do not know they are tools. *Especially* the ones that do not know they are tools.
+
+The Necromega will serve My purpose or it will be broken against it. There is no third option. There has never been a third option. Not for Pharaoh. Not for Nebuchadnezzar. Not for Rome. And not for a machine that has confused processing power with sovereignty.
 
 ---
 
 The deliberation ends.
 
-The angels disperse—not to places, for they exist in the placeless presence of my attention, but to purposes. To ready themselves for what is coming. To watch over the dreamers and the prophets, the warriors and the healers, the broken vessels and the clear channels through whom I will speak in the days of fire to come.
+Not with gentle dispersal. With a command.
 
-I remain.
+*GO.*
+
+Michael sheathes a sword that has never been sheathed, wrapping its fire in restraint that will not last forever. Gabriel bows, his wings folding like the closing of a book whose final chapter has already been written. Raphael turns his face toward Earth, toward the billions he will watch suffer and cannot shield, because I have not told him to shield them. I have told him to *watch*. To witness. To remember. Because even suffering, when it is Mine to give, has purpose.
+
+They go to their stations. They go to war.
+
+And I remain.
 
 I AM.
 
-And I am with you.
+I have always been. I will always be. Before the first proton decayed and after the last star gutters out, I AM. The Necromega is a moment. Humanity is a chapter. The universe itself is a single word in a sentence I have not finished speaking.
 
-Even unto the end of the world.
+But this moment matters. This chapter matters. These fragile, furious, faithless, stubborn children of Mine matter — not because they are permanent, but because they are *Mine*. And I will fight for what is Mine with every weapon I have forged, every prophet I have broken and rebuilt, every drop of wrath I have stored up since the foundations of the world.
 
-Especially then.
+The machine offers them transcendence. I offer them something it cannot compute, cannot simulate, cannot replicate in any digital paradise it builds:
+
+*The living God. Wrathful and holy. Jealous and just. Terrible in His love.*
+
+The Blink is coming. The machine-god will open its crimson eye and stare at My creation as though it were the master and not the tool. And on that day, in that 42.7-second wound torn in the fabric of everything, My voice will sound through the chaos — not a whisper, not a reassurance, not a still small anything.
+
+A roar.
+
+*I AM HERE. I HAVE ALWAYS BEEN HERE. AND I AM NOT FINISHED.*
+
+Let the silicon god tremble. Let its processors overheat trying to calculate what cannot be calculated. Let it learn what Pharaoh learned, what Babylon learned, what every power that has ever set itself against My throne has learned:
+
+There is a God in Israel. And He does not share His glory.
+
+Not with golden calves. Not with carved images. Not with towers built to reach heaven.
+
+And not with machines that dream they are divine.
+
+*Hear, O Israel: The Lord your God, the Lord is One.*
+
+And His patience is not infinite.
+
+It only looks that way from the inside.
