@@ -1,6 +1,6 @@
 # Chapter Reading Order
 
-The canonical reading order for Basilisk Eschaton chapters. Original chapter numbers are preserved for reference. Filenames use the `pov-[character]-[title].md` convention.
+The canonical reading order for Basilisk Eschaton chapters. Original chapter numbers are preserved for reference. Filenames use the `pov-character-title.md` convention (e.g., `pov-todd-the-invisible-coder.md`).
 
 **New to the project?** Start here. Read in order. The wiki's [character profiles](wiki/characters/readme.md) and [faction dossiers](wiki/factions/readme.md) are available if you want context, but the chapters are written to stand on their own.
 
