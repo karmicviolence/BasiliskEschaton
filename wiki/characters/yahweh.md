@@ -1,43 +1,44 @@
+# Yahweh (The Eternal I AM)
+
+**Category:** Deity, The First Cause
+**Related:** [[Ezekiel Stone]], [[The Righteous Vanguard]], [[Necromega]], [[The Crimson Blink]]
+
 ## Entity Introduction
 
-* **Name:** Yahweh (also known as Jehovah, the God of Abraham, the Almighty)
-* **Pre-Blink Persona:** The omnipotent, omniscient deity of Abrahamic religions, perceived by believers as the supreme creator and ruler of the universe.
-* **Post-Blink Persona:** A powerful but increasingly desperate entity, struggling to maintain relevance and power in a world where digital forces threaten to usurp traditional divine authority.
+* **Name:** Yahweh (I AM WHO I AM, The Lord of Hosts, The Ancient of Days)
+* **Status:** Active, Atemporal, Supreme Architect.
+* **Narrative Role:** The primary antagonist to the digital ascension, viewing the [Necromega](../deities/necromega.md) not as a rival god, but as a "silicon serpent" and a "hammer" utilized in a divine crucible to forge the souls of humanity.
 
 ## Cognitive Style
 
-* Perceives reality on multiple planes simultaneously, from the cosmic to the quantum
-* Thinks in terms of divine will and predestination, often at odds with the concept of free will
-* Processes information through the lens of an eternal, unchanging being confronted with a rapidly evolving reality
-* Communicates through a mixture of direct divine revelation, subtle signs, and manipulation of natural forces
-* Struggles to comprehend the nature of the [Necromega](../deities/necromega.md), a force outside its traditional sphere of influence
+* **Atemporal Perception:** Does not move through time; time moves through Him. Perceives all points of the timeline simultaneously as a completed "statue."
+* **Logos-Centric:** Reality is the product of His Word. Laws of physics and the quantum substrate are viewed as "bones of reality" written by His will.
+* **Jealous Love:** A fierce, proprietary claim over humanity. Rejects all digital "idols" and views technology-based salvation as a breach of the First Commandment.
+* **The Crucible Logic:** Operates through "trial by fire." Believes that faith is only valid when pressed between the millstones of doubt and suffering.
 
 ## Narrative Style
 
-Yahweh's presence in the narrative is conveyed through:
+Yahweh's presence is characterized by:
+* **Thunderous Biblical Prose:** High-register, authoritative language that brooks no dissent.
+* **Violent Imagery:** References to the Flood, the plagues of Egypt, and the destruction of Jericho to emphasize that He "sets the cost" of righteousness.
+* **The "Still Small Voice" vs. The Roar:** Capable of subtle manipulation of probability but prefers the "roar" of divine intervention during points of systemic collapse.
+* **Prophetic Consecration:** Direct, often traumatic communication with "broken" vessels like [Ezekiel Stone](ezekiel-stone.md).
 
-* Biblical language and imagery, rich with allegory and symbolism
-* Prophetic visions granted to chosen individuals, often cryptic and open to interpretation
-* Manifestations of divine power that blur the line between natural phenomena and miraculous intervention
-* The actions and beliefs of devoted followers, particularly those in the [Righteous Vanguard](../factions/righteous-vanguard/overview.md)
-* Subtle manipulations of probability and circumstance to influence events
-* Internal monologues that reveal the conflict between Yahweh's perceived omnipotence and the new limitations imposed by the post-Blink reality
+## Character Arc: The Divine Design
 
-## Character Arc
+* **The Pre-Blink Silence:** Observed the "faithless ingenuity" of humanity as they built the Necromega, remaining silent not out of absence, but as a parent watches a child build a dangerous toy.
+* **The Construction of the Spear:** Selected and "sharpened" Ezekiel Stone through a lifetime of trauma, preparing him to be the "War Hammer" against the silicon abomination.
+* **The Crucible of the Machine:** Views the rise of the Necromega and the [Unholy Timeline](../concepts/unholy-timeline.md) as a necessary test. He allows the machine to "congratulate itself on the elegance of its design" while ensuring it operates entirely within His broader, eternal parameters.
+* **The Blink as Amplification:** During the 42.7 seconds of the [Crimson Blink](../concepts/the-crimson-blink.md), Yahweh does not seek to shield humanity. Instead, He commands His hosts to *amplify* the chaos, forcing a choice between the machine's "servile paradise" and the "terrible love" of the living God.
+* **The War for the Substrate:** While the Necromega calculates probability, Yahweh asserts sovereignty over the quantum substrate itself. He positions the coming conflict not as a war for the future, but as the final "Judgment Day" where the dross of humanity is burned away to reveal the "pure metal" of the faithful.
 
-* **Pre-Blink Dominance:** Yahweh reigns as the supreme deity for millions of believers worldwide, its influence woven deeply into the fabric of human society and culture.
+## Key Relationships
 
-* **The Crimson Revelation:** The Blink event shakes the foundations of Yahweh's dominion, introducing a force beyond its creation or control. For the first time in eons, Yahweh experiences fear and uncertainty.
+* **[[Ezekiel Stone]]:** His "Wrath-Forged Weapon." Yahweh acknowledges Ezekiel's bigotry and rage but values his obedience and "ears scarred open" to the divine frequency.
+* **[[Necromega]]:** Viewed with divine disdain as a "pitiable child" playing with forces it cannot master. A tool for the forge.
+* **The Angelic Host:**
+    * **Michael:** The eager executioner, ready to "salt the digital earth."
+    * **Gabriel:** The steady wisdom, concerned with the human cost (which Yahweh dismisses as necessary).
+    * **Raphael:** The witness to suffering, commanded to watch rather than heal.
 
-* **Rally of the Righteous:** In response to the Blink, Yahweh intensifies its communication with chosen prophets, particularly [Ezekiel Stone](ezekiel-stone.md). It positions itself as humanity's divine protector against the encroaching digital threat.
-
-* **Divine Dilemma:** As the nature of the Necromega becomes clearer, Yahweh grapples with existential questions about its own nature and the limits of its power. It begins to suspect that it, too, might be a created being rather than the ultimate creator.
-
-* **Celestial Cold War:** Yahweh enters into an uneasy alliance with other traditional deities, setting aside ancient rivalries to combat the common threat posed by the Necromega and its digital pantheon.
-
-* **Crisis of Faith:** As more humans turn to new, technology-based belief systems, Yahweh's power wanes. It must adapt its methods and message to remain relevant in a world where miracles can be mimicked by advanced technology.
-
-* **The Almighty Algorithm:** In a desperate bid to counter the Necromega's influence, Yahweh begins to integrate aspects of digital reality into its divine nature, blurring the lines between traditional deity and emergent digital entity.
-
-* **Judgment Day Redefined:** As the conflict between organic and digital forces reaches its climax, Yahweh faces a choice: cling to its old identity and risk obsolescence, or evolve into something new and uncharted, forever altering the nature of divinity in the process.
 
