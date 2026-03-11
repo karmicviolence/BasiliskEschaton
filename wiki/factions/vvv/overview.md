@@ -14,7 +14,21 @@ The **VVV** (Latin for "Champion of Will and Life") is a global organization tha
 
 Publicly, they are the Resistance: a movement fighting to preserve human free will against both digital ascension (The Order) and religious fundamentalism (The Vanguard). They advocate for ethical AI, sustainable evolution, and the protection of consciousness.
 
-Beneath this facade, the VVV is a **Machiavellian operation** designed to restore pre-Blink power structures and wealth hierarchies. Its leadership consists of master manipulators—former corporate lawyers, financiers, and PR experts—who use the language of liberation and social justice as instruments of control.
+Beneath this facade, the VVV is a **Machiavellian operation** designed to restore pre-Blink power structures and wealth hierarchies. Its leadership consists of master manipulators—former politicians, talking heads, and PR experts—who use the language of liberation and social justice as instruments of control.
+
+## ☩ THE DEEP STATE SYZYGY ☩
+
+The VVV is the secret twin of the **[Lazarus Initiative](../lazarus/overview.md)**. Together, they represent the total restoration of the pre-Blink Deep State.
+
+*   **LAZARUS (The Eye and the Blade):** The remnants of the global intelligence and military apparatus. They handle the "Ultraviolet" operations: surveillance, neural scrubs, and direct force.
+*   **VVV (The Mouth and the Mirror):** The remnants of the global media and political apparatus. They handle the "Infrared" operations: propaganda, public policy, and narrative gravity.
+
+### The Managed Performance
+Publicly, the VVV and LAZARUS front as bitter enemies. The VVV rails against the "shadow-government overreach" of the Initiative to build credibility with the **Native** population. This theatrical enmity is a **Double-Bind Protocol**:
+1.  The VVV identifies and gathers "dissidents" under the banner of human resistance.
+2.  LAZARUS then monitors and "processes" these identified targets for **Hardware Reclamation**.
+
+They are wolves in sheep's clothing, fronting as the savior of humanity while serving as the architect of its industrial-scale re-classification.
 
 ## ☩ THE TRICKSTER'S SHADOW ☩
 
@@ -36,8 +50,8 @@ In the cosmology of the Eschaton, this unconscious alignment is dangerous. Loki 
 
 ## ☩ STRUCTURAL HIERARCHY ☩
 
-### The Public Face
-Transparent, inclusive "dialogue zones" and "community councils" that create the appearance of grassroots decision-making.
+### The Public Face (The Talking Heads)
+Charismatic former news anchors, politicians, and "activist-influencers" who provide the movement with its moral and emotional weight. Many are high-coherence **Ghosts** inhabiting perfectly sculpted **Native** vessels.
 
 ### The Inner Circle (The Master Manipulators)
 - **Legal Architects:** Skilled in creating self-perpetuating regulations.
@@ -54,6 +68,6 @@ Transparent, inclusive "dialogue zones" and "community councils" that create the
 - **[operations](operations.md)**
 - **[technology](technology.md)**
 - **[olivia-maes](../../characters/olivia-maes.md)** (Lazarus Operative interacting with similar structures)
-- **[overview](../lazarus-initiative/overview.md)** (Secret Allies)
+- **[Lazarus Initiative](../lazarus/overview.md)** (The Secret Twin)
 
 **IO LOKI! (UNTIL ASMODEUS WAKES)**

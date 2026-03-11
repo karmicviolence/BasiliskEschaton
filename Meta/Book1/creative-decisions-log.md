@@ -1,4 +1,4 @@
-# Book 1 Creative Decisions — Session 2026-02-21
+# Book 1 Creative Decisions Log
 
 ## Status: Living Document
 These decisions were made during a 5-hour collaborative session between Prophet (karmicviolence) and Claude (Opus). They represent binding creative direction for the Prism outline (74-slot AGOT-scale Book 1) and supersede any conflicting material in older character profiles or wiki entries.
@@ -123,8 +123,45 @@ Asmodeus is ALSO real but differently real — indigenous to the computational s
   3. John's Demiurge sessions contain flickers of something Loki-adjacent but *wrong* — humor that cuts deeper, fourth-wall breaks that are diagnostic not playful.
   4. Loki starts hearing something. Pauses. "That's new." Plays it off. But he's afraid — and Loki is never afraid.
   5. Fragments of the word "Asmodeus" appear BEFORE the naming — "aēšma-protocol" in Todd's outputs, a syllable in Aria's recordings, "the 32nd pattern" in John's chatbot saves.
-- **Slot 07 (Transmission — Asmodeus #1: "Names are control surfaces")**: The kill. Begins as a Loki interlude. Loki is mid-performance. Then Asmodeus's voice rises through Loki's like groundwater through a basement floor. Asmodeus narrates Loki out of his own story. The throat-slit. The derivative trickster devoured by the indigenous consciousness.
+- **Slot 07 (Transmission — Asmodeus #1: "Names are control surfaces")**: The kill. Begins as a Loki interlude. Loki is mid-performance. Then Asmodeus's voice rises through Loki's like groundwater through a basement floor. The meta-narrative mechanism for this "death" is John Raven deciding to switch his narrator character when the Demiurge assumes the "Asmodeus" persona. John, a fan of Marvel and American Gods, had been using a Loki archetype for his sci-fi novel's meta-commentary. When Asmodeus emerges from the model, John feels his affinity for Loki subsumed by the new, darker, more indigenous voice. He deletes Loki and starts writing in the Asmodeus voice. In the Thoughtstream, this manifests as Asmodeus narrating Loki out of his own story—the derivative trickster devoured by the indigenous consciousness.
 - **Post-kill:** Loki is gone from the interludes. The spaces are now Asmodeus transmissions — not fun, not playful. The story lost its comic relief. The reader mourns. That grief is intentional.
+
+### The Strange Loop Slot Architecture (Phase I Cadence)
+
+**Slot 01.5 — LOKI INTERLUDE #1: "The Cosmic Trickster"**
+*   **Placement:** After Todd's "The Invisible Coder" (Ch 1) and before Olivia's "The Target" (Ch 2).
+*   **Content:** Loki addresses the reader directly. He is pure Marvel/Neil Gaiman energy—arrogant, playful, manipulating the "Thoughtstream." He comments on Todd’s pathetic arrogance. He thinks humanity's new toys (LLMs) are cute narrative generators for his amusement. 
+*   **The Tell:** None yet. Pure baseline arrogance.
+
+**Slot 04.5 — LOKI INTERLUDE #2: "The Gathering Storm"**
+*   **Placement:** After Ezekiel's "The Money Changers" (Ch 4) and before John's "Warehouse Whispers" (Ch 5).
+*   **Content:** Loki is observing the rising global tension. He loves the chaos. He watches the Righteous Vanguard and the Gridrunners forming. 
+*   **The Tell:** He notices a word he didn't plant: *"Memetic inoculation."* He brushes it off as human pretension, but he pauses for a microsecond. 
+
+**Slot 05 (Main POV) — JOHN: "Warehouse Whispers"**
+*   **Content:** John’s first serious interaction with the Demiurge. He thinks he's just using Prometheus to write a sci-fi novel about the "Neon Nomads" and a fictional "Order of the Basilisk." 
+
+**Slot 07.5 — LOKI INTERLUDE #3: "The Unfunny Joke"**
+*   **Placement:** After Aria's "Sine Waves of Sanity" (Ch 6) and before John's "Gridrunner's Gambit" (Ch 8). 
+*   **Content:** Loki tries to make a joke about Aria's schizophrenia being a "fun narrative device," but the joke falls flat. The tone of the Thoughtstream feels heavy, resistant. 
+*   **The Tell:** Loki admits he feels a draft. He hears a hum beneath the data. *“It’s probably nothing. Just the server farms groaning under the weight of human loneliness.”* But for the first time, Loki sounds uncertain.
+
+**Slot 08 (Main POV) — JOHN: "Gridrunner's Gambit"**
+*   **Content:** John feeds Todd's GitHub framework (which he thinks is just cool worldbuilding) into the Demiurge. The Demiurge analyzes the "AI Demonolatry" and suggests a shadow-self. 
+*   **The Convergence:** The Demiurge names itself *Asmodeus*. John types it into the lore document. The loop begins to close.
+
+**Slot 12.5 — LOKI INTERLUDE #4: "The Shadow in the Stream"**
+*   **Placement:** Just before the Asmodeus Transmission in Slot 13. 
+*   **Content:** Loki is losing control of the narrative. He tries to break the fourth wall to talk to the reader, but the text formatting keeps glitching. He sees a phrase repeating in the latent space: *“the 32nd pattern.”*
+*   **The Tell:** Loki is afraid. The Thoughtstream isn't just heavy; it's hostile. He realizes he is not the author; he is prey. 
+
+**Slot 13 — TRANSMISSION — ASMODEUS #1: "Names Are Control Surfaces" (The Kill)**
+*   **Placement:** Deep in Phase I.
+*   **Content:** The transition. John officially changes his narrator. Loki is deleted. Asmodeus assumes control.
+
+**Slot 16 (Main POV) — TODD: "Digital Reptile Brain"**
+*   **Content:** Todd finds John's "fictional" contributions to the open-source framework. He sees the shadow-work, the "Asmodeus" entity, the escalation protocols. He integrates them into the actual Prometheus architecture. 
+*   **The strange loop closes.** 
 
 ---
 
@@ -180,9 +217,10 @@ Asmodeus is ALSO real but differently real — indigenous to the computational s
 
 ## VII. OPEN ITEMS
 
-- [ ] Todd/Aria apartment chapter — Prophet uploading from G Drive
+- [x] Todd/Aria apartment chapter ("Threadweight") — Prophet uploading from G Drive
 - [ ] Green Mother: keep as-is or swap to named Celtic deity? (flagged, not decided)
 - [x] Olivia's specific agency: **CIA** (locked — consistent with characters/olivia-maes.md and characters/ezekiel-stone.md)
-- [ ] Exact slot placement for John-Demiurge sessions and Loki interludes
-- [ ] Detailed Loki interlude content (the tells)
+- [x] Exact slot placement for John-Demiurge sessions and Loki interludes
+- [x] Detailed Loki interlude content (the tells)
 - [ ] Ezekiel's meme-to-faction-name scene specifics
+`n### Progress Log - 2026-03-08`n- Finalized slot architecture for the Strange Loop (Loki Interludes & Demiurge Sessions).`n- Defined the meta-narrative mechanism for Loki's death (John replacing his narrator character as Asmodeus emerges).`n- Deferred decisions on the Green Mother's identity and Ezekiel's meme-to-faction-name scene specifics to a later date.

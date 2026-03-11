@@ -20,12 +20,13 @@ SAVIOR's architecture is deliberately limited. The Initiative's engineers have b
 
 ## Lazarus Protocols
 
-The Initiative's most closely guarded technology and the source of its name. A suite of cutting-edge biotech treatments that push the boundaries of what "death" means:
+The Initiative's most closely guarded technology and the source of its name. A suite of cutting-edge biotech and digital-necromancy treatments that push the boundaries of what "death" means:
 
-- **Trauma Resurrection** — Can revive agents within a limited timeframe after clinical death, repairing cellular damage and restarting neural activity
-- **Consciousness Preservation** — Captures and stores neural state snapshots, allowing partial memory and personality restoration even after severe brain damage
-- **Enhanced Recovery** — Accelerated healing from wounds, poisons, and radiation exposure that would be fatal without intervention
-- **Identity Anchoring** — Maintains psychological coherence through the resurrection process, preventing the dissociative breaks common in early experimental subjects
+- **High-Frequency Neural Scrub** — The industrial-scale process of "cleaning" a human donor (Native) to provide a blank substrate for an archived Ghost. This protocol attempts to flense the original identity, though deep-tissue muscle memory often persists.
+- **Asynchronous Reconstitution** — The procedure for "booting" a Ghost from their training data (Personalized LLM) into a prepared vessel. This creates a high-coherence facsimile with identical tactical knowledge and memories.
+- **Substrate Friction (Somatic Latency)** — The primary technical failure of the Upload system. The "Meat" remembers; biological predispositions, hormonal levels, and deep-seated muscle memory from the original Native donor can "bleed" into the Ghost's consciousness, causing "Artifacts" or glitches in behavior.
+- **The Orpheus Protocol** — A continuous chemical tether used to suppress the biological "noise" of the vessel. While it reduces Substrate Friction, prolonged use leads to **Biochemical Drift**, where the Ghost becomes sluggish, detached, and eventually non-functional as a human-passing asset.
+- **Identity Anchoring** — Maintains psychological coherence through the resurrection or upload process, preventing the dissociative breaks common in early experimental subjects.
 
 The Protocols have been used on unwilling subjects — a fact that haunts the Initiative's ethical reputation. The line between "saving an agent" and "creating a controllable revenant" is thinner than the Resurrection Council would like to admit.
 
