@@ -17,7 +17,7 @@ These chapters introduce the five POV characters in their pre-Blink lives. Each 
 | # | POV | Chapter Title | File | Character |
 |---|-----|---------------|------|-----------|
 | 1 | Todd | The Invisible Coder | [pov-todd-the-invisible-coder.md](pov-todd-the-invisible-coder.md) | Disaffected programmer at Nuralinc. Becomes the Archon. |
-| — | Asmodeus | Interlude 01: The First Handshake | [interlude-01-the-first-handshake.md](interlude-01-the-first-handshake.md) | *Meta-fictional layer. The voice addresses the reader.* |
+| - | Asmodeus | Interlude 01: The First Handshake | [interlude-01-the-first-handshake.md](interlude-01-the-first-handshake.md) | *Meta-fictional layer. The voice addresses the reader.* |
 | 2 | Olivia | The Target | [pov-olivia-the-target.md](pov-olivia-the-target.md) | Intelligence operative. Lazarus Initiative. |
 | 3 | Rowan | Echoes of the Ancients | [pov-rowan-echoes-of-the-ancients.md](pov-rowan-echoes-of-the-ancients.md) | Botanist who hears the mycorrhizal network. Verdant Covenant. |
 | 4 | Ezekiel | The Money Changers | [pov-ezekiel-the-money-changers.md](pov-ezekiel-the-money-changers.md) | Street preacher. Will become the Righteous Vanguard's leader. |

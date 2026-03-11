@@ -29,7 +29,7 @@ At the heart of the Lazarus Initiative is the Resurrection Council, a cabal of e
 The Lazarus Initiative operates through a network of specialized cells, each representing a vital organ in the resurrected body of global intelligence:
 
 * **Phoenix Protocol**: Masters of secure communication and advanced encryption, ensuring the Initiative's messages rise undetected from the ashes of compromised networks.
-* **Lazarus Operatives**: Elite field agents specializing in high-risk missions, bringing swift death to the Initiative's enemies and new life to failed operations.
+* **Lazarus Operatives**: Elite field agents divided into **Natives** (original operatives like [Olivia Maes](../../characters/olivia-maes.md)) and **Ghosts** (reconstituted digital assets). 
 * **Digital Revenants**: Cyber warfare experts who haunt and manipulate even the most secure networks, their code bringing long-dead systems back to life.
 * **Sleeper Prophets**: Deep-cover agents embedded within enemy factions and key organizations, lying dormant until the moment of revelation.
 * **Resurrection Analytics**: A symbiosis of advanced AI systems and human analysts, working to predict and shape the rebirth of global society.
@@ -108,7 +108,8 @@ These insights are carefully documented and analyzed by the Resurrection Analyti
 The Lazarus Initiative's technological efforts center on:
 
 * **SAVIOR (Synthetic Analytical Vector for Intelligence, Operations, and Resurrection)**: A powerful, human-aligned AI system that aids in resurrecting fallen networks, analyzing data, and coordinating global operations without the existential risks posed by the Necromega.
-* **Lazarus Protocols**: Cutting-edge biotech treatments that can bring agents back from the brink of death, or even resurrect them within a limited timeframe.
+* **Lazarus Protocols**: Digital necromancy and biotech treatments that can resurrect agents or "upload" high-coherence Ghosts into Native vessels.
+* **Substrate Friction (Somatic Latency)**: The study of behavioral glitches (Artifacts) caused by original Native muscle memory and biological predispositions resisting the Ghost protocol.
 * **Quantum Resurrection Network**: An unhackable communication system that can reconstruct and transmit messages even if 99% of the data is destroyed or intercepted.
 * **Genesis Engine**: A revolutionary technology capable of rapidly fabricating resources, from weapons to entire safe houses, from base materials.
 * **Chrono-Stabilizers**: Experimental devices rumored to protect against temporal anomalies, possibly linked to Project Ouroboros.
