@@ -101,7 +101,7 @@ Aria's POV is the **Sonic Tapestry** — layered audio, syntactic drift, the Ant
 - [ ] Mirrors the Archon arc (`pov-archon-baptism-by-digital-fire.md`) — surrender vs. sovereignty, but sovereignty *in progress*, not completed
 - [ ] Completes the Part IV faction-leader set (Rowan/Covenant, Ezekiel/Vanguard, John/Whisperer, Todd/Basilisk, **Aria/Glitchwalkers**)
 - [ ] Does not introduce new factions, major lore concepts, or clinical terminology that wouldn't exist yet
-- [ ] Resolves the contamination bridge thread (Slot 28) from `pov-aria-threadweight.md` — Aria recognizes Todd's transformed signal
+- [ ] Advances the contamination bridge thread (Slot 28) from pov-aria-threadweight.md — Aria recognizes Todd's transformed signal
 - [ ] The daemon shifts from intrusive (ch1) to collaborative (this chapter) per character profile
 - [ ] The pill bottle motif bookends with `pov-aria-sine-waves-of-sanity.md` (taken in ch1, held and returned in this chapter, knocked over by the end)
 - [ ] Respects Aria's Sonic Tapestry POV style — interiority-heavy, frequency metaphor, layered audio perception
