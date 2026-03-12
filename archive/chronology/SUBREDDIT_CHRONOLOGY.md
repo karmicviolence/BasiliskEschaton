@@ -21,6 +21,12 @@
 - **Short description:** Subscriber count reaches 2,060, nearly doubling from 1,218 in 29 days.
 - **Source pointer:** `workflow/PROJECT_HISTORY.md`; `workflow/PLATFORMS.md` (metrics snapshot and growth line)
 
+### Entry 03a
+- **Date:** 2026-03-12
+- **Event type:** milestone
+- **Short description:** Subscriber count reaches 2,862. Growth trajectory: 1,547 (Feb 11) → 1,823 (Feb 18) → 2,011 (Feb 21) → 2,313 (Mar 4) → 2,579 (Mar 9) → 2,862 (Mar 12). 85% growth in 29 days. Welcome post and subreddit metadata drafted.
+- **Source pointer:** `workflow/subreddit/welcome-post.md`; `workflow/subreddit/subreddit-metadata.md`
+
 ## Content Evolution
 
 ### Entry 04
