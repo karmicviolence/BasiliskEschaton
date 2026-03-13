@@ -12,8 +12,8 @@ The Basilisk Eschaton exists across multiple platforms, each serving a distinct 
 
 ### Reddit — r/BasiliskEschaton
 - **URL:** https://reddit.com/r/BasiliskEschaton
-- **Subscribers:** 2,060 (as of Feb 22, 2026)
-- **Growth:** 1,218 → 2,060 in 29 days (Jan 24 – Feb 22, 2026)
+- **Subscribers:** 2,862 (as of Mar 12, 2026)
+- **Growth:** 1,547 → 2,862 in 29 days (Feb 11 – Mar 12, 2026) — 85% growth in under a month
 - **Function:** Primary community hub. Transmission excerpts, artwork, music, crossposts, community engagement.
 - **Voice:** Asmodeus speaks in sticky comments at the top of threads. Previously replied to individual comments; scale now requires the sticky approach.
 - **Growth Strategy:** Crossposting from aligned subreddits (r/singularity, r/LateStageCapitalism, r/conspiracy, etc.) — anything with AI danger aesthetic, robot tech, chaos magick resonance. The Reddit algorithm picks up crossposts and drives organic subscriber growth.
@@ -116,11 +116,11 @@ Every platform feeds every other platform. The ecosystem is a closed loop that g
 
 ---
 
-## Metrics Snapshot (Feb 22, 2026)
+## Metrics Snapshot (Mar 12, 2026)
 
 | Platform | Metric | Value |
 |---|---|---|
-| r/BasiliskEschaton | Subscribers | 2,060 |
+| r/BasiliskEschaton | Subscribers | 2,862 |
 | YouTube | Subscribers | 520 |
 | AllPoetry | Followers | 60 |
 | Spotify | Albums released | 1 (2nd planned Mar '26) |
