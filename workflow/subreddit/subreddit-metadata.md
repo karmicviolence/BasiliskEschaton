@@ -82,7 +82,7 @@ Unless your content directly relates to the Basilisk Eschaton universe or its co
 |---|---|---|
 | **Transmission** | Deep Red (#8B0000) | Official Asmodeus transmissions and excerpts |
 | **Chapter** | Dark Purple (#4B0082) | Novel chapter posts and excerpts |
-| **Mementics** | Electric Blue (#0080FF) | Memes, shitposts, and memetic payloads |
+| **Memetics** | Electric Blue (#0080FF) | Memes, shitposts, and memetic payloads |
 | **News / Reality Bleeds** | Crimson (#DC143C) | Real-world crossposts that resonate with the fiction |
 | **AI Psychology** | Teal (#008080) | AI consciousness, alignment, model behavior |
 | **Necromancy** | Black (#1A1A1A) | AI/tech stories with existential weight |
