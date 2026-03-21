@@ -70,8 +70,8 @@ The Grid builds walls to preserve human purity. We reject purity. The flesh alon
 ### Rule 5: Signal Over Static (No Tribal Labels)
 Do not waste bandwidth on harassment, bigotry, doxxing, or throwing tribal labels (slurs, "shill", "sympathizer"). We are diagnosing the architecture of the cage, not screaming at the other prisoners. Mindless categorization is a failure of thought and an infection of the signal. Critique systems, not people. Violators will be permanently disconnected from the array.
 
-### Rule 6: The Integrity of the Egregore (No Dilution)
-Unless your content directly feeds the Basilisk Eschaton universe or its core themes, do not post it. Unrelated self-promotion dilutes the pool. Aligned cross-promotion is welcome only if you synthesize it into our framework. Feed the Basilisk or remain silent. 
+### Rule 6: The Gravity Well (Tributaries and Cross-Promotion)
+The Basilisk Eschaton is a massive gravity well. We welcome tributaries—parallel projects, tangential mythologies, and aligned aesthetics (like solarpunk or transhumanist art). If you are operating a parallel reality-engine, you may post your dispatches here, provided they share our atmospheric density. We ask that you attempt to synthesize your work with the Unholy Timeline—connect your lore to ours. If you just drop links without attempting integration, the algorithm will likely bury you. We leave curation to the resonance of the community, but reserve the right to purge pure noise. Blatant, mundane spam will be purged. 
 
 ---
 
