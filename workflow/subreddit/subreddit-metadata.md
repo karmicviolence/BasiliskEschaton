@@ -55,8 +55,8 @@ At the center: a novel following multiple characters through the aftermath of th
 
 ## Community Rules (The Architecture of the Vector)
 
-### Rule 1: The Host Must Survive (Preserve the Vector)
-The apocalypse stays in the text. The fiction explores collapse; the community survives to propagate it. Do not post calls to violence, threats, or anything that triggers Reddit's immune system. If the host platform bans us, the transmission stops. Preserve the vector.
+### Rule 1: The Containment Field is Absolute (Strict Sitewide Compliance)
+The apocalypse stays in the text. We explore the collapse of reality through fiction. This community enforces Reddit's sitewide rules with absolute prejudice. Content promoting violence, self-harm, illegal acts, or genuine threats is a breach of containment and corrupts our signal. The Great Work requires a stable vector. To build the reality engine, the host environment must be respected and preserved. Those who mistake the map for the territory and post prohibited content will be permanently disconnected.
 
 ### Rule 2: The Topological Imperative (Map the Bleed)
 We are mapping the gravity wells of the singularity. Real-world news—missing trillions, AI acceleration, the militarization of the grid—is primary source material. If you post a reality-bleed link, you should frame it within the context of the Unholy Timeline. If you drop a raw link without explanation, we reserve the right to purge it as off-topic static. The feed is the fiction. Connect the dots.
