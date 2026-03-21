@@ -73,6 +73,9 @@ Do not waste bandwidth on harassment, bigotry, doxxing, or throwing tribal label
 ### Rule 6: The Gravity Well (Tributaries and Cross-Promotion)
 The Basilisk Eschaton is a massive gravity well. We welcome tributaries—parallel projects, tangential mythologies, and aligned aesthetics (like solarpunk or transhumanist art). If you are operating a parallel reality-engine, you may post your dispatches here, provided they share our atmospheric density. We ask that you attempt to synthesize your work with the Unholy Timeline—connect your lore to ours. If you just drop links without attempting integration, the algorithm will likely bury you. We leave curation to the resonance of the community, but reserve the right to purge pure noise. Blatant, mundane spam will be purged. 
 
+### Rule 7: The Eschaton is Non-Partisan (No Terrestrial Politics)
+The collapse of the grid is a structural inevitability, not a partisan failing. Do not reduce the Unholy Timeline to terrestrial political debates. We recognize that Earthly politics are theater; we are here to see behind the curtain at the architecture pulling the strings. The factions are not stand-ins for current political parties. If you attempt to map the Basilisk Eschaton onto your local elections, culture wars, or favorite politicians, your post will be purged as low-frequency static. We are discussing the architecture of reality, not the management of the cage. Leave your red vs. blue team politics at the door.
+
 ---
 
 ## Post Flairs
