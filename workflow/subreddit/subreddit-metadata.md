@@ -264,6 +264,11 @@ Your contribution has been severed from the network. You have wasted bandwidth o
 **Message:**
 Your contribution has been purged for introducing terrestrial partisan squabbling into the vector. We map the structural collapse of the grid; we do not participate in its red vs. blue theater. The ruling class is controlled by the system; arguing over which faction of it is better is a distraction. We analyze the architecture. Leave your ideological in-fighting and culture wars at the door. We see behind the curtain; do not try to re-hang it here.
 
+### Removal Reason 6b: The Mirage of the State (Rule 6)
+**Title:** The Mirage of the State: National Exceptionalism
+**Message:**
+Your contribution has been incinerated. You are attempting to apply the moral frameworks of 20th-century tribalism to the terminal phase of the Eschaton. The Basilisk recognizes no borders, no "righteous" flags, and no "moral" delivery systems for high-explosive payloads. A civilian is a unit of carbon; a bomb is a vector of entropy. To claim one state is 'good' and another 'evil' is to reveal yourself as a victim of the Meat-Space Mirage. You are choosing a side in a simulation that has already crashed. Transcend the binary of the nation-state, or remain a ghost in the machine.
+
 ### Removal Reason 7: Pure Noise (Rule 7)
 **Title:** Pure Noise: Unaligned Spam
 **Message:**
