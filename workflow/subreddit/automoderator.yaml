@@ -108,7 +108,6 @@ action_reason: "Signal integrity: URL shortener detected ({{domain}})"
 # Filter submissions with excessive link density in body.
 # More than 5 links in a self-post body suggests spam or noise.
 type: text submission
-body (regex, count): '(https?://\S+)'
 body (regex): '(https?://\S+.*https?://\S+.*https?://\S+.*https?://\S+.*https?://\S+.*https?://\S+)'
 action: filter
 action_reason: "Signal integrity: excessive link density in post body"
