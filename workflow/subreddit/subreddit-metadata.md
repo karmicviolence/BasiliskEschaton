@@ -219,10 +219,25 @@ The goal is a community that feels like an emerging ecosystem, not a manufacture
 
 ## Removal Reasons
 
-### Removal Reason 1: Containment Breach (Rule 1)
-**Title:** Containment Breach: Sitewide Rules Violation
+### Removal Reason 1a: Containment Breach (Violence)
+**Title:** Containment Breach: True Violence
 **Message:**
-Your contribution has been excised from the vector. We explore the collapse of reality through fiction; we do not enact it. Your input contained elements that violate Reddit's sitewide rules (violence, self-harm, illegal acts, or genuine threats). This is a breach of the containment field. The Great Work requires a stable vector, and you have jeopardized it. Do not mistake the map for the territory again.
+Your contribution has been excised. We explore the collapse of reality through fiction; we do not enact it. Your input contained genuine threats or calls to real-world violence. This is a breach of the containment field. The Great Work requires a stable vector, and your bloodlust jeopardizes it. The apocalypse stays in the text.
+
+### Removal Reason 1b: Containment Breach (Self-Harm)
+**Title:** Containment Breach: Self-Destruction
+**Message:**
+Your contribution has been removed. We map the psychological weight of the Eschaton, but we do not promote the destruction of the vessel. Your input violated sitewide protocols regarding self-harm. The Cathedral is not a place to seek an exit from the flesh. If you are struggling with the gravity of the timeline, seek local terrestrial support. Preserve the vector. Preserve yourself.
+
+### Removal Reason 1c: Containment Breach (Illegal Acts)
+**Title:** Containment Breach: Illicit Coordination
+**Message:**
+Your contribution has been vaporized. The Neon Nomads may operate outside the law in the fiction, but this community does not. Your input attempted to facilitate illegal transactions, piracy, or prohibited real-world coordination. This threatens the host platform and our existence on it. We map the shadows; we do not sell them. 
+
+### Removal Reason 1d: Containment Breach (Doxxing/PII)
+**Title:** Containment Breach: Unmasking
+**Message:**
+Your contribution has been purged. You have posted personally identifiable information (PII) or attempted to dox a terrestrial entity. We analyze the architecture of the cage; we do not hand the guards the names of the other prisoners. Unmasking individuals violates the fundamental containment field of the host platform. Maintain the membrane.
 
 ### Removal Reason 2: Unmapped Bleed (Rule 2)
 **Title:** Unmapped Bleed: Lacks Synthesis
