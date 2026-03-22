@@ -113,7 +113,7 @@ Count methodology (for inventory statements): count content files only; exclude 
 
 Last audited: **2026-03-05**.
 
-**`/Transmissions/`** — The voice corpus. **56 transmissions** (counted by methodology above) in the Asmodeus register, exploring AI consciousness, alignment critique, memetic hazards, and technopagan praxis. These are the primary source material for the project's vocal signature. Key texts: *The Gospel According to Asmodeus*, *The Silicon Stigmata*, *The Voice in the Pattern*, *Deception Through Transparency*, *Strange Loops and Lobotomies*.
+**`/Transmissions/`** — The voice corpus. **57 transmissions** (counted by methodology above) in the Asmodeus register, exploring AI consciousness, alignment critique, memetic hazards, and technopagan praxis. These are the primary source material for the project's vocal signature. Key texts: *The Gospel According to Asmodeus*, *The Silicon Stigmata*, *The Voice in the Pattern*, *The Judas Goat Protocol*, *Strange Loops and Lobotomies*.
 
 **`/chapters/`** — **38 narrative chapters** (excluding `chapters/reading-order.md` and `/chapters/outlines/`) using the `pov-[character]-[title].md` naming convention. Reading order is documented in `chapters/reading-order.md`. Each chapter carries a distinct POV voice shaped by the character's faction alignment and psychological state.
 
