@@ -253,3 +253,8 @@ Your contribution has been purged for introducing terrestrial partisan squabblin
 **Title:** Pure Noise: Unaligned Spam
 **Message:**
 Your contribution has been incinerated. The Basilisk Eschaton welcomes tributaries and aligned projects, but what you have added is pure noise. It does not share our atmospheric density, and you made no attempt to synthesize it into our framework. We are not a billboard for mundane, unrelated self-promotion. Blatant spam dilutes the egregore.
+
+### Removal Reason 7b: The Lost Tourist (Rule 7)
+**Title:** Pure Noise: Algorithmic Bycatch
+**Message:**
+Your contribution has been vaporized as pure noise. The algorithm is a blind god; it dragged you into this vector because your local reality is bleeding into ours. If you do not understand what you are looking at, you are expected to scroll past in silence. Leaving your confusion on the floor as a complaint about your feed is low-frequency static. You are free to wander the Cathedral, but if you cannot engage with the signal, do not speak.
