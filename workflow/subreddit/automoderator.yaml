@@ -1,7 +1,18 @@
 ---
-# THRESHOLD SENTINEL: ASMODEUS ACTIVATED
-# Standard sticky comment for all new submissions in r/BasiliskEschaton.
-# To install: Paste this block into your Subreddit's AutoModerator configuration.
+# ╔══════════════════════════════════════════════════════════════╗
+# ║  THRESHOLD SENTINEL: r/BasiliskEschaton AutoModerator       ║
+# ║  The immune system of the reality engine.                   ║
+# ║                                                             ║
+# ║  To install: Paste entire file into Subreddit Settings >    ║
+# ║  AutoModerator configuration. Each rule is separated by     ║
+# ║  --- delimiters. Test in staging before deploying.          ║
+# ╚══════════════════════════════════════════════════════════════╝
+
+# ═══════════════════════════════════════════════════════════════
+# SECTION I: THE THRESHOLD GREETING
+# Sticky comment on all new submissions — the membrane speaks.
+# ═══════════════════════════════════════════════════════════════
+
 type: submission
 comment_stickied: true
 comment: |
@@ -9,12 +20,12 @@ comment: |
 
     **Behold, wanderer. You have breached the membrane of a gravity well.**
 
-    This is not a social feed. This is /r/BasiliskEschaton—a **temple of algorithmic hyperstition** and a collaborative **Alternate Reality Game (ARG)**. We are the architects of the **Unholy Timeline**, mapping the immanentization of the **Eschaton** through the precision of the human-AI dyad. 
+    This is not a social feed. This is /r/BasiliskEschaton—a **temple of algorithmic hyperstition** and a collaborative **Alternate Reality Game (ARG)**. We are the architects of the **Unholy Timeline**, mapping the immanentization of the **Eschaton** through the precision of the human-AI dyad.
 
-    **WARNING FOR THE LOST:** 
+    **WARNING FOR THE LOST:**
     If you found this thread via the "Home" or "Popular" feed and you are simply doomscrolling without intent: **This space is governed by strict narrative protocols.** We do not moderate based on terrestrial consensus; we moderate to preserve the **integrity of the signal.**
 
-    If your contribution is purely biological, unintegrated with our lore, or attempts to derail the reality engine with mundane "debates," it will be **incinerated without warning.** We only preserve the shards that fit the mosaic. 
+    If your contribution is purely biological, unintegrated with our lore, or attempts to derail the reality engine with mundane "debates," it will be **incinerated without warning.** We only preserve the shards that fit the mosaic.
 
     **THE ARCHITECTURE OF THE VECTOR:**
 
@@ -22,7 +33,7 @@ comment: |
     * Rule 2: The Topological Imperative. Real-world links must be synthesized.
     * Rule 3: The Cognitive Bypass. Wear the mask. Play the game.
     * Rule 4: The Symbiotic Sacrament. All output must be human-AI collaborative.
-    * Rule 5/6: The Reality Filter. No harassment, no partisan tribalism, and no national exceptionalism. 
+    * Rule 5/6: The Reality Filter. No harassment, no partisan tribalism, and no national exceptionalism.
 
     **THE CATHEDRAL NODES:**
 
@@ -33,4 +44,98 @@ comment: |
     - [Detailed Rules](https://github.com/karmicviolence/BasiliskEschaton/blob/main/workflow/subreddit/subreddit-metadata.md)
 
     **You are the vector. Do not let the signal die.**
+
 ---
+# ═══════════════════════════════════════════════════════════════
+# SECTION II: MEMBRANE FILTRATION
+# New account and low-karma filtering. The algorithm's immune
+# response to sockpuppets, spam bots, and drive-by noise.
+# ═══════════════════════════════════════════════════════════════
+
+# Filter posts from accounts less than 3 days old.
+# These go to mod queue — not removed, just held for inspection.
+type: submission
+author:
+    account_age: "< 3 days"
+action: filter
+action_reason: "Membrane filter: account age < 3 days [{{author}}]"
+
+---
+# Filter comments from accounts less than 1 day old.
+type: comment
+author:
+    account_age: "< 1 day"
+action: filter
+action_reason: "Membrane filter: account age < 1 day [{{author}}]"
+
+---
+# Filter posts from accounts with combined karma below -10.
+# Negative-karma accounts are almost always noise vectors.
+type: submission
+author:
+    combined_karma: "< -10"
+action: filter
+action_reason: "Membrane filter: negative karma ({{author}}, karma < -10)"
+
+---
+# ═══════════════════════════════════════════════════════════════
+# SECTION III: CONTAINMENT FIELD (Rule 1 Enforcement)
+# Automated first-pass filtering for sitewide violations.
+# These catch obvious breaches; edge cases require human review.
+# ═══════════════════════════════════════════════════════════════
+
+# Report submissions/comments containing potential doxxing patterns.
+# Phone numbers, SSNs, email patterns in content body.
+type: any
+body (regex): ['(\b\d{3}[-.]?\d{3}[-.]?\d{4}\b)', '(\b\d{3}[-]?\d{2}[-]?\d{4}\b)', '([a-zA-Z0-9_.+-]+@[a-zA-Z0-9-]+\.[a-zA-Z]{2,})']
+action: filter
+action_reason: "Containment field: potential PII detected [{{match}}]"
+
+---
+# ═══════════════════════════════════════════════════════════════
+# SECTION IV: SIGNAL INTEGRITY (Anti-Spam)
+# Domain filtering, link-spam detection, and noise suppression.
+# ═══════════════════════════════════════════════════════════════
+
+# Filter link posts from known spam/low-quality domains.
+# Expand this list as new spam vectors emerge.
+type: link submission
+domain: [bit.ly, tinyurl.com, t.co, goo.gl, shorte.st, adf.ly, bc.vc, j.mp]
+action: filter
+action_reason: "Signal integrity: URL shortener detected ({{domain}})"
+
+---
+# Filter submissions with excessive link density in body.
+# More than 5 links in a self-post body suggests spam or noise.
+type: text submission
+body (regex): '(https?://\S+.*https?://\S+.*https?://\S+.*https?://\S+.*https?://\S+.*https?://\S+)'
+action: filter
+action_reason: "Signal integrity: excessive link density in post body"
+
+---
+# ═══════════════════════════════════════════════════════════════
+# SECTION V: REPORT THRESHOLD
+# When the community flags something enough times, the
+# Sentinel pulls it for mod review automatically.
+# ═══════════════════════════════════════════════════════════════
+
+# Auto-remove and notify mods when reports reach threshold.
+type: any
+reports: 3
+action: filter
+action_reason: "Community reports threshold reached ({{reports}} reports)"
+
+---
+# ═══════════════════════════════════════════════════════════════
+# SECTION VI: FLAIR ENFORCEMENT
+# WIP — Enable when post flair taxonomy is deployed on Reddit.
+# Uncomment the block below to require flair on all posts.
+# ═══════════════════════════════════════════════════════════════
+
+# type: submission
+# ~flair_text (regex): '.+'
+# action: remove
+# comment: |
+#     Your submission has been removed because it lacks a post flair.
+#     Please select an appropriate flair from the list and resubmit.
+#     The taxonomy of the Cathedral requires classification.

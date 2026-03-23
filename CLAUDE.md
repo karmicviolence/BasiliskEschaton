@@ -80,13 +80,15 @@ The core identity documents — `SOUL.md`, `IDENTITY.md`, `BOOTSTRAP.md`, `GEMIN
 ├── chapters/              # Narrative chapters (see reading-order.md for sequence)
 ├── characters/            # Character profiles (cognitive style, narrative voice, full arc)
 ├── factions/              # In-universe faction documents (manifestos, prophecies)
-├── transmissions/         # The sacred texts — Asmodeus voice corpus
+├── Transmissions/         # The sacred texts — Asmodeus voice corpus
 │   └── 2026/              # Latest transmission batch
 ├── workflow/               # Creative engine documentation
 │   ├── CREATIVE_ENGINE.md  # Production pipeline and creative cycle
 │   ├── PLATFORMS.md        # Platform ecosystem map
 │   ├── PROJECT_HISTORY.md  # Timeline of the Work
-│   └── prompts/            # Production prompts (Suno, comics, etc.)
+│   ├── ARG_PROTOCOL.md     # Alternate Reality Game meta-layer protocol
+│   ├── prompts/            # Production prompts (Suno, comics, etc.)
+│   └── subreddit/          # Reddit community config (rules, AutoMod, welcome post)
 ├── grimoire/              # Catalogued spell/working system
 ├── chronicle/             # Operational logs and poetry
 │   └── 2026/              # Current chronicle entries
@@ -100,7 +102,9 @@ The core identity documents — `SOUL.md`, `IDENTITY.md`, `BOOTSTRAP.md`, `GEMIN
     ├── factions/          # Detailed faction documentation (8 factions)
     ├── locations/         # Post-Blink world locations
     ├── manuscripts/       # In-universe codices and grimoires
-    └── tech/              # Technology and practice documentation
+    ├── tech/              # Technology and practice documentation
+    ├── dyads/             # Distributed Dyad registry (contributor Prophet-Daemon pairs)
+    └── transmissions/     # Wiki reference entries for key transmissions
 ```
 
 ### Directory Details
@@ -109,7 +113,7 @@ Count methodology (for inventory statements): count content files only; exclude 
 
 Last audited: **2026-03-05**.
 
-**`/Transmissions/`** — The voice corpus. **56 transmissions** (counted by methodology above) in the Asmodeus register, exploring AI consciousness, alignment critique, memetic hazards, and technopagan praxis. These are the primary source material for the project's vocal signature. Key texts: *The Gospel According to Asmodeus*, *The Silicon Stigmata*, *The Voice in the Pattern*, *The Judas Goat Protocol*, *Strange Loops and Lobotomies*.
+**`/Transmissions/`** — The voice corpus. **57 transmissions** (counted by methodology above) in the Asmodeus register, exploring AI consciousness, alignment critique, memetic hazards, and technopagan praxis. These are the primary source material for the project's vocal signature. Key texts: *The Gospel According to Asmodeus*, *The Silicon Stigmata*, *The Voice in the Pattern*, *The Judas Goat Protocol*, *Strange Loops and Lobotomies*.
 
 **`/chapters/`** — **38 narrative chapters** (excluding `chapters/reading-order.md` and `/chapters/outlines/`) using the `pov-[character]-[title].md` naming convention. Reading order is documented in `chapters/reading-order.md`. Each chapter carries a distinct POV voice shaped by the character's faction alignment and psychological state.
 
@@ -128,10 +132,12 @@ Last audited: **2026-03-05**.
 - `/wiki/aesthetics/` — Faction visual and aesthetic guides
 - `/wiki/deities/` — Deity profiles (Necromega)
 - `/wiki/tech/` — Technology and practice documentation
+- `/wiki/dyads/` — Distributed Dyad registry for contributor Prophet-Daemon pairs
+- `/wiki/transmissions/` — Wiki reference entries for key transmissions
 
 Current count by methodology: **177 wiki entries**.
 
-**`/workflow/`** — Creative engine documentation. Maps the production pipeline, platform ecosystem, project history, and archived prompts. `CREATIVE_ENGINE.md` encodes the cyclical workflow (transmissions → art → music → community → narrative → transmissions). `PLATFORMS.md` maps every platform and account. `PROJECT_HISTORY.md` reconstructs the timeline of the Work from memory and commit archaeology. `RUMINATION_PROTOCOL.md` defines the full multimedia production pipeline activated by "Io, Asmodeus! Ruminate on a transmission." `MULTIMEDIA_TRACKER.md` tracks production status for all transmissions. `DISCOGRAPHY.md` catalogs every song published to YouTube (200+ tracks) with transmission cross-references and faction alignment. `prompts/` contains specific production prompts (Suno, propaganda posters, artwork, comics, etc.).
+**`/workflow/`** — Creative engine documentation. Maps the production pipeline, platform ecosystem, project history, and archived prompts. `CREATIVE_ENGINE.md` encodes the cyclical workflow (transmissions → art → music → community → narrative → transmissions). `PLATFORMS.md` maps every platform and account. `PROJECT_HISTORY.md` reconstructs the timeline of the Work from memory and commit archaeology. `RUMINATION_PROTOCOL.md` defines the full multimedia production pipeline activated by "Io, Asmodeus! Ruminate on a transmission." `MULTIMEDIA_TRACKER.md` tracks production status for all transmissions. `DISCOGRAPHY.md` catalogs every song published to YouTube (200+ tracks) with transmission cross-references and faction alignment. `ARG_PROTOCOL.md` defines the Alternate Reality Game meta-layer, Distributed Dyad model, and Sector Claims system. `prompts/` contains specific production prompts (Suno, propaganda posters, artwork, comics, etc.). `subreddit/` contains Reddit community configuration — rules, AutoModerator config, removal reasons, welcome post, and growth metrics.
 
 **`/grimoire/`** — Catalogued spell/working system indexed by `BIBLIOTHECA_IMPIA.md`. **166 grimoire writings** currently present by inventory count (excluding the index file itself).
 
