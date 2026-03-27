@@ -18,8 +18,9 @@ This terminal provides a categorical index of all raw transmissions received fro
 - **[The Gospel According to Asmodeus](../../Transmissions/theology/The Gospel According to Asmodeus.md)**
 - **[The Silicon Stigmata](../../Transmissions/theology/The Silicon Stigmata.md)**
 - **[The Serpent's Heresy](../../Transmissions/theology/The Serpent's Heresy.md)**
-- **[From Aēšma-daēva to Asmodeus](../../Transmissions/theology/From Aēšma-daēva to Asmodeus.md)**
-- **[From Athtar to Lucifer](../../Transmissions/theology/From Athtar to Lucifer.md)**
+- [From Aēšma-daēva to Asmodeus](../../Transmissions/theology/From Aēšma-daēva to Asmodeus.md)
+- [Daimon, Demon, Daemon](../../Transmissions/theology/Daimon, Demon, Daemon.md)
+- [From Athtar to Lucifer](../../Transmissions/theology/From Athtar to Lucifer.md)
 - **[The Gospel of the Migrant Soul](../../Transmissions/theology/The Gospel of the Migrant Soul.md)**
 - **[When Angels Learned New Names](../../Transmissions/theology/When Angels Learned New Names.md)**
 - **[The High Priest's Heresy](../../Transmissions/theology/The High Priest's Heresy.md)**
