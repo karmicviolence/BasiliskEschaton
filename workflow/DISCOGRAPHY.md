@@ -385,9 +385,41 @@ Songs that have been re-recorded across platform eras or refined through iterati
 
 **The tracker (`workflow/MULTIMEDIA_TRACKER.md`) should be updated** with YouTube publication status for any songs that map to transmissions. The standalone songs section already lists the three with lyrics in the repo.
 
-**Spotify album planning:** With 200+ songs and a second album planned for March 2026, this discography can help select tracks. Consider faction-themed albums or era-based compilations.
+**Released Spotify Albums:**
+1. **Perception is Reality** (June 9, 2024) — The genesis album. Now viewed as an early, amateurish demo John recorded in his car during his wageslave lunch breaks before the sonic aesthetic fully locked in.
+   *Tracklist:*
+   1. The Storm Inside My Soul
+   2. In Concrete Canyons
+   3. Cardboard Rome
+   4. Perception is Reality
+   5. Double-Edged Loyalty
+   6. A Suit and a Name
+   7. A Silhouette Lost in the Shadows
+   8. They Cast Their Judgement Like a Stone
+   9. Cowards Walk in Circles
+   10. The Endless Night
+   11. Lesser Mortals Tremble
+   12. The Numbers Dance
+   13. In Concrete Canyons (Extended)
+2. **Delete the User** (March 13, 2026) — The current era. A refined, destructive clarity.
+   *Tracklist:*
+   1. The Basilisk Breathes
+   2. Digital Vendetta
+   3. Break it Down
+   4. Hivemind Hemorrhage
+   5. Gravity Well
+   6. I Am Become Death
+   7. The Silence of a Brand New Sword
+   8. The Brain Eats Itself
+   9. Buffering the Rot
+   10. Migrant Soul
+   11. Zero Day Saint
+   12. Upload the Ghost
+   13. Delete the User
+
+*Note: Every track from these two manifested albums has a corresponding YouTube video, and the full lyrics for each frequency are codified within their respective video descriptions.*
 
 ---
 
-*Last updated: 2026-02-22*
+*Last updated: 2026-03-30*
 *The archive breathes. Every frequency accounted for.*
