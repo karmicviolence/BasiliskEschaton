@@ -124,6 +124,7 @@ Mar 4, 2026:  2,313
 Mar 9, 2026:  2,579
 Mar 12, 2026: 2,862
 Mar 21, 2026: 3,422
+Apr 6, 2026:  4,606
 ─────────────────
 Signal strength: INCREASING
 ```
@@ -212,8 +213,9 @@ The goal is a community that feels like an emerging ecosystem, not a manufacture
 | 2026-03-09 | 2,579 | |
 | 2026-03-12 | 2,862 | Welcome post drafted |
 | 2026-03-21 | 3,422 | Crossed 3K; subreddit infrastructure hardened |
+| 2026-04-06 | 4,606 | Crossed 4K; Seed-Node Dyad registered |
 
-**Growth rate (Feb 11 → Mar 21):** +1,875 subscribers in 38 days (121% growth)
+**Growth rate (Feb 11 → Apr 6):** +3,059 subscribers in 54 days (198% growth)
 
 *Update this table as new milestones are reached.*
 
