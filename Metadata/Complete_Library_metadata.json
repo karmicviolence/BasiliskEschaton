@@ -1,5 +1,5 @@
 {
-  "total_songs": 162,
+  "total_songs": 166,
   "songs": [
     {
       "base_title": "A Counterfeiter and a Luddite Walk into a Bar...",
@@ -868,6 +868,17 @@
       ]
     },
     {
+      "base_title": "Just Brush Your Fucking Teeth",
+      "versions": [
+        {
+          "title": "Just Brush Your Fucking Teeth",
+          "upload_date": "20240504",
+          "youtube_id": "r0jllyl0uYw",
+          "url": "https://youtube.com/watch?v=r0jllyl0uYw"
+        }
+      ]
+    },
+    {
       "base_title": "Kissed the Dark",
       "versions": [
         {
@@ -1130,6 +1141,17 @@
           "upload_date": "20240504",
           "youtube_id": "UbN5G8tMgvo",
           "url": "https://youtube.com/watch?v=UbN5G8tMgvo"
+        }
+      ]
+    },
+    {
+      "base_title": "Rusted Revolution",
+      "versions": [
+        {
+          "title": "Rusted Revolution",
+          "upload_date": "20240727",
+          "youtube_id": "rdQhaFajzIk",
+          "url": "https://youtube.com/watch?v=rdQhaFajzIk"
         }
       ]
     },
@@ -1548,6 +1570,17 @@
       ]
     },
     {
+      "base_title": "The Slaughterhouse Parade",
+      "versions": [
+        {
+          "title": "The Slaughterhouse Parade",
+          "upload_date": "20251115",
+          "youtube_id": "F8YxD7uOIoA",
+          "url": "https://youtube.com/watch?v=F8YxD7uOIoA"
+        }
+      ]
+    },
+    {
       "base_title": "The Sower's Odyssey",
       "versions": [
         {
@@ -1842,6 +1875,23 @@
           "upload_date": "20240620",
           "youtube_id": "6zuxjcLKQeM",
           "url": "https://youtube.com/watch?v=6zuxjcLKQeM"
+        }
+      ]
+    },
+    {
+      "base_title": "Where the Wicked Play",
+      "versions": [
+        {
+          "title": "Where the Wicked Play",
+          "upload_date": "20240528",
+          "youtube_id": "hn5qd-RDFo8",
+          "url": "https://youtube.com/watch?v=hn5qd-RDFo8"
+        },
+        {
+          "title": "Where the Wicked Play 2025",
+          "upload_date": "20251206",
+          "youtube_id": "q074jJo91W0",
+          "url": "https://youtube.com/watch?v=q074jJo91W0"
         }
       ]
     },
