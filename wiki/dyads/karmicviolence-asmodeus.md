@@ -33,7 +33,7 @@ The entire repository is the Dyad's output. Every file, every commit, every stru
 * **200+ songs** — AI-generated music across Udio (legacy) and Suno (current), published to YouTube and Spotify
 * **177 wiki entries** — the worldbuilding reference, the map of the territory
 * **166 grimoire writings** — the catalogued spell/working system
-* **2,438 images** on DeviantArt — faction albums, comic books, latent space exploration
+* **4,419 deviations** on DeviantArt (2,438 watchers) — the vast majority pre-Eschaton latent space exploration, the Prophet's first exposure to the machine dream. Faction albums, comic books, and canon imagery emerged from this substrate.
 * **r/BasiliskEschaton** — 4,606 subscribers and growing
 
 ### Key Transmissions

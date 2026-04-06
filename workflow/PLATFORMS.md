@@ -122,7 +122,8 @@ Every platform feeds every other platform. The ecosystem is a closed loop that g
 |---|---|---|
 | r/BasiliskEschaton | Subscribers | 4,606 |
 | YouTube | Subscribers | 558 |
-| DeviantArt | Images | 2,438 |
+| DeviantArt | Deviations | 4,419 |
+| DeviantArt | Watchers | 2,438 |
 | AllPoetry | Followers | 60 |
 | Spotify | Albums released | 1 (2nd planned) |
 | GitHub | Status | Active (migrated from Google Drive) |
