@@ -1,7 +1,7 @@
-## The Space Between Machine and Dream
-YouTube ID: PjChwUx8XkQ
-Upload Date: 20240527
-Note: This is version 2 of 2 for this song. (Nothing is ever final. Every version is just another draft.)
+## The Space Between Machine and Dream (beta)
+YouTube ID: PDu46gLL_Oc
+Upload Date: 20240504
+Note: This is version 1 of 2 for this song. (Nothing is ever final. Every version is just another draft.)
 
 ---
 Machines hum, numbers flicker across screens, casting a neon glow
@@ -40,3 +40,6 @@ In the space between machine and dream,
 Lies love's strength, a persistent beam.
 
 The Space Between Machine and Dream
+
+Lyrics with Gemini
+Music with Udio

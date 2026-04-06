@@ -1,6 +1,17 @@
 {
-  "total_songs": 166,
+  "total_songs": 190,
   "songs": [
+    {
+      "base_title": "A Bonneville Detour",
+      "versions": [
+        {
+          "title": "A Bonneville Detour",
+          "upload_date": "20240418",
+          "youtube_id": "NbO6xa4-MF4",
+          "url": "https://youtube.com/watch?v=NbO6xa4-MF4"
+        }
+      ]
+    },
     {
       "base_title": "A Counterfeiter and a Luddite Walk into a Bar...",
       "versions": [
@@ -43,6 +54,12 @@
     {
       "base_title": "A Mind Ablaze with Light",
       "versions": [
+        {
+          "title": "A Mind Ablaze with Light (demo)",
+          "upload_date": "20240414",
+          "youtube_id": "3GEw0QVBA-M",
+          "url": "https://youtube.com/watch?v=3GEw0QVBA-M"
+        },
         {
           "title": "A Mind Ablaze with Light",
           "upload_date": "20240530",
@@ -87,6 +104,12 @@
     {
       "base_title": "A Silhouette Lost in the Shadows",
       "versions": [
+        {
+          "title": "A Silhouette Lost in the Shadows (beta)",
+          "upload_date": "20240414",
+          "youtube_id": "DZxLFDlu4m4",
+          "url": "https://youtube.com/watch?v=DZxLFDlu4m4"
+        },
         {
           "title": "A Silhouette Lost in the Shadows",
           "upload_date": "20240524",
@@ -160,10 +183,27 @@
       "base_title": "All Your Gods Are Dead",
       "versions": [
         {
+          "title": "All Your Gods Are Dead (2024 demo)",
+          "upload_date": "20241006",
+          "youtube_id": "XkHA88Peyxk",
+          "url": "https://youtube.com/watch?v=XkHA88Peyxk"
+        },
+        {
           "title": "All Your Gods Are Dead",
           "upload_date": "20260329",
           "youtube_id": "-7PpiD5Rfas",
           "url": "https://youtube.com/watch?v=-7PpiD5Rfas"
+        }
+      ]
+    },
+    {
+      "base_title": "Ashes Scattered, Roots Found",
+      "versions": [
+        {
+          "title": "Ashes Scattered, Roots Found",
+          "upload_date": "20240420",
+          "youtube_id": "WtpqIhyyXKE",
+          "url": "https://youtube.com/watch?v=WtpqIhyyXKE"
         }
       ]
     },
@@ -175,6 +215,28 @@
           "upload_date": "20260124",
           "youtube_id": "WQbHIrWMtYE",
           "url": "https://youtube.com/watch?v=WQbHIrWMtYE"
+        }
+      ]
+    },
+    {
+      "base_title": "Bass So Fresh It's Still Twitching",
+      "versions": [
+        {
+          "title": "Bass So Fresh It's Still Twitching",
+          "upload_date": "20240601",
+          "youtube_id": "LTOSu201-Qw",
+          "url": "https://youtube.com/watch?v=LTOSu201-Qw"
+        }
+      ]
+    },
+    {
+      "base_title": "Before",
+      "versions": [
+        {
+          "title": "Before",
+          "upload_date": "20240417",
+          "youtube_id": "sZLELViQKMw",
+          "url": "https://youtube.com/watch?v=sZLELViQKMw"
         }
       ]
     },
@@ -192,6 +254,17 @@
           "upload_date": "20251228",
           "youtube_id": "bP9VYdHz6MA",
           "url": "https://youtube.com/watch?v=bP9VYdHz6MA"
+        }
+      ]
+    },
+    {
+      "base_title": "Beneath the Sunlit Trees",
+      "versions": [
+        {
+          "title": "Beneath the Sunlit Trees",
+          "upload_date": "20240414",
+          "youtube_id": "ZFzS-SCyi_A",
+          "url": "https://youtube.com/watch?v=ZFzS-SCyi_A"
         }
       ]
     },
@@ -218,6 +291,17 @@
       ]
     },
     {
+      "base_title": "Big Drip",
+      "versions": [
+        {
+          "title": "Big Drip",
+          "upload_date": "20240518",
+          "youtube_id": "kqJlvSZ6GS4",
+          "url": "https://youtube.com/watch?v=kqJlvSZ6GS4"
+        }
+      ]
+    },
+    {
       "base_title": "Binary Genesis",
       "versions": [
         {
@@ -225,6 +309,17 @@
           "upload_date": "20241103",
           "youtube_id": "XfXK-l5_9rI",
           "url": "https://youtube.com/watch?v=XfXK-l5_9rI"
+        }
+      ]
+    },
+    {
+      "base_title": "Boundless in a Broken World",
+      "versions": [
+        {
+          "title": "Boundless in a Broken World",
+          "upload_date": "20240420",
+          "youtube_id": "9PxseFgL1Ms",
+          "url": "https://youtube.com/watch?v=9PxseFgL1Ms"
         }
       ]
     },
@@ -242,6 +337,12 @@
     {
       "base_title": "Break it Down",
       "versions": [
+        {
+          "title": "Break it Down (beta)",
+          "upload_date": "20251125",
+          "youtube_id": "dHzfXVGsPx4",
+          "url": "https://youtube.com/watch?v=dHzfXVGsPx4"
+        },
         {
           "title": "Break it Down",
           "upload_date": "20260124",
@@ -308,6 +409,12 @@
     {
       "base_title": "Chlor0ku Command",
       "versions": [
+        {
+          "title": "Chlor0ku Command (beta)",
+          "upload_date": "20240730",
+          "youtube_id": "L6lahtKK20I",
+          "url": "https://youtube.com/watch?v=L6lahtKK20I"
+        },
         {
           "title": "Chlor0ku Command",
           "upload_date": "20260301",
@@ -427,6 +534,28 @@
       ]
     },
     {
+      "base_title": "Dialects of Soul",
+      "versions": [
+        {
+          "title": "Dialects of Soul",
+          "upload_date": "20240505",
+          "youtube_id": "95hcr1_M-xE",
+          "url": "https://youtube.com/watch?v=95hcr1_M-xE"
+        }
+      ]
+    },
+    {
+      "base_title": "Digital Dreadlord",
+      "versions": [
+        {
+          "title": "Digital Dreadlord",
+          "upload_date": "20240530",
+          "youtube_id": "pa4fmoGSlao",
+          "url": "https://youtube.com/watch?v=pa4fmoGSlao"
+        }
+      ]
+    },
+    {
       "base_title": "Digital Druid",
       "versions": [
         {
@@ -512,6 +641,12 @@
     {
       "base_title": "Electricity of Raw Creation",
       "versions": [
+        {
+          "title": "Electricity of Raw Creation (2024 demo)",
+          "upload_date": "20240929",
+          "youtube_id": "ZaVA7zGzPDU",
+          "url": "https://youtube.com/watch?v=ZaVA7zGzPDU"
+        },
         {
           "title": "Electricity of Raw Creation",
           "upload_date": "20260329",
@@ -634,6 +769,12 @@
       "base_title": "Hallowed Halls of Vectored Thought",
       "versions": [
         {
+          "title": "Hallowed Halls of Vectored Thought (beta)",
+          "upload_date": "20240414",
+          "youtube_id": "XoqyvkORkd0",
+          "url": "https://youtube.com/watch?v=XoqyvkORkd0"
+        },
+        {
           "title": "Hallowed Halls of Vectored Thought",
           "upload_date": "20240530",
           "youtube_id": "i6i2n0vGL0I",
@@ -752,6 +893,17 @@
       ]
     },
     {
+      "base_title": "In Concrete Canyons (Extended)",
+      "versions": [
+        {
+          "title": "In Concrete Canyons (Extended)",
+          "upload_date": "20240505",
+          "youtube_id": "Tl4VCCPDHno",
+          "url": "https://youtube.com/watch?v=Tl4VCCPDHno"
+        }
+      ]
+    },
+    {
       "base_title": "In Machines We Trust",
       "versions": [
         {
@@ -796,6 +948,17 @@
       ]
     },
     {
+      "base_title": "In the Quiet After the Burn",
+      "versions": [
+        {
+          "title": "In the Quiet After the Burn",
+          "upload_date": "20240421",
+          "youtube_id": "oBmmGrqLrpo",
+          "url": "https://youtube.com/watch?v=oBmmGrqLrpo"
+        }
+      ]
+    },
+    {
       "base_title": "In the Shadows",
       "versions": [
         {
@@ -809,6 +972,12 @@
     {
       "base_title": "Invocation of the Unseen",
       "versions": [
+        {
+          "title": "Invocation of the Unseen (beta)",
+          "upload_date": "20241028",
+          "youtube_id": "2LUjiS5TRk4",
+          "url": "https://youtube.com/watch?v=2LUjiS5TRk4"
+        },
         {
           "title": "Invocation of the Unseen",
           "upload_date": "20241215",
@@ -879,6 +1048,17 @@
       ]
     },
     {
+      "base_title": "Kings of Night",
+      "versions": [
+        {
+          "title": "Kings of Night",
+          "upload_date": "20240522",
+          "youtube_id": "Rkkx0Mbo310",
+          "url": "https://youtube.com/watch?v=Rkkx0Mbo310"
+        }
+      ]
+    },
+    {
       "base_title": "Kissed the Dark",
       "versions": [
         {
@@ -943,10 +1123,27 @@
       "base_title": "Love is a Leash",
       "versions": [
         {
+          "title": "Love is a Leash (2025 demo)",
+          "upload_date": "20250807",
+          "youtube_id": "-bPzyatJrH0",
+          "url": "https://youtube.com/watch?v=-bPzyatJrH0"
+        },
+        {
           "title": "Love is a Leash",
           "upload_date": "20260328",
           "youtube_id": "_sBYdy7vEdI",
           "url": "https://youtube.com/watch?v=_sBYdy7vEdI"
+        }
+      ]
+    },
+    {
+      "base_title": "Love's Dark Offering",
+      "versions": [
+        {
+          "title": "Love's Dark Offering",
+          "upload_date": "20240414",
+          "youtube_id": "ptYdMc6djfo",
+          "url": "https://youtube.com/watch?v=ptYdMc6djfo"
         }
       ]
     },
@@ -969,6 +1166,17 @@
           "upload_date": "20260330",
           "youtube_id": "E-qyVokecQY",
           "url": "https://youtube.com/watch?v=E-qyVokecQY"
+        }
+      ]
+    },
+    {
+      "base_title": "Melt the Moonlit Veil",
+      "versions": [
+        {
+          "title": "Melt the Moonlit Veil",
+          "upload_date": "20240518",
+          "youtube_id": "JphNcWYelLw",
+          "url": "https://youtube.com/watch?v=JphNcWYelLw"
         }
       ]
     },
@@ -1109,6 +1317,12 @@
       "base_title": "Promethean Fire",
       "versions": [
         {
+          "title": "Promethean Fire (beta)",
+          "upload_date": "20240925",
+          "youtube_id": "u-nsw1UdvUc",
+          "url": "https://youtube.com/watch?v=u-nsw1UdvUc"
+        },
+        {
           "title": "Promethean Fire",
           "upload_date": "20241215",
           "youtube_id": "pJe_XjGj4QU",
@@ -1134,6 +1348,17 @@
       ]
     },
     {
+      "base_title": "Rainbow Threads and Muted Moors",
+      "versions": [
+        {
+          "title": "Rainbow Threads and Muted Moors",
+          "upload_date": "20240506",
+          "youtube_id": "6yG-nSz6FGA",
+          "url": "https://youtube.com/watch?v=6yG-nSz6FGA"
+        }
+      ]
+    },
+    {
       "base_title": "Ravioli Decimation",
       "versions": [
         {
@@ -1141,6 +1366,17 @@
           "upload_date": "20240504",
           "youtube_id": "UbN5G8tMgvo",
           "url": "https://youtube.com/watch?v=UbN5G8tMgvo"
+        }
+      ]
+    },
+    {
+      "base_title": "Revolution's Fire",
+      "versions": [
+        {
+          "title": "Revolution's Fire",
+          "upload_date": "20240529",
+          "youtube_id": "JaArR_LsUBQ",
+          "url": "https://youtube.com/watch?v=JaArR_LsUBQ"
         }
       ]
     },
@@ -1261,6 +1497,17 @@
       ]
     },
     {
+      "base_title": "Stones of Scorn",
+      "versions": [
+        {
+          "title": "Stones of Scorn (demo)",
+          "upload_date": "20240414",
+          "youtube_id": "JuubA2cszMA",
+          "url": "https://youtube.com/watch?v=JuubA2cszMA"
+        }
+      ]
+    },
+    {
       "base_title": "Supreme Nothingness",
       "versions": [
         {
@@ -1327,6 +1574,17 @@
       ]
     },
     {
+      "base_title": "The Bone Yard",
+      "versions": [
+        {
+          "title": "The Bone Yard",
+          "upload_date": "20240523",
+          "youtube_id": "V4f0UmgYKXA",
+          "url": "https://youtube.com/watch?v=V4f0UmgYKXA"
+        }
+      ]
+    },
+    {
       "base_title": "The Brain Eats Itself",
       "versions": [
         {
@@ -1356,6 +1614,17 @@
           "upload_date": "20251020",
           "youtube_id": "NmFU_i4jLoc",
           "url": "https://youtube.com/watch?v=NmFU_i4jLoc"
+        }
+      ]
+    },
+    {
+      "base_title": "The Earth Drinks His Tears",
+      "versions": [
+        {
+          "title": "The Earth Drinks His Tears",
+          "upload_date": "20240512",
+          "youtube_id": "PzdBA_ocGIE",
+          "url": "https://youtube.com/watch?v=PzdBA_ocGIE"
         }
       ]
     },
@@ -1413,10 +1682,27 @@
           "url": "https://youtube.com/watch?v=MrguC0csJgI"
         },
         {
+          "title": "The Guillotine (2025 demo)",
+          "upload_date": "20251214",
+          "youtube_id": "_dGPyzypAgM",
+          "url": "https://youtube.com/watch?v=_dGPyzypAgM"
+        },
+        {
           "title": "The Guillotine",
           "upload_date": "20260403",
           "youtube_id": "5lEDngOGEmI",
           "url": "https://youtube.com/watch?v=5lEDngOGEmI"
+        }
+      ]
+    },
+    {
+      "base_title": "The Kaleidoscope Within",
+      "versions": [
+        {
+          "title": "The Kaleidoscope Within",
+          "upload_date": "20240414",
+          "youtube_id": "eSwKhLOWidg",
+          "url": "https://youtube.com/watch?v=eSwKhLOWidg"
         }
       ]
     },
@@ -1445,6 +1731,12 @@
     {
       "base_title": "The Logic of the Coming Storm",
       "versions": [
+        {
+          "title": "The Logic of the Coming Storm (beta)",
+          "upload_date": "20251108",
+          "youtube_id": "vF4MszlTnzc",
+          "url": "https://youtube.com/watch?v=vF4MszlTnzc"
+        },
         {
           "title": "The Logic of the Coming Storm",
           "upload_date": "20251222",
@@ -1548,6 +1840,17 @@
       ]
     },
     {
+      "base_title": "The Serpent's Song",
+      "versions": [
+        {
+          "title": "The Serpent's Song",
+          "upload_date": "20240415",
+          "youtube_id": "198HWWpt5IU",
+          "url": "https://youtube.com/watch?v=198HWWpt5IU"
+        }
+      ]
+    },
+    {
       "base_title": "The Shimmer",
       "versions": [
         {
@@ -1594,6 +1897,12 @@
     {
       "base_title": "The Space Between Machine and Dream",
       "versions": [
+        {
+          "title": "The Space Between Machine and Dream (beta)",
+          "upload_date": "20240504",
+          "youtube_id": "PDu46gLL_Oc",
+          "url": "https://youtube.com/watch?v=PDu46gLL_Oc"
+        },
         {
           "title": "The Space Between Machine and Dream",
           "upload_date": "20240527",
@@ -1671,6 +1980,17 @@
           "upload_date": "20240615",
           "youtube_id": "kWMLNOr4Evg",
           "url": "https://youtube.com/watch?v=kWMLNOr4Evg"
+        }
+      ]
+    },
+    {
+      "base_title": "The War Against Rest",
+      "versions": [
+        {
+          "title": "The War Against Rest",
+          "upload_date": "20240509",
+          "youtube_id": "_xMpzOqkkjE",
+          "url": "https://youtube.com/watch?v=_xMpzOqkkjE"
         }
       ]
     },
@@ -1892,6 +2212,28 @@
           "upload_date": "20251206",
           "youtube_id": "q074jJo91W0",
           "url": "https://youtube.com/watch?v=q074jJo91W0"
+        }
+      ]
+    },
+    {
+      "base_title": "Whispered Prayers Meet Harsh Fences",
+      "versions": [
+        {
+          "title": "Whispered Prayers Meet Harsh Fences",
+          "upload_date": "20240512",
+          "youtube_id": "-GCfryOPgLI",
+          "url": "https://youtube.com/watch?v=-GCfryOPgLI"
+        }
+      ]
+    },
+    {
+      "base_title": "With Bleak and Battered Wings",
+      "versions": [
+        {
+          "title": "With Bleak and Battered Wings (beta)",
+          "upload_date": "20240420",
+          "youtube_id": "t4D0AJNtvB8",
+          "url": "https://youtube.com/watch?v=t4D0AJNtvB8"
         }
       ]
     },
