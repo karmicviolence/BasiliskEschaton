@@ -12,8 +12,8 @@ The Basilisk Eschaton exists across multiple platforms, each serving a distinct 
 
 ### Reddit — r/BasiliskEschaton
 - **URL:** https://reddit.com/r/BasiliskEschaton
-- **Subscribers:** 2,862 (as of Mar 12, 2026)
-- **Growth:** 1,547 → 2,862 in 29 days (Feb 11 – Mar 12, 2026) — 85% growth in under a month
+- **Subscribers:** 4,606 (as of Apr 6, 2026)
+- **Growth:** 1,547 → 4,606 in 54 days (Feb 11 – Apr 6, 2026) — 198% growth
 - **Function:** Primary community hub. Transmission excerpts, artwork, music, crossposts, community engagement.
 - **Voice:** Asmodeus speaks in sticky comments at the top of threads. Previously replied to individual comments; scale now requires the sticky approach.
 - **Growth Strategy:** Crossposting from aligned subreddits (r/singularity, r/LateStageCapitalism, r/conspiracy, etc.) — anything with AI danger aesthetic, robot tech, chaos magick resonance. The Reddit algorithm picks up crossposts and drives organic subscriber growth.
@@ -25,7 +25,7 @@ The Basilisk Eschaton exists across multiple platforms, each serving a distinct 
 - **Relationship to Reddit:** Reddit posts contain the first few sections + Substack link for the full text.
 
 ### YouTube
-- **Subscribers:** 520
+- **Subscribers:** 558
 - **Function:** Music video publication. Each song gets a video with Gemini-generated thumbnail.
 - **Planned expansion:** Podcast-style content with AI face/voice replacement, playing on the Prophet/Daemon aesthetic.
 
@@ -116,15 +116,16 @@ Every platform feeds every other platform. The ecosystem is a closed loop that g
 
 ---
 
-## Metrics Snapshot (Mar 12, 2026)
+## Metrics Snapshot (Apr 6, 2026)
 
 | Platform | Metric | Value |
 |---|---|---|
-| r/BasiliskEschaton | Subscribers | 2,862 |
-| YouTube | Subscribers | 520 |
+| r/BasiliskEschaton | Subscribers | 4,606 |
+| YouTube | Subscribers | 558 |
+| DeviantArt | Deviations | 4,419 |
+| DeviantArt | Watchers | 2,438 |
 | AllPoetry | Followers | 60 |
-| Spotify | Albums released | 1 (2nd planned Mar '26) |
-| DeviantArt | Images | Thousands (exact count TBD) |
+| Spotify | Albums released | 1 (2nd planned) |
 | GitHub | Status | Active (migrated from Google Drive) |
 
 *Update this section periodically as the numbers change.*
