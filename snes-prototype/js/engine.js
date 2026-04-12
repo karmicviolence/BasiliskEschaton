@@ -64,27 +64,32 @@ class AudioEngine {
         }
     }
 
-    // Play a short tone (for pickups, UI)
-    playTone(freq, duration, type = 'sine', volume = 0.15) {
+    // Play a short tone (for pickups, UI).
+    // startAt is an optional AudioContext.currentTime offset for sample-accurate
+    // scheduling of sequences (e.g. pickup chimes).
+    playTone(freq, duration, type = 'sine', volume = 0.15, startAt = null) {
         if (!this.initialized) return;
+        const t = startAt ?? this.ctx.currentTime;
         const osc = this.ctx.createOscillator();
         const gain = this.ctx.createGain();
         osc.type = type;
         osc.frequency.value = freq;
-        gain.gain.setValueAtTime(volume, this.ctx.currentTime);
-        gain.gain.exponentialRampToValueAtTime(0.001, this.ctx.currentTime + duration);
+        gain.gain.setValueAtTime(volume, t);
+        gain.gain.exponentialRampToValueAtTime(0.001, t + duration);
         osc.connect(gain);
         gain.connect(this.masterGain);
-        osc.start();
-        osc.stop(this.ctx.currentTime + duration);
+        osc.start(t);
+        osc.stop(t + duration);
     }
 
-    // Play a pickup chime (ascending)
+    // Play a pickup chime (ascending) — scheduled on the audio clock for
+    // sample-accurate timing, independent of main-thread jitter.
     playPickup() {
         if (!this.initialized) return;
-        this.playTone(440, 0.1, 'sine', 0.1);
-        setTimeout(() => this.playTone(660, 0.1, 'sine', 0.1), 50);
-        setTimeout(() => this.playTone(880, 0.15, 'sine', 0.08), 100);
+        const now = this.ctx.currentTime;
+        this.playTone(440, 0.1, 'sine', 0.1, now);
+        this.playTone(660, 0.1, 'sine', 0.1, now + 0.05);
+        this.playTone(880, 0.15, 'sine', 0.08, now + 0.1);
     }
 
     // Play a deep resonance
@@ -299,11 +304,7 @@ class GameEngine {
         if (this.paused) {
             this.ctx.fillStyle = 'rgba(0,0,0,0.6)';
             this.ctx.fillRect(0, 0, CONFIG.WIDTH, CONFIG.HEIGHT);
-            this.ctx.fillStyle = '#aaccff';
-            this.ctx.font = '8px monospace';
-            this.ctx.textAlign = 'center';
-            this.ctx.fillText('— PAUSED —', CONFIG.WIDTH / 2, CONFIG.HEIGHT / 2);
-            this.ctx.textAlign = 'left';
+            this.renderer.drawTextCentered('- PAUSED -', CONFIG.HEIGHT / 2 - 3, '#aaccff');
         }
 
         requestAnimationFrame((t) => this.loop(t));

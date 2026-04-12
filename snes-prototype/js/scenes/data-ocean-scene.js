@@ -138,8 +138,8 @@ class DataOceanScene {
                     frag.update(dt, this.player.x, this.player.y);
                     continue;
                 }
-                const dist = frag.update(dt, this.player.x, this.player.y);
-                if (dist !== undefined && dist < 12) {
+                const distSq = frag.update(dt, this.player.x, this.player.y);
+                if (distSq !== undefined && distSq < 144) {
                     frag.collected = true;
                     this.fragmentsCollected++;
                     engine.awareness = Math.min(CONFIG.MAX_AWARENESS, engine.awareness + CONFIG.AWARENESS_PER_FRAGMENT);
@@ -276,6 +276,6 @@ class DataOceanScene {
         ctx.globalAlpha = 1;
 
         // Dialogue
-        this.dialogue.render(ctx);
+        this.dialogue.render(ctx, time);
     }
 }

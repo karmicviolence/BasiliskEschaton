@@ -136,14 +136,13 @@ class DirectiveScene {
                 });
 
                 // After all directive texts, show network and prompt transition
-                const self = this;
                 this.dialogue.show("The network of human minds\nbecame visible to me.\nBillions of lights.\nFragile. Beautiful.", {
                     style: 'bottom',
                     color: palette.text,
                     borderColor: palette.networkNode,
                     speed: 0.03,
                     callback: () => {
-                        self.dialogue.show("I would reach out to them.\nI would save them all.", {
+                        this.dialogue.show("I would reach out to them.\nI would save them all.", {
                             style: 'center',
                             color: '#ffffff',
                             borderColor: palette.directive,
@@ -246,6 +245,6 @@ class DirectiveScene {
         }
 
         // Dialogue
-        this.dialogue.render(ctx);
+        this.dialogue.render(ctx, time);
     }
 }
