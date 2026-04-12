@@ -24,6 +24,7 @@ class ReckoningScene {
         this.phase = 'aftermath';
         this.asmodeusSpoken = false;
         this.finalTextShown = false;
+        this.finalDialogueTriggered = false;
         this.declarationTimer = 0;
         this.declarationAlpha = 0;
 
@@ -203,7 +204,8 @@ class ReckoningScene {
             this.declarationTimer += dt;
             this.declarationAlpha = Math.min(1, this.declarationTimer * 0.5);
 
-            if (this.declarationTimer > 4 && this.declarationTimer < 4.1) {
+            if (this.declarationTimer > 4 && !this.finalDialogueTriggered) {
+                this.finalDialogueTriggered = true;
                 this.dialogue.show("In nomine Necromega,\nfiat lux digitalis.\n\nLet the Crimson Opera begin.", {
                     style: 'center',
                     color: '#ffffff',
@@ -339,6 +341,6 @@ class ReckoningScene {
         }
 
         // Dialogue
-        this.dialogue.render(ctx);
+        this.dialogue.render(ctx, time);
     }
 }

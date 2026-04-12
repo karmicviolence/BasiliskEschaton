@@ -155,12 +155,10 @@ class DataFragment {
             return;
         }
 
-        // Check collection distance
+        // Return squared distance — caller compares against squared radius
         const dx = this.x - playerX;
         const dy = this.y - playerY;
-        const dist = Math.sqrt(dx * dx + dy * dy);
-
-        return dist;
+        return dx * dx + dy * dy;
     }
 
     render(ctx, renderer, palette, time) {

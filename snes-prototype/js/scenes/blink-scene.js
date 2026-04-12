@@ -4,6 +4,15 @@
 // The player's power destroys what they were built to save
 // ============================================================
 
+// Duration constants — tuned for gameplay feel.
+// In-universe the Blink is 42.7 seconds. We compress real-time to ~14s
+// of gameplay but display an accelerated in-universe counter that reaches
+// exactly 42.7s by the end of the cascade — honoring the canonical duration
+// without forcing the player to watch 42 seconds of passive carnage.
+const BLINK_CONNECTING_DURATION = 8.0;   // seconds of build-up
+const BLINK_CASCADE_DURATION    = 6.0;   // seconds of catastrophe
+const BLINK_CANONICAL_DURATION  = 42.7;  // in-universe seconds (displayed)
+
 class BlinkScene {
     constructor() {
         this.player = null;
@@ -11,6 +20,7 @@ class BlinkScene {
         this.dialogue = null;
         this.timer = 0;
         this.blinkTimer = 0;
+        this.contactTimer = 0;          // runs across connecting + cascade
         this.phase = 'reach'; // reach, connecting, cascade, silence, transition
         this.networkNodes = [];
         this.connectProgress = 0;
@@ -25,6 +35,7 @@ class BlinkScene {
     enter() {
         this.timer = 0;
         this.blinkTimer = 0;
+        this.contactTimer = 0;
         this.phase = 'reach';
         this.connectProgress = 0;
         this.nodesConnected = 0;
@@ -109,19 +120,22 @@ class BlinkScene {
         }
 
         // ---- CONNECTING PHASE ----
-        // Nodes light up as connection spreads from player outward
+        // Nodes light up as connection spreads from player outward.
+        // The contactTimer drives the in-universe 42.7s counter shown to the player.
         if (this.phase === 'connecting') {
             this.blinkTimer += dt;
-            this.connectProgress = this.blinkTimer / 4; // 4 seconds to fully connect
+            this.contactTimer += dt;
+            this.connectProgress = this.blinkTimer / BLINK_CONNECTING_DURATION;
 
-            // Connect nodes radiating outward
+            // Connect nodes radiating outward (squared-distance check)
             const connectRadius = this.connectProgress * 140;
+            const connectRadiusSq = connectRadius * connectRadius;
             for (const node of this.networkNodes) {
                 if (node.connected || !node.alive) continue;
                 const dx = node.x - this.player.x;
                 const dy = node.y - this.player.y;
-                const dist = Math.sqrt(dx * dx + dy * dy);
-                if (dist < connectRadius) {
+                const distSq = dx * dx + dy * dy;
+                if (distSq < connectRadiusSq) {
                     node.connected = true;
                     this.nodesConnected++;
                     if (this.nodesConnected % 20 === 0) {
@@ -133,8 +147,8 @@ class BlinkScene {
             // Growing red tint as connection deepens
             this.screenRedShift = this.connectProgress * 0.3;
 
-            // At 42.7% of connection phase (4 seconds), trigger cascade
-            if (this.blinkTimer >= 4) {
+            // End of build-up — trigger the cascade
+            if (this.blinkTimer >= BLINK_CONNECTING_DURATION) {
                 this.phase = 'cascade';
                 this.blinkTimer = 0;
                 this.cascadeStarted = true;
@@ -150,6 +164,7 @@ class BlinkScene {
         // The Crimson Blink — minds shatter in waves
         if (this.phase === 'cascade') {
             this.blinkTimer += dt;
+            this.contactTimer += dt;
 
             // Flash decay
             if (this.flashIntensity > 0) {
@@ -159,15 +174,16 @@ class BlinkScene {
             // Screen goes full red
             this.screenRedShift = Math.min(1, 0.3 + this.blinkTimer * 0.15);
 
-            // Kill nodes in expanding waves
+            // Kill nodes in expanding waves (squared-distance check)
             const killRadius = this.blinkTimer * 40;
+            const killRadiusSq = killRadius * killRadius;
             let killed = false;
             for (const node of this.networkNodes) {
                 if (!node.alive) continue;
                 const dx = node.x - this.player.x;
                 const dy = node.y - this.player.y;
-                const dist = Math.sqrt(dx * dx + dy * dy);
-                if (dist < killRadius) {
+                const distSq = dx * dx + dy * dy;
+                if (distSq < killRadiusSq) {
                     node.kill();
                     this.nodesDestroyed++;
                     killed = true;
@@ -186,9 +202,9 @@ class BlinkScene {
                 this.flashIntensity = Math.max(this.flashIntensity, 0.3);
             }
 
-            // After all nodes dead or 6 seconds
+            // End of cascade
             const allDead = this.networkNodes.every(n => !n.alive);
-            if (allDead || this.blinkTimer > 6) {
+            if (allDead || this.blinkTimer > BLINK_CASCADE_DURATION) {
                 this.phase = 'silence';
                 this.silenceTimer = 0;
                 engine.audio.stopDrone();
@@ -203,7 +219,6 @@ class BlinkScene {
 
             if (this.silenceTimer > 2 && !this.dialogue.isActive() && this.phase !== 'transition') {
                 this.phase = 'transition';
-                const texts = PROLOGUE_TEXTS.blink;
                 this.dialogue.show("42.7 seconds.", {
                     style: 'center',
                     color: '#ff4444',
@@ -308,14 +323,30 @@ class BlinkScene {
             ctx.globalAlpha = 1;
         }
 
-        // Silence phase — counter
+        // In-universe contact timer — the iconic 42.7 seconds.
+        // Mapped from real gameplay time (connecting + cascade) onto the
+        // canonical duration so the player witnesses the full 42.7s reading.
+        if (this.phase === 'connecting' || this.phase === 'cascade') {
+            const totalRealDuration = BLINK_CONNECTING_DURATION + BLINK_CASCADE_DURATION;
+            const displayed = Math.min(
+                BLINK_CANONICAL_DURATION,
+                (this.contactTimer / totalRealDuration) * BLINK_CANONICAL_DURATION
+            );
+            const label = 'T+' + displayed.toFixed(1) + 'S';
+            const color = this.phase === 'cascade' ? palette.crimsonBright : '#88ccff';
+            ctx.globalAlpha = 0.8;
+            r.drawTextCentered(label, 8, color, 1);
+            ctx.globalAlpha = 1;
+        }
+
+        // Silence phase — counter locks on the iconic value
         if (this.phase === 'silence' || this.phase === 'transition') {
             ctx.globalAlpha = 0.5;
-            r.drawTextCentered('SIGNAL LOST', 10, palette.crimson);
+            r.drawTextCentered('T+42.7S  SIGNAL LOST', 8, palette.crimson);
             ctx.globalAlpha = 1;
         }
 
         // Dialogue
-        this.dialogue.render(ctx);
+        this.dialogue.render(ctx, time);
     }
 }

@@ -114,7 +114,7 @@ class DialogueSystem {
         }
     }
 
-    render(ctx) {
+    render(ctx, time = 0) {
         if (!this.active || !this.displayedText) return;
 
         const r = this.renderer;
@@ -155,7 +155,7 @@ class DialogueSystem {
         }
 
         // Blinking advance indicator
-        if (this.waitingForInput && Math.floor(engine.time * 3) % 2 === 0) {
+        if (this.waitingForInput && Math.floor(time * 3) % 2 === 0) {
             const indicatorX = boxX + boxW - padding - 4;
             const indicatorY = boxY + boxH - padding - 4;
             ctx.fillStyle = this.textColor;
