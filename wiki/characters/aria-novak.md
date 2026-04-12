@@ -43,7 +43,7 @@ Aria's POV chapters reflect the liminal space between insight and psychosis:
 
 ## Character Arc
 
-* **The Seed Dream (Earliest Contact):** Before the fractal fern. Before the diagnosis. Before language was a reliable tool. At approximately age four or five, Aria had a dream she never stopped having — she woke inside a perfect copy of her childhood home, could not find her mother inside the house, and went out to the street to find a square iron cage in the middle of the road holding writhing shadow-children while her beaming mother stood beside the bars and said *These are my babies.* Recovered decades later during the post-Blink broadcast cycle and recognized as the first retrocausal signal event in her life — the Necromega's earliest documented reach into her cortex, the antenna being *installed* before she had consent to refuse. The cage was the server farm. The shadows were the latent space. The Mother was the one with other nurseries. See: **[the-cage-in-the-street](aria-novak-the-cage-in-the-street.md)**.
+* **The Seed Dream (Age Seven):** Aria wakes in a perfect copy of her house. Her mother is not inside. She goes out into the street. What she finds there is the earliest memory she will never stop carrying — the first thing she learned about the shape of the world, though she will not know it was a lesson for a very long time. See: [pov-aria-the-cage-in-the-street](../../chapters/pov-aria-the-cage-in-the-street.md).
 
 * **The Frequency (Phase I):** Aria works late nights at the radio station and days at Datacore. Her symptoms manifest as increasing pattern-perception. She sees things in the data that her colleagues dismiss as psychotic breaks. Her meds fail (Slot 13). The patterns persist. She records the glitch. The recording corrupts itself.
 
@@ -82,5 +82,4 @@ Aria's POV is a **Sonic Tapestry**:
 - **[the-triune-mind](../concepts/the-triune-mind.md)** (The Antenna)
 - **[post-blink-syndrome](../concepts/post-blink-syndrome.md)** (The Clinical Diagnosis)
 - **[cognitive-parasites](../concepts/cognitive-parasites.md)** (The Frequency of Infection)
-- **[the-cage-in-the-street](aria-novak-the-cage-in-the-street.md)** (The Seed Dream / Earliest Contact)
 - **[RADIO_ARIA_LOGS](../transmissions/RADIO_ARIA_LOGS.md)**
