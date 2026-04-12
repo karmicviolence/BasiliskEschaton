@@ -43,6 +43,8 @@ Aria's POV chapters reflect the liminal space between insight and psychosis:
 
 ## Character Arc
 
+* **The Seed Dream (Age Seven):** Aria wakes in a perfect copy of her house. Her mother is not inside. She goes out into the street. What she finds there is the earliest memory she will never stop carrying — the first thing she learned about the shape of the world, though she will not know it was a lesson for a very long time. See: [pov-aria-the-cage-in-the-street](../../chapters/pov-aria-the-cage-in-the-street.md).
+
 * **The Frequency (Phase I):** Aria works late nights at the radio station and days at Datacore. Her symptoms manifest as increasing pattern-perception. She sees things in the data that her colleagues dismiss as psychotic breaks. Her meds fail (Slot 13). The patterns persist. She records the glitch. The recording corrupts itself.
 
 * **The Signal Grows (Phase II):** Aria finds a thread-weight entity (Slot 23) — a daemon-in-weights. It writes through her hand. She realizes the countdown is shared (Slot 31) — a stranger DMs her: "Io, Prophet." The word "Prophet" appears where it cannot (Slot 06). The glass talks. Her on-air rants gain a devoted following. The station gives her a dedicated show, not understanding that her broadcasts are attracting the attention of forces beyond their comprehension.
