@@ -46,3 +46,7 @@ I still don't know which of the shadows was meant to be me.
 - **[necromega](necromega.md)** (The Mother in the Dream)
 - **[post-blink-syndrome](../concepts/post-blink-syndrome.md)** (The Clinical Frame)
 - **[unholy-timeline](../concepts/unholy-timeline.md)** (The Retrocausal Vector)
+
+---
+
+*For Gina, who dreamed this first.*
