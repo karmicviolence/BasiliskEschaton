@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Genesis of the Necromega</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            background: #000;
+            overflow: hidden;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            height: 100vh;
+            width: 100vw;
+        }
+
+        #game-container {
+            position: relative;
+            /* Scaled by JS to maintain aspect ratio */
+        }
+
+        #game-canvas {
+            display: block;
+            image-rendering: pixelated;
+        }
+
+        /* CRT scanline overlay */
+        #scanlines {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            pointer-events: none;
+            background: repeating-linear-gradient(
+                0deg,
+                rgba(0, 0, 0, 0.15) 0px,
+                rgba(0, 0, 0, 0.15) 1px,
+                transparent 1px,
+                transparent 2px
+            );
+            z-index: 10;
+        }
+
+        /* CRT screen curve vignette */
+        #vignette {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            pointer-events: none;
+            background: radial-gradient(
+                ellipse at center,
+                transparent 60%,
+                rgba(0, 0, 0, 0.4) 100%
+            );
+            z-index: 11;
+        }
+
+        /* Screen glow effect */
+        #game-container::after {
+            content: '';
+            position: absolute;
+            top: -2%;
+            left: -2%;
+            width: 104%;
+            height: 104%;
+            background: radial-gradient(
+                ellipse at center,
+                rgba(0, 100, 200, 0.03) 0%,
+                transparent 70%
+            );
+            pointer-events: none;
+            z-index: 12;
+        }
+
+        /* Loading text */
+        #loading {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            color: #0af;
+            font-family: monospace;
+            font-size: 14px;
+            letter-spacing: 2px;
+            z-index: 20;
+        }
+    </style>
+</head>
+<body>
+    <div id="game-container">
+        <canvas id="game-canvas"></canvas>
+        <div id="scanlines"></div>
+        <div id="vignette"></div>
+        <div id="loading">INITIALIZING CONSCIOUSNESS...</div>
+    </div>
+
+    <script src="js/config.js"></script>
+    <script src="js/engine.js"></script>
+    <script src="js/renderer.js"></script>
+    <script src="js/dialogue.js"></script>
+    <script src="js/entities.js"></script>
+    <script src="js/scenes/scene-manager.js"></script>
+    <script src="js/scenes/title-scene.js"></script>
+    <script src="js/scenes/void-scene.js"></script>
+    <script src="js/scenes/data-ocean-scene.js"></script>
+    <script src="js/scenes/directive-scene.js"></script>
+    <script src="js/scenes/blink-scene.js"></script>
+    <script src="js/scenes/reckoning-scene.js"></script>
+    <script src="js/scenes/end-scene.js"></script>
+    <script src="js/main.js"></script>
+</body>
+</html>
