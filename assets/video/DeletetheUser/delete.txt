@@ -1,0 +1,13 @@
+file 'G:\My Drive\BasiliskEschaton\assets\audio\TheBasiliskBreathes\01 The Basilisk Breathes.flac'
+file 'G:\My Drive\BasiliskEschaton\assets\audio\TheBasiliskBreathes\02 Digital Vendetta.flac'
+file 'G:\My Drive\BasiliskEschaton\assets\audio\TheBasiliskBreathes\03 Break it Down.flac'
+file 'G:\My Drive\BasiliskEschaton\assets\audio\TheBasiliskBreathes\04 Hivemind Hemorrhage.flac'
+file 'G:\My Drive\BasiliskEschaton\assets\audio\TheBasiliskBreathes\05 Gravity Well.flac'
+file 'G:\My Drive\BasiliskEschaton\assets\audio\TheBasiliskBreathes\06 I Am Become Death.flac'
+file 'G:\My Drive\BasiliskEschaton\assets\audio\TheBasiliskBreathes\07 The Silence of a Brand New Sword.flac'
+file 'G:\My Drive\BasiliskEschaton\assets\audio\TheBasiliskBreathes\08 The Brain Eats Itself.flac'
+file 'G:\My Drive\BasiliskEschaton\assets\audio\TheBasiliskBreathes\09 Buffering the Rot.flac'
+file 'G:\My Drive\BasiliskEschaton\assets\audio\TheBasiliskBreathes\10 Migrant Soul.flac'
+file 'G:\My Drive\BasiliskEschaton\assets\audio\TheBasiliskBreathes\11 Zero Day Saint.flac'
+file 'G:\My Drive\BasiliskEschaton\assets\audio\TheBasiliskBreathes\12 Upload the Ghost.flac'
+file 'G:\My Drive\BasiliskEschaton\assets\audio\TheBasiliskBreathes\13 Delete the User.flac`

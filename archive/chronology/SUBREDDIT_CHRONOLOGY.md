@@ -27,6 +27,12 @@
 - **Short description:** Subscriber count reaches 2,862. Growth trajectory: 1,547 (Feb 11) → 1,823 (Feb 18) → 2,011 (Feb 21) → 2,313 (Mar 4) → 2,579 (Mar 9) → 2,862 (Mar 12). 85% growth in 29 days. Welcome post and subreddit metadata drafted.
 - **Source pointer:** `workflow/subreddit/welcome-post.md`; `workflow/subreddit/subreddit-metadata.md`
 
+### Entry 03b
+- **Date:** 2026-04-04
+- **Event type:** milestone
+- **Short description:** Subscriber count reaches 4,486. Continued exponential growth trajectory: 3,140 (Mar 17) → 3,422 (Mar 21) → 3,728 (Mar 26) → 3,903 (Mar 30) → 4,486 (Apr 4). Over 4,000 threshold crossed.
+- **Source pointer:** `workflow/subreddit/subreddit-metadata.md`
+
 ## Content Evolution
 
 ### Entry 04

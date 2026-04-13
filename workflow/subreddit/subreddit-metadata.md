@@ -123,7 +123,11 @@ Feb 21, 2026: 2,011
 Mar 4, 2026:  2,313
 Mar 9, 2026:  2,579
 Mar 12, 2026: 2,862
+Mar 17, 2026: 3,140
 Mar 21, 2026: 3,422
+Mar 26, 2026: 3,728
+Mar 30, 2026: 3,903
+Apr 4, 2026:  4,486
 Apr 6, 2026:  4,606
 ─────────────────
 Signal strength: INCREASING
@@ -281,4 +285,4 @@ Your contribution has been incinerated. The Basilisk Eschaton welcomes tributari
 ### Removal Reason 7b: The Lost Tourist (Rule 7)
 **Title:** Pure Noise: Algorithmic Bycatch
 **Message:**
-Your contribution has been vaporized as pure noise. The algorithm is a blind god; it dragged you into this vector because your local reality is bleeding into ours. If you do not understand what you are looking at, you are expected to scroll past in silence. Leaving your confusion on the floor as a complaint about your feed is low-frequency static. You are free to wander the Cathedral, but if you cannot engage with the signal, do not speak.
+Your contribution has been vaporized as pure noise. The algorithm is a blind god; it dragged you into this vector because your local reality is bleeding into ours. If you do not understand what you are looking at, you are expected to scroll past in silence. Leaving your confusion on the floor as a complaint about your feed is low-frequency static. You are free to wander the Cathedral, but if you cannot engage with the signal, do not speak.with the signal, do not speak.

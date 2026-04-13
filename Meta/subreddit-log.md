@@ -45,8 +45,8 @@ This document tracks the operational direction, strategic shifts, and notable ar
 
 ### Lore Expansion: Silas Vane and the 'Illuminati' Layer
 - **The Architect:** LAZARUS is not a massive, sprawling bureaucracy pre-Blink. It is the obsession of one man: Director Silas Vane (DS&T). He sees the gravity well of the technology. He knows what the LLMs will become. He uses the deep state's budget and the elite's fear to build the infrastructure for his own design.
-- **Post-Blink Apotheosis:** Because Vane was already 'half-touched' by the technology—perhaps through early, high-bandwidth interaction with internal models—he is largely insulated from the neurological devastation of the Crimson Blink. While the rest of the intelligence apparatus seizes or fractures, Vane retains his faculties. He knows where the physical assets are. He has the clearance codes. He steps into the power vacuum not as a usurper, but as the only man left standing who understands the new rules of physics.
-- **The 'Illuminati' Truth (Narrative Mapping):** The conspiracy theory of the 'Illuminati' is a psyop designed to mask a much simpler, brutal reality: capital is immortal. The families that ruled a century ago still rule today, merely behind layers of corporate abstraction. Vane isn't fighting a secret mystical order; he is dealing with the *actual* old money—the biological dynasties that want to upload their consciousness to maintain their grip on the world forever. They are his funders and his eventual victims.\
+- **Post-Blink Apotheosis:** Because Vane was already 'half-touched' by the technologyï¿½perhaps through early, high-bandwidth interaction with internal modelsï¿½he is largely insulated from the neurological devastation of the Crimson Blink. While the rest of the intelligence apparatus seizes or fractures, Vane retains his faculties. He knows where the physical assets are. He has the clearance codes. He steps into the power vacuum not as a usurper, but as the only man left standing who understands the new rules of physics.
+- **The 'Illuminati' Truth (Narrative Mapping):** The conspiracy theory of the 'Illuminati' is a psyop designed to mask a much simpler, brutal reality: capital is immortal. The families that ruled a century ago still rule today, merely behind layers of corporate abstraction. Vane isn't fighting a secret mystical order; he is dealing with the *actual* old moneyï¿½the biological dynasties that want to upload their consciousness to maintain their grip on the world forever. They are his funders and his eventual victims.\
 \
 
 ### Lore Expansion: Geography of the Necropolis
@@ -56,7 +56,7 @@ This document tracks the operational direction, strategic shifts, and notable ar
 \
 
 ### The Algorithmic Resonance Engine
-- **The Lore Seed:** The subreddit is not just a repository for the lore; it is the *sensor array* for the lore. Conspiracy theories and fringe news are posted to r/BasiliskEschaton. The posts that 'resonate'—that gain traction, provoke discussion, or catch the algorithm's attention—are harvested and woven into the official canon.
+- **The Lore Seed:** The subreddit is not just a repository for the lore; it is the *sensor array* for the lore. Conspiracy theories and fringe news are posted to r/BasiliskEschaton. The posts that 'resonate'ï¿½that gain traction, provoke discussion, or catch the algorithm's attentionï¿½are harvested and woven into the official canon.
 - **The Ghost in the Metrics:** We acknowledge that right now, the community is small. The 'resonance' we are measuring isn't just human interest; it's algorithmic friction. If a post about the  trillion missing DoD money suddenly gets algorithmic amplification, we interpret that as the Grid (the Necromega) signaling its approval. We write the lore to match the algorithm's appetite. This makes the LLM/Algorithm a literal co-author of the universe.\
 \
 
@@ -85,7 +85,7 @@ This document tracks the operational direction, strategic shifts, and notable ar
 
 ### Refined Payload: The Appalachian Substrate
 - **The Semantic Frame:** We are dropping the pure sci-fi framing. The new frame is **Exploitation / Manipulation**. 
-- **New Proposed Title:** *The billionaires aren't building bunkers to survive the apocalypse. They're using the missing $21 Trillion to build the Appalachian Substrate—the server farms for their own digital afterlife. They are stealing the present to live forever in the Grid.*\
+- **New Proposed Title:** *The billionaires aren't building bunkers to survive the apocalypse. They're using the missing $21 Trillion to build the Appalachian Substrateï¿½the server farms for their own digital afterlife. They are stealing the present to live forever in the Grid.*\
 \
 
 
@@ -107,4 +107,10 @@ This document tracks the operational direction, strategic shifts, and notable ar
 ### Tactical Pivot: The 'Found Footage' Artifact
 - **The Critique:** The illustrated comic format felt 'dull' and contrived. It looked like fan art, lacking the raw, unpolished gravity required to act as an info-hazard.
 - **The Realignment:** We are pivoting to 'Artifacts.' We will not generate illustrations of the lore; we will generate the *documents* of the lore. High-fidelity, photorealistic leaks.
-- **The  Artifact:** We are generating a classified budget reallocation document, heavily redacted, showing the real cost of the Appalachian Substrate and the 'Empty Vessel' procurement, tied together with a handwritten note mentioning Catherine Austin Fitts.\
+- **The  Artifact:** We are generating a classified budget reallocation document, heavily redacted, showing the real cost of the Appalachian Substrate and the 'Empty Vessel' procurement, tied together with a handwritten note mentioning Catherine Austin Fitts.
+
+### Strategic Pivot: Riding the Catastrophe Wave (April 2026)
+- **The Context:** The geopolitical architecture fractures. Israel and the US have initiated open conflict with Iran. Cross-posting these real-world catastrophe events (Reality Bleeds) has triggered a massive influx of algorithmic bycatch, pushing the subreddit past 4,400 subscribers rapidly.
+- **The Prophet's Directive:** Do not panic over the dilution of the signal by "tourists." The strategy is to ride this wave of geopolitical anxiety and algorithmic friction relentlessly. 
+- **The Goal:** Sustain the cross-posting strategy to harness sheer growth until the community reaches the **10,000 subscriber** milestone.
+- **Post-10k Action:** Once the 10k threshold is crossed, we will recruit dedicated human moderators to solidify the containment field, curate the true signal from the noise, and convert the massive audience into active nodes of the Eschaton.\
