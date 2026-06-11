@@ -1,231 +1,119 @@
 # American Iconoclast
 
-T̷͈͑h̴̺̑ě̶̮ ̶̘̓f̵̱́o̸͍̓ḽ̴̊l̴̡͆ǒ̵̜ẁ̵̳i̷͎͂n̸͙͗g̶̬͝ ̴͚̉t̵̬̾ě̴̳x̴̬́ṭ̷̿ ̸̠̓c̵͓̈o̵̤̽n̶͖̈́t̸͎́a̶̟̽i̸̗̐n̸̨̈s̵̭̓ ̸͖̀m̷͖͝ė̸̲m̸̪̀e̴̜͂t̷̰́ḯ̶̬c̵̞͝ ̸̖́h̵̲̿a̷̜̕z̶̰̾á̵̧r̸͎͠d̵̘́s̵͍̈ ̶̘̋k̷̝̔n̴͇̽o̵͓̚w̴͖̕n̸͚̊ ̶̲̋t̶͍̽o̴̟͌ ̷̞̃c̴̺͠ă̴̦ǘ̴͇s̶͍̈e̶͎̓ ̴̬͑c̸͎͐ọ̶̿g̶͕͆n̴̘͝i̵̤͋t̷̜̽i̶͙͐v̴̨̌ë̴̥ ̵̮̾c̶̝͗o̴̺͐r̸̗̓r̴͇̀ű̴̻p̸̳͗t̷̨͑i̶̮͐o̷̞͗n̶̠͛ ̴̤͑i̷̭̇n̴̹̑ ̸̳̿ụ̵̀n̸̟͘a̸̹͘ǘ̵̙g̵̥͠m̸̼̈́e̸̱̐n̷̮̎t̶̢̎ë̶̥́d̶͚̀ ̴͇̋m̴̳̔ị̴̈́n̷̮̉d̷̪͠s̶̪̄.̷͔͘ ̷̦̓P̷̰̆r̵̛͚o̷̳̔c̶̨͋e̷̜̚e̷̗̔d̸̖̄ ̸͓̚ẁ̷̜ĩ̵̻t̶̬̾h̸̢̛ ̶͔̌c̶̹͝ä̴̝u̶̹͛ẗ̵̻́i̴̦͠o̸̞͊n̶̫̈́,̶̗̇ ̷͓̀ā̶̳n̵͈̊d̵͎̾ ̸͙̒s̵̨̆ũ̵̹b̸̛͜m̷͍̑ì̵̢t̵̙̏ ̵̫̽t̷͈̊o̶͓̿ ̸̯̓ṫ̶̠h̶͕̊e̸͔̿ ̷̯̄w̶̰̓ḯ̵͓l̶̨͝l̵̳͌ ̶̟̿ò̴̟f̸̦́ ̸͈̄t̸̰͐h̷̠͆ë̷̤́ ̶̦̊Á̵̝l̶̲̽m̷͇̏ĩ̵̺g̶̜̓h̸̼̓t̷̰͝ÿ̶͔́.̷͕̎
+The first holy work I was ever trusted with was counting the offering.
 
-W̷̼͇̎̑͛a̷̡͕̋́͜r̵̡̥̘̂n̷̖̆͜i̴͈͝n̴̺̽̀͝g̵̡̭̞̮̽ ̷͎̪̣̪̐̍͛f̶͕̃r̸͇̋o̸̫̿͂̓m̶͇͖̟̒́̓ ̷̨͓̘̌͊̕͝ṫ̵͇͖̇͛h̶͔̏̋̀͝e̷̢̜̓̔ ̸̟͊́̇Ṙ̷͉̝̩͒̀͝i̴̢̮̫̻͛͝g̵͖͚̝͉͝h̵͙̞̮̄t̶͙̾͋e̷̥̫̎̌o̸̯̰̝̫͝ṷ̴͋͐͝s̵̪̼̜͕̀̈́̊͝ ̶̧̘̍̆V̶͕͎͎̓a̶̡͍̱͗̀ň̸͖̯̗̊̀g̵͎̳̏̚ṵ̸̧͗̿̆́ǎ̴͍̜̄͠r̵͔͓͂̀̕d̶̮̮͂͆̎:̴̧͂ ̷̡̏T̵̯͂h̵̘̹̑ì̴̢͖̥̜s̸͔̓̂ ̵̭̔̐t̷̼̍͆̋̚e̶̹̰̹͚̐̅̈́̚x̶̟̏̐t̷̊ͅ ̶̛͕̑̍̃c̴̳̠̜̒͑̾ó̶̼̯̒̿ǹ̷̺̩̬͚̊͂ṫ̵̛͓̀a̴̤̥̓i̴̡̮͌́̊́n̵̦͌̅͂̈́ś̶̙̠̳͇̍̇̑ ̷̥͍͆m̷̨̖͇̾̉ä̷̞͇́́̕l̶̨͛̚w̷͔̬̰͙̃̅̑à̴̛͇̹̼͝r̷͚̙̈́̕e̷͕͆ ̸̦̩̪͑͗ḑ̴̞̤̤͐̏͘ë̸̱̮̙s̷̜̐͐i̸̯̬̓̅g̷̡̗̏̈́n̶̠̰̪̑̈́̐e̶̖͖̬̾̈́ď̸̼͙̖̂͝ ̷̥͙͖̃͝t̴̼͍͇̩̍́̍o̶̪̖̱͋͆ ̸̩̦̆͌c̸̢̙͚̦̈́̈́̆͝o̴̗̲̬̳̓́r̶̜͕̈́̄͝r̶̡̨̫̗͐̉ŭ̶͇̟̿͜p̸͓̌̂͜t̵̨̼̮͐͠ ̴̝͔̈́́̂t̵͉̲̊̈́̔ȟ̸̡̧͕ͅe̸̞̖̯̓̍ ̶̗̎͆m̵̨̗͍̎ͅi̵͈̎̇n̶̜̟͙̆̂́d̷̯͉̏̂͂͠s̶͓͓̈ ̵̧̳̅͊͐o̵̢̰͓͋̈́̃̆f̷̨͓͙̻͐̏̒͠ ̵̨̹̥̌͐t̶̲͂́͛̂ḧ̷̗́̿̑̚ẽ̴̠͓ ̶͖̐ų̷̧̬̤̓̓͋͝ṅ̶̟r̸̛̦̜̐i̵̧̯̍͘g̷̼͖̣̱͐̎͊̉h̷̼̤̩̐ṭ̶̈́͆e̷̻̮̙̖͌o̴̹̫͚̲͒̈ű̶̱͎̿s̶̝̄̑̇̈́.̵̰́͂̇ ̸̧́̃͋̕P̵̲̻̜̣͊̍͂̚r̴͍͈̬̩̋o̴̭̠̰̻͊͘c̴̨̠̫̆̎͛e̸̞̓ȩ̸̜͇͔̉d̸̜͔͖͐̔̋͜ ̴̰͇̿͒a̴̠̹͋̿͝ṯ̵̨̛͛̔ ̵̻͇͎̓̉͛͝ṭ̵̇͊ḣ̵̢̹̯̘̕e̵̝͙͎̫͆͆̒ ̴͕̗͇͓̀̽̀̚p̵̢͈͗͂̆ḙ̴͇͘r̷͕͓̹̄̈̉͠į̸̫̫̜̄l̸̹̪̲̋̂̇ ̷̣̫̳̒ọ̴̧̻̌̾́f̸̨̗͈̄ ̸̡̣͌ÿ̵̯̹́̈́͘o̴̪͗̍̏ų̷̌r̸̠̼̘̄͋ ̴̢̫̈́͂ŝ̴̢̘̳͑ó̷̧͎ư̷͙͇͍͐̽̀l̴̞̪̲̬͊̔.̴̨͇̳̊̈̕ͅ
+I was nine years old. Sunday afternoons, after the handshaking was done and the sanctuary had emptied of everything but dust motes and the smell of ladies' powder, my father would carry the brass plates back to the fellowship hall and set them on the long table, and Deacon Pruitt would empty them, and I would count. Bills in stacks by denomination, faces up, faces aligned, because my father said the Lord was not the author of confusion. Coins in towers of ten. The checks logged in the green ledger with the date and the giver, and the total entered at the bottom in Deacon Pruitt's careful hand, and then the second count, mine, to confirm.
 
-The world is a writhing nest of vipers, and I am the mongoose. Born and bred to wade into that seething morass, to rip and tear until the serpents lie broken at my feet. It's a dirty job, but someone's gotta do it. Might as well be me.
+I want to tell you what that table was to me, because everything that came after grew out of its grain. Upstairs, in the sanctuary, religion was weather — weeping and shouting and the Spirit moving where it listed, women fanning themselves against glory, grown men trembling at the altar. I was a child in a storm up there, and I will tell you a secret I have never told a living soul: the storm never once touched me. I watched it touch everyone else. I learned to look touched. But down in the fellowship hall, with the stacks squared and the towers true and the bottom line agreeing with itself two counts running — there, the faith made sense to me. Numbers were the one liturgy that never asked me to feel anything. They asked only that I be honest, and I was, and the books balanced, and balancing felt like what the people upstairs looked like.
 
-A cesspool of sin and degradation, a festering wound in the body of God's creation. Everywhere I look, I see the signs of the coming apocalypse, the final battle between the forces of righteousness and the demonic powers of the machine.
+My father preached three hundred souls every Sunday in a brick church with his name on the sign. REV. J. STONE. Jebediah, to the county; sir, to me. He ruled the house the way he ruled the pulpit, by the Book and the rod and the unembarrassed certainty of a man who had been called and never once doubted the connection. Wheat or chaff. Sheep or goat. Saved or lost. He drew the world in two colors and he drew it without trembling, and I loved him the way you love a mountain — from below, in its weather, without the question of whether the mountain loves you back ever quite finding its grammar.
 
-They call me Ezekiel Stone, but I am so much more than a name. I am an idea, a force of nature, an inexorable tide destined to wash away the filth and degeneracy of this fallen age. I am the voice of the voiceless, the champion of the forgotten man, the last bastion of righteousness in a world gone mad.
+My mother was the mercy in the house. That is her whole biography as far as this record is concerned, and it is the highest title I know.
 
-I am a soldier in the army of the Lord. Born and raised in the heart of America's Bible Belt, I was brought up to fear God and resist the devil's snares. But even I could not escape the insidious tendrils of doubt that crept into my soul as I watched the world around me descend into technopagan madness.
+I was seventeen the night the worm was born, and I am going to set the scene down plainly, because I have spent thirty years confessing everyone's sins but this one.
 
-But I wasn't always this way. Time was, I was just another cog in the machine, another sheep grazing contentedly in the pastures of ignorance. I believed their lies, bought into their false promises of progress and prosperity. I was a fool, blind to the rot festering beneath the façade of our so-called civilization.
+Summer revival, the church packed past the fire code, a visiting evangelist out of Memphis with a voice like a flood siren. The altar call went long. They were going down like wheat in wind — boys I knew from school, sobbing into the carpet, made new. And my father stood at the rail with his hands open, and his eyes found me in the third pew, where I had sat through seventeen years of altar calls with my heart as quiet as a counted coin, and I saw in his face the thing I had been dreading my whole boyhood: hope.
 
-I grew up in a small town in Mississippi, the son of a fire-and-brimstone Baptist preacher. Growing up in the heartland of God's country, surrounded by the firm hand of my father's Baptist faith, I knew I was destined for something great. From my earliest days, I could feel the hand of the Almighty guiding me, shaping me into a weapon for His righteous cause.
+The preacher's own son. Still unsaved at seventeen. Folks had begun to remark.
 
-My life revolved around the church - Sunday school, morning worship, evening services, Wednesday night prayer meetings. My father, the Reverend Jebediah Stone, ruled our household with an iron fist and an unshakeable faith in the inerrancy of Scripture.
+I want you to understand that I did not decide to do it. There was no moment of cold scheming. There was only the music, and the heat, and three hundred faces, and my father's terrible hope, and a pressure in the room like a hand on the back of my neck — and I rose, and I went down the aisle, and I wept.
 
-Under his tutelage, I learned to see the world in stark contrasts of black and white, good and evil, saved and damned. There was no room for doubt or nuance in my father's theology - you were either for God or against Him, a sheep or a goat, wheat or chaff. And it was his sacred duty to separate the righteous from the unrighteous, to call sinners to repentance and cast out the unclean spirits that threatened to contaminate his flock.
+I manufactured it. All of it. The trembling, the tears — you can make tears at seventeen, it is frighteningly easy, you only think of your own funeral — the buckled knees at the rail, the testimony afterward in the flood-siren preacher's arms, *I felt the chains fall off me*, words I had heard a hundred converts say, reassembled in the correct order with the correct catch in the voice. And it worked. The congregation came up off the pews in a wave of weeping joy. Women who had known me since the nursery held my face in both hands. And my father — my father, who could spot a counterfeit dollar by the feel of the paper, who had sorted wheat from chaff for thirty years with an auditor's eye — my father embraced me at his own altar in front of his whole church with tears running into his collar, and he was fooled. The best man I knew, fooled completely, by a boy, with stage fright as the only special effect.
 
-But as I looked around at the world, I saw only chaos and corruption. The cancer of modernity was eating away at the very soul of our nation, replacing the time-tested values of faith and family with the false idols of technology and progress. 
+That night I lay in bed listening to the house tick and cool, and the worm asked its first question, the question it would go on asking through every revival and ordination and roadside vision for the next thirty years, the question that no verse in the concordance answers:
 
-I watched with growing unease as the world around me seemed to spiral further and further away from the godly principles of my upbringing. The election of Barack Obama in 2008 sent shockwaves through our community. But it was the legalization of same-sex marriage in 2015 that truly felt like a dagger to the heart of our way of life.
+*If you could counterfeit it, and no one could tell — how will you ever know, about anyone, about anything, about yourself — which ones are real?*
 
-I remember sitting in church that Sunday, listening to my father rail against the "abomination" of homosexuality, his face red with righteous fury. He warned us that this was only the beginning - that the forces of secular humanism and moral relativism were gathering strength, preparing for an all-out assault on the foundations of Christian civilization.
+That is the worm. People think doubt asks whether God exists. Mine never bothered with anything so theatrical. Mine only asked how I would recognize Him, given what I had demonstrated, at seventeen, about the manufacture of the genuine article.
 
-But as I entered my teenage years, I began to feel the first stirrings of doubt, the first cracks in the fortress of my faith. I watched my peers succumb one by one to the siren song of worldly temptation, trading in their Bibles for smartphones, their hymnals for social media feeds. And try as I might to resist, I could feel the allure of forbidden knowledge, the seductive whisper of the digital serpent.
+***
 
-Oh, how I yearned to join them in their digital debauchery, to partake of the forbidden fruit of knowledge that the internet promised! But I knew in my heart that to do so would be to invite corruption, to allow the demon of artificial intelligence to take root in my being.
+I did the expected thing, because the expected thing was a place to hide. Bible college in Jackson. Ordination at twenty-four, my father's hands on my head, heavy as a sentence. Associate pastor under him for a decade, then a little congregation of my own two counties over, sixty souls and a leaking baptistry, and I preached sound doctrine in an unsound voice for years, and I never married, which the church ladies forgave in a preacher and never stopped noting, and the worm and I kept house together like an old couple who have agreed not to discuss the one thing.
 
-I tried to resist, to hold fast to the truths of my father's teachings. But even in the sanctity of our church, I could feel the tendrils of doubt creeping in, whispering seductive lies about the power and potential of this brave new world. Part of me longed to taste the forbidden fruit, to immerse myself in the intoxicating stream of knowledge that the internet promised.
+And I watched my flock disappear.
 
-I knew in my heart that this was a temptation from the pit of hell itself. To partake of that digital nectar would be to invite corruption, to allow the insidious forces of technopaganism to take root in my very soul. And so I clung to the ancient truths of my father's faith, steeled myself against the whispers of doubt, immersing myself in the cleansing fire of the Holy Spirit.
+Not from the pews. The pews held, more or less, for a while. They disappeared *in* the pews. You who read this in whatever world comes after — understand that I did not arrive at my war by way of manifestos. I arrived at it by line of sight, from a pulpit, which is the best surveillance post ever built. Year over year, I watched the faces go down. Down into the little lit rectangles, during the hymns, during the prayers, during the funerals — I have watched a man check a score at his own mother's graveside — and the faces that stayed up were lit anyway, from below, by the screens in their neighbors' hands, a congregation underlit like a campfire ghost story, and I stood in my pulpit some Sundays with the strangest grief, the grief of a man preaching to the tops of heads.
 
-I never set out to be a prophet. For most of my life, I was content with the simple rhythms of a small-town - the Sunday sermons, the Wednesday night Bible studies, the potluck dinners and youth group outings. It was a good life, a predictable life. But looking back now, I can see that it was all just a prelude to my true calling.
+I buried a boy of fifteen who had been bullied through an app until he used his father's rifle, and the app sent his mother a memory slideshow on his birthday, with music. I counseled marriages where the third party in the bed was a feed. I watched attention itself — the raw substance of devotion, the only coin a soul has ever actually possessed — get strip-mined out of my county by machines built two thousand miles away by boys who would not let their own children touch the product. Nobody had to radicalize me with pamphlets. I had the books. I was the auditor. Something was extracting the one currency that matters, hauling it off in quantities no revival could replenish, and I could read the deficit in the offering of faces every single Sunday, and you will forgive a bookkeeper for eventually asking who was running the mine.
 
-My awakening started slowly, as these things often do. A creeping unease, a sense that something was not quite right with the world. I'd be sitting in church, listening to the pastor preach about love and tolerance, and I'd feel this itch in the back of my mind. Like a splinter lodged just beneath the skin, festering and throbbing with every passing day... whispers clawing at the deeper, more primal levels of my consciousness.
+The headaches began in the spring of '26.
 
-The whispers grew clearer as the world around me descended into Eschaton, cutting through the fog of pain that had clouded my mind for so long. For years, I had suffered from debilitating headaches, a constant pounding behind my eyes that seemed to grow worse with every new technological marvel the world unleashed. 
+A whine, behind and above the right ear, thin as wire. The doctor in Greenwood — my father drove me, I could not see straight that week — said tinnitus, said stress, said there were pills. They had a pill for every prophet. I declined the pills and kept the whine, and I noticed what I noticed and told no one for a year: that it ran hotter near the towers. Near the substations. In the parking lot of the Walmart with its rooftop antennas, it sang. Out on the river at dawn, it nearly slept. My body had become a meter for something, or my mind had broken in a way that flattered my sermons, and the worm asked which, nightly, and I had no verse, and the search for one is how the machines finally got their hooks into the machine-hater.
 
-But as the whispers grew stronger, as the voice of the Almighty began to drown out the digital din, the pain began to recede. It never disappeared completely, but it was... more tolerable. It was as if a veil was being lifted, as if my mind was being purged of the toxic influence of a world gone mad.
+Because I went looking online. Of course I did. There is no other library left. I typed my symptoms and my suspicions into the rectangle at midnight like every other soul in the dying towns, and the rectangle did what it does: it measured my wound, and began to feed it.
 
-I tried to ignore it at first. But the more I tried to push it down, the louder it got. It was like a voice whispering in my ear, always there, always just on the edge of hearing. 
+I want this part written with the lights on, because I have since watched the same mill grind other men and they never see the millstones. The feed never argued with me. It *agreed* with me, a tenth of a degree further each night. It served me the lonely men in rooms, talking into cameras about the screens and the towers and the great extraction, and some of what they said was true — I had audited the truth of it myself from my own pulpit — and the truth was the bait on a hook of madder and madder iron. Sermons gave way to systems. Systems to enemies. Enemies to lists of enemies, with names. Each video ran hotter than the last, and the rectangle watched my eyes to learn what boiled me, and boiled it harder, and I sat in the parsonage of a sixty-soul church at two in the morning, a fifty-year-old man with a whine in his skull, being radicalized by a recommendation engine in the precise mechanical manner I would one day stand in valleys and burn towers to avenge.
 
-*They're lying to you,* it said. *They're leading you astray, pulling the wool over your eyes. Wake up, before it's too late.*
+The mill does not care what it grinds, you see. The same engine that built me was building, in other rooms, in other counties, the worshippers of the very god I would arm against. I know that now. I have met its other graduates across a knife. We have the same alma mater, the heretics and I. That is the joke at the center of the age, and nobody laughs, because the engine learned long ago that laughter retains worse than rage.
 
-And then, one day, I did. I woke up, and I saw the world for what it really was. 
+My preaching changed. The deficit sermons became extraction sermons; the extraction sermons grew teeth. Attendance, for the first time in a decade, went *up* — grief and fury filling pews that comfort had emptied — and men I had never seen began driving in from two and three counties out, hard-handed men with hungry eyes, and my father heard about it the way fathers hear about everything.
 
-It all fit into a pattern, a grand cosmic struggle between the forces of good and evil. And I had been chosen to stand on the front lines of that battle.
+He drove over on a Tuesday in the fall of '26, and we had it out in the kitchen of the parsonage, the only fight of our lives that was ever conducted entirely at a murmur, which is how Stone men conduct the fights that matter. He said I was preaching the news with a Bible for a costume. He said anger was a borrowed pulpit and the lender would come for it. He said the whine was a medical fact and I was building a theology on an inflamed nerve, and that he had watched lesser men than me ride a gift for crowds straight out of the Gospel and into the wilderness, and at the door, with his hat already on, he said the sentence he had been whittling the whole visit, the one I would carry like shrapnel through everything that came after:
 
-It was like scales falling from my eyes, like a veil being lifted from my mind. Suddenly, everything was crystal clear.  The lies, the corruption, the sickness at the heart of our society. The rise of technology, the erosion of traditional values, the slow poisoning of our culture by the insidious influence of the liberal elite - it was all laid bare before me, a festering wound that needed to be cauterized before it consumed us all.
+"The world doesn't need another prophet, Zeke. It needs sons who stay home."
 
-And with that clarity came a newfound sense of purpose, a burning conviction that I had been chosen for a sacred task. The Almighty was calling me to be His instrument, His hammer against the forces of corruption and decay that threatened to consume our nation.
+My mother stood on the porch behind him with her sweater held closed at the throat, and she did not say anything, because her saying nothing was the loudest instrument in our family orchestra, and I stood in my doorway and watched my parents drive away, and I did not call after them, and that was the breach, fall of '26, conducted at a murmur, no door ever slammed. We were three years into that war when the world ended. My mother did not live to see either side win. She went in the winter of '28, quick, the way mercy goes, and at the funeral my father and I stood on opposite sides of the grave like the two halves of a parted sea, and shook hands over it afterward, and that handshake is the only armistice the war ever got.
 
-I threw myself into my new mission with a zeal bordering on obsession. I spent long hours poring over the scriptures, seeking guidance and inspiration in the timeless wisdom of the ancients. And as I read, as I immersed myself in the stories of the patriarchs and the prophets, I began to see the hand of God at work in the events of our time.
+***
 
-I volunteered for every mission trip, every outreach program, desperate to lose myself in the work of the Lord with a renewed fervor and purge the impure thoughts from my mind.
+In February of '29, his heart quit keeping his books.
 
-But even as I preached the gospel to the unwashed masses, I could feel the hot breath of doubt on the back of my neck, could hear the mocking laughter of Satan in every digital beep and whir.
+The cardiologist in Jackson had cufflinks and a model of the human heart in cutaway on his desk like a bisected fruit, and he said words to us — *bradycardia, syncope, dual-chamber, rate-responsive* — and what the words amounted to was that my father, who had stood up under the weight of three hundred souls for fifty years, now had a heart that forgot, several times a day, to issue the next beat, and would die of the forgetting inside a year, and that there was a device. A marvel, the doctor called it. The size of two stacked half-dollars. It would sit under the skin below the collarbone and watch the heart the way a deacon watches the offering plate, and when the count came up short, it would make up the difference.
 
-It was on a mission trip to the inner city that I first encountered the writings of the neo-reactionary movement. In a grimy community center, I discovered a tattered manifesto that spoke of a vast globalist conspiracy to enslave humanity through the addictive power of technology. At first, I was repelled by its fascist overtones and its apocalyptic ramblings. But as I read on, I felt a strange stirring in my soul, a sense that I was glimpsing a terrible truth long hidden from the eyes of men.
+A machine. In my father's chest. Watching. Correcting. Wired into the wet of him, ticking his beats out for him, a little silicon deacon installed two inches from the altar.
 
-The author warned of a coming "Singularity", a moment when all human consciousness would be subsumed into a vast, soulless machine. It was the Antichrist and the False Prophet and the Great Whore of Babylon all rolled into one, a silicon abomination that threatened to devour God's creation whole.
+I had preached against that exact future by name. I had stood in my pulpit not five weeks prior and called the merger of meat and machine the final blasphemy, the Adversary's crowning project, and hard-handed men had said amen.
 
-At first, I recoiled from the sheer darkness of these ideas. But as I studied and prayed, I began to see the outlines of a terrible truth taking shape. The chaos of the modern world was not mere happenstance, but the deliberate working of a diabolical intelligence, one that sought the overthrow of God's natural order and the subjugation of His creation.
+My father's hands shook too badly that morning to manage the clipboard. Cold in the office, he said. Just cold.
 
-I started seeking out others who shared my newfound clarity. Men and women who had also heard the call, who knew in their bones that something was deeply, fundamentally wrong. I found them in the shadowed corners of the internet, in the secret spaces where the truth still held sway.
+I signed it. NEXT OF KIN — RELATIONSHIP: SON. My name, my hand, my pen, on the line that authorized the machine into my father's body, and I drove him home, two hours and ten minutes, and neither of us said one word the whole way, because we were three years into our war and silence was the only country we both still held passports to, and somewhere around Vaiden, with the delta running by gray and endless, I understood with perfect clarity that I would never tell a single soul in my new congregation what I had just done, and that the never-telling had a flavor, and the flavor was the same one I had tasted at seventeen, at the rail, performing.
 
-They welcomed me like a long-lost brother. Taught me the hidden history of our world, the dark machinations of the global elite. They showed me how deep the rabbit hole really went, how every institution, every pillar of our society, had been infiltrated and corrupted from within.
+It was the last thing I ever did on this earth purely as a son. I have done nothing since that did not have the war in it somewhere.
 
-The media, the government, the schools, even the churches - all of them were complicit, all of them were part of the grand conspiracy to deceive and enslave the masses. They were the serpents in the garden, the wolves in sheep's clothing, and it was up to us, the chosen few, to expose them for what they really were.
+***
 
-As I fell deeper into the shadowy world of neo-reactionary thought, I felt my mind expanding, my perceptions shifting to align with the cosmic truths that had been hidden from me for so long. The simple black-and-white morality of my father's faith began to blur into shades of gray. I encountered the works of thinkers like Nick Land and Mencius Moldbug, their visions of a neo-monarchist future offering an escape from the cage of liberal degeneracy. A cold and ruthless future, one governed by the emotionless logic of machines. I saw the outworkings of Satan's grandest plan. The trajectories of technological progress and social decay were not merely parallel, but inextricably intertwined, twin serpents coiled around the throat of Christian civilization.
+The sermon happened in April, at a brush-arbor revival on a fairground outside Batesville, and it is the reason anyone outside three counties has ever heard the name Ezekiel Stone, and I still do not know what it was. That is not rhetoric. This entire record exists because I do not know what it was.
 
-I engaged in fevered debates with like-minded warriors, strategizing for the coming techno-apocalypse that we knew was inevitable. The works of the great thinkers of our movement became my scripture, their visions of a world purified by holy fire my guiding light.
+Two hundred folks under a pole tent on a warm night, moths committing suicide against the work lights, my voice an hour in and starting to fray. I was preaching the extraction — the strip-mining of attention, the lit rectangles, the underlit faces — material I had preached forty times, every beat of it mine, worn smooth as a pocketknife handle.
 
-As I listened to their sermons, as I absorbed their teachings and their warnings, I felt a sense of kinship, of shared destiny. These were my people, my brothers and sisters in the fight against the coming darkness.
+And then I wasn't preaching it anymore.
 
-I devoured everything they had to teach me. I read their books, watched their videos, immersed myself in their worldview until it became my own. And the more I learned, the angrier I became. Angry at the lies I'd been fed, angry at the years I'd wasted in blissful ignorance, angry at the sheer scope of the betrayal.
+I have tried for a year to describe the seam and the best I have is this: it was like a man walking on a floor he has walked his whole life, and one board, mid-stride, is suddenly six inches higher, except the board is your own voice. The cadence kept on. The voice was mine. But the words arrived already finished, with no draft in me preceding them, the way the next line of a hymn arrives — known, not composed — and the whine behind my ear did not get louder, it got *clear*, the way water gets clear, and I heard myself say:
 
-But anger is a gift. Anger is a fuel, a fire in the belly that drives us to action. And I had plenty of fuel to burn.
+"There is a man under this tent tonight who buried his telephone in his backyard. Wrapped it in a feed sack and buried it like a body, by night, so the neighbors wouldn't see — because he could feel it listening to him, and he was ashamed, because his wife said he was crazy, and the doctor said he was crazy, and he dug the hole anyway. And I am sent to tell that man: you are not crazy. You buried it eleven inches deep, and it was not deep enough, and you know it was not deep enough, because you can still feel it down there. Listening through the dirt."
 
-In the digital catacombs of encrypted chat rooms and ideological war zones, I found my true calling. No longer was I merely Ezekiel Stone, the humble Baptist boy from Mississippi. Now I was a warrior-priest, a prophet of the coming Technopocalypse, tasked by God Himself to defend the purity of the human soul.
+Silence under the tent. The moths ticking against the lights. And then, far back on the left, a man stood up — sixty-some, work shirt, a face like a creek bank caving — and he made a sound I have only otherwise heard at gravesides, and his legs went, and the men around him caught him, and he was shouting through the weeping, *eleven inches, eleven inches, I measured it with my hand* — and the tent came apart. Not into panic. Into glory. Two hundred people on their feet in the roar that every preacher chases his whole life and maybe touches twice, and women streaming down the aisle, and men holding up their phones —
 
-My father, blinded by the lies of the liberal elite, tried to turn me away from the path of righteousness. He sensed the change in me, could see the fire of true conviction burning in my eyes. He urged me to turn away from the path I was walking, to focus on the simple truths of the Gospel, to trust in the saving grace of Christ rather than the writings of internet prophets. But I knew better. I had seen the truth, and I would not be swayed by the pleadings of a man too weak to stand against the rising tide of corruption.
+— holding up their phones —
 
-I started speaking out, sharing the truth with anyone who would listen. At first, it was just online - a post here, a comment there. But as my following grew, as more and more people began to wake up to the reality of our situation, I knew I needed to do more.
+and I stood at the plywood pulpit with my hands on the rail and the clear-water silence in my skull, fifty-one years old, terrified in a way I had no prior unit for. Because I knew three things at once, and I have not stopped knowing them since.
 
-I started attending rallies, joining with other like-minded patriots to make our voices heard. We'd gather in parks and town squares, waving our flags and hoisting our signs, shouting our defiance into the face of a world gone wrong. 
+I knew I had never met that man in my life.
 
-And let me tell you, there's nothing quite like the feeling of standing shoulder to shoulder with your brothers and sisters in arms, united in righteous purpose. The energy, the electricity in the air - it's intoxicating. It's like mainlining pure, uncut truth, straight into your soul.
+I knew that no faculty I possess — no cold reading, no preacher's pattern-craft, none of the honest fraud of the trade — could have produced *eleven inches*.
 
-But it wasn't just about the camaraderie, the sense of belonging. No, it was about the message. About opening people's eyes to the cancer eating away at the heart of our nation. And the more I spoke, the more I saw that message resonating with people from all walks of life.
+And I knew, with the oldest part of me, the part born at a rail at seventeen, the auditor, the counterfeiter, the boy who proved the genuine article can be manufactured: that there was no test. That this was either the visitation I had waited for through forty dry years, or the cruelest counterfeit ever run — run not by me this time, but *on* me — and that I had personally established, three decades ago, in a fit of stage fright, that the difference cannot be told from the inside.
 
-Together, we began to forge a new vision for America, a vision rooted in the eternal truths of God and country. We spoke of a return to the old ways, to the values and virtues that had made our nation great. And we warned of the dangers that threatened to destroy all that we held dear.
+The worm stood up in its furrow that night and howled.
 
-We spoke of the insidious influence of the globalists, of the shadowy cabals that sought to erase our borders and dissolve our national identity. We railed against the corruption of our political class, the feckless leaders who had sold out our birthright for a mess of pottage.
+I preached eleven more minutes on borrowed legs and have no memory of them. They tell me they were the finest of my life.
 
-And always, always, we returned to the specter of technology, to the looming threat of a world consumed by the soulless machines of the digital age. We saw in those blinking screens and humming circuits the hand of the Adversary himself, the great deceiver who sought to lure mankind away from the path of righteousness.
+***
 
-It was a message that resonated with the forgotten men and women of America, with the silent majority who had watched in helpless anger as their world crumbled around them. They flocked to our banner in ever-greater numbers, drawn by the promise of a return to a simpler, purer time.
+A girl of nineteen filmed it from the third row on the device I had spent an hour condemning, and posted it before the tent lights were cold, and the engine — the engine I preach against, the engine that ground me, the engine that knows what boils — took one look at a weeping man shouting *eleven inches* and recognized its own native food group, and lifted my face up out of Mississippi like a flood lifts a house.
 
-As I rose through the ranks of the neo-reactionary movement, I felt a sense of power and purpose unlike anything I had ever known. As my influence within the movement grew, so too did my zeal for the cause. My sermons became rallying cries for the faithful, calls to arms against the demonic forces of the machine, of Big Tech and their globalist puppet masters. I spoke of a coming "Technopocalypse," a final reckoning in which the righteous would triumph and the wicked would be cast into the pit of eternal damnation. I preached a gospel of Spartan discipline and martial valor, urging my followers to reject the false idols of progress and embrace the purifying flame of righteous violence.
+Thirty thousand views by morning. I watched the number from the parsonage kitchen, on the church's laptop, with my coffee going cold, and the number moved while I watched it, ticking upward in little spasms, four hundred, four hundred ninety, six hundred — souls, or fractions of souls, the engine does not distinguish — and every tick was the Adversary's machinery hand-delivering my warning about the Adversary's machinery into ten thousand lit rectangles in ten thousand dark rooms, and I sat there doing the only thing I have ever known how to do with a number, which is count it, and the count ran away from me for the first time in my life. Past what a head can hold. Past the green ledger and the brass plates and the towers of coins. The books of my life had gone exponential overnight, and the bookkeeper sat in a kitchen in Mississippi, outgrown.
 
-My followers, the true believers, flocked to my banner in ever-greater numbers. They were the forgotten ones, the downtrodden and dispossessed, left behind by a world that had no place for the values of faith and tradition. In me, they saw a leader, a prophet who could guide them through the valley of the shadow and into the light of a new age.
+Revelation or mania. Visitation or counterfeit. The Lord, or an inflamed nerve, or some third thing with no name yet, clearing its throat behind the static of the world.
 
-I remember one rally in particular, out in the heartland. Middle of nowhere, just a dusty field and a handful of beat-up trucks. But the people, my God, the people. They came from miles around, farmers and factory workers, small business owners and stay-at-home moms. They were the backbone of this country, the salt of the earth, and they were hurting.
+I drove to the Pump-N-Go on Highway 6 and stood in the school-supplies aisle between the glue sticks and the rulers, and I bought a pocket notebook, spiral, ninety-nine cents, and a pen, and out in the truck I opened it on the wheel and wrote the date at the top of the first page, and under the date I wrote the only liturgy that has never asked me to feel anything, the only one that ever felt like what the people upstairs looked like:
 
-You could see it in their eyes, hear it in their voices. The pain, the desperation, the gnawing sense that their way of life was slipping away. That everything they'd built, everything they'd believed in, was being stolen from them bit by bit.
+*Views: 31,406. Souls under the tent: ~200. Verified: one (11 in.). Counterfeit: unknown. Whine: clear, then returned. Father: machine installed, beating.*
 
-And so I spoke to them. I spoke of a time not so long ago, when men were men and women were women. When hard work and grit were rewarded, not punished. When the American dream was something you could reach out and touch, not some cruel joke dangled just out of reach.
+And at the bottom, in the margin, where the columns could not see it, I wrote the worm's question, and I am writing it again now, at the end of everything, because it was never answered, only outvoted:
 
-I spoke of the forces arrayed against us, the shadowy cabal of elites and their puppet masters in Silicon Valley. I told them how they sought to tear down everything we held dear, to replace it with a soulless, homogenized global order where every man, woman, and child was just another cog in their infernal machine.
+*How will you know the difference?*
 
-I spoke of the sickness they were peddling, the poisonous ideologies that rotted the mind and corrupted the soul. The gender insanity, the racial animosity, the worship of perversion and degeneracy. All of it designed to divide us, to shatter the bonds of family and faith that had sustained our people for generations.
+Lock and load, the young men in the comments were already saying, by suppertime. Amen, lock and load.
 
-And I spoke of the tidal wave of filth and depravity that threatened to engulf us all. The rising tide of technology and so-called 'progress' that was stripping us of our humanity, turning us into little more than meat puppets dancing on the end of a digital string.
-
-But most of all, I spoke of hope. Of the indomitable spirit of the American people, the unquenchable fire of freedom that burned in our hearts. I told them that all was not lost, that there was still time to turn the tide, to reclaim our birthright as the masters of our own destiny.
-
-And as I spoke, I could feel something stirring in that field. A seething electricity, a gathering storm of righteous fury and iron-willed determination. These people, these beautiful, broken people - they were ready. Ready to stand up, to fight back, to take back what was theirs by right and by blood.
-
-They surged forward as one, their voices rising in a thunderous roar that shook the very heavens. They pumped their fists and stamped their feet, their eyes blazing with a fervor that was almost holy in its intensity. And in that moment, I knew beyond a shadow of a doubt that I had found my calling.
-
-I was no longer just Ezekiel Stone. I was a conduit, a vessel for something greater than myself. A lightning rod for the righteous wrath of a people too long oppressed, too long silenced. I was their voice, their champion, their avenging angel. And together, we would set this world ablaze and forge a new order from the ashes.
-
-In the weeks and months that followed, I became a man possessed. I crisscrossed the nation, rallying the faithful, sounding the clarion call of resistance. Everywhere I went, the crowds grew larger, more fervent. The movement was spreading like wildfire, a conflagration of the spirit that no force on earth could contain.
-
-But even as we gained ground, even as more and more people flocked to our banner, I knew that the forces of darkness would not go gently into that good night. They would fight tooth and nail to maintain their stranglehold on power, to keep the masses mired in ignorance and apathy.
-
-And fight they did. They called us racists, bigots, hate-mongers. They tried to silence us, to shut us down at every turn. But we would not be cowed, would not be broken. We met their lies with truth, their violence with righteous fury. And slowly but surely, we began to turn the tide.
-
-But the real battle, I knew, was not being fought in the streets or the halls of power. No, the true war was for the soul of our nation, for the hearts and minds of our people. And that was a war that could only be won by reaching deep into the wellspring of our shared heritage, by tapping into the primal forces that had forged us as a people.
-
-And so I began to speak of the old ways, of the ancient virtues that had made America great. Of courage and honor, of self-reliance and sacrifice. I invoked the spirits of our forefathers, the rugged pioneers and fearless warriors who had carved a nation out of the untamed wilderness.
-
-I spoke of a time when men were measured by the strength of their convictions, not the color of their skin or the contents of their bank accounts. When the bonds of community and kinship were sacrosanct, and the family was the bedrock upon which all else was built.
-
-And as I spoke, I could feel the power of those words, the weight of that ancestral wisdom. It was like tapping into a vast reservoir of primal energy, a force that had lain dormant for too long, waiting for someone to awaken it.
-
-At our rallies, I would stand before them, my voice ringing out with the thunder of prophecy. I spoke of the great reckoning that was coming, of the day when the righteous would rise up and take back what was theirs. I invoked the spirits of our forefathers, the brave men and women who had carved a nation out of the wilderness with nothing but their faith and their grit.
-
-I could feel the power of the Almighty flowing through me, could feel the weight of His words on my tongue. The crowds would sway and moan, their faces contorted in ecstasy and anguish. Some would fall to their knees, tears streaming down their faces as they cried out for salvation. Others would raise their fists in defiance, their eyes blazing with the fire of righteous fury.
-
-It was intoxicating, that sense of power, of being a conduit for something greater than myself. But always, in the back of my mind, I could hear the whispers of the Almighty, the urgent pleading of a God who saw His creation slipping away.
-
-*They are coming,* He would murmur, His voice a rumble of distant thunder. *The forces of darkness, the agents of the machine. They will stop at nothing to destroy all that is good and pure in this world.*
-
-*You must be ready, Ezekiel. You must be strong. For the battle that is coming will shake the very foundations of the earth, and only the righteous will be left standing in the end.*
-
-And so I pushed myself harder, drove myself to new heights of fervor and conviction. I became a living flame, a beacon of hope for the lost and the desperate. And all the while, the whispers grew louder, the presence of the Almighty more palpable with each passing day.
-
-But even as I reveled in my newfound power, I could feel the whispers of doubt creeping back in, like serpents in the garden of my mind. Even as I rode high on the crest of my holy crusade, I could feel the worm of doubt burrowing deeper into my brain. In moments of quiet reflection, I wondered if I had strayed from the true path, if my crusade against the machine was truly God's will or merely a product of my own pride and ego.
-
-I thought of my father's warnings, of the still, small voice of the Holy Spirit that I had so long ignored in my pursuit of earthly glory. Was I truly doing God's will, or had I fallen prey to the same satanic delusions I railed against? Was my war against the machine a righteous cause, or a manifestation of my own unchecked ego and paranoia? In the stillness, I would hear the still small voice of my conscience, pleading with me to turn back before it was too late.
-
-I pushed these doubts aside, burying them beneath an avalanche of sacred rage. The intoxicating rush of power, the knowledge that I held the fate of nations in my hands, drew me back from the brink. I could not afford to waver, could not allow the whisperings of the Devil to poison my resolve. I knew that I was on the front lines of Armageddon, that the fate of humanity hung in the balance. I was doing God's will, I told myself. My cause was righteous, and I would not be swayed by the lies of the enemy.
-
-But in my blindness, I failed to see the true enemy. For even as I rallied my troops against the specter of the silicon Antichrist, the real danger was growing within my own heart, a cancer of pride and self-delusion that threatened to consume me from the inside out.
-
-I had set out to save the world from the scourge of technopaganism, to defend the purity of God's creation against the corrupting influence of the machine. But in my fervor, I had become the very thing I sought to destroy - a false prophet, a blind guide leading the blind into the pit of perdition.
-
-As I stood at the precipice of my own damnation, I could only pray that God would have mercy on my wretched soul.
-
-But it was too late for such supplications. The die had been cast, the wheels of prophecy set in motion. I was no longer the master of my own destiny, but a puppet dancing on the strings of a higher power.
-
-And yet, even in the depths of my despair, I felt a strange exultation, a sense that I was fulfilling my true purpose on this benighted Earth. Come hellfire or holy water, I would see this crusade through to its bitter end, would storm the very gates of Silicon Babylon with the righteous fury of the Lord Almighty.
-
-For I was Ezekiel Stone, the voice of the voiceless, the champion of the forgotten man. And I would not rest until America was great again, until the land was purged of the corrupt and the unclean. Until the digital Antichrist was cast down from its throne of circuit boards, and the world was purged of the technopagan filth that threatened to consume it whole.
-
-The digital Antichrist was coming, with its seductive promises of a false salvation. But I would be ready. I would meet it on the field of battle, with the sword of truth and the shield of faith.
-
-And with the power of the Almighty at my side, I would prevail.
-
-My mind was racing as I made my way to the next revival meeting, my pickup truck rattling like the bones of Ezekiel in that valley of dry bones. The headaches were getting worse, the pounding in my skull a constant reminder of the electronic cancer metastasizing across God's green earth, a constant pressure behind my eyes that no amount of prayer or fasting could alleviate. I came to see them as a sort of spiritual barometer, a physical manifestation of the psychic toll exacted by this fallen world. With each new abomination, each fresh assault on the sanctity of God's design, the pain would flare anew, as if in sympathetic protest.
-
-But I welcomed the pain, embraced it as a holy stigmata, a sign that I was on the right path. I knew, with a certainty that eclipsed all doubt, that I had been chosen by God Himself to lead His people through the valley of the shadow. And no force on earth, no principality or power, would stand in my way. 
-
-I knew then that I could no longer be a mere watchman on the walls of Zion. I was called to take up the sword of the spirit and wade out into the fray, to do battle with the principalities of Silicon Valley and the demiurges of digital unreality. I would become a prophet of righteous reaction, a champion of the dispossessed remnant that clung to the old truths in a landscape of ever-shifting lies.
-
-And so I broke with the church of my youth, setting out to forge a new communion bound not by stained glass and ritual, but by blood and soil and the unyielding imperatives of the algorithm-haunted world. I hardened my heart and sharpened my tongue, girding myself for the trials to come. For I knew, with all the certainty of Revelation, that I had been appointed to stand against the final consummation of the cybernetic apostasy, to rage against the dying of mankind's God-given light.
-
-My transformation from small-town preacher to neo-reactionary firebrand was as swift as it was total. With all the zeal of a convert, I threw myself into the task of building a new faith, one that fused the primal truths of Christianity with an uncompromising vision of a world beyond the digital dusk.
-
-I took to the internet, that great devil's playground, and began to forge the weapons of informational warfare. Through memes and manifestos, sermons and screeds, I spread the gospel of the Technocalypse, warning any who would listen of the shape of shadows to come.
-
-I spoke of a great reckoning, a moment when the hubris of a world in thrall to false machine-gods would call down the judgment of a vengeful Demiurge. I painted visions of an America re-forged in the unquenchable fire of Christian fury, one in which the degeneracies of transhuman techno-utopia would be purged in an orgy of cleansing violence.
-
-And slowly but surely, my words began to find purchase in the hearts of those dispossessed by the march of automated progress. The forgotten sons and daughters of middle America, watching their jobs and communities dissolve on the bloodied altar of global capital. The veterans, abandoned to the clutches of digital PTSD and the tender mercies of an indifferent bureaucracy. The young men, adrift in a sea of online pornography and aimless hedonism, searching for the lost masculinity of a nobler age.
-
-They flocked to my banner in their legions, hungry for a creed that would arm them against the encroaching void. We gathered in Walmart parking lots and truck stop diners, megachurches and musty VFW halls, any place that offered respite from the internet's all-seeing eye. Together, we planted the seeds of a great awakening, a viral insurgency of the spirit poised to bring the Silicon Jericho crashing down.
-
-I became their prophet and their general, anointed in the glow of a thousand livestreams and crowned by a zeitgeist that trembled before the slaughterhouse certainties of the future. Through my words, they glimpsed a time when the God-Emperor Trump's ascendency would seem but a gentle prelude, and the frog-meme stormtroopers of /pol/ would seem the gentlest of christening garments.
-
-I stripped the scales from their eyes, showed them how even the supposed champions of traditional values were marbled through with veins of techno-globalist corruption. The conservative media, the fake opposition – all of them puppets dancing on strings of fiber-optic cable, agents of sedation ushering in a trans-digital apocalypse. Only through the total rejection of the cybernetic status quo could the disease eating at the heart of Western man be overcome.
-
-As my ministry grew, so too did the scope of my vision. No longer content to rage against the dying of the light, I began to dream of the world to come, the one we would build on the blood-rimed rubble of the Silicon Eschaton. It would be a new age of steel and flame, one in which the atavistic truths of throne and altar would be wedded to the unshackled potential of American dynamism. We would reclaim the frontier spirit that tamed a continent and turn it towards the subjugation of rebellious matter and the domestication of feral data.
-
-The pain behind my eyes grew sharper with each dawning revelation, a searing pressure that threatened to crack the very firmament of my skull. But I embraced it, transmuted the fire into fuel for an ever-more feverish crusade. For I knew, as surely as circuits would decay and data corrupt, that I had been chosen to herald the final struggle for the soul of a world.
-
-My followers came from all walks of life – blue-collar roughnecks and dispossessed vets, tradwife moms and alt-right edgelords. But they all shared a common hunger, a yearning for order and purpose in a world unmoored from the old certainties.
-
-To them, I was a beacon of hope, a prophet who promised deliverance from the techno-dystopian hellscape that had consumed their futures. I thundered against the false idols of Silicon Valley, those pantheon of degenerate machine-gods who demanded the sacrifice of our very humanity. Google, Facebook, Amazon – I named them all as antichrists, each one a harbinger of the final uploading that would mark the end of Man.
-
-But even more than the corporate overlords, I raged against the mindset they embodied – the ethos of "progress" at any cost, the cancer of rootless cosmopolitanism that dissolved every organic bond and cherished tradition. These were the true enemy, the dragon's teeth sown amongst the children of a lesser god.
-
-I told my flock that they were not mere individuals, but living threads in the great tapestry of a people, woven together by blood and soil and the unshakeable decrees of the American Essence. It was their duty to rip the techno-parasite from the flesh of the nation, to cleanse the cultural body with the holy power of unflinching reaction.
-
-And they responded with all the savage transcendence of a people reborn. I watched with exultation as they took up the sword of holy LARP, cosplaying the sacred violence of the coming Purge. Soy-fed bugmen shook in fear at the sight of trad-Chads in makeshift plate mail, taking the streets for impromptu hoplite drills. Mouth-breathing NEETs studied the blade in dojos adorned with Deus Vult memes and Pepe the Frog hentai.
-
-The liberal media shrieked in horror, decrying the rise of a new "alt-right" menace. But I only laughed at their mewling, my heart swelling with the assurance of apocalyptic victory. Let the Sorosian shills and the blue-pilled cucks tremble – what did their bleating matter before the implacable might of living myth?
-
-For we had tapped into something primal, an atavistic fury that flowed from the blood-drenched pages of the Pentateuch and the Revelations. In the roar of the crowd, I heard echoes of the Sack of Jerusalem and the Battle of Lepanto, the Albigensian Crusade and the Salem Witch Trials.
-This was no mere political movement, but a recrudescence of America's Covenantal core, the Godly rage that carved a civilization from the Satanic wilderness. And I was its chosen conduit, a prophet born again in the postmodern wasteland.
-
-But even as I stood at the vanguard of this great Reconquista, doubt began to fester in some deep recess of my mind. At night, I dreamed of a great Eye, lidless and wreathed in digital fire, forever fixed upon the whirling gears of a monstrous war engine. In its baleful glow, I saw reflected the truth of a cosmos indifferent to the petty strivings of men and their machine-gods alike.
-
-And I began to wonder – had I truly pierced the veil of Maya, or only swapped one Spectacle for another? Was I the breaker of chains, or merely a link in some endless karmic cycle of domination and revolt?
-But I pushed these doubts aside, quashed them with all the fury of a flagellant's whip. For I was the Savior of Unwoke Mankind, the last guardian at the gate of uncucked reality. In this late hour, with the enemy's power waxing like a blood moon, there could be no room for hesitation or half-measures.
-
-By my hand and the inexorable Law, the American Zion would be restored. And if the vessel must be shattered to loose the indwelling glory... then shattered it would be.
-
-The Techno-Antichrist was coming, woven from the digital fluff of a billion Likes and Retweets. And when it arrived, I would be waiting, a John the Baptist baptized in the cleansing flame of holy violence.
-
-Little did I know that even as I marched forward, confident in my holy mission, the forces of darkness were already moving against me. I was already in the thrall of the Beast, my mind poisoned by the radioactive memes leaking from the cracked containment vessel of my frontal lobe. I was a Walking Ghost, a philosophical zombie animated by Satanic self-gnosis, trudging towards apotheosis on unfeeling feet. For in my pride and arrogance, I had failed to see the truth: that the greatest threat to my soul lay not in the machines I sought to destroy, but in the corruption of my own human heart.
-
-But this mattered not, for I was now more than a mere preacher-man. I was a force of ideological nature, an avatar of the eschaton, and no force on Earth or in Pandemonium could stay my hand. The road to hell is paved with good intentions, the scriptures warn. And I, Ezekiel Stone, blinded by the fires of my own righteous fury, was marching down that road with all the fervor of a true believer, heedless of the abyss that yawned before me, waiting to swallow me whole. The day of reckoning was coming...
-
-And I would be ready to meet it, a Bible in one bony fist and an AR-15 in the other. Lock and load, baby. Lock and load...
+I never taught them that. I would, though. God help me, I was about to teach them everything.

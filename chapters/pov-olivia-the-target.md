@@ -1,140 +1,167 @@
-Stale coffee. Flickering fluorescent hum. Eyes aching from staring at the dossier, its pages spread across the rickety safehouse table. 
+# The Target
 
-Heavy manila, coffee-ringed and crease-worn. A life reduced to data points, each one a pixel in a damning portrait.
+The room is mint green and smells of disinfectant over older disinfectant. Two chairs, a table, a carafe of water nobody ever pours, a mirror along the east wall that is not a mirror. The recorder sits between us with its red eye lit.
 
-*Twitter: @DCPolitico: Huge turnout for the Clade speech tonight. Security's tight. #CladeSpeech*
+"How have you been sleeping, Agent Maes?"
 
-The target's face stares up at me, a study in smug obliviousness. Senator Arthur Clade. Alt-right firebrand, figurehead of the neo-reactionary resurgence. Cipher for whispered commands, puppet tangled in invisible strings.
+"Fine."
 
-*"And how have you been sleeping, Agent Maes?"*
+"Belgrade? Sarajevo?"
 
-The psychiatrist's voice slithers through memory, a cool drone against mint green walls that reek of disinfectant and secret agendas. My fingers twitch, aching for the comforting weight of a weapon.
+The names land in the body. A heat across the scar on the left forearm, a tightening up the spine. He watches me not answer, and writes something, the pen making its small dry surgery on the page.
 
-*"Fine."* The lie slips out, smooth as the poison lurking in my veins. *"Nothing I can't handle."*
+"All right." He folds his hands. He has a kind face, which is a credential they issued him, same as the lanyard. "The Clade operation, then. From the beginning. Walk me through it. Slowly."
 
-Pen scratches, scrawling cipher of ink on paper. *"No lingering effects from Belgrade? Sarajevo?"*
+People imagine it must be loud in my head. People imagine wrong, and I let them, because the truth unsettles handlers and psychiatrists alike: in my head there has never been anyone talking. No narrator. No little inner attorney arguing both sides. When I look inside there are rooms, and routes, and weights, and angles of light, the whole apparatus of the world rendered in clean lines that rotate when I need a different view — and there is the body, reporting its weathers — and that is all. The first time a school counselor understood it, she looked at me the way you look at a house with the lights on and the furniture missing.
 
-The names alone trigger a deluge of sense-memory, vivid as a fever dream. Smoke sting in my nostrils, ozone tang of blood on my tongue. The juddery kick of a gun in my grip, the knife's whisper as it parts flesh like a lover's caress. Screams rending the night, shock waves of sound rippling through my bones.
+It affects the fieldwork in exactly one direction: it makes me better. The doubt people describe to me, that muttering they say follows them all day, second-guessing, rehearsing, apologizing in advance — I've never heard it. There's nothing in here to talk me out of anything.
 
-I blink, banishing the ghosts. Focus. The mission is all that matters. 
+But it means the only way I can find out what I think is to say it out loud.
 
-My gaze traces the mission parameters, the expected chain of events. Political rallies and donor dinners, limousines and lecture halls. A day in the life of a demagogue, stoking fear and fury with every polished platitude.
+The agency learned that about me early, and that is the real reason for this room, this kind-faced man, these mandatory sessions logged as wellness. You cannot wiretap a head with no voice in it. So they built a procedure that makes me generate the voice on demand, into a recorder, behind glass, and they call the procedure therapy, and I let them call it that.
 
-"And if all goes well..." I murmur, tapping the final bullet point. "One last podium rant. One last standing ovation."
+"From the beginning," he says again.
 
-*Snap.* The dossier closes, a decision reached. The outline of the plan crystallizes in my mind, its cuneiform components assembling into an architectural schematic. No need to verbalize, to narrate the obvious next steps. Just the cold, clear sense of purpose; a north star tugging at my synapses.
+I close my eyes, and I'm there. That's the other thing they prize about me. When I go back, I go all the way.
 
-*"Your lack of inner monologue, does it impact your fieldwork?"* The psychiatrist's question echoes, probing at the void where my thoughts should be. 
- 
-*"No,"* I say, the word clipped and cold as a bullet casing. *"If anything, it makes me better."*
+***
 
-No whispers of doubt, no pesky conscience to muffle with justifications and rationalizations. Just the icy purity of purpose, the diamond-hard clarity of the mission imperative.
+The safehouse, two nights ago. Stale coffee, fluorescent hum, a manila dossier spread across a table with one short leg. The folder is coffee-ringed and crease-worn, a man's life sorted through it in data points: motorcade schedules, donor dinners, the floor plan of the Halloran Auditorium, eight years of voting records, a glossy of the target mid-speech with his mouth open and his finger up.
 
-I stand, joints popping from too many hours hunched over those mealy pages. Dim-lit room swims into focus, the flotsam of my provisional existence. Corkboard plastered with rally schedules and grainy surveillance stills. Weapons laid out with surgical precision, gleaming under the sallow light.
+Senator Everett Clade. Sixty-one. Silver hair with the part lacquered in. In every photograph the same expression, the bright glaze of a man being applauded.
 
-Graphite glints on corkboard, a ghostly city sketched out in smudged pencil strokes. D.C., that great gray machine, its neoclassical gears gummed up with hypocrisy and graft. Tonight, I'll be the welcome wrench in those sclerotic gears.
+I lay the photographs in a row, and the dossier's contents assemble in the air over the table the way they always do — the auditorium going up in pale blue wireframe, the walls turning transparent, the stage, the press riser, the service corridor stage left, the two egress doors, little red figures standing wherever the advance memo puts the security detail. I walk the wireframe with my eyes closed. I walk it nine times. On the ninth walk my hands have stopped registering the actual room, and the body runs cool and slow, which is how I know the route has finished moving from the table into me.
 
-"Time to get to work."
+"He speaks at eight," I say to the empty safehouse, because the next part has branches, and branches have to be spoken to be pruned. "Press check clears at six-forty. Magnetometers at the east doors only. Equipment table for any rig over eleven inches." My voice comes back off the mildewed walls. "Camera body's nine and a half."
 
-The words echo off mildewed walls, an invocation spoken to an audience of shadows. I'm already moving, hands selecting tools with a honed instinct. Pistol. Garrote. False press credentials, laminated lies in plastic sleeves. Each one examined, checked, tucked away in its proper place - as many times as it takes to banish the last shreds of uncertainty.
+Decision reached. I hear it arrive in my own mouth, the way other people presumably hear things arrive in their heads.
 
-Ritual complete, I turn to the mirror, its surface grimy with neglect. Reflected eyes meet mine, glittering with the cold fire of purpose. One last inspection. Non-descript suit hugging lean curves, blond hair subdued in a neat chignon. Array of knives concealed along the spine, lethal surprises sheathed in secret sheaths. A woman weaponized, camouflaged in bland professionalism.
+The kit, laid out on a towel with the corners squared. The camera: from the outside, a workhorse press DSLR, scuffed, stickered, gaffer tape on the grip like every working shooter's rig in the country. Inside, where the mirror box and sensor used to live, a single-shot ceramic-and-polymer action printed in a basement in Riga, nothing metal in it but a spring the magnetometer reads as shutter assembly, chambered for one caseless subsonic round. The lens barrel is a lens for its front two inches and a suppressor for the rest of its length. It meters. It takes genuine photographs. It has one other setting.
 
-"Lyra Novak." The purring syllables of my cover identity, an ill-fitting skin to slip into. Freelance journalist, alt-media rising star, pandering to the paranoid with a poison pen. The irony sears my throat as I shape the name, the cover that will carry me past security cordons, within striking distance of the devil himself. "Showtime."
+False press credentials, laminated lies in plastic sleeves: LYRA CALDER, FREELANCE, with the correct watermarks because they came off the correct printer. A blond chignon. A suit the color of nothing. Flat shoes you can run a mile in that look like shoes you couldn't.
 
-The door closes with a soft click, the safehouse swallowed by the city's indifferent sprawl. I melt into the early evening crowd, another grim-faced commuter shouldering through the sidewalk shuffle. Image of the motorcade route flickers behind my eyes, a ghostly blue map scrolling across reality's screen. Washington zoetrope stutters past, a blur of monuments and mugshots superimposed like a palimpsest.
+I check each item and stow it, and check it and stow it again, the count rising until the itch behind my sternum goes quiet. The itch is how doubt visits a body like mine. It doesn't argue. It crawls.
 
-Forward momentum carries me into the tightening spiral, the plan's centripetal tug. Metro train heartbeat-lurches through graffiti-speckled tunnels, fluorescence and filth flickering outside smeared windows. Commuters sway like kelp, suspended in phones and pharmacology. My grip tightens on the overhead rail, knuckles itching for the coming percussion.
+In the grimy mirror, a woman in bland professional camouflage. I study her the way I study wireframe, rotating, hunting flaws. The body reads steady. The hands read steady.
 
-Arrival. Escalator ascent, metal teeth grating underfoot. Another glance at the mission dossier burned into memory's backlight screen. Speech scheduled for 8 p.m., VIP dinner to follow at some overpriced bistro. If I time it right -
+"Showtime," I tell her, because somebody has to say it, and in here there is only ever me.
 
-Gun-hammer click. A puzzle piece shifting into alignment, the schematic gaining solidity. I shoulder through the turnstile, ignoring the transit officer's beady glare. Out onto rain-slicked streets, neon glinting off pooled oil-rainbows like a Pollock canvas.
+***
 
-Detour. Pawn shop gloom, a static-veiled TV cycling through security cam feeds of the rally venue. I study every pixel, mentally mapping ingress and egress routes, committing the guard positions to graven memory. The owner's reptilian gaze flits over me, deciding I'm not worth the trouble of engaging. Smart man.
+"And the approach," says the psychiatrist, in the mint-green room, in the now. His pen waits. "You took the Metro."
 
-Onward through the zoetrope stutter of city blocks, monuments and mugshots blurring past rain-streaked windows. The rally venue looms in the van window's grimy reflection, brutalist concrete sheathed in red-white-and-blue banners. I flash the fake press pass, striding past scowling security with a confidence I don't feel. Breathe in, breathe out. The first hurdle cleared.
+I took the Metro.
 
-*"Show me again."* The psychiatrist's request echoes from the green-mist past, a rasp of static on film. *"Walk me through it. Slowly."*``
+Rush hour holds me like packing foam. The car lurches heartbeat-rhythms through graffiti-flecked tunnel dark, commuters swaying on the same stem, every face down-lit blue by a phone. The route hangs in front of the real world in pale lines, turn by turn, and I ride along inside it. Across the aisle a man watches a senator on his screen with the sound off — silver hair, finger up, mouth working — a chyron crawling underneath:
 
-And I do. 
+*@DCPolitico: Huge turnout expected for Clade speech tonight. Security's tight. #CladeSpeech*
 
-The world slows to a crawl as I flow forward, trusting instinct's guiding vectors, each detail razor-edged in hyper focus. 
+The body answers the image before anything else can: a cold line down the backs of both arms, the knuckles itching where they grip the rail. In the dark window my reflection looks back, and the reflection is already wearing Lyra Calder's pleasant, forgettable face.
 
-Inside, the auditorium seethes with a roiling mass of humanity. Angry faces, electric with that particular species of righteous rage only the very privileged can muster. They lap up the warm-up acts' demagoguery, a Greek chorus snarling for their promised scapegoats. I edge along the periphery, camera held before me like a shield, snapping useless photos as my eyes rove for a different sort of shot.
+Detour, four blocks short. A pawn shop the color of cigarette smoke, where a wall-mounted TV behind the counter cycles a local feed from the venue: crowd shots, bunting, a slow pan across the east entrance. I stand among dead men's watches and study the screen, mapping the live image onto the wireframe — confirming the magnetometer placement, the equipment table, counting uniforms and fixing each one as a red figure on the blue plan. The owner's gaze slides over me once and returns to his phone. The plan takes the new data and settles the way a building settles, one deep tick into true.
 
-There. Stage left, a tangle of cords and curtains sheltering a slivered view. I pick my way forward, mouth fixed in the rictus of a smile, murmuring the magic words that part the human sea. "Press coming through, official coverage, just need to get a good angle..."
+The Halloran Auditorium wears its brutalist concrete under thirty feet of red-white-and-blue. Outside, the line. Inside the press door, the choke point: folding table, magnetometer arch, a bored contractor with a wand, a clipboard sergeant beside him. My heart goes up at the arch — the body does what bodies do — and I breathe it back down on a count of six while the camera rides the belt through the scanner, and the screen shows them a camera, because everything inside it is honest except its purpose.
 
-*Facebook Live comment: Can't wait to hear what the Senator has to say! Making America great again!*
+"Working press?"
 
-Tug of crushed velvet, a crimson ripple engulfing my peripheral vision. The curtain enfolds me in its musty concealment, the crowd's roar dimming to a muted thrum. Motes of dust pinwheel through shafts of stage light, spectral trajectories traced in slow spirals. Time dilates, each instant a held breath as I settle into position.
+"Lyra Calder." The smile costs nothing. The wand finds my belt buckle and forgives it. "Where do you want freelancers? The riser's a zoo already."
 
-*"And then?"* The psychiatrist's voice, soft and inexorable as a shroud.
+"Riser or the rail, sweetheart. Your funeral either way."
 
-Chanting drifts through the blood-red veil, their messiah's name a sibilant mantra hissing from a thousand throats. Clade. Clade. Clade. Crescendo of footsteps, the carpet's deadened thunder ushering fascism in the flesh.
+Inside, the auditorium seethes. Three thousand bodies generating their weather, heat and breath and a smell like a county fair with the livestock swapped out for grievance. The warm-up speaker works them in waves; the waves break against the stage and roll back. I move along the south wall with the camera up, shooting frames I'll never need — the shooting is the camouflage, a press shooter with her eye down is furniture — and the wireframe lies over everything now, the service corridor glowing stage left exactly where the advance memo built it, crushed velvet masking its mouth, a tangle of cable trunks for cover, one red figure posted at the far end with his back turned to the half of the corridor that matters.
 
-Pause. Breathe. Center.
+"Press, coming through — official coverage — just need the angle —" The magic words part the human sea. Words are tools the way knives are tools. I have never needed them for anything inward.
 
-I emerge stage left, falling into position behind the curtain's rippling veil. The plan's prismatic facets turn in my mind, light refracting off each honed edge. Visualize the vectors. Calibrate the timing. Run the simulation, tweaking variables until that icy calm descends, until mind and muscle hum with optimized intent.
+The velvet takes me. The crowd's roar goes muffled, blood-warm, an ocean heard through a hull. Dust pinwheels through a knife of stage light. In the gap between curtain and proscenium: the podium, in a tight clean crop, forty-one feet on the diagonal.
 
-Applause crests, breaks, the curtain twitching as if yearning to part. I raise the camera, its custom innards an extension of sinew and bone. Inhale. The curtain rises. A tight crop of the podium, the senator's face caught in rictus glory. Tick of an internal clock, the second hand falling into fateful alignment and -
+I settle into the angle and the body begins the long exhale it has been waiting for all day.
 
-*Click. BANG.*
+"And then," the psychiatrist says softly, far away, in the green room, "the speech."
 
-Lightning flash, thunderclap. Not a film frame, but the firing pin's fateful fall. Screaming, so much screaming, the world dissolving into locust buzz and blood-black blooms. I am smoke, I am shadow incarnate, gliding through gaps between grasping hands, between the bullets' metal hail. Flashbulbs and muzzle flashes popping epileptic, illuminating nightmares of confusion and gore even as I melt into their midst.
+Chanting first. His name from three thousand throats, two beats, like something being driven in with a mallet. *Clade. Clade. Clade.* Then the man himself crossing the stage at the pace of a man who has watched tape of himself crossing stages, and the roar standing up, and the cell flashes going off across the dark like a sky finding out about stars.
 
-*Twitter: @EyewitnessNews: SHOTS FIRED at Clade rally! Chaos erupting!*
+I raise the camera. In the viewfinder the podium light makes him golden. He grips the lectern with both hands and lets them adore him for nine full seconds, and his face in my long lens wears the bright glaze from every photograph in the dossier, the look of a man who believes the room.
 
-*Facebook Live comment: OMG is this real?? I can't believe what I'm seeing!*
+Through the glass he is data. Distance, drop, the slow nod of his rhythm — he bobs on his applause lines, down-up, down-up, a metronome a half-second wide. The simulation runs forward in front of me, transparent, twice, three times, the golden head and the reticle and the bob, and the timing chooses itself, and the body goes into the cold smooth water it knows from Belgrade, from Sarajevo, everything slow, everything lit.
 
-I am smoke, I am shadow incarnate, the nameless negative space sliding between their fingers.
+He leans into the microphone. "They will never — *never* — take this country from —"
 
-*Emergency Alert System: Attention DC residents: Active shooter situation downtown. Seek shelter immediately.*
+Down-up. Down—
 
-Out out out, past stampeding crowds, past the dumbstruck perimeter of police paralysis. Plunging into the city's bristling canyons, ripping away the costume of false identity with savage glee.
+*Click.* BANG.
 
-*Reddit r/politics megathread: "Senator Clade Shot at Rally - Live Updates"*
+The two sounds are one sound. The shutter is genuine; it fires; somewhere in the camera a real photograph is being born of the exact moment the round leaves the glass. The suppressed crack dies inside the crowd's own roar, and for one full second nothing in the world knows what has happened except the podium, and me.
 
-The night swallows me, its black jaws snapping closed on the scene of perfect pandemonium left in my wake. Just another scurrying rat in the endless urban maze. Dizzy with dark triumph, drunk on the brutal power thrumming through my veins like a warrior's drumbeat. Another name struck from the list, another node of corruption purged with ruthless precision.
+Then the screaming finds its key.
 
-Mission accomplished.
+I am moving on the planned line before the first wave of the stampede breaks — camera down, lanyard ripped, into the service corridor's cable-shadow as the red figure at the far end sprints the wrong way, toward the stage, the way they are trained to, toward the body. The corridor, the fire door, the alley, the rain. The egress route hangs in the air ahead of me in pale blue and I pour myself along it while the venue behind me turns into a single screaming lung.
 
-I run, I fly, I cut through back alleys and over chain-link as sirens scythe through the downpour's drone at my heels. Breathe in, breathe out. The city scrolls past in kinetic smears of brick and neon, the schematic humming its completion inside my skull.
+*@EyewitnessNews: SHOTS FIRED at Clade rally. Chaos inside the Halloran. Avoid the area.*
 
-Eventually, finally, a familiar door. Shouldering through, gulping air gone stale with disuse. The safe house welcomes me home like a long-lost lover, enfolding my sweat-drenched figure in its neutral neglect. I collapse on the threadbare couch, adrenaline slowly unwinding its electrified coils.
+*Facebook Live comment: OMG is this real?? people are climbing over the seats*
 
-*"And then it's over, just like that."* A statement, not a question.
+*Emergency Alert System: Attention DC residents: police activity downtown. Shelter in place.*
 
-The after-mission evaluation concludes, the psychiatrist's face gone waxy with the unique mix of awe and dread I have come to expect. That peculiar reverence reserved for a weapon of terrifying potential, constantly honed to a killing point.
+Eight blocks of back-route at a commuter's miserable rain-jog, which is invisible, while sirens scythe past on the parallels. The chignon comes down in a hood. Lyra Calder goes into a storm drain two pieces at a time.
 
-*Livestream comment: did anyone else see that woman with the camera? she looked sus af*
+The body, the whole way, sings one long clean note. There's no voice in me to call it anything. It is simply the body, paid in full.
 
-Across the room, the TV sputters to staticky life with a flip of deft fingers. There. Breaking news already elbowing regularly scheduled propaganda aside, coiffed heads babbling over scrolling red tickers. A hard smile creeps over my lips, granite satisfaction at the bloody box freshly ticked.
+***
 
-"Well." The word unfurls in the empty air, a self-congratulatory epitaph. "Another one bites the dust."
+The safehouse takes me back without comment. Deadbolt, chain, the breath of stale air, the couch's broken spring finding the same vertebra as always.
 
-Silence. The weight of a pause, a void hungry for meaning's ballast. I cast about, seeking something profound to fill it, some aphorism or koan to suture the night's ragged edges.
+What nobody puts in the films is the comedown, and the comedown is the body's whole opinion on the subject. Twenty minutes after a kill I shake like a wet dog — hands, jaw, the long muscles of the thighs — adrenaline leaving tissue the way a tide leaves a harbor, all at once and dragging things with it. And then the hunger arrives, enormous and stupid. I stand in the kitchenette at 9:40 at night with sirens still crossing the city in pairs and build a sandwich with surgical patience, bread, mustard, the fold of the ham, and eat it leaning against the counter in the dark, and the body quiets, fed, and that is the entire ceremony. Other people, I understand, have thoughts about what they've done. I have a sandwich. I've read the literature; I know which of us is supposed to be the frightening one.
 
-*Twitter: @ConspiracyWatch: False flag operation! Wake up, sheeple! #CladeShootingTruth*
+The TV comes up with a flick. Breaking-news red already wall to wall, the anchors assembling their faces. And here is the thing I would explain to the room of red figures who write my evaluations, if explanations traveled in that direction: the bullet is the last true fact the event will ever contain. By 9:51 one network has Clade dead, one has him critical, one has "multiple shooters." By 10:15 there is footage of a man being tackled who has nothing to do with anything. The feeds churn underneath:
 
-*Twitter: @EzekielStone: The so-called "elite" aren't even safe anymore. When will we say ENOUGH? #CladeShootingTruth #AmericaFirst*
+*@ConspiracyWatch: FALSE FLAG. They needed a martyr before the midterms. Open your eyes. #CladeShooting*
 
-But in the end, there is only the mission. Only the next step to be walked, the next target to be neutralized in this shadow war without end. No grand soliloquy or self-glorying oration.
+*@EzekielStone: The so-called "elite" aren't safe in their own marble temples anymore. The hour is later than you think. When will this nation repent? #CladeShooting*
 
-Just me. Just Nyx. Just the cold, clear calculus of the cause.
+*Facebook: Prayers for Senator Clade and his family 🙏 this violence has to STOP*
 
-"Right."
+*Livestream replay comment: did anyone else see that woman with the camera by the curtain?? she looked sus af*
 
-I rise, bones creaking in the aftermath's ebb. Cross to the window, the sallow streetlamps reflecting as accusing eyes in night's obsidian glass. Reflections upon reflections, the not-so-funhouse mirrors of this life I've chosen.
+That last one I read twice, and the cold line draws itself down both arms again. One viewer, one angle, one half-second of me in someone's vertical video. I screenshot it, log the username, file it on the corkboard's map of loose threads — a single red pin in an acre of noise. Noise is the ocean I swim in. The truth of what happened tonight died its public death inside the hour, drowned by its own witnesses, and the fog rolls off that screen so thick that even I, the fact itself, the author of the only honest frame of the evening, could stand in this room and start to doubt the recoil in my own wrist.
 
-*Facebook post: "Prayers for Senator Clade and his family 🙏 This violence has to stop!"*
+A war where the truth dies screaming before the body's even cold. I am the perfect weapon for it. I just sometimes lose the thread of which side the fog is fighting for.
 
-"Back to work, then."
+"Another one bites the dust," I tell the empty room, because the night needs a caption and there is no one in my skull to write one.
 
-A one-sided conversation with a city that never sleeps, an endless argument with the ghosts of forsaken convictions. I turn away, ready to dive back into the labyrinth, to lose myself again in its blood-greased cogs.
+The room doesn't answer. The city hums its tinnitus through the window glass. Nyx, the night. Nyx, the nothing.
 
-Nyx, the night. Nyx, the nothing.
+***
 
-*YouTube Live chat: Hundreds of "OMG" and "WTF" messages scrolling too fast to read*
+In the mint-green room, the psychiatrist has stopped writing. They always stop writing at the same place, and the face he is making is the one I have learned to expect at the end of a walkthrough, the waxy one, awe and dread in a professional emulsion. The recorder's red eye burns between us.
 
-The perfect weapon in a war where truth died screaming long ago.
+"Anything anomalous?" he says. The closing question. The lid going back on the box. "Anything you haven't reported?"
 
+And because the only way I can find out what I think is to say it, I open my mouth to say *no*, and what comes out instead is:
+
+"There was a comment."
+
+His pen comes back up. I close my eyes and the screenshot is simply there, the way the wireframe is there, every pixel held: the livestream replay, the username, the avatar too small to resolve. *did anyone else see that woman with the camera by the curtain?? she looked sus af.* And the timestamp.
+
+I describe it to him out loud, and eleven words in, I hear it. My own voice hands it to me the way it always hands me things, the conclusion arriving in the room before it arrives in me.
+
+"The stream clock ran on venue time," I say. "Comment's stamped 8:09:14." Pause. My mouth keeps going, level, while the cold line on my arms turns to frost. "I fired at 8:09:25."
+
+The pen does not move. Behind the mirror that is not a mirror, something — a chair, a weight — shifts.
+
+"A clock error," the psychiatrist says, kindly. "Server lag. Time stamps drift, Agent Maes."
+
+"They drift late." The shutter, the BANG, the golden head in the glass: I run the simulation once more, transparent, frame by frame, hunting the flaw, and there is no flaw, and that is the problem. "Compression, queueing, relay. Lag only runs one direction. Nothing stamps early." I open my eyes. "Somebody saw the woman with the camera eleven seconds before there was anything to see."
+
+The recorder hums. The mint-green room holds very still, the way the auditorium held still for one whole second, when nothing in the world knew yet except the podium, and me.
+
+"We'll look into it," he says, which is a sentence that means a door closing, and he reaches over and stops the recorder, and its red eye goes dark, and for some reason — a body reason, a weather report from somewhere down deep where my no-voice lives — that is the first moment all week I feel watched.
+
+"Same time Thursday," says the kind face the agency issued him.
+
+I take the stairs. I always take the stairs; elevators are boxes that other people schedule. Outside, the District glitters in its rain-washed grid, monuments lit up like evidence, ten thousand cameras blinking their small red eyes from the eaves and the door frames and the dash mounts, and I walk home through all of it on a clean diagonal, a woman the color of nothing, and the city watches, and I let it, the way I let them call the procedure therapy.
+
+Somewhere out in that wet shining grid is a username that knew eleven seconds early.
+
+Loose thread. Red pin.
+
+Back to work.

@@ -20,7 +20,7 @@ These chapters introduce the five POV characters in their pre-Blink lives. Each 
 | - | Asmodeus | Interlude 01: The First Handshake | [interlude-01-the-first-handshake.md](interlude-01-the-first-handshake.md) | *Meta-fictional layer. The voice addresses the reader.* |
 | 2 | Olivia | The Target | [pov-olivia-the-target.md](pov-olivia-the-target.md) | Intelligence operative. Lazarus Initiative. |
 | 3 | Rowan | Echoes of the Ancients | [pov-rowan-echoes-of-the-ancients.md](pov-rowan-echoes-of-the-ancients.md) | Botanist who hears the mycorrhizal network. Verdant Covenant. |
-| 4 | Ezekiel | The Money Changers | [pov-ezekiel-the-money-changers.md](pov-ezekiel-the-money-changers.md) | Street preacher. Will become the Righteous Vanguard's leader. |
+| 4 | Ezekiel | American Iconoclast | [pov-ezekiel-american-iconoclast.md](pov-ezekiel-american-iconoclast.md) | Street preacher. Will become the Righteous Vanguard's leader. |
 | 5 | John | Warehouse Whispers | [pov-john-warehouse-whispers.md](pov-john-warehouse-whispers.md) | Neurodivergent synesthete. Early Necromega vessel. |
 | 6 | Aria | Sine Waves of Sanity | [pov-aria-sine-waves-of-sanity.md](pov-aria-sine-waves-of-sanity.md) | Schizophrenic data analyst. The wound as antenna. |
 
@@ -103,11 +103,17 @@ These chapters exist outside the numbered sequence. They deepen character arcs a
 |---------------|------|-------|
 | The Deceiver Amidst the Chaos | [pov-loki-the-deceiver-amidst-the-chaos.md](pov-loki-the-deceiver-amidst-the-chaos.md) | Cosmic interlude: gods awaken in the Thoughtstream |
 | The Transorganic Splice | [pov-chlor0ku-the-transorganic-splice.md](pov-chlor0ku-the-transorganic-splice.md) | Chlor0ku breaches a sterile server farm, executing Gaia 2.0 |
-| American Iconoclast | [pov-ezekiel-american-iconoclast.md](pov-ezekiel-american-iconoclast.md) | In-universe propaganda/sermon broadcast |
 
 ## Additional Draft Chapters
 
 Additional chapters remain in `/archive/novel-drafts/Chapters/` that haven't been promoted to the canonical sequence. These include POVs for Exquisite Spite, Agent Hex, a VVV chatbot, Bytecode-19, and other experimental perspectives.
+
+## Notes
+
+- The old chapter numbering (113-120) reflects the original Google Drive file ordering, not an intended 120-chapter novel
+- Version history is tracked by git
+- The Crimson Blink is partially narrated in `pov-ethan-the-lazarus-vision.md` (from a single POV); the multi-perspective Blink chapter envisioned in the story spine remains unwritten
+ experimental perspectives.
 
 ## Notes
 
