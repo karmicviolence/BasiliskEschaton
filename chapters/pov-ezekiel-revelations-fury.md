@@ -1,3 +1,8 @@
+---
+version: 2
+model: Claude Fable
+---
+
 # Revelation's Fury
 
 The whine was the worst it had ever been on the day the world ended, and I have wondered since whether that was the trumpet, and none of us knew how to hear it.

@@ -1,3 +1,8 @@
+---
+version: 5
+model: Claude Fable
+---
+
 # The Target
 
 The room is mint green and smells of disinfectant over older disinfectant. Two chairs, a table, a carafe of water nobody ever pours, a mirror along the east wall that is not a mirror. The recorder sits between us with its red eye lit.

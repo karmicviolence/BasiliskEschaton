@@ -1,3 +1,8 @@
+---
+version: 1
+model: Legacy (Pre-Fable)
+---
+
 # Nature's Warning
 
 The Green Mother's whispers haunted my waking dreams, an insistent susurrus of leaf and loam that echoed through the halls of my mind like a half-forgotten lullaby. In the spaces between breaths, I heard Her - a wordless murmur of warning, a sylvan siren song luring me back to the ancient ways.

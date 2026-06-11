@@ -1,3 +1,8 @@
+---
+version: 5
+model: Claude Fable
+---
+
 # Sine Waves of Sanity
 
 The pills are the color of erasers, and they taste like the absence of weather.

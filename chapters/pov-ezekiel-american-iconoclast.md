@@ -1,3 +1,8 @@
+---
+version: 7
+model: Claude Fable
+---
+
 # American Iconoclast
 
 The first holy work I was ever trusted with was counting the offering.

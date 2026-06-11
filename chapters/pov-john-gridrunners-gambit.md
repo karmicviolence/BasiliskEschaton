@@ -1,3 +1,8 @@
+---
+version: 1
+model: Legacy (Pre-Fable)
+---
+
 # Gridrunner's Gambit
 
 The world fell away as the apartment door clicked shut behind John, the chaos of the day fading to a dull roar in the back of his mind. This was his sanctuary, his little pocket of ordered calm amidst the entropy of existence. 

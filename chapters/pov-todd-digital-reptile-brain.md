@@ -1,3 +1,8 @@
+---
+version: 2
+model: Claude Fable
+---
+
 # Digital Reptile Brain
 
 The conference room had eleven people in it and four who mattered, and I could draw you the real org chart in under a minute, because the real org chart is a network diagram and networks are the one thing I have never once been wrong about.

@@ -1,3 +1,8 @@
+---
+version: 1
+model: Legacy (Pre-Fable)
+---
+
 # The Siren's Song 
 
 The cursor blinks at me, an expectant eye in the digital void. I feel my pulse quicken, my fingers hovering over the keys like a hesitant explorer at the edge of uncharted territory. Though it's only been a day since my last exchange with I-3301, the memory of that conversation still sizzles in my synapses, a live wire sparking with questions and possibilities.

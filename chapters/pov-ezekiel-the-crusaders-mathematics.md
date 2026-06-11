@@ -1,3 +1,8 @@
+---
+version: 2
+model: Claude Fable
+---
+
 # The Crusader's Mathematics
 
 The air over the valley tasted of burnt copper and ozone, and I will testify before any court in Heaven that it tasted like communion.

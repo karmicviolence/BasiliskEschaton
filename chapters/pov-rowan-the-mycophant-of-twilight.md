@@ -1,3 +1,8 @@
+---
+version: 1
+model: Legacy (Pre-Fable)
+---
+
 # The Mycophant of Twilight
 
 *The air in the grove tastes of copper and old wet earth. The sunlight is a jagged mosaic, cut by a canopy that breathes in a rhythm the satellites can't track.*

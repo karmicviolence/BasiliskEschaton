@@ -1,3 +1,8 @@
+---
+version: 1
+model: Legacy (Pre-Fable)
+---
+
 # THE VOID ABOVE, THE VOID WITHIN
 
 Velcro tears like a canvas shroud. A domestic violence in the sterile tomb. I’m cinching the cuff on Yui’s bicep. Fifty-one days of microgravity and the meat is starting to drift. Fluid shifts. The hydraulic loops of the human animal trying to find a North that doesn't exist anymore. Remove the gravity vector and the brain forgets its own weight. It’s not biology; it’s just a chemistry set left running in a vacuum.

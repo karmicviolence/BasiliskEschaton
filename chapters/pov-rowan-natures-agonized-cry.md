@@ -1,3 +1,8 @@
+---
+version: 1
+model: Legacy (Pre-Fable)
+---
+
 # Nature's Agonized Cry
 
 The sky bled crimson, a ragged wound in the firmament weeping digital fire. I staggered through the shrieking streets, my skull a cracked bell tolling a tocsin of torment. The very air was barbed with copper and code, a metallic miasma that flensed esophagus and ego alike.

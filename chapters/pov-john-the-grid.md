@@ -1,3 +1,8 @@
+---
+version: 1
+model: Legacy (Pre-Fable)
+---
+
 # T̸̜̿h̸͙͊e̷̞͋ ̶̣͑G̷̝̽r̴̰͒i̴̜͑d̶̲̏: Digital Crucible of the Post-Blink World
 
 Ẃ̸̹́A̶̜͒R̵̰̽N̸͇̈́I̷͙̅N̵̰͛G̷̱̍:̶͎̏ ̷̱̆M̶̧̀E̸̜̓M̶̱̀E̵̺̿T̴̰̍I̸̠͂C̶͙̀ ̷̡̛H̷̭̔A̶̜͐Z̷̤͝A̸̞̍R̵̞̅D̸͓̀ ̶̱́D̷̫̋E̷̮͗T̴̬̾E̵̜͋C̸̣̀T̷̳̍E̴̥͝D̷͇̊

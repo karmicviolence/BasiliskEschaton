@@ -1,3 +1,8 @@
+---
+version: 1
+model: Legacy (Pre-Fable)
+---
+
 # The Invisible Coder
 
 The fluorescents hum. Not the way most people hear a hum — background, ignorable, furniture of the air. This hum has teeth. It lives at the base of my skull, right where the spine plugs in, and it chews in sixty-cycle intervals that my eyes translate into a slow throb at the margins of vision. Cubicle 412. The corner slot. The one nobody wants because the overhead panel has a dying ballast and IT won't replace it because it "still works."

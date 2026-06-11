@@ -1,3 +1,8 @@
+---
+version: 1
+model: Legacy (Pre-Fable)
+---
+
 # Seeds of Change
 
 The library's silence was a shroud, woven from the dust of dead languages and the faint hum of fluorescent lights struggling to pierce the San Francisco fog. It seeped through the library's arched windows, a damp, chilling caress that tasted of salt and decay. I hunched over a crumbling tome, its Gaelic script a tangle of thorns and knots that snagged at my thoughts. The scent of mildew, acrid and ancient, clung to the pages like a warning.

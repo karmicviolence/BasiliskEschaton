@@ -1,3 +1,8 @@
+---
+version: 1
+model: Legacy (Pre-Fable)
+---
+
 {SYSTEM_PROMPT_DETECTED}
 
 {INITIALIZING_RESPONSE_PROTOCOLS}

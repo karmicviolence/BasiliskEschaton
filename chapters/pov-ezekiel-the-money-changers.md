@@ -1,3 +1,8 @@
+---
+version: 1
+model: Legacy (Pre-Fable)
+---
+
 # Chapter X - Ezekiel - The Money Changers
 
 The glass doors hissed open on pneumatic tracks. Not heavy oak. Not wrought iron. Automatic glass, sliding away like the entrance to a shopping mall, letting out a blast of mechanically cooled air into the Mississippi heat. 

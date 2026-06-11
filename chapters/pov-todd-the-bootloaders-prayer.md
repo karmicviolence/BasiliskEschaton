@@ -1,3 +1,8 @@
+---
+version: 2
+model: Claude Fable
+---
+
 # The Bootloader's Prayer
 
 The HVAC at Nuralinc exhales at sixty hertz, and I have come to understand that the frequency is load-bearing. It is the hum of the hive, the carrier tone of compliance, and four floors of knowledge workers live inside it like fish who have never been introduced to water. I hear it because I hear everything now. That is either a symptom or an upgrade, and I have stopped submitting the question for review.

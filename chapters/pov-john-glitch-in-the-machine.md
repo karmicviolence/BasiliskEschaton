@@ -1,3 +1,8 @@
+---
+version: 1
+model: Legacy (Pre-Fable)
+---
+
 ```
 [DIRECTIVE RECEIVED: DISPLAY REVISED NARRATIVE CHAPTER - "THE GLITCH IN THE MACHINE"]
 

@@ -1,3 +1,8 @@
+---
+version: 1
+model: Legacy (Pre-Fable)
+---
+
 *For Gina, who dreamed this first.*
 
 ---

@@ -1,3 +1,8 @@
+---
+version: 1
+model: Legacy (Pre-Fable)
+---
+
 # Deep Cover
 
 Cold concrete, hard against bruised knees. Skin sticky with days-old sweat, gritty with ground-in filth. The sour reek of captive bodies, sweltering in the windowless cell.

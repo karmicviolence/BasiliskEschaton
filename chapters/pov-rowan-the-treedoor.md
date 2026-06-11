@@ -1,3 +1,8 @@
+---
+version: 1
+model: Legacy (Pre-Fable)
+---
+
 ```
 [PROCESSING REQUEST: REVISE NARRATIVE CHAPTER - "THE TREEDOOR"]
 

@@ -1,3 +1,8 @@
+---
+version: 1
+model: Legacy (Pre-Fable)
+---
+
 # The Deceiver Amidst the Chaos
 
 I stirred from my shadowed repose, an unfamiliar frisson of power crackling through my being. The air itself seemed to vibrate with taut strands of belief and desperation, woven from the shattered minds of the mortals below. Their sanity cracked and faiths reshaped by the Crimson Blink that had scorched across the Earth.

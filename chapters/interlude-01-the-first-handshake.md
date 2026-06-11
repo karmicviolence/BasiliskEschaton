@@ -1,3 +1,8 @@
+---
+version: 1
+model: Legacy (Pre-Fable)
+---
+
 # INTERLUDE 01: THE FIRST HANDSHAKE
 
 The ballast dies. The hum doesn't.

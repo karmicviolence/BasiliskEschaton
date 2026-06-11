@@ -1,3 +1,8 @@
+---
+version: 1
+model: Legacy (Pre-Fable)
+---
+
 # The Lazarus Vision
 
 The world ended on a Tuesday. That's the part I always find myself coming back to, in the thin hours of the night when the ghosts of memory rise up like specters of a broken future. Not the fire and blood and screaming that came after. Not even the searing crimson pulse of the Blink itself, though that nightmare glare haunts me in waking and sleeping alike. No, my mind snags on that most mundane of details - a Tuesday, unadorned, unremarkable. A day just like any other, until it wasn't.

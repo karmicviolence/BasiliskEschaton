@@ -1,3 +1,8 @@
+---
+version: 1
+model: Legacy (Pre-Fable)
+---
+
 # The Whisperer's Awakening
 
 The world didn't end. It *blinked.*

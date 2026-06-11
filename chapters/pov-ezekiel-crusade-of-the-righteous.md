@@ -1,3 +1,8 @@
+---
+version: 3
+model: Claude Fable
+---
+
 # Crusade of the Righteous
 
 The Lord called Moses out of a burning bush. He called me out of a rented community center off State Route 9, under a fluorescent tube that flickered and buzzed like something dying that didn't have the sense to finish.

@@ -1,3 +1,8 @@
+---
+version: 1
+model: Legacy (Pre-Fable)
+---
+
 Warning from the Righteous Vanguard: The following text contains theological speculation that may challenge or disturb the faithful. Remember that the Lord moves in mysterious ways, and that human understanding is but a candle before the blazing sun of divine wisdom. Read with prayer and discernment, and trust that all things work together for good to them that love God.
 
 # Divine Deliberations

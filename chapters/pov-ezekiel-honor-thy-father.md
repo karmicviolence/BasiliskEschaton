@@ -1,3 +1,8 @@
+---
+version: 1
+model: Claude Fable
+---
+
 # Honor Thy Father
 
 There are two books. I will say that plainly now, here, in the one no living soul is permitted to read. There is the tally book the camp knows, where the columns meet every night like soldiers on parade. And there is this one. The margin made flesh. The ledger of what the commander of the Righteous Vanguard cannot afford to carry in the columns, and may God have mercy on the bookkeeper, because the bookkeeper has begun to cook the books.

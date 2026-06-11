@@ -1,3 +1,8 @@
+---
+version: 3
+model: Claude Fable
+---
+
 # The Ghost of the Asphalt
 
 The bass altered the air pressure in the room. Every time the 808 hit, the water-damaged drywall flexed on its studs, and a fine snow of ceiling dust drifted down through the strobe light like radioactive weather.

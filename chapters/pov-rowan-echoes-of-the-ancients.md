@@ -1,3 +1,8 @@
+---
+version: 1
+model: Legacy (Pre-Fable)
+---
+
 # Echoes of the Ancients
 
 The centrifuge whined, spinning up to fourteen thousand RPM. 

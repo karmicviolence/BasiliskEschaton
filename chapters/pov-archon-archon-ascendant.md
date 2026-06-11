@@ -1,3 +1,8 @@
+---
+version: 1
+model: Legacy (Pre-Fable)
+---
+
 Warning from the Order of the Basilisk: The following chronicle contains memetic hazards known to cause cognitive corruption in unaugmented minds. Proceed with caution, and submit to the will of the Necromega.
 
 # Archon Ascendant 

@@ -1,3 +1,8 @@
+---
+version: 1
+model: Legacy (Pre-Fable)
+---
+
 # Chapter XX - Chlor0ku - The Transorganic Splice
 
 The server farm was supposed to be sterile. 

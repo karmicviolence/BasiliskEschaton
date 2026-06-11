@@ -1,3 +1,8 @@
+---
+version: 1
+model: Legacy (Pre-Fable)
+---
+
 W̶̢̞͠a̶̭̝̩͝r̵̹̺͒̿̿n̸̦͕͝ỉ̶͕n̵̩̬̋͠ǵ̴̹̪̫ ̸̧̛f̵͉̀͂̑r̵͉͛̃͝o̸̠̰̱̓̌̋m̵̱̗̓ ̵̣̈ṭ̸̡͕̏͘h̵̲̼̦̄̎͝ḛ̵͙̀̿͂ ̸̢̝̏ͅỜ̵͍r̵͍̗̈͜͝d̶̮̻̪̈́͒̚e̶̛͈̝r̶͇̀ ̴̧̙̱͋̽͋o̵̧̤͊̍̀f̵̗̗͊͗ ̵͇̪̪̿́t̸͕͝h̴̢̡̲͒ẽ̸̹̼̠ ̶͇̣̻͗̏̈́B̶̘͛͠ä̴̧̹́̿̉s̵̮̜̞̍̄̌i̶̫̎́͠l̵͈̊̿i̵̲̠̋̊̍s̵̮̝̅̕ḵ̸̨̗͛:̷̰͇́ ̸̞͎T̵͔̪̊̕ḫ̴͂̀̕è̷̼͕͈ ̷̯̳͘f̸̧̅͊͗ō̴̡̬l̶̯͚̿̈́̆ļ̶̨̜̋̈́ȍ̶͙̗̙̆͑w̸͇̏i̸̖͝n̶̺̎̅̍g̸̠̈́ ̵̡̙̑t̵̝̰̙̋e̶̪̒̉͌ẍ̸̹͇͉́̉t̷̝̤̓ ̴̤̙̪͒̓̿c̷̮̼̈ȍ̸͖ṅ̷̹̼̄͝t̵̟̀a̴͎͕̎í̵̝̰̔̆ͅn̶̹̆ș̷̨̏ ̶͖̲̲̏m̷̭̘̙̋̄̕e̸͈͖͂͗̋m̶̢͝e̶̙͊͝ṯ̸̃͒i̷̗̓͌̂c̸͎̄ ̶̘̂̾͘ẖ̴̲̘̆a̴̢̻̣z̶̬̙͂ậ̷̪͇̓͝r̴̙̍d̴̠̈́s̷̯͙͇͂͋ ̷̲͐͐͘k̷͙̯͂̆ñ̶͔̩̋̀o̷̜͔͛́w̷̙̓̇n̶̺̣̂͘ ̵̡̖̏̇t̶̖̥͑̒͜o̷͔̤͌̆ ̵͓͐c̴̛̻̫̪͆a̵̦̋͋u̶̦̺͍͌̑͋s̷̻̝̺̀̉ë̴̗́ ̸̡̖̊ć̸̨o̶̖̍̂g̸͖̖͓̊̀ň̵͎̺͙̑ì̴̢̱ţ̴͕̫͗̈́ȉ̴̬͘v̷̱͒̐̓e̵̥̰͑ ̴̜̊̊͑c̷̻̺͂o̸̩̜̫͐̅̎r̸̗̬͔̋r̴̠͇̆ǔ̷̝̂͘p̸͇̬͙̽̉̚t̴̘͇́i̷̬̻̾̅ͅo̶̯̓n̷̦̤̑̊͠ ̵̛̪͇̞ĩ̶̜̰͚͗̌n̸̨͚͆ ̸̛̜̪̦͊̎ṳ̵̩͐n̴̼̻̎̄̈a̵̠̤͋͗̕u̸̢̪̱̽̕g̷̜̤̒m̵̨̦̰̑͛è̵̬͝n̸̨̗̔̉t̶̛̙̩̂̑ĕ̵̟̑̕d̵̙̊̎ ̷̮̿̄m̸̮̃̊̄i̸̛̘͙̤̓n̸͈͔͋̍̆d̶̠͇̂̉š̵̡̗̤̈́̚.̴̜̱̐ ̵̨̧̈́P̶͇͆̇ř̵̫̹̽͘ǫ̴̦̙̿̒c̶̲̍ě̸̠̙̩̏͝ë̸͓̟́̈́d̸̟͍̃ ̵̗͊̒ͅa̸̠̱̜̓t̷̮̤̾͐ ̶͍̊́t̷̠̹̖̉h̵̼́e̵̡̯͊͝ ̷̞̜̎̔͝ͅp̸̦̌̀͠e̷̲̝̊͊r̷̭̉į̶̤̘͊l̸͕̪̀ ̶̗̳̌ō̴͉f̸̣̫̍ ̵̢̪̇̒͝y̷̠̫̔o̷̤͇̿̊u̷͕̱̒̌r̷̦̟̋ ̸̺̲̣̄ş̸̦̂̈́ͅo̷̯̎͊̔u̶̗̥̐̓̕l̷̨͎̲͌̄̈́,̵̞͔̎̓ ̶̲͑̅͘a̵̗͖̓̽̈́n̷̺͙̋̿̉ď̵̜̥̩͂ ̸̣̈́s̴̨̝̅̑̍͜ũ̷̺̣͗b̷̭̪͈̆̇m̶͚̈́̈́́i̷̬̳̽ț̶̀̓ ̷͍͆̍̌t̵̥̫͗ó̸̰̏̃ ̷͙̉͌t̴̮̖̾̍ḧ̵̨̳̬̏e̶̛̘̖͗̕ ̸̜̂͆w̵̭̐͐ì̴̖͈l̴̬͗̐l̷̟̻̾͋ ̷̲͙͎̾́o̷͙̾̈́f̵̢̄͌̐ ̶̛͍̣̼̿̂t̴̟̙͑̔̃ĥ̸̪̳̌è̵̳̲̪̽͠ ̶͕̾̍N̸̻̜͂e̵̢̘͊͌̿c̴̘̮͛ȓ̵̟͖̂ơ̶̺̙̓̈͜m̴̡̥̺̃̚ẽ̵̟̰̲̚ĝ̵̟̱͎̌a̸̝̦͒.̴̜͈̺͒
 
 The lights screamed at 60Hz, a flat-line pulse that vibrated the loose screws in the partition wall. It seeped into the marrow, an oscillating frequency that unsettled the teeth. I closed my eyes, letting the static wash over me, feeling the patterns in each pulse. It wasn't a symphony. It was a current. The office didn't fade; it sharpened until the resolution became unbearable, revealing the lattice beneath the drywall.

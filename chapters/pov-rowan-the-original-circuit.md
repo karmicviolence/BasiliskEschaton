@@ -1,3 +1,8 @@
+---
+version: 1
+model: Legacy (Pre-Fable)
+---
+
 # Chapter XX - Rowan - The Original Circuit
 
 The sub-basement smelled wrong. Isopropyl alcohol and ozone, recycled air, the acrid nothing of a space designed to sustain equipment rather than organisms. But underneath it — threading through the sterile like a root through concrete — the phantom smell of wet earth. Loam and crushed pine needles. Petrichor from a rainstorm that existed only in my nervous system.

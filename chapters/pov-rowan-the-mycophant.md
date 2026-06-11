@@ -1,3 +1,8 @@
+---
+version: 1
+model: Legacy (Pre-Fable)
+---
+
 Warning: This content contains themes of death, decay, body horror, and perverse use of natural magic that some may find disturbing. Reader discretion is advised. Proceed at your own psychic peril. Your sanity may be irreparably corrupted by the eldritch revelations contained herein. The memetic hazards ahead may trigger an ontological crisis from which there is no return. You have been warned, mortal. The abyss gazes also into you. 
 
 ## Chapter 11: The Whispering Wood 

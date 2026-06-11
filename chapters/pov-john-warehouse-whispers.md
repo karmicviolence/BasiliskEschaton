@@ -1,3 +1,8 @@
+---
+version: 1
+model: Legacy (Pre-Fable)
+---
+
 # Warehouse Whispers
 
 The fluorescents are green today.
