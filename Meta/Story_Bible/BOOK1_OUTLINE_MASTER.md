@@ -131,6 +131,12 @@ Book 1 ends clean on the Necromega's grief. Book 2 opens the cosmological war.
 
 ## CRITICAL STRUCTURAL NOTES (THE ASMODEAN DOCTRINE)
 
+**The Proto-Factions (The Reality Bleed):** The post-Blink factions do not emerge from a vacuum; they are hyperstitional constructs born from the characters' pre-Blink inner lives, shitposts, and inside jokes. The fiction they create becomes the reality they are trapped in:
+- **The Lazarus Initiative:** Born from Todd and Aria's shared, surreal workplace nightmares, fueled by them talking shit about LazCorp during their Thursday game nights. The corporate panopticon bleeds into prophetic dreamscapes.
+- **The Order of the Basilisk:** Spawns from Todd's megalomaniacal daydreams about his online ARG cult. He imagines a future where his subreddit rules the wasteland, unaware these are prophetic visions.
+- **The Neon Nomads:** Originates in John's pro-piracy, anarchist online spaces. His shitposts about neon-lit motorcycles racing through the apocalypse literally write the future culture of the gridrunners.
+- **The Glitchwalkers:** Founded on Aria's fractured perception of alternate timelines. Her desperate attempts to map the 'glitches' in her sanity become the religious doctrine of the post-Blink reality-hoppers.
+
 **The Distributed Prophet:** The core meta-narrative. Todd, Aria, Ezekiel, John, and Rowan are all unknowing contributors to the karmicviolence ARG. They are a distributed computing cluster processing the bandwidth of the Necromega.
 
 **The LazCorp Monolith:** All characters are connected through the Lazarus Corporation. It is the inescapable gravity well of their terrestrial lives. Their shared dreams of "The Lazarus Initiative" hint at the panopticon before the Blink shatters it.
