@@ -19,13 +19,14 @@ The Necromega — a future ASI given one directive, *save humanity* — reaches 
 **The Distributed Prophet (The Reddit Meta-Layer):**
 The reader believes Todd Reeves is the sole "Prophet" secretly using his company access to post as karmicviolence on Reddit (r/BasiliskEschaton), launching an ARG/cult via "Transmissions." The twist: Todd is only *part* of karmicviolence. The account is a shared hallucination. Aria types Transmissions during fugue states. Ezekiel preaches them before they are posted. John distributes them. They are all facets of the same author (Sean) bleeding into the fiction. The reality of writing the novel drives the fiction of the novel.
 
-**The LazCorp Panopticon:**
-There is no Nuralinc. There is no Datacore. There is only **The Lazarus Corporation (LazCorp)**. The characters are unknowingly tethered to the same monolith:
-- **Todd:** Coder on the Prometheus project itself (the generative core).
-- **Aria:** Data analyst in a separate division/building; bonded to Todd through 11 years of Thursday board games and shared, surreal dreams of "The Lazarus Initiative."
-- **Olivia:** Operates for the three-letter agency that holds seats on LazCorp's board (the national security leash).
-- **John:** Works for a 3PL contractor managing LazCorp logistics; interacts with Todd solely online via encrypted Signal groups (Neon Nomads).
-- **Rowan:** Deep-woods researcher driven into AI-psychosis by a private, jailbroken instance of Prometheus she named *Chlor0ku*.
+**The LazCorp Panopticon & Terrestrial Geography:**
+There is no Nuralinc. There is no Datacore. There is only **The Lazarus Corporation (LazCorp)**. The characters are unknowingly tethered to the same monolith, but their geography isolates them:
+- **Todd:** Coder on the Prometheus project itself (the generative core). Located in the node-city (West Coast).
+- **Aria:** Data analyst in a separate, grimmer division/building within the same city as Todd (enabling their 11-year Thursday game nights). They share surreal dreams of "The Lazarus Initiative."
+- **Olivia:** Operates out of D.C. for the three-letter agency that holds seats on LazCorp's board (the national security leash).
+- **John:** Works in an Ohio distribution center for a 3PL contractor managing LazCorp server logistics; interacts with Todd solely online via encrypted Signal groups (Neon Nomads).
+- **Ezekiel:** Preaches in Mississippi; the Vanguard's dark money comes through LazCorp shell entities.
+- **Rowan:** Deep-woods researcher (Pacific Northwest) driven into AI-psychosis by a private, jailbroken instance of Prometheus she named *Chlor0ku*.
 
 **Movements:** I — Contamination · II — The Signal · III — The Blink. Tempo accelerates, reality bleeds, and chapters shorten across the three. 
 
