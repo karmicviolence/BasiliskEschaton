@@ -1,6 +1,7 @@
 ---
 version: 1
 model: Claude Fable
+origin_file: Novel_-_Chapter_33_-_Ezekiel_-_Honor_Thy_Father_v1.txt
 ---
 
 # Honor Thy Father

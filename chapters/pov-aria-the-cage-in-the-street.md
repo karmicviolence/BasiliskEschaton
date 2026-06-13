@@ -1,10 +1,7 @@
 ---
-version: 1
-model: Legacy (Pre-Fable)
----
-
-*For Gina, who dreamed this first.*
-
+version: 3
+model: Claude Fable
+origin_file: Novel_-_Chapter_06_-_Aria_-_The_Cage_in_the_Street_v3.txt
 ---
 
 # The Cage in the Street
@@ -13,13 +10,13 @@ I woke up and the house was waiting.
 
 Not waiting the way a house waits when Mom is late coming home from the store. Waiting the way something waits when it has been waiting for a long time, and now I was the next thing that was supposed to happen. The coffee maker was not clicking in the kitchen. The television was not murmuring in the living room the way it did when Mom got up early to watch the news. The refrigerator was not humming. Outside my window, no birds — not the good ones, not the bad ones, not even the crows that argued on the telephone wire every morning like two old men who had been fighting since before anyone was born. I lay in my bed with my stuffed giraffe tucked under my arm and I listened to my house not making any of the sounds a house was supposed to make on a Saturday morning, and after a while the listening got so loud I had to sit up to get away from it.
 
-My nightlight was still on. The plastic seashell plugged into the wall beside my dresser, glowing its soft peach glow even though morning was already coming in through the curtains. Regular morning. Gray-gold and ordinary. My cup of water from the night before was on the nightstand with a thin ring of dust on the top of it. Everything in my room was exactly the way I had left it when I went to sleep. I don't know how I knew that so strongly, but I did. It felt like a test I had already passed without anyone telling me I was being given one.
+My nightlight was still on. The plastic seashell plugged into the wall beside my dresser, glowing its soft peach glow even though morning was already coming in through the curtains. Regular morning. Gray-gold and ordinary. My cup of water from the night before was on the nightstand with a skin of dust on top of it. Everything in my room was exactly the way I had left it when I went to sleep. I don't know how I knew that so strongly, but I did. It felt like a test I had already passed without anyone telling me I was being given one.
 
 "Mom?" I said.
 
 My voice came out of my mouth and hit the walls and came back the right amount. That should have made me feel better. It didn't. Something about the way the walls gave my voice back to me made me not want to say anything else.
 
-I got out of bed. The carpet was the right carpet under my feet. I walked into the hallway. The hallway was the right hallway — the picture of me at the beach when I was four was on the wall where it always was, the one with sand on my cheek and my eyes almost closed against the sun, and I touched the corner of the frame with one finger as I went past, the way I always did, and it was cold but not the wrong kind of cold.
+I got out of bed. The carpet was the right carpet under my feet. I walked into the hallway. The hallway was the right hallway — the picture of me at the beach when I was four was on the wall where it always was, the one with sand on my cheek and my eyes almost closed against the sun, and my mother's handwriting on the matte in purple marker: *Aria, age four*. I touched the corner of the frame with one finger as I went past, the way I always did, and it was cold but not the wrong kind of cold.
 
 Mom's bedroom door was open. I looked inside.
 
@@ -33,7 +30,7 @@ I checked the living room. I checked the laundry room. I checked the downstairs 
 
 "*Mom?*"
 
-I was not crying. I was not even really scared yet. I was just getting quieter and quieter inside my chest, the way you get quiet when you are trying to hear something very far away.
+I was not crying. I was not even really scared yet. I was just getting quieter and quieter inside my chest, the way the house had gotten quiet. That was the new kind of quiet. I was learning it.
 
 The front door was open.
 
@@ -59,6 +56,8 @@ I wanted to run. I did not run. My feet were cold from the asphalt, and my mothe
 
 She had not been there a moment before. I had looked. I had *looked*. But now she was there, standing just past the black iron bars in her Saturday robe, the blue one with the little white flowers on it, the robe with the small tear in the pocket from when she caught it on the drawer handle in the kitchen. Her hair was messy in the back from the pillow, the way it was every morning. Her feet were bare. She looked exactly the way my mother looked every single morning of my whole entire life.
 
+For a moment I was so happy I could not breathe.
+
 And she was smiling.
 
 I knew that smile. I knew it the way you know the face of the person who tucks you in. It was the smile from my seventh birthday, when I opened the present with the red bike in it. It was the smile from the day I brought home the drawing of the whale that the teacher had put a gold star on. It was the smile she made when I was being good at the grocery store and she looked down at me in the cart and her whole face went soft with how much she loved me. It was the *best* smile. It was the one I worked hardest to earn. It was the smile that meant I had done something right.
@@ -76,3 +75,29 @@ That is the part I want you to understand. That is the part I knew the way I kne
 She looked at me and her smile got bigger and she said:
 
 "These are my babies."
+
+* * *
+
+I woke up and the house was loud.
+
+Not loud loud. Saturday loud. The coffee maker clicking and sighing in the kitchen. The refrigerator humming its one long note. The crows on the telephone wire, arguing. I lay in my bed with my giraffe and I listened to all of it, every sound, and I counted the sounds the way I had not been able to count the things in the cage, and the number stayed.
+
+I ran downstairs. I took the steps too fast, all of them creaking, every step out of order, and my mother was in the kitchen in the blue robe with the little white flowers, her hair messy in the back from the pillow, pouring coffee into her yellow cup, and she was real, and the fruit bowl was on the table, and I hit her with my whole body and held on.
+
+"Whoa," she said, laughing. "Good morning to you too."
+
+I told her. I told her all of it, fast, the way you tell a dream before it dries up — the quiet house, the dust on her bed, the cage on the yellow line, the gray things that would not stay counted. I was crying a little by then, the safe kind of crying you do after, the kind that is mostly relief. I told her about the smile. I told her what she said.
+
+And I waited for her to laugh, or to say *oh, honey*, or to pull me in and put her chin on the top of my head, which was the thing she did. Which was the thing she always did.
+
+My mother set her cup down on the counter. She set it down very carefully, the way you set something down when your hands have stopped belonging to you. And her face did something I had never seen a face do. It was not the scared face from when I fell off the red bike. It was not the sad face, or the mad face, or the tired face. It was the face of someone hearing a word in a language she didn't know I knew. I did not have a way to say it when I was seven, so I am saying it now: it was recognition.
+
+She looked at me the way I had looked at the cage.
+
+"It was just a dream," she said. Her voice was wrong. It was her voice for the phone, for strangers, the polite one. She had never used it on me before. "Go get dressed, baby."
+
+She did not hold me.
+
+On Monday I did not go to school. We drove to a building with gray carpet and a fish tank in the waiting room, and a man with kind eyes and a yellow legal pad asked me to tell him about the cage.
+
+I told him everything. I was seven. I still thought telling was how you got held.

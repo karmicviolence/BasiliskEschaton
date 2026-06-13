@@ -1,6 +1,7 @@
 ---
 version: 3
 model: Claude Fable
+origin_file: Novel_-_Chapter_18_-_John_-_The_Ghost_of_the_Asphalt_v3.txt
 ---
 
 # The Ghost of the Asphalt

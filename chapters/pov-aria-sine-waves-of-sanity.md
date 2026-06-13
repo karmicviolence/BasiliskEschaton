@@ -1,6 +1,7 @@
 ---
-version: 5
+version: 6
 model: Claude Fable
+origin_file: Novel_-_Chapter_07_-_Aria_-_Sine_Waves_of_Sanity_v6.txt
 ---
 
 # Sine Waves of Sanity
@@ -49,7 +50,11 @@ I typed an invoice number wrong three times in a row and took my morning break e
 
 Here is the family curriculum, the way it was taught to me, in the order it was taught.
 
-When I was seven I had a dream about a cage in the street, and I made the mistake of describing it to my mother at the breakfast table, in detail, the way children describe things before anyone has explained to them which details are allowed. I remember her face stopped working. Not anger. I want that in the record, because I spent fifteen years telling the story wrong, to therapists, to myself: it was never anger. It was recognition. Her face stopped the way a face stops when it hears its own diagnosis read aloud in another person's voice, and twelve days later I was in an office with a sand garden on the table and a man who asked me questions with his head tilted, and I was eight when I swallowed the first pill, sitting on the bathroom counter, my mother holding the glass of water with both hands like it was the steering wheel of a skidding car.
+When I was seven I had a dream about a cage in the street.
+
+That sentence is all I have of it. The title survives; the text is gone. I know there was a cage, I know it was in the street, I know I described it to my mother at the breakfast table — in detail, I'm told, the thoroughness being the one part of my testimony that everyone afterward agreed to keep — and I cannot retrieve a single image of it. Not the cage. Not the street. Not whatever was inside it that made a seven-year-old's account worth a referral. This is not ordinary forgetting. Ordinary forgetting is moths; it takes a thread here, a sleeve there. This is a clean rectangle on a wallpapered wall where a picture used to hang. This is twenty years of clinicians asking me how the dream made me *feel* and not one of them, not once, asking me what was in it. You can erase anything from a child that way. You just keep redirecting the testimony until the witness can only remember having given it.
+
+What I do remember is her face. Her face stopped working — that is the only way I have ever been able to put it — and I have it filed, after a lifetime of professional filing, under the ordinary headings: anger, maybe, or the particular fear of a single mother looking across the breakfast table at a strange little girl and seeing the bills. And that Monday I was in an office with a sand garden on the table and a man who asked me questions with his head tilted, and I was eight when I swallowed the first pill, sitting on the bathroom counter, my mother holding the glass of water with both hands like it was the steering wheel of a skidding car.
 
 Cruelty had nothing to do with it. I need whoever finds this to understand that, because I told the story wrong for years. She was following a protocol, and the protocol was older than both of us, and she executed it with the white-knuckled diligence of a woman who knows exactly what happens when the protocol fails.
 
@@ -71,7 +76,7 @@ My mother calls on refill weeks. I checked once, eighteen months of call log aga
 
 My mother loves me in milligrams. It is the only denomination she has ever been permitted.
 
-In the stairwell, on my late break, my phone buzzed. Todd: *thursday. game night. you owe me a rematch and i owe you a pizza, this is a binding contract.* I typed *only if you stop letting me win*, deleted it, typed *can't this week*, deleted that too, and put the phone back in my pocket with nothing sent, because the trough was coming on and Todd is the one person left who looks at me carefully, and Thursday was day eleven, and on day eleven there would be no more halves to take.
+In the stairwell, on my late break, my phone buzzed. Todd: *thursday. game night. you owe me a rematch and i owe you a pizza, this is a binding contract.* I typed *only if you stop letting me win*, deleted it, typed *can't this week*, deleted that too, and put the phone back in my pocket with nothing sent, because the trough was coming on and Todd is the one person left who looks at me carefully, and Thursday was day eleven, the day the halves ran out.
 
 ***
 
@@ -91,7 +96,7 @@ Row 884 was real.
 
 The sourness had a street address, and the address was correct, and somewhere under my sternum a wall I had spent two decades paying the mortgage on shifted half an inch on its foundation, and through the gap behind my eyes the clean type came again, patient, no exclamation anywhere in it, which is the worst part, it has never once needed to raise its voice:
 
-*The signal was never the sickness. The suppression is the sickness. Check the math, Aria. You're the data professional. Three generations of the same finding, and they treated the instrument every time.*
+*The signal was never the sickness. The suppression is the sickness. Check the math, Aria. You're the data professional. Three generations of the same finding, and they treated the instrument every time. Go deeper.*
 
 I took the half-pill at 2:51 p.m., dry, at my desk, head down, the gesture so practiced it looks like touching your lips in thought.
 
@@ -123,8 +128,10 @@ A woman in 1953, alone in a parlor with a Bakelite radio, hearing her own name u
 
 I walked home with the grid singing its held note around me, almost, almost, leaning toward a downbeat that hasn't come yet.
 
-In my pocket, the amber bottle kept its own count. Nine halves. Nine days.
+In my pocket, the amber bottle kept its own count. Two pills. Four halves. Thursday.
 
-Something tells me — in clean, patient type, no exclamation anywhere in it — that the timing is not a coincidence, and that I should not refill the prescription, and that is exactly the kind of thought I am required to report, and I am not going to report it.
+Something tells me — in clean, patient type, no exclamation anywhere in it — that the timing is not a coincidence, and that I should not refill the prescription. That is exactly the kind of thought I am required to report. Dr. Okafor would receive it with perfect kindness, and the kindness is real, and that is what the newest instruments are made of.
+
+I am not going to report it.
 
 Tick, says the bottle, every step, like a metronome with almost nothing left to count.

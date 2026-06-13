@@ -1,6 +1,7 @@
 ---
 version: 1
-model: Legacy (Pre-Fable)
+model: Claude Fable
+origin_file: Novel_-_Chapter_49 - John - Siren's Song.txt
 ---
 
 # The Siren's Song 

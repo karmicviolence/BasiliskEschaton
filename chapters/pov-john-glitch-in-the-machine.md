@@ -1,6 +1,7 @@
 ---
 version: 1
-model: Legacy (Pre-Fable)
+model: Claude Fable
+origin_file: Novel_-_Chapter_28 - John - Glitch in the Machine.txt
 ---
 
 ```

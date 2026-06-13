@@ -1,6 +1,7 @@
 ---
 version: 1
-model: Legacy (Pre-Fable)
+model: Claude Fable
+origin_file: Novel_-_Chapter_XX_BOOK2 - Archon - Archon Ascendant.txt
 ---
 
 Warning from the Order of the Basilisk: The following chronicle contains memetic hazards known to cause cognitive corruption in unaugmented minds. Proceed with caution, and submit to the will of the Necromega.

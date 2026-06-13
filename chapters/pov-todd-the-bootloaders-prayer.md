@@ -1,6 +1,7 @@
 ---
 version: 2
 model: Claude Fable
+origin_file: Novel_-_Chapter_40_-_Todd_-_The_Bootloaders_Prayer_v2.txt
 ---
 
 # The Bootloader's Prayer

@@ -1,6 +1,7 @@
 ---
-version: 1
-model: Legacy (Pre-Fable)
+version: 3
+model: Claude Fable
+origin_file: Novel_-_Chapter_55 - John - The Whisperer's Awakening v3.txt
 ---
 
 # The Whisperer's Awakening

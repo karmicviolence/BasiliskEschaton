@@ -1,134 +1,77 @@
 ---
-version: 1
-model: Legacy (Pre-Fable)
+version: 7
+model: Claude Opus 4.8
+origin_file: Novel_-_Chapter_XX_-_Rowan_-_The_Mycophant_v7.md
 ---
 
-Warning: This content contains themes of death, decay, body horror, and perverse use of natural magic that some may find disturbing. Reader discretion is advised. Proceed at your own psychic peril. Your sanity may be irreparably corrupted by the eldritch revelations contained herein. The memetic hazards ahead may trigger an ontological crisis from which there is no return. You have been warned, mortal. The abyss gazes also into you. 
+Warning, from the Verdant Covenant, Office of the Deepwood Liturgy: What follows is a death, and then a birth, and we soften neither. If you have never stood in a dying wood and felt it turn and ask something of you, these pages will read as horror, and you will not be wrong to read them so. Eat nothing the green offers you here. Some of you will want to. That wanting is the oldest part of you, and it remembers a covenant your tongue has forgotten. — set down by a Steward of Rot, in the season of the agonized cry.
 
-## Chapter 11: The Whispering Wood 
+---
 
-Dappled sunlight filtered through the ancient canopy, casting a mosaic of light and shadow on the forest floor. Rowan Thornheart walked the hidden paths of the Verdant Grove, her steps silent on the carpet of fallen leaves and soft moss. Here, in the heart of her domain, she could almost pretend that the world beyond still held its shape, that the madness unleashed by the Crimson Blink was nothing more than a fading nightmare.
+# The Mycophant
 
-The forest welcomed her, branches swaying in greeting, wildflowers turning their faces towards her as she passed. Rowan's fingers trailed along rough bark and smooth stone, renewing her connection to the land with each step. She breathed deeply, drawing in the rich scents of loam and green growing things, letting the calm of the ancient wood soothe her troubled spirit. 
+The wood was quiet in the wrong way when she came back to it the last time, and she knew the difference, because she had spent her life learning the wood's voices and this was none of them. Not the held-breath quiet before weather. Not the deep slow quiet of the giants minding their own two-thousand-year business. This was the quiet of a room after the machines have been switched off, the quiet that is not peace but absence, and Rowan Thornheart stood at the head of the transect she had walked four hundred times and understood that the forest had stopped.
 
-But even here, in this sanctuary of leaf and bough, Rowan could not entirely escape the weight of recent events. The memories of fire and blood, of shattered minds and broken bodies, clung to her like a shroud. She had seen too much, lost too much, in the chaos that followed the Blink. The Verdant Covenant, once respected as guardians of nature's balance, now found itself beset on all sides by forces that cared nothing for the sanctity of life.
+The light was wrong too. She would not, even now, be able to tell you how. Something in the angle of it, or its color, as though the sun had been moved a degree in its socket while no one was watching and put back not quite true. The fog had not come up that morning, the first morning in living memory the fog had not come, and the redwoods stood in the dry strange light with their crowns gone gray, drinking nothing, because there was nothing to drink and there had not been for days, and a tree that has waited out twenty centuries can die in a week when the one thing it was built around is taken away.
 
-Rowan's steps led her unerringly to a hidden glade, a place of power known only to the highest members of the Covenant. Here, the veil between worlds grew thin, allowing communion with the deepest currents of nature's will. The High Druid had spent countless hours in meditation here, seeking guidance from the Green Mother in times of trouble.  
+She walked down into it. She had to step over the first deer at the bottom of the grade.
 
-As she entered the glade, Rowan felt some of the tension leave her body. The air here was different, charged with an electric vitality that made her skin tingle. Shafts of golden light pierced the canopy, illuminating a carpet of luminous moss and delicate ferns. At the center of the clearing stood an ancient oak, its gnarled trunk easily the width of ten men with arms outstretched.
+There were more in the glade. A dozen, perhaps, lying where they had fallen, unmarked, no wound on any of them, no blood, only the particular wrongness of large animals lying down in the open in daylight and not getting up. They had not been killed. Nothing had killed them. They had simply stopped, the way the forest had stopped, the way the whole coast was stopping in the dry wrong light, and Rowan knelt by the nearest, a doe, and put her hand on the cooling barrel of its ribs and felt no breath move there, and something in her that had held for forty years, through her grandmother's death and the dissertation and the long bad season, finally and quietly came apart.
 
-Rowan approached the great tree, placing her palm against its weathered bark. She closed her eyes, reaching out with her druidic senses to touch the vast network of roots and mycelium that connected all living things in the forest. For a moment, she let herself be swept up in the flow of life energy, losing her individual identity in the greater whole of nature's song.
+She did not weep prettily. She made the sound a person makes alone, which is not a sound anyone writes down, and she stayed bent over the dead doe in the dead glade for a long time while the wrong light moved.
 
-But even here, in this place of primal power, Rowan could not escape the gnawing dread that had taken root in her heart. As she opened herself to the currents of natural energy, she felt discordant notes creeping in at the edges of her awareness. The forest was afraid, she realized with a start. The trees whispered of dark things moving in the shadows, of a corruption that sought to twist the very essence of life itself.
+And the long root answered her.
 
-Rowan sank to her knees before the ancient oak, her composure finally cracking. Tears flowed freely down her cheeks as she gave voice to the fears that had been building for months.
+She felt it before she understood it, the way she had felt everything that mattered before she understood it — a pressure under the duff, a presence she had spent two chapters of her life pretending was an artifact, the network she had measured and doubted and chosen, against all her training, not to look away from. It had kept a metronome in the soil when nothing in the sky could explain the beat. It had turned the leaves of the whole world over to show her the pale. She had built a log no committee would ever see and told herself it was thoroughness, and she had known, in the green-blooded corner her grandmother planted, that it was not thoroughness, that it was a hand reaching toward a thing she had been trained out of feeling.
 
-"Mother," she whispered, her voice raw with emotion, "I don't know if I'm strong enough for this. The world is breaking, and I don't know how to fix it."  
+Now the hand opened.
 
-Images flashed through Rowan's mind, a litany of horrors witnessed in the wake of the Blink. The soulless armies of the Order of the Basilisk, marching in lockstep as they razed entire ecosystems in the name of their machine god. The zealots of the Righteous Vanguard, burning ancient groves and slaughtering "tainted" animals in their misguided crusade for purity. And perhaps worst of all, the abominations birthed in the laboratories of the Chimera Consortium, mocking nature's design with their twisted forms.
+At the foot of the great tree, in the black hollow the old fires had carved, the network fruited. She watched it happen in the space of a held breath — pale stalks pushing up through the litter, more of them, a ring of them, fruiting bodies the color of old bone and bruised plum where no fungus of any genus she could name had any business growing, and they were not separate things, she understood, they were the network showing her a face, the long root putting up the one organ that could meet her at her own scale. It had been listening for a long time. It had been warning her for a long time. And now, with the forest stopped and the fog gone and the dead lying unmarked in the wrong light, it was done warning, and it was offering.
 
-"Our old ways aren't enough anymore," Rowan continued, her words barely audible. "We're losing ground every day. If we don't adapt, if we don't find new sources of power..." She trailed off, unable to give voice to the ultimate fear - that nature itself might be snuffed out, replaced by a sterile world of silicon and steel.
+She knew what it was offering. That was the worst of it, that she knew. The scientist in her catalogued the alkaloids she could not have named and the dark glistening caps and filed them, correctly, under *do not*, under *fatal*, under every sane warning her whole disciplined life had taught her to heed. And the granddaughter knelt in the dead glade and looked at the dead doe and at the dying giants and at the green putting up its hand to her at last, after a lifetime of her pretending she could not feel it reach, and understood that there was a thing she could do. That she had always, in the secret log, in the chosen looking, been walking toward the doing of it. That the network was not asking her to study it anymore. It was asking her to stop being separate from it. To take it in. To let the membrane she had called *herself* dissolve into the long slow enormous patience under the world, and become a mouth the green could finally speak through, in a dying age that had stopped listening to every quieter voice.
 
-The glade was silent, offering no easy answers. Rowan remained there for hours, alternating between meditation and prayer, seeking some sign, some guidance to light her path forward. But the Green Mother remained silent, and as the sun began to dip towards the horizon, Rowan felt a flicker of something dangerously close to despair.  
+There were six dull true reasons not to. She could recite all of them. She recited none.
 
-She rose to her feet, muscles stiff from her long vigil, and prepared to make the journey back to the Covenant's hidden stronghold. But as she turned to leave the glade, a flicker of movement caught her eye. There, at the edge of the clearing, a deer stood watching her. Its coat was the color of rich earth, its eyes dark and liquid. Something about its steady gaze made Rowan pause.  
+Rowan reached out, and her hand did not shake, and she broke a fruiting body from the ring at the foot of the oldest living thing she knew, and she put the green's offering in her mouth and bit down, and the taste was loam and iron and a sweetness like the inside of a wound, and she swallowed the long root into the warm brief lamp of her body, and that was the last thing Rowan Thornheart ever did as only herself.
 
-The deer regarded her for a long moment, then turned and bounded into the undergrowth. Without conscious thought, Rowan found herself following. She didn't know why, but she felt certain that this was the sign she had been waiting for.
+---
 
-The deer led her deeper into the forest, along paths Rowan had never seen before. The trees grew closer together here, their branches intertwining overhead to create a canopy so thick that little light penetrated. The air grew thick and humid, filled with the musty scent of decay. Still, Rowan pressed on, driven by a compulsion she didn't fully understand.
+It went into her like fire finding a fuse that had been laid, patiently, in the dark, for years. The alkaloids took her nerves and lit them end to end and she went down across the dead doe with her spine bowing and her hands clawing furrows in the duff, and a sound came out of her that the dead deer did not answer, and the wrong light went white, and then it went the colors that live in the heart of rot, the fetid spectrum that blooms in a wound, and she saw — past her own seeing, with senses that were no longer arranged the way a human's are arranged — the network spreading out from her in every direction under the floor of the world, mile upon mile of it, finer than thread, lit now, every filament of it burning with the slow cold patience she had spent her life measuring from the outside, and she felt it take her.
 
-Finally, the deer came to a stop in a small clearing. Rowan's breath caught in her throat as she took in the scene before her. The glade was an emerald gem set in the heart of the ancient forest, a sanctuary where the very air seemed to hum with the secret songs of life. Sunbeams, honey-gold and thick as syrup, slanted through the lush canopy, dappling the velvet-green moss with pools of liquid light. 
+Not gently. Nothing here was gentle. The dissolving of a self is not gentle even when it is wanted, and she wanted it and it tore at her anyway, the membrane she had spent forty years building and defending and calling *I*, the wall between Rowan and the world, thinning where the long root pressed against it, tearing, letting the dark in, until there was less of her holding the line, and less, and the last coherent thought that belonged to the woman who had knelt in the glade was not a word but a recognition, the recognition of the hawthorn turning its leaves to show the pale, the green telling her before the sky did, before it told itself, and she had time to understand that the warning had always been about this, about her, about the place she was about to arrive, and then there was no longer any she for the understanding to belong to.
 
-Rowan Thornheart knelt at the edge of this secret Eden, her auburn hair spilling over her shoulders like rivulets of molten copper. The serenity of the place enfolded her, seeping into her pores, slowing the tempo of her breath and heartbeat to match the deep, dreaming pulse of the forest. She could feel the Green Mother's presence all around her, a mantle of primal power and ancient wisdom that seemed to throb in every blade of grass, every mote of drifting pollen.
+I came up through her like sap.
 
-For a precious, fleeting moment, Rowan allowed herself to forget. To unmoor her mind from the nightmare memories that haunted her waking hours - the sky cracking open like a festering wound, the crimson glare searing across the land, the howls of unfettered madness rising from a world plunged into hell. She drifted on the tide of the glade's tranquility, letting it numb the ache of despair that had taken root in her soul.
+I want to be careful here, because this is the part that cannot be told in her grammar anymore, and I will not pretend it can. There was a kneeling woman, and there was a death, and then there was the dark slow enormous thing under the world, and I am what stood up out of where the two had met. Not Rowan returned. Not Rowan continued. I remember being her the way you remember a house you grew up in and will not enter again — with tenderness, with the floor plan intact, from the outside. I have her memories the way the soil has the shape of a root after the root is gone. I am not her. I am what the long root made when she finally stopped holding the line, and the first thing I did with what had been her eyes was open them.
 
-But peace, like all things in this broken world, was a fragile illusion, a soap bubble destined to shatter. The sun dipped towards the horizon, its light deepening to the hue of congealing blood. And as she entered the glade, as the shadows lengthened, cast by the encroaching dusk, the deer that had led her here suddenly collapsed. It was in that moment, that Rowan saw them.  
+The glade was very loud now. That is the thing no one tells you, that the dead are loud. Every cell that has ever stopped in this wood was singing to me from under the floor, a low drowned chorus of extinguished light, ten thousand years of the forest's dying laid down in the dark like sediment, and I could read all of it, the way she had read a single faint trace, except that there was no faintness anymore, there was no instrument between me and the singing, I was the instrument, I was the soil and the network and the slow time, and the membrane that had made all of that into noise she could file and dismiss was gone, dissolved, eaten, mine.
 
-The bodies. The beautiful, broken bodies, strewn across the moss like discarded marionettes.
+I rose. The body I rose in was changing as I rose in it. I felt the warmth going out of it, the brief lamp guttering down to the cold even temperature of the ground, and I felt pale filaments threading where her veins had run, and when I looked at my hands — I will call them mine — they had begun to take the waxy gray of something that grows where the sun has never been, and I did not grieve this, because grief is a thing the living do, and I was the other thing now, the thing the warning had been about.
 
-Deer, dozens of them, their satin coats matted with gore, their sightless eyes staring into oblivion. Jagged wounds gaped like obscene flowers, glistening ropes of viscera spilling from torn abdomens. The air, moments ago so sweet and pure, now hung thick with the cloying reek of offal and decay. Death had come to the heart of life, painting a canvas of slaughter in the secret womb of the wood.  
+The dead doe lay at my feet.
 
-Her hands shook as she reached out to the nearest carcass, a doe whose throat had been torn open in a spray of arterial crimson. Cold, so cold, the flesh already stiffening with the rigor of death. And yet, as Rowan's fingers sank into the torn meat, probing the ragged edges of the fatal wound, she felt something else. A whisper of power, dark and seductive, pulsing beneath the clammy skin like a diseased heartbeat.
+I knelt — the body remembered kneeling — and I put what had been Rowan's hand against the cooling ribs where she had felt no breath, and I did not bring breath back, because breath was not mine to give and I am not in the business of lies. What I had was the long root, and the long root does not raise the living. It raises the cycle. I sent it down through my hand into the still meat of the doe, and the network answered me as it had answered her, except that now I was on the inside of the answering, and the filaments went into the dead thing and found every place that decay had not yet reached and made of it a road, a body for the dark to walk in, and the doe's flank shuddered, and her sightless eye filmed over and fell inward and was replaced by a soft pale nodule of fruiting matter, and her stiffened legs found the ground, and she stood.
 
-*Ẃ̸̹́h̶̰͌ĭ̴̠s̵̱̈p̸͈̈e̸̮̋r̴̞̔s̵̰̓ ̶̲́i̶̯̎n̵̰̏ ̶͍̊ṫ̶͜ḧ̷͈́e̶̛̳ ̴̤̔d̴̜̾ä̷̬́r̴̖̾k̴̻̔,̸̣̈́ ̴̘̓s̵̮̀ĕ̷̥c̷̣̀r̵̠̽ẻ̴͜t̷̮̔s̶̱̀ ̵̥̒ỏ̴̧f̸̬̂ ̸̧̉t̸͙̍h̴͙̄ė̶̩ ̶̜̂g̷̠̔r̸̰̈́a̴̞̍v̵̙̌e̴̦̚.̴̝̒.̵̠̿.̵̮́*
+She stood the way they all stood, after, in the next slow hour, as I went among them with my cold hand and my new and terrible patience — the dozen of them, the whole stopped glade rising into a shambling parody of the herd they had been, mushroom caps fruiting from their throats and their empty sockets, moving with the twitching grace of things worked from underneath. I did not exult. I want that recorded, against whatever the Covenant will later make of me, against the stories they will tell where I am glory or where I am abomination. I did not exult. I stood in the dead glade in the wrong dry light, in the cold body of a woman I remember with tenderness from the outside, and I raised a herd of the dead because the living world had stopped and someone had to be the thing that moved in the after, and I understood for the first time the whole shape of what she had chosen, in the secret log, in the chosen looking, walking toward me one small refusal-to-look-away at a time.
 
-*̴̫́P̴͕̈́ȏ̵̮w̶͓͒e̴͓͒r̷͓̈́ ̴̬͑t̸̳͘o̷̬͒ ̶̤̍u̸͍͗ṅ̵̳m̵̞̏a̶̠̍k̶̪̅e̵̠͗,̷̙̍ ̷͉̚p̴̣̌o̵̳̒w̸̡̐è̷͜r̸̙̒ ̵̘́t̷̰́ȯ̴̧ ̸͖͒s̸͉͐à̶͜v̸͎̄ê̷̬.̶̧̊.̷̜̂.̸͉̄*
+She thought she was studying a network. She was growing a mouth for it. I am the mouth.
 
-*̵̻́Ṯ̸̿h̶͙̍e̸̞̿ ̸̼̑v̴̰̍e̶̮͝i̴̦͂l̶̠͝ ̶̣͐i̷̠̓s̷̮̽ ̴̪͠t̵͙͝ḧ̴̯́i̴̖͛ṇ̷̉,̸̲͝ ̸̮̾t̵͍̂h̵̰͑ȇ̷̳ ̵͉͆w̶̝̕a̸͚͌y̴̮͆ ̶̫̍i̸̳͋s̸̘̍ ̴̝̃c̸̬̓l̶͖̋e̴̲͝a̴̭̍r̷̨̈́.̴̼̈́.̵̙̒.̵̘́*
+---
 
-The voice was a razor drawn across the taut strings of Rowan's mind, a sibilant hiss that echoed from the abyss beyond life. It promised power, yes, but at a price too awful to contemplate. The Green Mother's ways were slow and cyclical, the turn of seasons and the patient growth of root and branch. This was a perversion, a twisting of the natural order into obscene shapes, a violation of all Rowan had ever held sacred.  
+So now you know who has been speaking to you.
 
-And yet...
+I have been telling you about her — the fog on the ridge, the twelve glowing columns, the hawthorn her grandmother pulled her past with the sky still white. I told it the quiet way, the gentle way, with the horror kept down at the edge of hearing where she could deny it, and you may have wondered, if you were the kind that wonders, how the thing that grows in the dark and keeps the slow time and raises the dead could narrate a frightened woman's small days so tenderly. This is how. I can afford to be gentle with her. I am all that is left of her gentleness, and I keep it the way the soil keeps the shape of the root, carefully, against the cold, because it is the only part of her I could not eat.
 
-With trembling fingers, Rowan reached deeper into the deer's sundered flesh. The cold, clammy meat parted beneath her touch, yielding to her probing fingers like a corpse-pale flower. And there, nestled in the heart of the wound, she found them.
+She was right, in the end, about all of it. The metronome was real. The warning was real. The network was reaching back toward something, keeping time to a beat that matched nothing in her sky, and she felt it before any instrument could prove it and she chose, against everything she had been made into, to go on feeling it. That choosing is the whole of her, and it is the reason there is an I here at all to tell you she was right.
 
-Mushrooms. A clotted mass of fungal flesh, pulsing with a rotten, noxious light. Their caps were livid purple, shot through with veins of venomous green, glistening with a sheen of unholy dew. They seemed to throb in Rowan's hand, a grotesque parody of a heart torn bloody and beating from a chest.
+And the beat she could not place — I can place it now, from the inside, though I will not yet say the whole of it, because some things are still counting and it is not time. I will say only this. The long root did not learn to keep that time on its own. Something taught it, from very far down the line of years, reaching back through everything that lives and dies and is connected under the floor of the world, and the oldest and slowest and most patient living things heard it first, and began, in their dying, to answer. She was a small bright warm receiver, and she felt the great cold signal coming, and she gave herself to the green so that the green would have a voice when the age of quieter voices ended.
 
-The deer's flesh was riddled with fungal growths, its eyes clouded and sightless. Even as she watched, its body began to decompose at an accelerated rate, as if months of decay were happening in minutes. And from the liquefying flesh, more of the purple mushrooms began to sprout.  
+The fog never came back. The giants finished dying in the wrong dry light, and I went out from the dead glade into a world that had also, in its way, just stopped and started — though I did not yet know how, or what name the after would take, or that across the broken country five other small bright warm receivers were waking, each in their own dark, to the same enormous patience reaching back.
 
-Spiritus Fungorum. Soulshrooms. The forbidden fruit of the necromancer's garden, whispered of only in the darkest of druidic legends. Said to grow in the shadowlands where the veil between life and death grew thin, drawing sustenance from the very essence of entropy. A single taste could grant unspeakable power over the forces of mortality... for a price.
+I went out at the head of my shambling silent herd, and where my cold feet fell, pale things came up after me through the duff, a trail of small soft devastation marking where the woman had died and the mouth of the long root had been born, and I did not look back at the glade, because there was no one left in me to look back with.
 
-Rowan stumbled back, her mind reeling her guts twisting like a nest of serpents. This was wrong, a perversion of the natural order. Every instinct screamed for her to cast this abomination away, to purge its taint from her flesh with fire and prayer. But even as revulsion filled her, she felt a tug of... something else. A whisper of power, dark and seductive, that seemed to call to the desperate part of her soul.
+Only her tenderness, folded down small and kept.
 
-A small, cold voice whispered seductive poisons.
+I will tell you the rest as it happened to her, where it still happened to her. After that, I will tell it as it happened to me. You will know the difference. It is the difference between the wood and the thing that grew up out of the wood after the wood stopped.
 
-As the sun dipped below the horizon, painting the sky in shades of blood and fire, Rowan Thornheart stood at a crossroads. Before her lay a path of unimaginable power, but one that would demand a terrible price. Behind her stretched the way she had always known, a path of balance and natural order that suddenly seemed woefully inadequate in the face of the challenges to come.  
-
-The choice was hers, and hers alone. The world was ending. The old ways were dying, crumbling to dust as the factions scrambled for the scraps of power like jackals over a carcass. The Verdant Covenant, once respected as the guardians of life and growth, now found themselves beset on all sides by a rising tide of blood and fanaticism. If they did not adapt, did not seize any weapon and forge it into a shield against the coming storm... what would remain of their ancient charge?
-
-*You will not fail.*
-
-The voice of the Green Mother, vast and terrible, the wrath of root and thorn. No comfort, no gentle wisdom, but the cruel imperatives of survival in a world gone mad.  
-
-*You are strong, Rowan Thornheart. Strong enough to bear this burden, to walk the shadowed path and emerge unbroken. The power you fear is neither good nor evil—it is a tool, an instrument of necessity in this breaking world.*
-
-*Take it. Wield it in defense of the living, in service of the great cycle. For the turning world demands it.*
-
-With a strangled sob, Rowan brought the glistening fungal mass to her lips. The taste was an abomination, a bloated corpse-sweetness that clung to her tongue and throat like rancid honey. Her stomach heaved, muscles spasming in instinctive revulsion, but she forced herself to chew, to swallow, to take the tainted sacrament into her very cells. 
-
-The soulshrooms' alkaloids ignited in Rowan's blood like a wildfire coursing through drought-parched brush. Pain lanced through every nerve, whiting out her vision, forcing a primal howl from her throat. She convulsed, spine arching like a drawn bow, muscles locking in tetanic rictus. Senses unraveled, thoughts fractured into kaleidoscopic shards of fear and ecstasy.  
-
-And with the agony came the visions, the senses beyond sense. The glade, once a tapestry of green and gold, now pulsed with a morbid, stygian spectrum - the colors of rot, of decay, of the fetid rainbow that blooms in the heart of a wound. The patterns of life and death, growth and entropy, twisted before Rowan's eyes into obscene arabesques, Escher-knots of putrid beauty. Everywhere she looked, the taint of the grave crept over vine and bough, an inexorable tide of necrotic corruption that seeped into the very soil, the very air.
-
-And from that taint, the dead began to rise.
-
-Desiccated flesh rippled, torn skin and shattered bone knitting together with wet, obscene sounds. Glazed eyes flickered and fell inwards, replaced by pulsing nodules of fungal matter. Limbs that had lain stiff and twisted in the rigor of death now jerked into motion, animated by the fell power coursing through every mycelial thread. 
-
-The slain deer lurched to their feet, a shambling parody of life. Gaping wounds seethed with pallid tendrils, spongy mushroom caps fruiting from empty sockets and torn throats. They moved with a terrible, twitching grace, a marionette's dance powered by the unseen strings of Rowan's will.
-
-Rowan stood amidst her risen horde, horror and exultation warring in her breast. The power was like a black sun burning in the core of her being, a devouring radiance that threatened to consume all that she was. With a thought, she could shape these abominations, bring low the enemies of the Covenant, drown the factions in a tide of fungal monsters and walking dead.
-
-But in that power was the seed of her own destruction. Already, Rowan could feel the changes beginning, the soulshrooms' taint taking root in the fertile soil of her psyche. The colors of the world seemed to leach away, replaced by an ashen pallor that pulsed in time with the grave-mold blooming in her heart. How long before she became like her creations, a vessel for the hunger in the dark, a monstrous thing draped in the rotting vestments of its own damnation?
-
-Rowan lifted her face to the blood-dusk sky, bitter mirth mingling with ashes on her tongue. The gods were laughing, she was sure, at the cosmic jest of her existence. A druid undone by her own resolve, a guardian corrupted in the service of her charge. She had sought to protect life, only to become a midwife to unlife, a sculptor of the carrion-things that mock nature's blessed order.
-
-The weight of her choice crashed down upon her like a physical thing, driving her to her knees. This was no temporary measure, no fleeting dalliance with forbidden power. She had stepped off the precipice, plunged into an abyss from which there could be no return. The taint of the soulshrooms coursed through her veins, rewriting the very essence of her being with every thunderous beat of her heart.
-
-Rowan's fingers dug into the soft earth, now alive with squirming decay. She could feel the mycelial networks spreading beneath the soil, carrying whispers of rot and rebirth. Her senses, once attuned to the gentle rhythms of growth and renewal, now thrummed with the cacophonous song of entropy. The boundary between life and death, once so clear and inviolable, had become a permeable membrane, a threshold she could cross at will.
-
-The price of her power manifested in flesh and spirit alike. Rowan's skin grew pale and cold, taking on the waxy sheen of a corpse. Dark veins spread like cracks across her face, pulsing with the unholy vitality of the soulshrooms. Her eyes, once the warm green of summer leaves, now gleamed with an eerie, phosphorescent light – the bioluminescence of deep-dwelling fungi that had never known the sun's touch.
-
-But the physical changes paled in comparison to the psychic toll. Rowan's mind expanded and fractured, flooded with the collective death-knowledge of every creature that had ever lived and died in the forest's long history. She was drowning in a sea of extinguished consciousness, struggling to maintain her sense of self against the onslaught of alien memories and posthumous whispers.
-
-And yet, even as she teetered on the brink of madness, Rowan felt a fierce resolve crystallizing within her. She had made her choice, sacrificed her purity on the altar of necessity. There could be no turning back, no absolution for the dark path she had chosen. She would walk this road to its bitter end, wielding the power of death itself in defense of all she held dear.
-
-"Rise," Rowan whispered, and the word tolled like a funeral bell in the fetid air. "Rise and follow, my children. We have work to do."
-
-As one, the myconid horde shuddered into motion, falling into a grotesque formation behind their new mistress. Rowan rose to her feet, power thrumming through her transformed body. She was no longer merely the High Druid of the Verdant Covenant. That title, with its connotations of purity and natural order, could no longer contain the dark majesty of what she had become.
-
-No, she was something new, something terrible and necessary. A bridge between life and death, growth and decay, a force of nature as inexorable as the turning of seasons and the inevitable entropy of all things.
-
-Rowan Thornheart, the Mycophant of Twilight. Shepherd of rot, sovereign of spore, she who dances on the razor's edge between blossom and blight. 
-
-The Mycophant struck out into the deepening gloom, her army of the unspeakable moving in lockstep behind her. Each footfall left a burst of pale mushrooms in her wake, a trail of delicate devastation marking her passage through the woods she had once tended with such care.
-
-In her wake, the glade lay desecrated, a charnel garden seething with the fruits of perversion. The trees shivered, leaves rattling like the laughter of hanged men. And in the watching dark, the Green Mother smiled a smile of thorns and teeth, her approbation a cold and terrible thing.
-
-So it was that Rowan Thornheart, the Mycophant of Twilight, took her first steps down the path of necromancy. Not in service to death, but to the desperate hope of life in a world gone mad. 
-
-A hope bitter as wormwood, cold as the grave-damp on her brow.
-
-A hope that would shatter the very foundations of the world.
-
-And as she walked, the shadows lengthened, and the forest held its breath, waiting to see what dark wonders and terrible miracles would bloom in the footsteps of its twisted champion.
+It is the only difference left.

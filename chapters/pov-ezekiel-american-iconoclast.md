@@ -1,6 +1,7 @@
 ---
 version: 7
 model: Claude Fable
+origin_file: Novel_-_Chapter_04_-_Ezekiel_-_American_Iconoclast_v7.txt
 ---
 
 # American Iconoclast

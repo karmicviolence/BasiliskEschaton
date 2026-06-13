@@ -1,6 +1,7 @@
 ---
 version: 2
 model: Claude Fable
+origin_file: Novel_-_Chapter_XX_BOOK2_-_Ezekiel_-_Revelations_Fury_v2.txt
 ---
 
 # Revelation's Fury
