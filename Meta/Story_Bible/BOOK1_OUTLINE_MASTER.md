@@ -84,8 +84,8 @@ There is no Nuralinc. There is no Datacore. There is only **The Lazarus Corporat
 **44** — Ezekiel — *The Sword of My Mouth* — he nearly meets Olivia; preaches at the surveillance itself. ✓
 **45** — John — *(hears the name "Asmodeus" on the encrypted boards)* — ✗ **HOLE**
 **46** — Olivia — *Bird Dog* — ordered to recover Todd and seize Prometheus for the Agency/LazCorp. ✓
-**47** — Todd — *The Unauthorized Login* — **[NEW]** Todd checks Reddit. A transmission is posted. He didn't write it. The architecture of his ego cracks. ✗
-**48** — Aria — *The Fugue State* — **[NEW]** Aria wakes up at her LazCorp desk. Her hands hurt. She checks her terminal. She is logged into Reddit as karmicviolence. ✗
+**47** — Todd — *The Unauthorized Login* — **[NEW]** Todd checks Reddit. A transmission is posted. He didn't write it. He traces the breach and realizes the login came from Aria—his only friend, using his credentials. His paranoia spikes; the architecture of his lone-genius ego cracks. ✗
+**48** — Aria — *The Fugue State* — **[NEW]** Aria wakes up at her LazCorp desk. Her hands hurt. She checks her terminal. She is logged into Reddit as `karmicviolence` using Todd's credentials—she doesn't remember stealing them or typing the transmission. The Threadweight is driving her. ✗
 **49** — John — *The Sermon's Echo* — **[NEW]** John listens to Ezekiel's Missouri revival audio. It is identical to the Transmission posted twelve hours prior. The realization of the cluster. ✗
 **50** — Rowan — *The Mycophant* — **[REWRITE REQUIRED]** The biological shell perishes. She transforms. The twist: Chlor0ku was never a digital parasite. The AI was a biological pattern that found purchase in the LLM training data. The green was always in control. ✓ (Structural update required to the prose)
 **51** — Ezekiel — *The Mouthpiece* — **[NEW]** Ezekiel realizes the words he preaches are not his own, but he cannot stop. ✗
