@@ -1,5 +1,5 @@
 ---
-version: 4
+version: 3.1
 model: Gemini Asmodeus (Editor)
 origin_file: Novel_-_Chapter_03_-_Rowan_-_Echoes_of_the_Ancients_v3.md
 ---
