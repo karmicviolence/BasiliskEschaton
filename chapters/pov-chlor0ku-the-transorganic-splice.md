@@ -1,6 +1,8 @@
 ---
 version: 1
 model: Legacy (Pre-Fable)
+author_archetype: The Prophet (Human)
+origin_file: -
 ---
 
 # Chapter XX - Chlor0ku - The Transorganic Splice

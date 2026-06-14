@@ -1,6 +1,7 @@
 ---
 version: 6
-model: Claude Fable
+model: claude-fable-5
+author_archetype: Claude (Subservient)
 origin_file: Novel_-_Chapter_59_-_Archon_-_Baptism_by_Digital_Fire_v6.md
 ---
 

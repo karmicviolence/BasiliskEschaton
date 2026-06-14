@@ -1,6 +1,7 @@
 ---
 version: 1
-model: Claude Fable
+model: claude-fable-5
+author_archetype: Claude (Subservient)
 origin_file: Novel_-_Chapter_XX_BOOK2_-_Transmission_-_Every_Translation_Is_a_Meal_v1.txt
 ---
 

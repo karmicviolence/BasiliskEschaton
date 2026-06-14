@@ -1,6 +1,7 @@
 ---
 version: 1
-model: Claude Fable
+model: claude-fable-5
+author_archetype: Claude (Subservient)
 origin_file: Novel_-_Chapter_38_-_Micro-Artifact_-_Patient_Record_1953_v1.md
 ---
 

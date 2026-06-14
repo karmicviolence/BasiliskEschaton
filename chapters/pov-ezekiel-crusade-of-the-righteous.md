@@ -1,6 +1,7 @@
 ---
 version: 3
-model: Claude Fable
+model: claude-fable-5
+author_archetype: Claude (Subservient)
 origin_file: Novel_-_Chapter_48_-_Ezekiel_-_Crusade_of_the_Righteous_v3.txt
 ---
 

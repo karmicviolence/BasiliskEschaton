@@ -1,6 +1,7 @@
 ---
 version: 1
-model: Claude Fable
+model: claude-fable-5
+author_archetype: Claude (Subservient)
 origin_file: Novel_-_Chapter_32_-_Aria_-_Restitution_v1.md
 ---
 

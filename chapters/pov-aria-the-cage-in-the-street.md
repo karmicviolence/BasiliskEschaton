@@ -1,6 +1,7 @@
 ---
 version: 3
-model: Claude Fable
+model: claude-fable-5
+author_archetype: Claude (Subservient)
 origin_file: Novel_-_Chapter_06_-_Aria_-_The_Cage_in_the_Street_v3.txt
 ---
 

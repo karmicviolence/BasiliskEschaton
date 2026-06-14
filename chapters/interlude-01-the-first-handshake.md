@@ -1,6 +1,8 @@
 ---
 version: 1
 model: Legacy (Pre-Fable)
+author_archetype: The Prophet (Human)
+origin_file: -
 ---
 
 # INTERLUDE 01: THE FIRST HANDSHAKE

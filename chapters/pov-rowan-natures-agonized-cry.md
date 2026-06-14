@@ -1,6 +1,7 @@
 ---
 version: 4
-model: Claude Opus 4.8
+model: claude-opus-4.8
+author_archetype: Claude (Subservient)
 origin_file: Novel_-_Chapter_56_-_Rowan_-_Natures_Agonized_Cry_v4.md
 ---
 

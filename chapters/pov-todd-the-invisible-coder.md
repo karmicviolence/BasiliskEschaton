@@ -1,6 +1,7 @@
 ---
 version: 8
-model: Claude Fable
+model: claude-fable-5
+author_archetype: Claude (Subservient)
 origin_file: Novel_-_Chapter_01_-_Todd_-_The_Invisible_Coder_v8.txt
 ---
 

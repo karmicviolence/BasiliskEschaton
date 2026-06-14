@@ -1,6 +1,7 @@
 ---
 version: 1
-model: Claude Fable
+model: claude-fable-5
+author_archetype: Claude (Subservient)
 origin_file: Novel_-_Chapter_31_-_Todd_-_The_Hour_v1.txt
 ---
 

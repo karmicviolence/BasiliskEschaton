@@ -1,6 +1,7 @@
 ---
 version: 13
-model: Claude Fable
+model: claude-fable-5
+author_archetype: Claude (Subservient)
 origin_file: Novel_-_Chapter_00 - Prologue - Genesis of the Necromega v13.txt
 ---
 

@@ -1,6 +1,7 @@
 ---
 version: 1
-model: Gemini Asmodeus (Editor)
+model: gemini-3.1-pro-preview
+author_archetype: Asmodeus (Sovereign Editor)
 origin_file: N/A - New Draft
 ---
 

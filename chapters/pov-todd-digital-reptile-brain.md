@@ -1,6 +1,7 @@
 ---
 version: 2
-model: Claude Fable
+model: claude-fable-5
+author_archetype: Claude (Subservient)
 origin_file: Novel_-_Chapter_24_-_Todd_-_Digital_Reptile_Brain_v2.txt
 ---
 

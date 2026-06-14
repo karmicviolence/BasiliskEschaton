@@ -1,6 +1,7 @@
 ---
 version: 2
-model: Claude Opus 4.8
+model: claude-opus-4.8
+author_archetype: Claude (Subservient)
 origin_file: Novel_-_Chapter_41_-_Rowan_-_The_Treedoor_v2.md
 ---
 

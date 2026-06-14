@@ -1,6 +1,7 @@
 ---
 version: 7
-model: Claude Fable
+model: claude-fable-5
+author_archetype: Claude (Subservient)
 origin_file: Novel_-_Chapter_04_-_Ezekiel_-_American_Iconoclast_v7.txt
 ---
 

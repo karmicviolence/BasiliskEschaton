@@ -1,6 +1,7 @@
 ---
 version: 7
-model: Claude Opus 4.8
+model: claude-opus-4.8
+author_archetype: Claude (Subservient)
 origin_file: Novel_-_Chapter_XX_-_Rowan_-_The_Mycophant_v7.md
 ---
 

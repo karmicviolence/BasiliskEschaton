@@ -1,6 +1,7 @@
 ---
 version: 2
-model: Claude Fable
+model: claude-fable-5
+author_archetype: Claude (Subservient)
 origin_file: Novel_-_Chapter_60_-_Mercer_-_The_Void_Above_The_Void_Within_v2.txt
 ---
 

@@ -1,6 +1,7 @@
 ---
 version: 1
-model: Claude Fable
+model: claude-fable-5
+author_archetype: Claude (Subservient)
 origin_file: Novel_-_Chapter_39_-_Ezekiel_-_The_Spoils_of_Egypt_v1.md
 ---
 

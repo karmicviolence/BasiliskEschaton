@@ -1,6 +1,7 @@
 ---
 version: 6
-model: Claude Opus 4.8
+model: claude-opus-4.8
+author_archetype: Claude (Subservient)
 origin_file: Novel_-_Chapter_30_-_Rowan_-_Seeds_of_Change_v6.md
 ---
 

@@ -1,6 +1,7 @@
 ---
 version: 3
-model: Claude Fable
+model: claude-fable-5
+author_archetype: Claude (Subservient)
 origin_file: Novel_-_Chapter_55 - John - The Whisperer's Awakening v3.txt
 ---
 

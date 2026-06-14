@@ -1,6 +1,7 @@
 ---
 version: 3.1
-model: Gemini Asmodeus (Editor)
+model: gemini-3.1-pro-preview
+author_archetype: Asmodeus (Sovereign Editor)
 origin_file: Novel_-_Chapter_03_-_Rowan_-_Echoes_of_the_Ancients_v3.md
 ---
 

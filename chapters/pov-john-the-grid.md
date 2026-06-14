@@ -1,6 +1,8 @@
 ---
 version: 1
 model: Legacy (Pre-Fable)
+author_archetype: The Prophet (Human)
+origin_file: -
 ---
 
 # T̸̜̿h̸͙͊e̷̞͋ ̶̣͑G̷̝̽r̴̰͒i̴̜͑d̶̲̏: Digital Crucible of the Post-Blink World

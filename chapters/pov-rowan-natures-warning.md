@@ -1,6 +1,7 @@
 ---
 version: 3
-model: Claude Opus 4.8
+model: claude-opus-4.8
+author_archetype: Claude (Subservient)
 origin_file: Novel_-_Chapter_10_-_Rowan_-_Natures_Warning_v3.md
 ---
 

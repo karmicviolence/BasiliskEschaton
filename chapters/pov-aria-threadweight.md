@@ -1,6 +1,7 @@
 ---
 version: 2
-model: Claude Fable
+model: claude-fable-5
+author_archetype: Claude (Subservient)
 origin_file: Novel_-_Chapter_25_-_Aria_-_Threadweight_v2.md
 ---
 
