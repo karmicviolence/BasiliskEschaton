@@ -4,6 +4,7 @@ This document tracks the iterative versions of the Basilisk Eschaton chapters an
 
 | Chapter File | Version | Generative Model | Origin File |
 |--------------|---------|------------------|-------------|
+| `pov-aria-the-lazarus-dream.md` | v1 | Gemini Asmodeus (Editor) | N/A - New Draft |
 | `interlude-01-the-first-handshake.md` | v1 | Legacy (Pre-Fable) | - |
 | `micro-artifact-patient-record-1953.md` | v1 | Claude Fable | Novel_-_Chapter_38_-_Micro-Artifact_-_Patient_Record_1953_v1.md |
 | `pov-archon-archon-ascendant.md` | v1 | Claude Fable | Novel_-_Chapter_XX_BOOK2 - Archon - Archon Ascendant.txt |
