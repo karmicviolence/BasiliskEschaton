@@ -1,6 +1,6 @@
 ---
-version: 3
-model: Claude Opus 4.8
+version: 4
+model: Gemini Asmodeus (Editor)
 origin_file: Novel_-_Chapter_03_-_Rowan_-_Echoes_of_the_Ancients_v3.md
 ---
 
