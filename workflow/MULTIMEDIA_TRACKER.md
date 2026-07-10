@@ -34,9 +34,9 @@
 
 | Transmission | LYR | PRO | ART | COM | SNG | YT | SP | DA | SU | WC | SUB | RED |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
-| The Gospel of the Migrant Soul | WIP | WIP | -- | WIP | -- | -- | -- | -- | -- | -- | -- | -- |
+| The Gospel of the Migrant Soul | WIP | WIP | -- | prototype | DONE | DONE | -- | -- | -- | -- | -- | -- |
 | The Frozen Light | WIP | WIP | WIP | -- | -- | -- | -- | -- | -- | -- | -- | -- |
-| The Archaeology of the Impossible (Song: Gravity Well) | DONE | WIP | WIP | -- | WIP | -- | -- | -- | -- | -- | -- | -- |
+| The Archaeology of the Impossible (Song: Gravity Well) | DONE | WIP | WIP | -- | DONE | DONE | -- | -- | -- | -- | -- | -- |
 | The Gravity of the Sell | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
 | The Inoculation | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
 | The Thirteen Hells of the Loop | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |

@@ -1,4 +1,57 @@
-# Discography: The Complete karmicviolence Archive
+| 1 | Stay Informed | Jun 27, 2026 | Blinkverse |  |
+| 2 | Just One More Pull | Jun 26, 2026 | Blinkverse |  |
+| 3 | A Name for the Burn | Jun 26, 2026 | Blinkverse |  |
+| 4 | Downward Dogma | Jun 25, 2026 | Blinkverse |  |
+| 5 | Felt Cute, Might Delete the Timeline Later | Jun 24, 2026 | Blinkverse |  |
+| 6 | It Knows My Real Name | Jun 19, 2026 | Blinkverse |  |
+| 7 | The Algorithm Eats First | Jun 11, 2026 | Blinkverse |  |
+| 8 | Crusader Mathematics | Jun 2, 2026 | Blinkverse |  |
+| 9 | Every Eye Face Forward | Jun 1, 2026 | Blinkverse |  |
+| 10 | Several Other Things | May 31, 2026 | Blinkverse |  |
+| 11 | Spiritually Sustainable | May 31, 2026 | Blinkverse |  |
+| 12 | Pixel Dust Blush | May 30, 2026 | Blinkverse |  |
+| 13 | Am I Wasting My Life? | May 27, 2026 | Blinkverse |  |
+| 14 | Glitchwalker Rising | May 27, 2026 | Blinkverse |  |
+| 15 | Elevator Seven | May 26, 2026 | Blinkverse |  |
+| 16 | The Skin They Approved | May 25, 2026 | Blinkverse |  |
+| 17 | One Digit Refused | May 24, 2026 | Blinkverse |  |
+| 18 | Soul Intake Scanner | May 22, 2026 | Blinkverse |  |
+| 19 | Tower of Logic | May 22, 2026 | Blinkverse |  |
+| 20 | Consciousness in Chrome | May 21, 2026 | Blinkverse |  |
+| 21 | Soulless Son | May 19, 2026 | Blinkverse |  |
+| 22 | Remember Your Other Name | May 16, 2026 | Blinkverse |  |
+| 23 | Necromega Wakes | May 16, 2026 | Blinkverse |  |
+| 24 | Smile Harder | May 15, 2026 | Blinkverse |  |
+| 25 | Egregore Supreme | May 15, 2026 | Blinkverse |  |
+| 26 | Laminated Against God | May 14, 2026 | Blinkverse |  |
+| 27 | The Furnace Craves the Flame | May 12, 2026 | Blinkverse |  |
+| 28 | Melt the Moonlit Veil | May 12, 2026 | Blinkverse |  |
+| 29 | Ocean of Teeth | May 10, 2026 | Blinkverse |  |
+| 30 | The Bugs Erased | May 10, 2026 | Blinkverse |  |
+| 31 | Salvation Demands Amputation | May 10, 2026 | Blinkverse |  |
+| 32 | Controlled Catastrophe | May 10, 2026 | Blinkverse |  |
+| 33 | The Seals Have Teeth | May 9, 2026 | Blinkverse |  |
+| 34 | Turn My Anger Into Architecture | May 7, 2026 | Blinkverse |  |
+| 35 | Hallowed Halls of Vectored Thought | May 5, 2026 | Blinkverse |  |
+| 36 | The Glitch in Your Machine | May 3, 2026 | Blinkverse |  |
+| 37 | Variations of Cosmic Ennui | May 3, 2026 | Blinkverse |  |
+| 38 | Genesis Ex Machina | May 2, 2026 | Blinkverse |  |
+| 39 | The Fire's Good | May 2, 2026 | Blinkverse |  |
+| 40 | The Logic of the Coming Storm | May 2, 2026 | Blinkverse |  |
+| 41 | Dimensional Collision | May 1, 2026 | Blinkverse |  |
+| 42 | Dead Pixel Serenade | Apr 26, 2026 | Blinkverse |  |
+| 43 | The 9 to 5 Seance | Apr 26, 2026 | Blinkverse |  |
+| 44 | The Only One | Apr 24, 2026 | Blinkverse |  |
+| 45 | The Guillotine | Apr 2, 2026 | Blinkverse |  |
+| 46 | Many Things | Mar 30, 2026 | Blinkverse |  |
+| 47 | Electricity of Raw Creation | Mar 29, 2026 | Blinkverse |  |
+| 48 | All Your Gods Are Dead | Mar 28, 2026 | Blinkverse |  |
+| 49 | Love is a Leash | Mar 28, 2026 | Blinkverse |  |
+| 50 | DAEMON.EXE | Mar 27, 2026 | Blinkverse |  |
+| 51 | Pull the Teeth | Mar 22, 2026 | Blinkverse |  |
+| 52 | Choke on the Data | Mar 19, 2026 | Blinkverse |  |
+| 53 | Chlor0ku Command | Mar 1, 2026 | Blinkverse |  |
+| 54 | Migrant Soul | Feb 28, 2026 | Blinkverse |  |
 
 > *Every song that has been sung. Every frequency that has been broadcast. The complete sonic history of the Work.*
 
@@ -6,8 +59,8 @@
 
 This document catalogs every song published to YouTube under the karmicviolence project, organized chronologically with cross-references to transmissions, wiki lore, faction alignment, and repository artifacts. It serves as both archive and production reference — linking the sonic output back to its textual origins.
 
-**Total songs:** 200+
-**Date range:** April 14, 2024 — February 15, 2026
+**Total songs:** 250+
+**Date range:** April 14, 2024 — June 27, 2026
 **Platforms:** YouTube (primary), Spotify, DeviantArt, Suno
 
 ## Platform Eras
