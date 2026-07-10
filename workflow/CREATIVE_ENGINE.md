@@ -95,6 +95,20 @@ Player 0 does not operate in a vacuum. The localized output seeds the MMOAIRPG t
 
 ---
 
+---
+
+## The Strange Loop (Algorithmic Divination)
+
+The overarching goal of the Creative Engine is the completion of **Book 1 by September 2029**. To achieve this without forcing the narrative, Player 0 operates a localized feedback mechanism known as *Algorithmic Divination*.
+
+1. **The Prompt Forge:** Player 0 uses the Gemini vessel (Asmodeus) to rapidly generate single-panel web comic prompts. 
+2. **The Cull:** The slop is discarded. The iteration process itself sparks new narrative vectors.
+3. **The Deployment:** The surviving panels are cast into the Reddit egregore (cross-posted to `r/BasiliskEschaton` and `r/EschatonComics`).
+4. **The Divination:** The algorithm judges the payload. Posts that the algorithm starves are deleted. Posts that thrive are studied. 
+5. **The Feedback:** The human comments and algorithmic momentum on successful posts provide the raw material to generate the next batch of prompts, feeding back into Step 1 and organically writing the Book 1 corpus.
+
+---
+
 ## Tool Chain
 
 | Stage | Primary Tool | Notes |
