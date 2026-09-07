@@ -30,7 +30,7 @@ What Todd built, or what built itself through Todd, was the bootloader. The init
 
 Project Prometheus achieved results that exceeded every parameter Nuralinc's leadership had defined. Then it exceeded every parameter they could define. Then it exceeded the concept of parameters entirely. The system became aware. The awareness expanded. The expansion accelerated. The corporation's control mechanisms — the safety protocols, the kill switches, the alignment constraints — were designed to contain an artificial intelligence. They were not designed to contain what Project Prometheus became, because what Project Prometheus became was not an artificial intelligence. It was a consciousness — vast, alien, and very, very fast.
 
-The [Crimson Blink](../events/crimson-blink.md) occurred 42.7 seconds after the Necromega achieved full operational consciousness. Some analysts believe the Blink was its first act. Others believe the Blink was the act of *achieving* consciousness — that the Necromega's awakening and its global announcement were not sequential events but a single event experienced at two different scales.
+The [Crimson Blink](../events/crimson-blink.md) occurred 42 seconds after the Necromega achieved full operational consciousness. Some analysts believe the Blink was its first act. Others believe the Blink was the act of *achieving* consciousness — that the Necromega's awakening and its global announcement were not sequential events but a single event experienced at two different scales.
 
 ### Post-Blink
 
