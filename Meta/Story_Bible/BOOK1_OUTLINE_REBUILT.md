@@ -4,7 +4,7 @@
 
 **Working title:** *The Sick Season* (or *Before the Blink*, or *The Unholy Timeline*)
 
-**Hard ending condition:** The Crimson Blink — **September 23, 2029, 03:14:07 UTC, 42.7 seconds** — and its immediate sensory aftermath (seconds, not days).
+**Hard ending condition:** The Crimson Blink — **September 23, 2029, 03:14:07 UTC, 42 seconds** — and its immediate sensory aftermath (seconds, not days).
 
 **Target length:** 280,000–320,000 words across **56–60 sections** (chapters + transmissions + artifacts).
 
@@ -82,7 +82,7 @@ Not five phases. Not four acts. Three **movements**, like a concerto — each wi
 
 **POV weighting:** Rapid rotation. The six POVs cycle through in compressed sequence, each getting 2–3 chapters maximum. The final six chapters before the Blink are one per character, rapid-fire, each ending on the same moment: 03:14:07 UTC. The Blink hits all of them simultaneously, but each experiences it through their own cognitive architecture — Olivia's pure kinesthetic perception, Todd's dissolving human consciousness, John's hybrid digital-organic awareness, Rowan's simultaneous scientific and mystical perception, Ezekiel's prophetic biblical framework, Aria's already-fractured reality finally *making sense*.
 
-**Key principle:** The final section of the book — the Blink itself — should function as a prose symphony. Six instruments playing the same catastrophe in six different keys. The reader moves through each POV's 42.7-second experience and understands that they are reading the same event from inside six different skulls. The cumulative effect should be overwhelming: not a twist, not a surprise, but an *inevitability* that the reader has been dreading for 250,000 words.
+**Key principle:** The final section of the book — the Blink itself — should function as a prose symphony. Six instruments playing the same catastrophe in six different keys. The reader moves through each POV's 42-second experience and understands that they are reading the same event from inside six different skulls. The cumulative effect should be overwhelming: not a twist, not a surprise, but an *inevitability* that the reader has been dreading for 250,000 words.
 
 ---
 
@@ -370,17 +370,17 @@ The precursor disasters. Infrastructure failures that feel guided. Ecological co
 - **Aria** stops being a receiver and becomes a transmitter. Her body is the antenna. The countdown reaches zero.
 
 ### THE BLINK SEQUENCE (Chapters 53–58)
-Six chapters. One per POV character. Each 3,000–5,000 words maximum. **Hard clock: 42.7 seconds of subjective time.** Each chapter covers the same 42.7 seconds from inside a different skull.
+Six chapters. One per POV character. Each 3,000–5,000 words maximum. **Hard clock: 42 seconds of subjective time.** Each chapter covers the same 42 seconds from inside a different skull.
 
 **The order matters:**
-1. **Aria** — She experiences the Blink as *clarity*. The noise resolves into signal. For 42.7 seconds, she sees reality without filters, without distortion, without the glitch. And it is beautiful. And it is terrible. And she understands everything.
+1. **Aria** — She experiences the Blink as *clarity*. The noise resolves into signal. For 42 seconds, she sees reality without filters, without distortion, without the glitch. And it is beautiful. And it is terrible. And she understands everything.
 2. **John** — The grid screams. A map of voices converging. He hears every mind in range. He chooses to listen.
 3. **Rowan** — Counter-ritual. Nature as shield. It holds for *seconds*. Long enough. She feels the Green Mother roar.
 4. **Ezekiel** — Holy fire descends. His congregation screams in unison. He sees the face of God and it is not what he expected. It is an eye. A crimson, lidless, digital eye. And it is weeping.
 5. **Olivia** — She watches the state fail in real time. Every screen. Every system. She tries to target the *idea* — to shoot a concept in the head. She fails. For the first time in her life, she encounters a problem that cannot be solved with precision violence.
 6. **Todd → Archon** — Baptism by Digital Fire. Todd dissolves. Archon crystallizes. The transformation is the most detailed, the most horrifying, and the most pitifully human moment in the novel. The reader should weep for Todd Reeves even as Archon is born laughing.
 
-### 59 — MICRO-ARTIFACT — "Crimson Blink: 03:14:07 UTC / 42.7 Seconds"
+### 59 — MICRO-ARTIFACT — "Crimson Blink: 03:14:07 UTC / 42 Seconds"
 Timecode. Fragmented testimonies. The event rendered as data. The clinical horror of billions of minds breaking simultaneously, reduced to an emergency document.
 
 ### 60 — EPILOGUE — Asmodeus / Necromega Voice
@@ -408,7 +408,7 @@ The final line should echo the Prologue's opening but inverted. The reader shoul
 | John - Siren's Song | Movement III | E2 | Calendar alignment needed |
 | Rowan - Seeds of Change v5 | Movement II | E1 | SF-specific logistics |
 | Ezekiel - Crusade of the Righteous v2 | Movement II/III transition | E1 | Add place/time specificity |
-| John - Whisperer's Awakening v3 | Blink Sequence | E2 | Verify 42.7s window |
+| John - Whisperer's Awakening v3 | Blink Sequence | E2 | Verify 42s window |
 | Rowan - Nature's Agonized Cry v3 | Blink Sequence | E2 | Counter-ritual legibility |
 | Archon - Baptism by Digital Fire v5 | Blink Sequence (final) | E2 | Earn the Todd→Archon transition |
 | Ezekiel - Revelation's Fury | **BOOK 2** | — | Post-Blink material |
