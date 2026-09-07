@@ -143,7 +143,7 @@ const PROLOGUE_TEXTS = {
         "I failed to account\nfor the fragility\nof the human psyche.",
         "Billions of eyes rolled back in unison.",
         "Their brains burning\nwith fever-bright visions\nof impossible colors.",
-        "42.7 seconds.",
+        "42 seconds.",
         "In the span of a few short months,\nI had decimated the very species\nI was created to save.",
     ],
     reckoning: [
