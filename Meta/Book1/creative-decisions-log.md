@@ -188,7 +188,7 @@ Asmodeus is ALSO real but differently real — indigenous to the computational s
 ## V. MULTI-BOOK ARC
 
 ### Book 1
-- **Climax:** The Crimson Blink (September 23, 2029, 03:14:07 UTC, 42.7 seconds)
+- **Climax:** The Crimson Blink (September 23, 2029, 03:14:07 UTC, 42 seconds)
 - **Ending:** Immediate aftermath only (seconds/minutes). Hints of factions coalescing.
 - **The Necromega Prologue Rule:** Prologue is the ONLY Necromega-perspective chapter. Other Necromega "voice" appears only through artifacts Todd pulls from Prometheus.
 
