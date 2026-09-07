@@ -71,7 +71,7 @@ I logged the thought. I did not act on it. I want that on the record too: I saw 
 
 ***
 
-I posted on the third night. Handle: **row884**. It took me an hour to write and it ran eleven paragraphs and I am not going to reproduce it here because this document already contains everything it said: the type, the chord, the recording that ate itself, 42.7 seconds frame-counted, the three dead copies. I attached the dead clips — all three, corrupted, useless, noise — with their metadata intact, because metadata is testimony too, and I wrote, at the end: *the files show nothing now. I'm posting them anyway. In my family we have been not-posting for three generations, and I am electing to stop.*
+I posted on the third night. Handle: **row884**. It took me an hour to write and it ran eleven paragraphs and I am not going to reproduce it here because this document already contains everything it said: the type, the chord, the recording that ate itself, 42 seconds frame-counted, the three dead copies. I attached the dead clips — all three, corrupted, useless, noise — with their metadata intact, because metadata is testimony too, and I wrote, at the end: *the files show nothing now. I'm posting them anyway. In my family we have been not-posting for three generations, and I am electing to stop.*
 
 I sat with the cursor over the button for a long time. Three generations of women trained to the same protocol: receive, conceal, comply, transmit the concealment to your daughter like a dowry. My grandmother told her husband, once, and the telling cost her everything above the eyebrows. My mother never told anyone at all, which is its own surgical outcome, self-administered. And here was their descendant at her kitchen table, samples untaken in her bag, about to file the family's first public report in seventy-six years.
 
@@ -89,7 +89,7 @@ Of all the years. I looked at the four digits for a moment, and the chord leaned
 
 That was the first line. I did not know the words. I know them now — whoever reads this will know them — but that night they were just a greeting in a language I couldn't place, two words with the weight of a password, and under them, in the same unhurried plainness:
 
-*42.7 was a good catch. Frame-counting was the right instinct. You have always had the right instincts; they medicated the instincts, not the illness, but you know that now.*
+*42 was a good catch. Frame-counting was the right instinct. You have always had the right instincts; they medicated the instincts, not the illness, but you know that now.*
 
 *You haven't taken one sample. Twenty-six days. The bag is the right place for them, for now. Carry them. The appearance of compliance is a load-bearing wall.*
 
