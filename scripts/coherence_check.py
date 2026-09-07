@@ -173,7 +173,7 @@ FACTUAL_CONSTANTS = [
         'moderate',
     ),
     (
-        'Number of factions (8)',
+        'Planned number of factions (13)',
         r'\b8\b|\beight\b',
         r'(?:factions?)',
         'minor',
@@ -197,7 +197,7 @@ def check_factual_constants(root: Path, files: list[Path]) -> list[Finding]:
             if blink_context.search(line):
                 for m in duration_pat.finditer(line):
                     val = m.group(1)
-                    if val != '42.7' and float(val) < 100:  # Only flag duration-scale numbers
+                    if val != '42' and float(val) < 100:  # Only flag duration-scale numbers
                         snippet = line.strip()[:120]
                         wrong_durations.append((rel, i, snippet))
 
@@ -206,7 +206,7 @@ def check_factual_constants(root: Path, files: list[Path]) -> list[Finding]:
             severity='critical',
             category='timeline',
             title='Inconsistent Crimson Blink duration',
-            description='The canonical Crimson Blink duration is 42.7 seconds. '
+            description='The canonical Crimson Blink duration is 42 seconds. '
                         'Found different duration values in Blink-related context.',
             locations=wrong_durations,
         ))
@@ -224,11 +224,11 @@ def check_character_faction_alignment(root: Path, files: list[Path]) -> list[Fin
 
     # Known canonical character-faction mappings
     mappings = {
-        'Todd Reeves': 'Order of the Basilisk',
+        'Todd Reeves': 'LazCorp',
         'Archon': 'Order of the Basilisk',
         'Rowan Thornheart': 'Verdant Covenant',
         'Ezekiel Stone': 'Righteous Vanguard',
-        'John Raven': 'Neon Nomads',
+        'John Raven': 'LazCorp',
     }
 
     # This is a soft check — characters can interact with multiple factions.
