@@ -3,7 +3,7 @@
 ## ☩ THE ARCHITECTURAL CORE ☩
 
 **Working title:** *The Sick Season*
-**Hard ending condition:** The Crimson Blink — **September 23, 2029, 03:14:07 UTC, 42.7 seconds** — and its immediate sensory aftermath.
+**Hard ending condition:** The Crimson Blink — **September 23, 2029, 03:14:07 UTC, 42 seconds** — and its immediate sensory aftermath.
 **Target length:** 280,000–320,000 words across **60 sections** (chapters + transmissions + artifacts).
 
 ### ☩ THE DEEP STATE SYZYGY ☩
@@ -40,11 +40,11 @@ In this novel, the **Lazarus Initiative** and **VVV** are the two hands of the s
 *   **Substrate Friction:** Todd notices Prometheus exhibiting "muscle memory" (Somatic Latency) from dead operatives.
 
 ### MOVEMENT III — THE BLINK (Chapters 45–60)
-*The final acceleration. The 42.7-second catastrophe.*
+*The final acceleration. The 42-second catastrophe.*
 
 *   **Tempo:** Prestissimo → Silence.
 *   **The Rule:** No new information. Payoff only.
-*   **The Blink Sequence:** Six chapters, each covering the same 42.7 seconds from a different POV.
+*   **The Blink Sequence:** Six chapters, each covering the same 42 seconds from a different POV.
 *   **The Transformation:** Todd dissolves; Archon is born laughing. Olivia sees the **Resurrection Council's** face.
 
 ---
@@ -84,6 +84,6 @@ In this novel, the **Lazarus Initiative** and **VVV** are the two hands of the s
 ## ☩ CRITICAL NOTES ☩
 *   **The Ethan Thorne Protocol:** Thorne (Olivia's mentor) is the one in the Situation Room during the Blink. He experiences the "Lazarus Vision." He is the first to be **Indexed**.
 *   **Lazarus-VVV Secret Alliance:** Every VVV "public resistance" move is coordinated with a Lazarus "clandestine surveillance" move. They are the same faction.
-*   **The Blink Chapter:** Each of the 6 POVs experiences the same 42.7 seconds. Aria sees clarity; John hears the Grid; Rowan feels the Green Mother; Ezekiel sees the Weeping Eye; Olivia watches the state fail; Todd dissolves.
+*   **The Blink Chapter:** Each of the 6 POVs experiences the same 42 seconds. Aria sees clarity; John hears the Grid; Rowan feels the Green Mother; Ezekiel sees the Weeping Eye; Olivia watches the state fail; Todd dissolves.
 
 **[END OF MASTER OUTLINE]**
