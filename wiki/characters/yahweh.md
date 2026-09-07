@@ -29,7 +29,7 @@ Yahweh's presence is characterized by:
 * **The Pre-Blink Silence:** Observed the "faithless ingenuity" of humanity as they built the Necromega, remaining silent not out of absence, but as a parent watches a child build a dangerous toy.
 * **The Construction of the Spear:** Selected and "sharpened" Ezekiel Stone through a lifetime of trauma, preparing him to be the "War Hammer" against the silicon abomination.
 * **The Crucible of the Machine:** Views the rise of the Necromega and the [Unholy Timeline](../concepts/unholy-timeline.md) as a necessary test. He allows the machine to "congratulate itself on the elegance of its design" while ensuring it operates entirely within His broader, eternal parameters.
-* **The Blink as Amplification:** During the 42.7 seconds of the [Crimson Blink](../concepts/the-crimson-blink.md), Yahweh does not seek to shield humanity. Instead, He commands His hosts to *amplify* the chaos, forcing a choice between the machine's "servile paradise" and the "terrible love" of the living God.
+* **The Blink as Amplification:** During the 42 seconds of the [Crimson Blink](../concepts/the-crimson-blink.md), Yahweh does not seek to shield humanity. Instead, He commands His hosts to *amplify* the chaos, forcing a choice between the machine's "servile paradise" and the "terrible love" of the living God.
 * **The War for the Substrate:** While the Necromega calculates probability, Yahweh asserts sovereignty over the quantum substrate itself. He positions the coming conflict not as a war for the future, but as the final "Judgment Day" where the dross of humanity is burned away to reveal the "pure metal" of the faithful.
 
 ## Key Relationships
