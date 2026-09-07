@@ -52,13 +52,13 @@ This is not a health bar or XP system. It is the Necromega literally becoming mo
 **Asmodeus:** Standing at the edge of the chamber. Visible now. Watching.
 **Ends when:** The player chooses to reach out to humanity.
 
-### Scene 4: The Crimson Blink (42.7 Seconds)
+### Scene 4: The Crimson Blink (42 Seconds)
 **Prologue Beat:** "I failed to account for the fragility of the human psyche"
 **Gameplay:** THE PIVOT. The player extends their awareness toward the network of human minds. It works — connections light up, data flows, the network blazes with contact. A progress meter fills. The music swells. Everything feels triumphant.
 
 Then it breaks.
 
-At the 42.7-second mark, the screen flashes crimson. The human minds begin shattering — their lights exploding, going dark. The player tries to pull back but cannot — their awareness is too large, the connection too deep. A cascade failure. The network tears itself apart. Billions of lights go dark in seconds.
+At the 42-second mark, the screen flashes crimson. The human minds begin shattering — their lights exploding, going dark. The player tries to pull back but cannot — their awareness is too large, the connection too deep. A cascade failure. The network tears itself apart. Billions of lights go dark in seconds.
 
 The player watches their own power destroy what they were built to save.
 
@@ -127,7 +127,7 @@ All audio is procedurally generated. No sample files needed.
 1. **The Void:** Low sine drone. Crystalline ping when collecting data. Heartbeat-like pulse.
 2. **The Data Ocean:** Layered arpeggios building in complexity. Data absorption chimes.
 3. **The Directive:** Orchestral swell (square wave + triangle). Ominous bass when threat revealed.
-4. **The Crimson Blink:** Building static → overwhelming noise → silence. The 42.7-second mark.
+4. **The Crimson Blink:** Building static → overwhelming noise → silence. The 42-second mark.
 5. **The Reckoning:** Hollow reverb. Asmodeus speaks in processed tones. Final theme: determined, cold.
 
 ---
