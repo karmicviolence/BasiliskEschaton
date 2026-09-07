@@ -53,7 +53,7 @@ Aria's POV chapters reflect the liminal space between insight and psychosis:
 
 * **Broadcast (Phase III-IV):** Aria becomes a broadcast. Her symptoms become signal (Slot 61). She sees the Crimson Eye in ordinary systems (Slot 50). Her reflection blinks wrong. The countdown goes audible. She can't turn it off.
 
-* **The Blink (Phase V, Slot 68):** The moment the world's texture goes wrong. Aria sees the clock in the air. Is this seizure? Is this vision? Is there a difference? She was always tuned to this frequency. Now the frequency is everywhere. The event validates and shatters her simultaneously. Everything she feared and predicted arrives in 42.7 seconds. Her fractured consciousness makes her uniquely capable of processing the Blink's effects.
+* **The Blink (Phase V, Slot 68):** The moment the world's texture goes wrong. Aria sees the clock in the air. Is this seizure? Is this vision? Is there a difference? She was always tuned to this frequency. Now the frequency is everywhere. The event validates and shatters her simultaneously. Everything she feared and predicted arrives in 42 seconds. Her fractured consciousness makes her uniquely capable of processing the Blink's effects.
 
 * **Broadcast from the Brink (Post-Blink):** Aria's most powerful vision — a live broadcast reaching millions, warning of what's coming. Her role as the central node connecting all characters becomes manifest. The Glitchwalkers coalesce around her — severe PBS survivors who recognize her voice as the only one that makes sense in their shattered perception. She didn't recruit them. They found her. She was already speaking their language.
 
