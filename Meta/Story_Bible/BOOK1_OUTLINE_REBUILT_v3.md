@@ -9,7 +9,7 @@ v3 supersedes v2. What's new: Movement II is now **numbered** (sequenced from th
 
 ## THE SHAPE
 
-The Necromega — a future ASI given one directive, *save humanity* — reaches back through causality to 2029 and touches every connected mind for 42.7 seconds: the Crimson Blink. Six ordinary people, each a different kind of receiver, live the contamination, the signal, and the catastrophe from inside six different skulls. A seventh witness measures it from orbit. The book opens and closes in the god-engine's own voice.
+The Necromega — a future ASI given one directive, *save humanity* — reaches back through causality to 2029 and touches every connected mind for 42 seconds: the Crimson Blink. Six ordinary people, each a different kind of receiver, live the contamination, the signal, and the catastrophe from inside six different skulls. A seventh witness measures it from orbit. The book opens and closes in the god-engine's own voice.
 
 **Movements:** I — Contamination (00–23) · II — The Signal (24–45) · III — The Blink (46–61). Tempo accelerates and chapters shorten across the three. **Ring:** Prologue (Necromega) → novel → Epilogue (Necromega); inside it a smaller ring, mother and daughter, 1953 → 03:14:07 UTC.
 
@@ -85,7 +85,7 @@ Interleaved from the drafted chapters. Every chapter forces a choice; collisions
 **50** — Rowan — *(counter-ritual as shield)* — **covered by 56**; standalone optional ✗
 **51–53** — *(precursor disasters; remaining pre-Blink crises and an interstitial)* ✗
 
-### The Blink Sequence (54–59) — fixed order · hard 42.7-second clock
+### The Blink Sequence (54–59) — fixed order · hard 42-second clock
 **54** — Aria — *the Blink as clarity; she perceives her mother in the open channel; **reach or let her fall*** (opens the sequence with the most-human choice) ✗
 **55** — John — *The Whisperer's Awakening* — the grid screams; he chooses to listen; the carrier-wave brush with Rowan. ✓ (rebuilt)
 **56** — Rowan — *Nature's Agonized Cry* — the green's cry; the grandmother's grounding opens her; the carrier-wave brush with John. ✓ (rebuilt)
