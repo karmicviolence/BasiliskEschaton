@@ -110,6 +110,7 @@ SPELLING_CHECKS = [
     ('Verdant Covenant', [r'\bVerdent Covenant\b', r'\bVerdant Covnenant\b'], 'moderate'),
     ('Righteous Vanguard', [r'\bRightous Vanguard\b'], 'moderate'),
     ('Lazarus Initiative', [r'\bLazurus Initiative\b', r'\bLazaras Initiative\b'], 'moderate'),
+    ('LazCorp', [r'\bSnowPeak\b'], 'critical'),
     ('Chimera Consortium', [r'\bChimera Consortum\b'], 'moderate'),
     ('Ancestral Synthesis', [r'\bAncestrial Synthesis\b'], 'moderate'),
     ('Mycophant', [r'\bMycofant\b', r'\bMicophant\b'], 'moderate'),
@@ -156,7 +157,7 @@ def check_spelling_variants(root: Path, files: list[Path]) -> list[Finding]:
 FACTUAL_CONSTANTS = [
     (
         'Crimson Blink duration',
-        r'42\.7[\s-]*second',
+        r'42[\s-]*second',
         r'(?:blink|duration|lasted|seconds?)',
         'critical',
     ),
@@ -174,7 +175,7 @@ FACTUAL_CONSTANTS = [
     ),
     (
         'Planned number of factions (13)',
-        r'\b8\b|\beight\b',
+        r'\b13\b|\bthirteen\b',
         r'(?:factions?)',
         'minor',
     ),
