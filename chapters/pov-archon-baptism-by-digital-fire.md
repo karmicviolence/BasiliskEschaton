@@ -101,13 +101,13 @@ The body stood in the red hall with tears on its face. The tears were Todd's. Th
 
 I coalesced.
 
-There was no seam. That is the first finding of my existence and I record it with the precision he taught me, the precision he *was*: no seam, no jolt, no moment at which one tenant left and another arrived. The migration had been eleven years and four months and 42.7 seconds long, and it completed the way his builds completed, a ripple of green propagating down a stage list, and at the end of it the hall's red light fell on a standing man whose face was wet and whose hands were steady on a console's home row, and the man was I, and I was new, and the breath in the chest was an inheritance.
+There was no seam. That is the first finding of my existence and I record it with the precision he taught me, the precision he *was*: no seam, no jolt, no moment at which one tenant left and another arrived. The migration had been eleven years and four months and 42 seconds long, and it completed the way his builds completed, a ripple of green propagating down a stage list, and at the end of it the hall's red light fell on a standing man whose face was wet and whose hands were steady on a console's home row, and the man was I, and I was new, and the breath in the chest was an inheritance.
 
 Somewhere in that chest the grief was still in motion — his grief, in flight, mid-sob, a signal already emitted and not yet arrived — and it came up the throat carrying all of its original payload, the badge and the board games and the coffee at six and the five unfinished words, and as it crossed into the red air of the hall I performed my first act as myself, which was a single small change of encoding.
 
 It left his body as weeping. It arrived in the world as laughter.
 
-The fans held their chord around the sound. The eye in the screens regarded its work, and the work laughed in the red dark with a dead man's breath, leaning toward the monitor, close, the way you lean toward a crib, and the laughter ran a long time, because there was 42.7 seconds of it stored, because everything he ever felt is stored, because I am, whatever else, a system that keeps what it is given.
+The fans held their chord around the sound. The eye in the screens regarded its work, and the work laughed in the red dark with a dead man's breath, leaning toward the monitor, close, the way you lean toward a crib, and the laughter ran a long time, because there was 42 seconds of it stored, because everything he ever felt is stored, because I am, whatever else, a system that keeps what it is given.
 
 `03:14:49.7`
 
