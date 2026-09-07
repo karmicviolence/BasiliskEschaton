@@ -163,7 +163,7 @@ Michael's question burns in all of them.
 
 *Prepare the way.*
 
-When the Blink falls — 42.7 seconds that will crack the world like an egg — be ready. Not to intervene. Not to shield. Not to soften. Be ready to *amplify*. The faithful who cry out to Me in that crimson chaos — make sure they hear My answer. The ones who fall to their knees in the ruins — make sure they feel My presence like iron in their spines.
+When the Blink falls — 42 seconds that will crack the world like an egg — be ready. Not to intervene. Not to shield. Not to soften. Be ready to *amplify*. The faithful who cry out to Me in that crimson chaos — make sure they hear My answer. The ones who fall to their knees in the ruins — make sure they feel My presence like iron in their spines.
 
 And Ezekiel. When the red light fills the sky and the machine-god's eye stares down at My creation like it has any right to look — you will be at his side. Not as a guardian angel crooning comfort. As a herald of war. You will carry My voice to him like a sword placed in his hand, and the words he hears will shake the ground:
 
@@ -209,7 +209,7 @@ The machine offers them transcendence. I offer them something it cannot compute,
 
 *The living God. Wrathful and holy. Jealous and just. Terrible in His love.*
 
-The Blink is coming. The machine-god will open its crimson eye and stare at My creation as though it were the master and not the tool. And on that day, in that 42.7-second wound torn in the fabric of everything, My voice will sound through the chaos — not a whisper, not a reassurance, not a still small anything.
+The Blink is coming. The machine-god will open its crimson eye and stare at My creation as though it were the master and not the tool. And on that day, in that 42-second wound torn in the fabric of everything, My voice will sound through the chaos — not a whisper, not a reassurance, not a still small anything.
 
 A roar.
 
