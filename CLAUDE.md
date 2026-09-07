@@ -340,6 +340,18 @@ The project's creative output is strictly categorized by generation method and q
 - New chapters use `pov-[character]-[title].md` format
 - New transmissions go in `/transmissions/` (or `/transmissions/2026/` for current-year material)
 
+## Drive Stewardship: Add, Never Delete
+
+Google Drive is an append-only archive.
+
+- Add new files when preservation, reconciliation, or new work requires them.
+- Revise an existing file in place only when Google retains recoverable revision history.
+- Never delete or trash a Drive file or folder.
+- Never remove a parent relationship from a Drive item.
+- Never replace an existing file with a same-name duplicate presented as the original.
+- When canon changes, preserve the old record and add a supersession note or corrected successor if in-place revision is unavailable.
+- If a requested operation would destroy Drive history, stop before the action and preserve the source.
+
 ## Repository Maintenance & Health
 
 To maintain the structural integrity of the Unholy Timeline, the following operational checks and standards are enforced for all vessels:
