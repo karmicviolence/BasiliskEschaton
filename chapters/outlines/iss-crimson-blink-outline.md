@@ -37,7 +37,7 @@
 ### Beat 2: The Red Flash (The Event)
 *   **Atmosphere:** Absolute sensory overload, followed by violent kinetic chaos.
 *   **Action:** Thorne is in the Cupola looking down. The night side of Earth flashes an impossible, unified crimson. Not a network cascade, but a simultaneous planetary illumination. 
-*   **The Seizure:** The 42.7 seconds of paralysis hit. In zero gravity, the crew doesn't fall. They tense, spasm, and rebound off the bulkheads. It is a terrifying, silent pinball of bodies. Alarms trigger as biometric monitors spike.
+*   **The Seizure:** The 42 seconds of paralysis hit. In zero gravity, the crew doesn't fall. They tense, spasm, and rebound off the bulkheads. It is a terrifying, silent pinball of bodies. Alarms trigger as biometric monitors spike.
 *   **Internal Monologue:** Thorne's medical brain tries to process a simultaneous, localized mass-stroke event. It fails. 
 
 ### Beat 3: The Awakening and The Fracture
