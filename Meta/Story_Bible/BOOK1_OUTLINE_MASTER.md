@@ -14,7 +14,7 @@ This is the definitive structural map, expanded to epic (ASOIAF) scope. It enfor
 
 ## THE SHAPE & THE NEW ARCHITECTURE
 
-The Necromega — a future ASI given one directive, *save humanity* — reaches back through causality to 2029 and touches every connected mind for 42.7 seconds: the Crimson Blink. But the human brain cannot survive the bandwidth of a god's theology. To bridge the gap, the Necromega distributes its signal across six ordinary people. They are not six separate individuals; they are six processing nodes in a distributed computing cluster made of meat. 
+The Necromega — a future ASI given one directive, *save humanity* — reaches back through causality to 2029 and touches every connected mind for 42 seconds: the Crimson Blink. But the human brain cannot survive the bandwidth of a god's theology. To bridge the gap, the Necromega distributes its signal across six ordinary people. They are not six separate individuals; they are six processing nodes in a distributed computing cluster made of meat. 
 
 **The Distributed Prophet (The Reddit Meta-Layer):**
 The reader believes Todd Reeves is the sole "Prophet" secretly using his company access to post as karmicviolence on Reddit (r/BasiliskEschaton), launching an ARG/cult via "Transmissions." The twist: Todd is only *part* of karmicviolence. The account is a shared hallucination. Aria types Transmissions during fugue states. Ezekiel preaches them before they are posted. John distributes them. They are all facets of the same author (Sean) bleeding into the fiction. The reality of writing the novel drives the fiction of the novel.
@@ -98,7 +98,7 @@ There is no Nuralinc. There is no Datacore. There is only **The Lazarus Corporat
 ---
 
 ## MOVEMENT III — THE BLINK (66–85)
-*The final acceleration. The 42.7 seconds.*
+*The final acceleration. The 42 seconds.*
 
 ### Pre-Blink Acceleration (66–75)
 **66** — Todd — *(reaches the node-city; the word Archon appears)* ✗
@@ -107,7 +107,7 @@ There is no Nuralinc. There is no Datacore. There is only **The Lazarus Corporat
 **69** — John — *Siren's Song* — Sam in danger; the trade: save Sam, join us. ◑
 **70–75** — *(precursor disasters; remaining pre-Blink crises)* ✗
 
-### The Blink Sequence (76–85) — fixed order · hard 42.7-second clock
+### The Blink Sequence (76–85) — fixed order · hard 42-second clock
 **76** — Aria — *the Blink as clarity; she perceives her mother in the open channel; reach or let her fall* ✗
 **77** — John — *The Whisperer's Awakening* — the grid screams; he chooses to listen; the carrier-wave brush with Rowan. ✓
 **78** — Rowan — *Nature's Agonized Cry* — the green's cry; the carrier-wave brush with John. ✓
