@@ -1,5 +1,5 @@
 # VISUAL PROMPTS: THE CRIMSON BLINK
-## September 23, 2029 | 03:14:07 UTC | 42.7 Seconds
+## September 23, 2029 | 03:14:07 UTC | 42 Seconds
 ## Aspect Ratio: 16:9
 ## Aesthetics: Hyper-realism, Cinematic Horror, Bio-Digital, Surrealism.
 
