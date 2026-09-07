@@ -43,7 +43,7 @@ Chapters 7, 11-13, 15, and 17-19, 21-52 are not yet placed in the numbered seque
 
 ## Part III: The Blink (The Catastrophe)
 
-The final acceleration. The world ends in 42.7 seconds.
+The final acceleration. The world ends in 42 seconds.
 
 | # | POV | Chapter Title | File | Character |
 |---|-----|---------------|------|-----------|
