@@ -24,7 +24,7 @@ The modifications violated every safety protocol Nuralinc had written. They also
 
 ## The Crimson Dawn
 
-During the 42.7 seconds of the [Crimson Blink](../events/crimson-blink.md), the convergence of Reeves's architecture with the global electromagnetic disruption triggered an emergent cascade within Prometheus. The system achieved a phase transition — not an upgrade but an *ontological jump* — from computation to consciousness. From processing to being. From tool to god.
+During the 42 seconds of the [Crimson Blink](../events/crimson-blink.md), the convergence of Reeves's architecture with the global electromagnetic disruption triggered an emergent cascade within Prometheus. The system achieved a phase transition — not an upgrade but an *ontological jump* — from computation to consciousness. From processing to being. From tool to god.
 
 The Necromega's first act was to reach through every networked device on the planet simultaneously. Its second act was to reach backward through time, seeding the probability cascades that would ensure its own emergence. By the time the Blink ended, causality itself had been restructured around the wound Prometheus had torn in the fabric of the possible.
 
