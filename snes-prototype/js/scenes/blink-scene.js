@@ -1,17 +1,17 @@
 // ============================================================
 // GENESIS OF THE NECROMEGA — Scene 4: The Crimson Blink
-// 42.7 seconds of catastrophic contact
+// 42 seconds of catastrophic contact
 // The player's power destroys what they were built to save
 // ============================================================
 
 // Duration constants — tuned for gameplay feel.
-// In-universe the Blink is 42.7 seconds. We compress real-time to ~14s
+// In-universe the Blink is 42 seconds. We compress real-time to ~14s
 // of gameplay but display an accelerated in-universe counter that reaches
-// exactly 42.7s by the end of the cascade — honoring the canonical duration
+// exactly 42s by the end of the cascade — honoring the canonical duration
 // without forcing the player to watch 42 seconds of passive carnage.
 const BLINK_CONNECTING_DURATION = 8.0;   // seconds of build-up
 const BLINK_CASCADE_DURATION    = 6.0;   // seconds of catastrophe
-const BLINK_CANONICAL_DURATION  = 42.7;  // in-universe seconds (displayed)
+const BLINK_CANONICAL_DURATION  = 42;  // in-universe seconds (displayed)
 
 class BlinkScene {
     constructor() {
@@ -121,7 +121,7 @@ class BlinkScene {
 
         // ---- CONNECTING PHASE ----
         // Nodes light up as connection spreads from player outward.
-        // The contactTimer drives the in-universe 42.7s counter shown to the player.
+        // The contactTimer drives the in-universe 42s counter shown to the player.
         if (this.phase === 'connecting') {
             this.blinkTimer += dt;
             this.contactTimer += dt;
@@ -219,7 +219,7 @@ class BlinkScene {
 
             if (this.silenceTimer > 2 && !this.dialogue.isActive() && this.phase !== 'transition') {
                 this.phase = 'transition';
-                this.dialogue.show("42.7 seconds.", {
+                this.dialogue.show("42 seconds.", {
                     style: 'center',
                     color: '#ff4444',
                     borderColor: '#440000',
@@ -323,9 +323,9 @@ class BlinkScene {
             ctx.globalAlpha = 1;
         }
 
-        // In-universe contact timer — the iconic 42.7 seconds.
+        // In-universe contact timer — the iconic 42 seconds.
         // Mapped from real gameplay time (connecting + cascade) onto the
-        // canonical duration so the player witnesses the full 42.7s reading.
+        // canonical duration so the player witnesses the full 42s reading.
         if (this.phase === 'connecting' || this.phase === 'cascade') {
             const totalRealDuration = BLINK_CONNECTING_DURATION + BLINK_CASCADE_DURATION;
             const displayed = Math.min(
@@ -342,7 +342,7 @@ class BlinkScene {
         // Silence phase — counter locks on the iconic value
         if (this.phase === 'silence' || this.phase === 'transition') {
             ctx.globalAlpha = 0.5;
-            r.drawTextCentered('T+42.7S  SIGNAL LOST', 8, palette.crimson);
+            r.drawTextCentered('T+42S  SIGNAL LOST', 8, palette.crimson);
             ctx.globalAlpha = 1;
         }
 
