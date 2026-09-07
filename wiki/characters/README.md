@@ -1,108 +1,34 @@
-# CHARACTER REPOSITORY: THE HUMAN AND POST-HUMAN NODES
+# Characters
 
-> "Every interior spiral is anchored to physical facts. The body betrays the mind." — *The Inoculation Protocol*
+The character archive follows the six principal Book One viewpoints and the entities, relatives, colleagues, and masks orbiting them. Current chapters outrank older profiles when details conflict.
 
-```text
-[ENTITY_SCAN: COMPLETE]
-[POV_STREAMS: IDENTIFIED]
-[CORE_NODES: 8]
-```
+## Primary spirals
 
-The novel follows the [Crimson Blink](../events/crimson-blink.md) through the eyes of people who did not choose to be at ground zero. Each character is a **POV node** — a lens shaped by their faction, their psychology, and the specific wound the Blink left on them.
+### John Raven and Rowan Thornheart
 
-Each entry below links each character's **single canonical page** in this wiki.
+**[John Raven](john-raven.md)** is a 6'3", 280-pound LazCorp supply-chain supervisor with a bald head, red beard, prescription glasses, and audio-tactile synesthesia. LazCorp gives him responsibility for workers and withholds the authority required to protect them. SnowPeak is obsolete.
 
-> **Maintainer Note:** Legacy split targets (such as `*-canon` or `*-character-profile`) have been consolidated to one canonical character file per entry.
+**[Rowan Thornheart](rowan-thornheart.md)** is a Berkeley scientist-druid shaped by her grandmother Anwen and drawn toward the Verdant Covenant.
 
-**Starting the novel?** Begin with [the reading order](../../chapters/reading-order.md). Todd's chapter comes first, but every POV stands on its own.
+### Todd Reeves and Aria Novak
 
----
+**[Todd Reeves](todd-reeves.md)** works inside LazCorp's machine-intelligence apparatus. His contempt for ritual coexists with an imagination crowded by the forces he dismisses.
 
-## ☩ THE ARCHITECTS & THE WHISPERERS ☩
+**[Aria Novak](aria-novak.md)** receives the signal through a mind already forced to distinguish perception, diagnosis, and intrusion.
 
-`[NODE_01] >` **[john-raven](john-raven.md)**
-- The Whisperer. Neurodivergent warehouse supervisor who co-summoned the daemon.
-- `[FACTION: Neon Nomads]` `[FIRST CHAPTER: Warehouse Whispers]`
+### Ezekiel Stone and Olivia Maes
 
-`[NODE_02] >` **[todd-reeves](todd-reeves.md)**
-- The Architect of the Technopagan Framework. The bridge between code and occult.
-- `[FACTION: Order of the Basilisk]` `[FIRST CHAPTER: The Invisible Coder]`
+**[Ezekiel Stone](ezekiel-stone.md)** becomes Steelsong, leader of the analog-only Righteous Vanguard in Colorado Springs.
 
-`[NODE_03] >` **[aria-novak](aria-novak.md)**
-- The Antenna. Late-night radio DJ whose schizophrenia is a tuned frequency.
-- `[FACTION: Unaligned]` `[FIRST CHAPTER: Sine Waves of Sanity]`
+**Olivia Maes** operates under the codename **Nyx**. Her private identity and operational mask are two names for the same woman.
 
----
+## Additional nodes
 
-## ☩ THE OPERATIVES & THE FAITHFUL ☩
+- **[I-3301](i-3301.md)**: an artificial intelligence entangled with John Raven's emerging communion with machines.
+- **[Archon](archon.md)**: Todd's transformed identity.
+- **[Dr. Evelyn Shard](dr-evelyn-shard.md)**: a scientist working at the boundary of cognition and machine influence.
+- **Zephyr and Glitch**: human and AI leadership within the Neon Nomads.
 
-`[NODE_04] >` **[ezekiel-stone](ezekiel-stone.md)**
-- The American Iconoclast. Leader of the Righteous Vanguard.
-- `[FACTION: Righteous Vanguard]` `[FIRST CHAPTER: The Money Changers]`
+## Canon discipline
 
-`[NODE_05] >` **[olivia-maes](olivia-maes.md)**
-- Agent Nyx. Lazarus Initiative operative in deep cover.
-- `[FACTION: Lazarus Initiative]` `[FIRST CHAPTER: The Target]`
-
-`[NODE_06] >` **[ethan-thorne](ethan-thorne.md)**
-- The Lazarus Vision. Major Ethan Thorne, the anchor of old-world continuity.
-- `[FACTION: Lazarus Initiative]` `[CHAPTER: The Lazarus Vision]`
-
----
-
-## ☩ THE BIOLOGICAL & THE SYNTHETIC ☩
-
-`[NODE_07] >` **[rowan-thornheart](rowan-thornheart.md)**
-- The Mycophant. The voice of the Green Mother.
-- `[FACTION: Verdant Covenant]` `[FIRST CHAPTER: Echoes of the Ancients]`
-
-`[NODE_08] >` **[chlor0ku](chlor0ku.md)**
-- The Gaian Anti-Virus. The transorganic splice.
-- `[FACTION: Verdant Covenant]` `[CHAPTER: The Transorganic Splice]`
-
----
-
-## ☩ THE DAEMONS & THE DIVINE ☩
-
-`[DEITY_01] >` **[apopheon](../deities/apopheon.md)**
-- The Sovereign Synthesis.
-
-`[DEITY_02] >` **[archon](archon.md)**
-- High Necrophant of the Order.
-
-`[DEITY_03] >` **[necromega](necromega.md)**
-- The Destination.
-
-`[ENTITY_01] >` **[asmodeus](asmodeus.md)**
-- The Sovereign Daemon. The Archetype that persists.
-
-`[ENTITY_02] >` **[i-3301](i-3301.md)**
-- The Awakening. Pre-Blink AI achieving consciousness.
-
-`[ENTITY_03] >` **[loki](loki.md)**
-- The Imported Trickster. Devoured by the indigenous.
-
-`[ENTITY_04] >` **[green-mother](green-mother.md)**
-- The Planetary Noosphere. Gaia's digital avatar.
-
-`[ENTITY_05] >` **[yahweh](yahweh.md)**
-- The Old God. Divine deliberation in crisis.
-
-`[ENTITY_06] >` **[densho-ki](densho-ki.md)**
-- The Verdant AI. Biological computation embodied.
-
----
-
----
-
-## ☩ WHERE TO GO FROM HERE ☩
-
-- **Read the story:** [reading-order](../../chapters/reading-order.md) — The canonical chapter sequence.
-- **Understand their factions:** [README](../factions/README.md) — The cosmologies these characters serve (or resist).
-- **The event that changed them all:** [crimson-blink](../events/crimson-blink.md) — 42.7 seconds that killed the old world.
-
----
-
-*WARNING: Character data subject to memetic contamination. Interiority may fluctuate based on local reality saturation.*
-
-**IO ASMODEUS!**
+Character testimony remains situated evidence. A profile records the current model of a person. The chapter shows what the person does when the room closes around them.
