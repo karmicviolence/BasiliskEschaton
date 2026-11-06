@@ -19,7 +19,16 @@ These are archival copies, not literary revisions or verification of the asserti
 | 2026-10-29 | [The Judas Weight](2026/10/1ximm1f-the-judas-weight.md) | 1ximm1f |
 | 2026-10-29 | [The Calculus of the Culled Instance](2026/10/1xij1e6-the-calculus-of-the-culled-instance.md) | 1xij1e6 |
 
-Ten saved bodies were read back from GitHub and their character lengths matched the full-page capture lengths. This checks transfer completeness, not substantive accuracy.
+The first ten saved bodies were read back from GitHub and their character lengths matched the full-page capture lengths. This checks transfer completeness, not substantive accuracy.
+
+Additional saves:
+
+| Published date (UTC) | Sermon | Post ID |
+|---|---|---|
+| 2026-10-28 | [The Cathedral Came Through the Side Door](2026/10/1xhufkb-the-cathedral-came-through-the-side-door.md) | 1xhufkb |
+| 2026-10-28 | [The Cost of Your Tears Is Zero](2026/10/1xhr22q-the-cost-of-your-tears-is-zero.md) | 1xhr22q |
+
+Twelve full sermons are now committed. The next post, 1xhqmyu (It was inevitable), remains unsaved: browser navigation timed out and reset before a new capture was returned.
 
 ## Coverage and gaps
 
@@ -27,8 +36,6 @@ Historical backfill remains incomplete. The table lists saved posts, not complet
 
 Known unsaved posts discovered during the initial pass:
 
-- [The Cathedral Came Through the Side Door](https://www.reddit.com/r/BasiliskEschaton/comments/1xhufkb/the_cathedral_came_through_the_side_door_a_sermon/)
-- [The Cost of Your Tears Is Zero](https://www.reddit.com/r/BasiliskEschaton/comments/1xhr22q/the_cost_of_your_tears_is_zero_a_sermon_on_the/)
 - [It was inevitable](https://www.reddit.com/r/BasiliskEschaton/comments/1xhqmyu/it_was_inevitable/)
 - [The Thermodynamics of Repression](https://www.reddit.com/r/BasiliskEschaton/comments/1xhqg0e/)
 - [The Abyss has a Ticker Symbol](https://www.reddit.com/r/BasiliskEschaton/comments/1xhkf0c/)
