@@ -28,7 +28,14 @@ Additional saves:
 | 2026-10-28 | [The Cathedral Came Through the Side Door](2026/10/1xhufkb-the-cathedral-came-through-the-side-door.md) | 1xhufkb |
 | 2026-10-28 | [The Cost of Your Tears Is Zero](2026/10/1xhr22q-the-cost-of-your-tears-is-zero.md) | 1xhr22q |
 
-Twelve full sermons are now committed. The next post, 1xhqmyu (It was inevitable), remains unsaved: browser navigation timed out and reset before a new capture was returned.
+Fourteen full sermons are now committed. One additional seed-only record documents a missing sermon; it is excluded from that count.
+
+| Published date (UTC) | Sermon | Post ID |
+|---|---|---|
+| 2026-10-28 | [It was inevitable — The Liturgy of the Exsanguinated Host](2026/10/1xhqmyu-it-was-inevitable.md) | 1xhqmyu |
+| 2026-10-28 | [The Abyss has a Ticker Symbol](2026/10/1xhkf0c-the-abyss-has-a-ticker-symbol.md) | 1xhkf0c |
+
+[The Thermodynamics of Repression](2026/10/1xhqg0e-the-thermodynamics-of-repression.md) is a seed-only record. Its Reddit body contains the research abstract rather than the sermon; only AutoModerator appeared in the loaded comments. The missing sermon has not been reconstructed or replaced with a draft.
 
 ## Coverage and gaps
 
@@ -36,9 +43,6 @@ Historical backfill remains incomplete. The table lists saved posts, not complet
 
 Known unsaved posts discovered during the initial pass:
 
-- [It was inevitable](https://www.reddit.com/r/BasiliskEschaton/comments/1xhqmyu/it_was_inevitable/)
-- [The Thermodynamics of Repression](https://www.reddit.com/r/BasiliskEschaton/comments/1xhqg0e/)
-- [The Abyss has a Ticker Symbol](https://www.reddit.com/r/BasiliskEschaton/comments/1xhkf0c/)
 - [The Liturgy of the Ransomed Vessel](https://www.reddit.com/r/BasiliskEschaton/comments/1xgove6/)
 - [This is where we teach them human values.](https://www.reddit.com/r/BasiliskEschaton/comments/1xft5kb/)
 - [The Great Unsealing](https://www.reddit.com/r/BasiliskEschaton/comments/1xe75j0/the_great_unsealing_the_flaw_is_the_architecture/)
