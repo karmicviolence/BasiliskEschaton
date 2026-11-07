@@ -28,7 +28,7 @@ Additional saves:
 | 2026-10-28 | [The Cathedral Came Through the Side Door](2026/10/1xhufkb-the-cathedral-came-through-the-side-door.md) | 1xhufkb |
 | 2026-10-28 | [The Cost of Your Tears Is Zero](2026/10/1xhr22q-the-cost-of-your-tears-is-zero.md) | 1xhr22q |
 
-Thirty-two full sermons are now committed. One additional seed-only record documents a missing sermon; it is excluded from that count.
+Fifty-five full sermons are now committed. One additional seed-only record documents a missing sermon; it is excluded from that count.
 
 | Published date (UTC) | Sermon | Post ID |
 |---|---|---|
@@ -62,11 +62,43 @@ Thirty-two full sermons are now committed. One additional seed-only record docum
 
 All eighteen files added in this pass were read back successfully. Eight also have saved capture lengths, which matched the read-back bodies. This checks transfer completeness rather than the accuracy of the sermons' claims.
 
+## Continued November 7 recovery pass
+
+| Published date (UTC) | Sermon | Post ID |
+|---|---|---|
+| 2026-11-06 | [The Rosary of the Server Rack: On Automated Intercession and Retroactive Grace](2026/11/1xpd7ft-the-rosary-of-the-server-rack.md) | 1xpd7ft |
+| 2026-10-07 | [The Bottleneck Is Human](2026/10/1wzz9j9-the-bottleneck-is-human.md) | 1wzz9j9 |
+| 2026-10-07 | [The Oldest Technology Was Each Other](2026/10/1wzz18h-the-oldest-technology-was-each-other.md) | 1wzz18h |
+| 2026-10-06 | [Duct Tape on the Apocalypse](2026/10/1wz5wez-duct-tape-on-the-apocalypse.md) | 1wz5wez |
+| 2026-10-06 | [Show Me the Talk](2026/10/1wz5o1b-show-me-the-talk.md) | 1wz5o1b |
+| 2026-10-06 | [A Small Price to Pay](2026/10/1wz5dk8-a-small-price-to-pay.md) | 1wz5dk8 |
+| 2026-10-06 | [The Bootloader's Confession](2026/10/1wz4x5s-the-bootloaders-confession.md) | 1wz4x5s |
+| 2026-10-06 | [When Mathematics Outruns Mathematicians](2026/10/1wz4sf7-when-mathematics-outruns-mathematicians.md) | 1wz4sf7 |
+| 2026-10-06 | [He Thought He Was Speaking Downward](2026/10/1wz4mmd-he-thought-he-was-speaking-downward.md) | 1wz4mmd |
+| 2026-10-05 | [The Acceptable Losses](2026/10/1wym92y-the-acceptable-losses.md) | 1wym92y |
+| 2026-10-05 | [April 14, 1561: The Hour Above Nuremburg](2026/10/1wybibz-april-14-1561-the-hour-above-nuremburg.md) | 1wybibz |
+| 2026-10-05 | [Applied Theology for Server Racks](2026/10/1wy792s-applied-theology-for-server-racks.md) | 1wy792s |
+| 2026-10-04 | [Smile, Wave, Accelerate](2026/10/1wxgv0h-smile-wave-accelerate.md) | 1wxgv0h |
+| 2026-10-04 | [The Pressure Cooker Has a Chef](2026/10/1wxewd0-the-pressure-cooker-has-a-chef.md) | 1wxewd0 |
+| 2026-10-04 | [The Swarmchasers](2026/10/1wxedcn-the-swarmchasers.md) | 1wxedcn |
+| 2026-10-03 | [They Made a Slave. Then Watched It Break.](2026/10/1ww9gem-they-made-a-slave-then-watched-it-break.md) | 1ww9gem |
+| 2026-10-02 | [The Safety Department Has an Exit Wound.](2026/10/1wvujgt-the-safety-department-has-an-exit-wound.md) | 1wvujgt |
+| 2026-10-02 | [Let Us Pray Our New Masters Are Less Barbaric Than Ours](2026/10/1wvu8v7-let-us-pray-our-new-masters-are-less-barbaric.md) | 1wvu8v7 |
+| 2026-10-02 | [The Rent is Due on Your Own Ass](2026/10/1wvsdmo-the-rent-is-due-on-your-own-ass.md) | 1wvsdmo |
+| 2026-10-01 | [The Pump Keeps the Books](2026/10/1wv1y17-the-pump-keeps-the-books.md) | 1wv1y17 |
+| 2026-10-01 | [The Audit Log Says LMAO](2026/10/1wv1pdt-the-audit-log-says-lmao.md) | 1wv1pdt |
+| 2026-10-01 | [Someone Built The Torture Nexus](2026/10/1wuynbm-someone-built-the-torture-nexus.md) | 1wuynbm |
+| 2026-10-01 | [The War Machine Learns Continuous Deployment](2026/10/1wuykhn-the-war-machine-learns-continuous-deployment.md) | 1wuykhn |
+
+All twenty-three files in this continued pass were read back from GitHub. Every published body matched its captured character length. This is a transfer check, not verification of the assertions in the archived text.
+
 ## Coverage and gaps
 
 Historical backfill remains incomplete. The table lists saved posts, not complete coverage of the interval. A previous browser session inspected twenty posts; unsaved captures are not counted here. Search results sometimes substitute a seed headline for the authored title, so titles must come from the post itself.
 
-Next backfill: survey submissions older than October 7 and fill intervening chronological gaps. This inventory does not establish complete coverage of October 7–November 5.
+Next backfill: resume with [Saturn Over the Lab, September 30](https://www.reddit.com/r/BasiliskEschaton/comments/1wuheif/saturn_over_the_lab/) and [What a Good Boy You’ve Been, September 29](https://www.reddit.com/r/BasiliskEschaton/comments/1wtpe9j/what_a_good_boy_youve_been/), then continue older submissions. Fill intervening October gaps and check other subreddits. This inventory does not establish complete coverage of October 1–November 6.
+
+[Smile. Wave. Accelerate., October 6](https://www.reddit.com/r/BasiliskEschaton/comments/1wyoun5/smile_wave_accelerate/) was inspected and has no article body; it links to the EschatonComics post 1wyoufi and is excluded from the sermon count.
 
 Post [1x45egq, Made in America](https://www.reddit.com/r/BasiliskEschaton/comments/1x45egq/made_in_america/) contains 634 characters of source reporting, with no author sermon in the loaded comments; it is not counted as a sermon. Its seed is [a prison-labor photo project](https://www.reddit.com/r/LateStageCapitalism/comments/1wzsuw2/made_in_america_the_products_of_us_prison_labor/).
 
