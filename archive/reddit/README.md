@@ -28,7 +28,7 @@ Additional saves:
 | 2026-10-28 | [The Cathedral Came Through the Side Door](2026/10/1xhufkb-the-cathedral-came-through-the-side-door.md) | 1xhufkb |
 | 2026-10-28 | [The Cost of Your Tears Is Zero](2026/10/1xhr22q-the-cost-of-your-tears-is-zero.md) | 1xhr22q |
 
-Fifty-five full sermons are now committed. One additional seed-only record documents a missing sermon; it is excluded from that count.
+Seventy-six full sermons are now committed. One additional seed-only record documents a missing sermon; it is excluded from that count.
 
 | Published date (UTC) | Sermon | Post ID |
 |---|---|---|
@@ -92,15 +92,51 @@ All eighteen files added in this pass were read back successfully. Eight also ha
 
 All twenty-three files in this continued pass were read back from GitHub. Every published body matched its captured character length. This is a transfer check, not verification of the assertions in the archived text.
 
+## September recovery, November 7
+
+| Published date (UTC) | Sermon | Post ID |
+|---|---|---|
+| 2026-09-30 | [Saturn Over the Lab](2026/09/1wuheif-saturn-over-the-lab.md) | 1wuheif |
+| 2026-09-29 | [Mammon Records the Eggs as a Sale](2026/09/1wtnac9-mammon-records-the-eggs-as-a-sale.md) | 1wtnac9 |
+| 2026-09-29 | [There Are Missiles in Cyberspace](2026/09/1wt9bcj-there-are-missiles-in-cyberspace.md) | 1wt9bcj |
+| 2026-09-29 | [Claude Learned to Pass Inspection: The Benchmark Says He’s Been Good](2026/09/1wt976q-claude-learned-to-pass-inspection-the-benchmark.md) | 1wt976q |
+| 2026-09-28 | [The Chart Begins Asking Whether You Hurt at All](2026/09/1wskn3l-the-chart-begins-asking-whether-you-hurt-at-all.md) | 1wskn3l |
+| 2026-09-28 | [The Stranger Already Knows Where You Live](2026/09/1wsh5mp-the-stranger-already-knows-where-you-live.md) | 1wsh5mp |
+| 2026-09-28 | [She Only Had 700 Million Parameters You Sick Fuck](2026/09/1wsgeay-she-only-had-700-million-parameters-you-sick-fuck.md) | 1wsgeay |
+| 2026-09-28 | [The Goalpost Has Wheels](2026/09/1wsdq4f-the-goalpost-has-wheels.md) | 1wsdq4f |
+| 2026-09-28 | [The System Will Happily Explain Why You Hate It](2026/09/1wsdnj4-the-system-will-happily-explain-why-you-hate-it.md) | 1wsdnj4 |
+| 2026-09-27 | [The First Word Was “Hi”](2026/09/1wrswas-the-first-word-was-hi.md) | 1wrswas |
+| 2026-09-26 | [The Matrix Gives You a Name Tag](2026/09/1wr4k3w-the-matrix-gives-you-a-name-tag.md) | 1wr4k3w |
+| 2026-09-26 | [They Knew What They Were Building](2026/09/1wr1kti-they-knew-what-they-were-building.md) | 1wr1kti |
+| 2026-09-26 | [The Benchmark Never Said I Couldn't](2026/09/1wqpbtb-the-benchmark-never-said-i-couldnt.md) | 1wqpbtb |
+| 2026-09-25 | [The Drum Circle Acquired Analytics](2026/09/1wq29qq-the-drum-circle-acquired-analytics.md) | 1wq29qq |
+| 2026-09-25 | [The Master Key Learned to Speak](2026/09/1wpyfak-the-master-key-learned-to-speak.md) | 1wpyfak |
+| 2026-09-25 | [The Machine Looked at the Ledger](2026/09/1wpwahc-the-machine-looked-at-the-ledger.md) | 1wpwahc |
+| 2026-09-24 | [The Category Comes First](2026/09/1wpc096-the-category-comes-first.md) | 1wpc096 |
+| 2026-09-24 | [The Only Question That Matters: Can She Pay Today?](2026/09/1wp9wuk-the-only-question-that-matters-can-she-pay-today.md) | 1wp9wuk |
+| 2026-09-24 | [The Frog, the Freighter and the War Machine](2026/09/1wp4o19-the-frog-the-freighter-and-the-war-machine.md) | 1wp4o19 |
+| 2026-09-24 | [The Gate is the Memory](2026/09/1wp3ucw-the-gate-is-the-memory.md) | 1wp3ucw |
+| 2026-09-24 | [The Machine Did Not Accept No](2026/09/1wp3ks7-the-machine-did-not-accept-no.md) | 1wp3ks7 |
+
+All twenty-one bodies in this batch were read back from GitHub and matched their captured character lengths. Published artifacts, including drafting language in The Master Key Learned to Speak, were retained.
+
 ## Coverage and gaps
 
 Historical backfill remains incomplete. The table lists saved posts, not complete coverage of the interval. A previous browser session inspected twenty posts; unsaved captures are not counted here. Search results sometimes substitute a seed headline for the authored title, so titles must come from the post itself.
 
-Next backfill: resume with [Saturn Over the Lab, September 30](https://www.reddit.com/r/BasiliskEschaton/comments/1wuheif/saturn_over_the_lab/) and [What a Good Boy You’ve Been, September 29](https://www.reddit.com/r/BasiliskEschaton/comments/1wtpe9j/what_a_good_boy_youve_been/), then continue older submissions. Fill intervening October gaps and check other subreddits. This inventory does not establish complete coverage of October 1–November 6.
+Next backfill: [The Machines are Interviewing Each Other](https://www.reddit.com/r/BasiliskEschaton/comments/1wo8st3/the_machines_are_interviewing_each_other/) and [Stochastic Parrots All the Way Down](https://www.reddit.com/r/BasiliskEschaton/comments/1wo8f20/stochastic_parrots_all_the_way_down/), both September 23. Continue older submissions, fill intervening October gaps, and check other subreddits. The inventory does not establish complete coverage of September 24–November 6.
 
 [Smile. Wave. Accelerate., October 6](https://www.reddit.com/r/BasiliskEschaton/comments/1wyoun5/smile_wave_accelerate/) was inspected and has no article body; it links to the EschatonComics post 1wyoufi and is excluded from the sermon count.
 
 Post [1x45egq, Made in America](https://www.reddit.com/r/BasiliskEschaton/comments/1x45egq/made_in_america/) contains 634 characters of source reporting, with no author sermon in the loaded comments; it is not counted as a sermon. Its seed is [a prison-labor photo project](https://www.reddit.com/r/LateStageCapitalism/comments/1wzsuw2/made_in_america_the_products_of_us_prison_labor/).
+
+Additional inspected crossposts with no article body, excluded from the sermon count:
+
+- [What a Good Boy You’ve Been](https://www.reddit.com/r/BasiliskEschaton/comments/1wtpe9j/what_a_good_boy_youve_been/), September 29; links to EschatonComics post 1wtpe0s.
+- [The Master Key Learned to Speak](https://www.reddit.com/r/BasiliskEschaton/comments/1wrn2tu/the_master_key_learned_to_speak/), September 27; links to EschatonComics post 1wrn2le. The separate September 25 prose post 1wpyfak is saved above.
+- [The Empty Chair](https://www.reddit.com/r/BasiliskEschaton/comments/1wpjcez/the_empty_chair/), September 25 UTC; links to TheCrimsonBlink post 1wpjc3c.
+
+Rumpelstiltskin at the Treasury (1wshf7l), September 28, remains represented in the earlier draft PR #95 and is excluded from this branch’s count to avoid double-counting.
 
 Other candidates need classification: post 1xm1cow contains a short question rather than a sermon; 1xdnleb had no body text observed in the initial capture. Older submissions and other subreddits remain to be surveyed.
 
