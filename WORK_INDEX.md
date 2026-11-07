@@ -31,6 +31,10 @@ This order records the author's November 2026 direction. It does not rename the 
 | Transmission indexing | [cartography/transmission-catalog.md](cartography/transmission-catalog.md) | Check coverage before claiming completeness. |
 | Continuity handoff | [Meta/session-handoff.md](Meta/session-handoff.md) | Session state; may be stale. |
 
+## Book One audit (2026-11-07)
+
+[Open the 62-slot manuscript inventory](Meta/Book1/manuscript-inventory-2026-11-07.md). Repository-matched drafts, outline holes, probable Olivia scene matches, 1953 artifact conflict, and Chapter One v8/v10 discrepancy are recorded there. Treat its mappings as evidence, not automatic canon promotion.
+
 ## Editorial status and immediate backlog
 
 - **Priority: Book One audit.** Reconcile reading order, version ledger, canonical file list, and late-2026 outline(s). Produce an explicit chapter matrix: POV, chronological order, latest source version, canon status, edit state, word count, and blockers.
