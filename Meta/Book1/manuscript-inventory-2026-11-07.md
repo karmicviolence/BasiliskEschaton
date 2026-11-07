@@ -121,3 +121,14 @@ These are not inherently rejected or post-Blink; classify after reading.
 6. For each accepted chapter, add measured word count and `approved/draft/rewrite` state; **do not infer approval from filenames or an outline checkmark**.
 
 **Preservation rule:** never delete or move manuscript sources to make a table look complete. Record provenance and decisions first.
+
+## Direct-content verification addendum (2026-11-07)
+
+The following files were read beyond their filenames, and their plots substantively match the corresponding v3 outline slots:
+
+- **29 — Olivia, *Mirror Discipline*:** the text covers expanding surveillance, a growing anomaly queue, dead accounts, recurring 3:14 signatures, and Olivia turning the monitoring apparatus back on itself. This is a **strong slot-29 candidate**, pending author's approval.
+- **35 — Olivia, *Chain of Custody*:** Olivia receives the anomalous residential recording, extracts a surviving frame, and protects the uploader. This is a **strong slot-35 candidate**, though the outline's specific demand that the recording come from Aria must be verified against the complete draft.
+- **44 — Olivia, *Bird Dog*:** explicit orders to recover Todd Reeves and seize Prometheus, with Olivia discovering the Todd/Aria connection. This is a **strong slot-44 candidate**.
+- **38 — *Patient Record: 1953*:** existing artifact is explicitly labeled for Movement II adjacent to Aria's recovered archival material. The v3 `✗` is **outdated on file existence**; editorial approval and continuity remain open.
+
+These direct-content checks do not change canonical reading order or the author's approval state.
