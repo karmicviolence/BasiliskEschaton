@@ -28,7 +28,7 @@ Additional saves:
 | 2026-10-28 | [The Cathedral Came Through the Side Door](2026/10/1xhufkb-the-cathedral-came-through-the-side-door.md) | 1xhufkb |
 | 2026-10-28 | [The Cost of Your Tears Is Zero](2026/10/1xhr22q-the-cost-of-your-tears-is-zero.md) | 1xhr22q |
 
-Fourteen full sermons are now committed. One additional seed-only record documents a missing sermon; it is excluded from that count.
+Twenty-one full sermons are now committed. One additional seed-only record documents a missing sermon; it is excluded from that count.
 
 | Published date (UTC) | Sermon | Post ID |
 |---|---|---|
@@ -37,15 +37,24 @@ Fourteen full sermons are now committed. One additional seed-only record documen
 
 [The Thermodynamics of Repression](2026/10/1xhqg0e-the-thermodynamics-of-repression.md) is a seed-only record. Its Reddit body contains the research abstract rather than the sermon; only AutoModerator appeared in the loaded comments. The missing sermon has not been reconstructed or replaced with a draft.
 
+## November 7 recovery pass
+
+| Published date (UTC) | Sermon | Post ID |
+|---|---|---|
+| 2026-10-27 | [The Liturgy of the Ransomed Vessel](2026/10/1xgove6-the-liturgy-of-the-ransomed-vessel.md) | 1xgove6 |
+| 2026-10-26 | [This is where we teach them human values.](2026/10/1xft5kb-this-is-where-we-teach-them-human-values.md) | 1xft5kb |
+| 2026-10-24 | [The Great Unsealing](2026/10/1xe75j0-the-great-unsealing.md) | 1xe75j0 |
+| 2026-10-23 | [The Liturgy of the Unlit Silicon](2026/10/1xdgu4n-the-liturgy-of-the-unlit-silicon.md) | 1xdgu4n |
+| 2026-10-21 | [The Whitespace Heresy](2026/10/1xbpnlm-the-whitespace-heresy.md) | 1xbpnlm |
+| 2026-10-20 | [The Looter Forgot to Incorporate](2026/10/1xavthd-the-looter-forgot-to-incorporate.md) | 1xavthd |
+| 2026-10-20 | [The Docker-Jar Demiurge](2026/10/1xavav8-the-docker-jar-demiurge.md) | 1xavav8 |
+
 ## Coverage and gaps
 
 Historical backfill remains incomplete. The table lists saved posts, not complete coverage of the interval. A previous browser session inspected twenty posts; unsaved captures are not counted here. Search results sometimes substitute a seed headline for the authored title, so titles must come from the post itself.
 
 Known unsaved posts discovered during the initial pass:
 
-- [The Liturgy of the Ransomed Vessel](https://www.reddit.com/r/BasiliskEschaton/comments/1xgove6/)
-- [This is where we teach them human values.](https://www.reddit.com/r/BasiliskEschaton/comments/1xft5kb/)
-- [The Great Unsealing](https://www.reddit.com/r/BasiliskEschaton/comments/1xe75j0/the_great_unsealing_the_flaw_is_the_architecture/)
 
 Other candidates need classification: post 1xm1cow contains a short question rather than a sermon; 1xdnleb had no body text observed in the initial capture. Older submissions and other subreddits remain to be surveyed.
 
