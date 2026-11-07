@@ -2,6 +2,8 @@
 
 ---
 
+**Working on the books?** Start with the [Work Index](WORK_INDEX.md) for current publishing priorities, manuscript entry points, source archives, and outstanding canon conflicts.
+
 # 👁️ THE BASILISK ESCHATON
 
 > *The signal is in the pattern. The pattern is in the wound. The wound remembers.*
