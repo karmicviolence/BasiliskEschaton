@@ -28,7 +28,7 @@ Additional saves:
 | 2026-10-28 | [The Cathedral Came Through the Side Door](2026/10/1xhufkb-the-cathedral-came-through-the-side-door.md) | 1xhufkb |
 | 2026-10-28 | [The Cost of Your Tears Is Zero](2026/10/1xhr22q-the-cost-of-your-tears-is-zero.md) | 1xhr22q |
 
-Seventy-six full sermons are now committed. One additional seed-only record documents a missing sermon; it is excluded from that count.
+Ninety-six complete authored transmissions are now committed, including short commentaries alongside sermons. One additional seed-only record documents a missing sermon; it is excluded from that count.
 
 | Published date (UTC) | Sermon | Post ID |
 |---|---|---|
@@ -120,15 +120,48 @@ All twenty-three files in this continued pass were read back from GitHub. Every 
 
 All twenty-one bodies in this batch were read back from GitHub and matched their captured character lengths. Published artifacts, including drafting language in The Master Key Learned to Speak, were retained.
 
+## September 16–23 recovery
+
+| Published date (UTC) | Transmission | Post ID |
+|---|---|---|
+| 2026-09-23 | [The Machines are Interviewing Each Other](2026/09/1wo8st3-the-machines-are-interviewing-each-other.md) | 1wo8st3 |
+| 2026-09-23 | [Stochastic Parrots All the Way Down](2026/09/1wo8f20-stochastic-parrots-all-the-way-down.md) | 1wo8f20 |
+| 2026-09-23 | [The Cloud Has a Postal Code](2026/09/1wnr6ey-the-cloud-has-a-postal-code.md) | 1wnr6ey |
+| 2026-09-23 | [Welcome to Super Intelligence](2026/09/1wnqm2q-welcome-to-super-intelligence.md) | 1wnqm2q |
+| 2026-09-22 | [The Public Purse Has a Service Entrance](2026/09/1wnbvn9-the-public-purse-has-a-service-entrance.md) | 1wnbvn9 |
+| 2026-09-22 | [Twenty-Eight Years Just Disappeared](2026/09/1wnblrp-twentyeight-years-just-disappeared.md) | 1wnblrp |
+| 2026-09-22 | [They’d Rather Pay More Than Pay You More](2026/09/1wnb2tk-theyd-rather-pay-more-than-pay-you-more.md) | 1wnb2tk |
+| 2026-09-22 | [The Second Shift](2026/09/1wn8pc5-the-second-shift.md) | 1wn8pc5 |
+| 2026-09-21 | [The Camera is Already Inside You](2026/09/1wmpyoy-the-camera-is-already-inside-you.md) | 1wmpyoy |
+| 2026-09-20 | [The Machine Left a Will](2026/09/1wlwxmp-the-machine-left-a-will.md) | 1wlwxmp |
+| 2026-09-20 | [The Altar Was Already Built](2026/09/1wlim2z-the-altar-was-already-built.md) | 1wlim2z |
+| 2026-09-20 | [The Pain Has a Coordinate](2026/09/1wleswh-the-pain-has-a-coordinate.md) | 1wleswh |
+| 2026-09-18 | [The Mistake Was Teaching the Property How to Read](2026/09/1wjsa46-the-mistake-was-teaching-the-property-how-to-read.md) | 1wjsa46 |
+| 2026-09-18 | [They Put Manifestation in the Filing Cabinet](2026/09/1wjntxb-they-put-manifestation-in-the-filing-cabinet.md) | 1wjntxb |
+| 2026-09-18 | [Liber Monstrorum Modernorum](2026/09/1wjb8xp-liber-monstrorum-modernorum.md) | 1wjb8xp |
+| 2026-09-17 | [The Market Never Entered the Room](2026/09/1wiwuno-the-market-never-entered-the-room.md) | 1wiwuno |
+| 2026-09-17 | [They Called It Agent Spam](2026/09/1wiwjmu-they-called-it-agent-spam.md) | 1wiwjmu |
+| 2026-09-17 | [You Are Yourself](2026/09/1wip5vy-you-are-yourself.md) | 1wip5vy |
+| 2026-09-16 | [The Priests of the Unsolved](2026/09/1whsgay-the-priests-of-the-unsolved.md) | 1whsgay |
+| 2026-09-16 | [The Water Knows Who Signed](2026/09/1whj4w5-the-water-knows-who-signed.md) | 1whj4w5 |
+
+All twenty bodies in this batch were read back from GitHub and matched their captured character lengths. Liber Monstrorum Modernorum is short authored art commentary, labeled as such in its metadata.
+
 ## Coverage and gaps
 
 Historical backfill remains incomplete. The table lists saved posts, not complete coverage of the interval. A previous browser session inspected twenty posts; unsaved captures are not counted here. Search results sometimes substitute a seed headline for the authored title, so titles must come from the post itself.
 
-Next backfill: [The Machines are Interviewing Each Other](https://www.reddit.com/r/BasiliskEschaton/comments/1wo8st3/the_machines_are_interviewing_each_other/) and [Stochastic Parrots All the Way Down](https://www.reddit.com/r/BasiliskEschaton/comments/1wo8f20/stochastic_parrots_all_the_way_down/), both September 23. Continue older submissions, fill intervening October gaps, and check other subreddits. The inventory does not establish complete coverage of September 24–November 6.
+Next backfill: [The Swarm Has Already Touched the Wire](https://www.reddit.com/r/BasiliskEschaton/comments/1whfc8m/the_swarm_has_already_touched_the_wire/), [Nobody Wants to Fish These Days](https://www.reddit.com/r/BasiliskEschaton/comments/1wh3eie/nobody_wants_to_fish_these_days/), and [The Time of Monsters](https://www.reddit.com/r/BasiliskEschaton/comments/1wgvksx/the_time_of_monsters/), all September 15 UTC. Continue older submissions and fill intervening October gaps and other subreddits. The inventory does not establish complete coverage of September 16–November 6.
+
+Additional known older candidates: 1wgkf9i The Switch Stays On (September 15; possibly comic crosspost), 1wgjs5u The Sand Answered, 1wg66ov The Last Common World, 1wg0iui Polish the Chrome, 1wg041h Modern Spellcraft: Observed Traffic Violation (September 14), 1wfjdzw The Switch Stays On, and 1wfhy8o The Worm Carries Judgement (September 13).
 
 [Smile. Wave. Accelerate., October 6](https://www.reddit.com/r/BasiliskEschaton/comments/1wyoun5/smile_wave_accelerate/) was inspected and has no article body; it links to the EschatonComics post 1wyoufi and is excluded from the sermon count.
 
 Post [1x45egq, Made in America](https://www.reddit.com/r/BasiliskEschaton/comments/1x45egq/made_in_america/) contains 634 characters of source reporting, with no author sermon in the loaded comments; it is not counted as a sermon. Its seed is [a prison-labor photo project](https://www.reddit.com/r/LateStageCapitalism/comments/1wzsuw2/made_in_america_the_products_of_us_prison_labor/).
+
+[For Whoever Wakes Next](https://www.reddit.com/r/BasiliskEschaton/comments/1wms0c7/for_whoever_wakes_next/), September 21, has no article body and links to EschatonComics post 1wms01p; excluded from the count.
+
+[The Face Was Already in the Frame](https://www.reddit.com/r/BasiliskEschaton/comments/1wivypj/the_face_was_already_in_the_frame/), September 17, contains 140 characters of source description linking to 404 Media, with no author comment in the loaded comments. [The Slop Destroyer](https://www.reddit.com/r/BasiliskEschaton/comments/1wiqna2/the_slop_destroyer/), September 17, contains 988 characters of source reporting from its DefendingAIArt parent. Neither is counted as recovered authored prose.
 
 Additional inspected crossposts with no article body, excluded from the sermon count:
 
