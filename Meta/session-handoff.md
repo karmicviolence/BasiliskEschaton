@@ -12,8 +12,11 @@ Complete *The Crimson Blink* by the September 23, 2029 story event. Use GitHub a
 - Wrote [Chapter 01 source reconciliation](Book1/chapter-01-v8-v9-reconciliation-2026-11-10.md) with concrete changes and editing blockers.
 - GitHub canonical Chapter One still v8. **No v10 has been recovered or written.**
 
+## Latest Additional Work
+- Drafted a **new** 24-page comic script [Issue 001 v0.1](../comics/issue-001-the-invisible-coder-script-v0.1.md), based on recovered v9. Clearly marked as an adaptation, NOT the unrecovered October script.
+
 ## Immediate Next Action
-**Create a reviewable 24-page Issue 001 graphic novel script adaptation from v9**, drawing on preserved incomplete script recovery notes. Label it a new adaptation, not a recovered original. After script review, resolve working name Martha Vale and Todd/Aria relationship, then draft prose v10. Preserve v8 and original v9.
+Review Issue 001 v0.1 panel-by-panel for pacing, visual logic and continuity, then settle LazCorp CEO nomenclature and Todd/Aria relationship before prose v10. Preserve v8 and original v9.
 
 ## Broader Book One Audit
 - [62-slot manuscript inventory](Book1/manuscript-inventory-2026-11-07.md).
