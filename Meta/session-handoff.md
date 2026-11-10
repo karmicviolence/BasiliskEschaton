@@ -1,26 +1,25 @@
 # Session Handoff State
 
-Updated: 2026-11-07. This is a current operational handoff; preserve older context through Git history.
+Updated: 2026-11-10
 
 ## Current Objective
-Finish and publish **The Crimson Blink** as the principal work before its in-world event on September 23, 2029 (03:14 UTC). Companion grimoire and transmission volumes follow as the sequel develops.
+Complete *The Crimson Blink* by the September 23, 2029 story event. Use GitHub as canonical repository and Drive as a source archive.
 
 ## Last Completed Work
-- Created [WORK_INDEX.md](../WORK_INDEX.md) as the primary navigation and priority router, linked from README.
-- Audited the 62 slots of the v3 Book One outline against GitHub chapter files, version ledger, and existing artifacts in [manuscript-inventory-2026-11-07.md](Book1/manuscript-inventory-2026-11-07.md).
-- Confirmed that Olivia's *Mirror Discipline*, *Chain of Custody*, and *Bird Dog* have strong matches to outline slots 29, 35, and 44; approval pending.
-- Confirmed a 1953 patient-record artifact exists even though v3 marks slot 38 a hole.
-- Confirmed Chapter One in GitHub is v8 and still contains Nuralinc/Nuralin; v10 has not been verified.
+- Inspected Google Drive and located two copies of the October 25, 2026 RAW SOURCE of Chapter 01 *The Invisible Coder* v9.
+- Committed verbatim recovered v9 to [archive/novel-drafts/Chapters/Novel_-_Chapter_01_-_Todd_-_The_Invisible_Coder_v9_RECOVERED.md](../archive/novel-drafts/Chapters/Novel_-_Chapter_01_-_Todd_-_The_Invisible_Coder_v9_RECOVERED.md).
+- Preserved the incomplete Issue 001 (24-page comic) script recovery notes: [Meta/Book1/issue-001-recovery-notes-2026-10-25.md](Book1/issue-001-recovery-notes-2026-10-25.md).
+- Wrote [Chapter 01 source reconciliation](Book1/chapter-01-v8-v9-reconciliation-2026-11-10.md) with concrete changes and editing blockers.
+- GitHub canonical Chapter One still v8. **No v10 has been recovered or written.**
 
-## Next Action
-**Locate the latest authoritative Chapter One source** (proposed v10), reconcile it with repository v8, and draft a reviewable edit preserving provenance. Once confirmed, reconcile the 62-slot outline and reading order, then refresh canon manifest and version ledger together.
+## Immediate Next Action
+**Create a reviewable 24-page Issue 001 graphic novel script adaptation from v9**, drawing on preserved incomplete script recovery notes. Label it a new adaptation, not a recovered original. After script review, resolve working name Martha Vale and Todd/Aria relationship, then draft prose v10. Preserve v8 and original v9.
 
-## Active Conflicts
-- Author's November 2026 decision to remove Nuralinc/Nuralin versus February canon lock.
-- Book One publication name *The Crimson Blink* versus working title *The Sick Season*.
-- 60-section master versus 62-slot outline v3.
-- First-person POV preference versus v3 ontological POV-flip convention.
-- Existing chapter drafts not yet assigned approved canon status.
+## Broader Book One Audit
+- [62-slot manuscript inventory](Book1/manuscript-inventory-2026-11-07.md).
+- Olivia draft candidates for slots 29, 35 and 44 remain strong but unapproved.
+- Patient Record 1953 exists despite missing flag in older outline.
+- Outline and first/third-person POV policies still require reconciliation.
 
 ## Session Close Protocol
-Record resulting GitHub commits, editorial decisions, and remaining blockers. Do not overwrite approved chapters or promote candidates without verification.
+Record commits and unresolved decisions. Do not promote drafts to canon without explicit editorial approval.
