@@ -26,4 +26,4 @@ Status: **recovery completed; v10 revision NOT yet written or approved**
 5. Do not overwrite `chapters/pov-todd-the-invisible-coder.md` until replacement provenance and approval are clear.
 
 ## Status
-**v9 recovered to GitHub; canonical v8 unchanged.** The immediate next creative deliverable is a reviewable *Issue 001* comic script (new reconstruction), followed by Chapter One prose v10.
+**v9 recovered to GitHub; canonical v8 unchanged.** A new reviewable [24-page *Issue 001* script v0.1](../../comics/issue-001-the-invisible-coder-script-v0.1.md) was drafted on 2026-11-10. It is an unapproved adaptation, **not** the lost October script. Next: editorial review, then prose v10.
