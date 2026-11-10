@@ -35,6 +35,14 @@ This order records the author's November 2026 direction. It does not rename the 
 
 [Open the 62-slot manuscript inventory](Meta/Book1/manuscript-inventory-2026-11-07.md). Repository-matched drafts, outline holes, probable Olivia scene matches, 1953 artifact conflict, and Chapter One v8/v10 discrepancy are recorded there. Treat its mappings as evidence, not automatic canon promotion.
 
+## Chapter One source recovered (2026-11-10)
+
+- [v8→v9 reconciliation and script-first revision plan](Meta/Book1/chapter-01-v8-v9-reconciliation-2026-11-10.md)
+- [Recovered verbatim Todd v9 source](archive/novel-drafts/Chapters/Novel_-_Chapter_01_-_Todd_-_The_Invisible_Coder_v9_RECOVERED.md)
+- [Issue 001 incomplete script recovery notes](Meta/Book1/issue-001-recovery-notes-2026-10-25.md)
+
+Canonical v8 remains unchanged; v9 is preserved as source for the uncompleted comic adaptation and future prose v10.
+
 ## Editorial status and immediate backlog
 
 - **Priority: Book One audit.** Reconcile reading order, version ledger, canonical file list, and late-2026 outline(s). Produce an explicit chapter matrix: POV, chronological order, latest source version, canon status, edit state, word count, and blockers.
