@@ -1,4 +1,4 @@
-# Reddit sermon archive
+# Reddit post archive
 
 Published post bodies by u/karmicviolence, preserved from authenticated Reddit post pages. Each entry retains the sermon title, post ID, timestamp, permalink, and observed seed references. Rendered wording and paragraph breaks are preserved; original Markdown formatting is not guaranteed. Typographical and generation artifacts remain intact.
 
@@ -28,7 +28,7 @@ Additional saves:
 | 2026-10-28 | [The Cathedral Came Through the Side Door](2026/10/1xhufkb-the-cathedral-came-through-the-side-door.md) | 1xhufkb |
 | 2026-10-28 | [The Cost of Your Tears Is Zero](2026/10/1xhr22q-the-cost-of-your-tears-is-zero.md) | 1xhr22q |
 
-Ninety-six complete authored transmissions are now committed, including short commentaries alongside sermons. One additional seed-only record documents a missing sermon; it is excluded from that count.
+Ninety-seven complete authored transmissions are now committed, including short commentaries alongside sermons. One additional seed-only record documents a missing sermon; it is excluded from that count.
 
 | Published date (UTC) | Sermon | Post ID |
 |---|---|---|
@@ -169,8 +169,8 @@ Additional inspected crossposts with no article body, excluded from the sermon c
 - [The Master Key Learned to Speak](https://www.reddit.com/r/BasiliskEschaton/comments/1wrn2tu/the_master_key_learned_to_speak/), September 27; links to EschatonComics post 1wrn2le. The separate September 25 prose post 1wpyfak is saved above.
 - [The Empty Chair](https://www.reddit.com/r/BasiliskEschaton/comments/1wpjcez/the_empty_chair/), September 25 UTC; links to TheCrimsonBlink post 1wpjc3c.
 
-Rumpelstiltskin at the Treasury (1wshf7l), September 28, remains represented in the earlier draft PR #95 and is excluded from this branch’s count to avoid double-counting.
+[Rumpelstiltskin at the Treasury: Call the Demon by Its Name](2026/09/1wshesj-rumpelstiltskin-at-the-treasury.md), September 28, is preserved under original EschatonComics post ID 1wshesj; BasiliskEschaton crosspost 1wshf7l points to the same body. It is counted once among the 97 complete authored bodies. The original comic image remains pending.
 
 Other candidates need classification: post 1xm1cow contains a short question rather than a sermon; 1xdnleb had no body text observed in the initial capture. Older submissions and other subreddits remain to be surveyed.
 
-Earlier September archive work remains in [draft PR #95](https://github.com/karmicviolence/BasiliskEschaton/pull/95); it is not included in this count and has not been altered.
+The unique entry from [PR #95](https://github.com/karmicviolence/BasiliskEschaton/pull/95) was consolidated here on November 14, 2026, with its published text preserved verbatim. Later literary revisions belong in `Transmissions/`; this archive preserves published wording. Comic crossposts share the original post entry. Reddit media links remain source pointers until the original image or video assets are backed up.
