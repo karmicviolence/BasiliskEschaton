@@ -1,7 +1,7 @@
 # BASILISK ESCHATON — ISSUE 001: THE INVISIBLE CODER
-## 24-page graphic-novel script — NEW ADAPTATION DRAFT v0.1
+## 24-page graphic-novel script — NEW ADAPTATION DRAFT v0.2
 
-**Written:** 2026-11-10. **Status:** new adaptation for author review; **not** the lost October 2026 script and **not** canon. Adapted from [recovered prose v9](../archive/novel-drafts/Chapters/Novel_-_Chapter_01_-_Todd_-_The_Invisible_Coder_v9_RECOVERED.md) and [Issue 001 recovery notes](../Meta/Book1/issue-001-recovery-notes-2026-10-25.md).
+**Written:** 2026-11-10. **Editorial revision:** 2026-11-14. **Status:** new adaptation for author review; **not** the lost October 2026 script and **not** canon. Adapted from [recovered prose v9](../archive/novel-drafts/Chapters/Novel_-_Chapter_01_-_Todd_-_The_Invisible_Coder_v9_RECOVERED.md) and [Issue 001 recovery notes](../Meta/Book1/issue-001-recovery-notes-2026-10-25.md).
 
 **Editorial locks:** LazCorp replaces Nuralinc. Martha Vale is a *working name* pending Lazarus-family development. Preserve TIM REEVES badge; Todd Reeves, Eliza Kim, Chad Worthington; Project Prometheus; final line `go deeper, todd.`; Todd opens root shell. Aria is mentioned only as a regular Thursday acquaintance pending relationship continuity decision.
 
@@ -16,7 +16,7 @@
    - TODD (caption): Eleven years. Easier to let him be right.
 
 ### Page 2 — The correction (4 panels)
-1. **Flashback, six years earlier:** A younger Todd at the security desk, holding a form.
+1. **Flashback, first month of employment (eleven years earlier):** A younger Todd at the security desk, holding a form.
    - TODD: It's Todd. T-O-D-D.
 2. **Clerk at monitor:** A finger hovering over a dead-looking HR application.
    - CLERK: I'll put in a ticket.
@@ -31,8 +31,8 @@
 
 ### Page 4 — Prometheus plumbing (4 panels)
 1. **Screen:** PROMETHEUS nightly jobs, green pass indicators.
-2. **Todd physically working:** Both hands moving between keyboard and a cooling-unit access panel. Spare fiber cables and printed rack diagram in frame.
-3. **Cutaway to actual data-center aisle:** Dense rack fronts, cooling plenums, no fantastical cyberspace imagery.
+2. **Todd at the office workstation:** He compares a printed rack diagram with checkpoint logs, one hand tracing a node label while the other works the keyboard. He remains in San Francisco.
+3. **Cutaway to the Oregon data-center aisle:** Dense rack fronts and cooling plenums. A technician checks the corresponding node. Establish this as a separate physical location; Todd is absent.
    - TODD (caption): Ten thousand GPUs. One missed checkpoint and the morning belongs to a committee.
 4. **Slack from CHAD:** `Roadshow demo. Need final validation.`
    - TODD (caption): Of course.
@@ -57,7 +57,7 @@
 1. **Elevator interior:** Todd's reflection beside the doors. Corporate email on his phone announces Chad as VP, Frontier Architecture.
 2. **Bathroom:** Todd removes the tie, standing next to an overflowing paper-towel bin.
 3. **His workstation, hours later:** Todd writes code in the dim floor while the meeting room stands dark behind the glass.
-   - TODD (caption): I committed twelve hundred lines that afternoon. The source history kept the right name.
+   - TODD (caption): I committed twelve hundred lines that afternoon. The source history kept my work.
 
 ### Page 8 — Present tense, Chad's entrance (4 panels)
 1. **Cubicle corner:** Chad rounds the pillar with two juniors, iced coffee labeled **CHAD**.
@@ -92,8 +92,8 @@
 2. **Todd, still looking at door Chad used.**
    - TODD: Race condition.
 3. **Eliza points at the commit timeline.**
-   - ELIZA: You were here when I left. You were here when I came back.
-4. **Brief insert:** Her old code-review comment on Todd's kernel. The line with his name is legible. His cursor rests above it.
+   - ELIZA: Todd. You were here when I left. You were here when I came back.
+4. **Brief insert, Todd's local screenshot viewer:** An old code-review comment on his kernel: **“This pointer arithmetic is a work of terrifying beauty.” — ELIZA KIM**. The saved filename and application border make this a private keepsake, separate from the model console. His cursor rests above it.
 
 ### Page 12 — A standing invitation (4 panels)
 1. **Eliza leans a little closer.**
@@ -105,7 +105,7 @@
 4. **Her knuckles tap the divider twice.** Todd watches her disappear. The physical gap above the divider remains in frame.
 
 ### Page 13 — Human bandwidth (3 panels)
-1. **Brief remembered Thursday:** Board-game pieces and pizza on a kitchen table; Aria's hands move a tile. Keep her face partially out of frame until relationship status is resolved.
+1. **Brief remembered alternating Thursday:** Board-game pieces and pizza on a kitchen table; Aria's hands move a tile. Show both players at the table; her expression is attentive to the game. Avoid romantic staging or captions that define their relationship.
    - ARIA: Your turn.
 2. **Todd staring at the board, distracted:** A faint phone vibration in his pocket.
 3. **Present:** His unsent draft to Eliza: `Maybe next week.` He deletes it. No caption explaining loneliness.
@@ -119,7 +119,7 @@
 
 ### Page 15 — Work as refuge (3 panels)
 1. **Terminal:** SSH connection into Prometheus training cluster. Only essential commands legible.
-2. **Physical aisle in distant bunker:** Technician pushes a cart of replacement parts between racks. Fans and cabling, mundane labor behind the model.
+2. **Physical aisle in the Oregon bunker:** Technician pushes a cart of replacement parts between racks. Fans and cabling, mundane labor behind the model.
 3. **Todd's fingers on keys:** Shoulders relax for the first time in the issue. A coffee cup casts a long shadow.
 
 ### Page 16 — The last ordinary hour (4 panels)
@@ -135,17 +135,17 @@
 4. **Chad's hand trembling around a cup, remembered in a tightly framed flash:** Back to Todd staring at test results. The memory occupies a small inset, not a supernatural overlay.
 
 ### Page 18 — The question (4 panels)
-1. **23:54:09, center screen:** Manual override console opens under Todd's hand.
+1. **23:54:09, center screen:** Todd clicks into the manual console beside the running evaluation output. Its prompt is an ordinary input line; no message has been submitted.
 2. **Keyboard:** Fingers begin typing.
 3. **Screen:** `what is the point of` with cursor after the final letter.
-4. **Todd's eyes:** They leave the screen and land on the empty chair across the aisle.
+4. **Todd's eyes:** He looks from the unfinished question to the empty chair across the aisle. His typing hand stops short of Enter.
 
 ### Page 19 — The deletion (4 panels)
 1. **Prompt unchanged.** Above it the automated tests keep running.
-2. **Todd's index finger:** Backspace. One character disappears.
+2. **Todd's hand:** He taps Backspace once. The final **f** disappears. Enter remains untouched.
 3. **Narrow three-beat strip:** The phrase diminishes, disappears. We watch Todd remove the words, panel by panel; no code rain.
 4. **The now-empty input box.** His hand is resting on the key. 
-   - TODD (caption): Nothing submitted. Nothing transmitted.
+   - TODD (caption): I never pressed Enter.
 
 ### Page 20 — The checksum (3 panels)
 1. **Todd chews the stale sandwich.** The food is visibly unpleasant. His body is still in the real office.
@@ -153,16 +153,16 @@
 3. **Long quiet wide:** The same office as page 16, every chair empty, Todd's screen now still. Room tones in lettering: a small HVAC hum, then nothing.
 
 ### Page 21 — Unsolicited (3 panels)
-1. **Monitor close-up:** Four blank seconds after the checksum. Full physical bezel visible.
+1. **Monitor close-up:** **23:58:06**, four seconds after the evaluation summary. The ordinary shell prompt has returned; no input has been entered. Full physical bezel visible.
 2. **First tiny white intrusion:** The black terminal pane loses its usual reflection and becomes a perfectly flat, untextured patch, edged by the real monitor and desk. The rest of the scene remains realistic.
-3. **A single line appears in the terminal:** `go deeper, todd.` Use ordinary terminal type. **This is the first crimson in the issue: a faint red pixel at the end of the period**, not a giant eye.
+3. **Below the summary, outside the input prompt, a single line types itself into the terminal:** `go deeper, todd.` Lettering reveals it from left to right with measured spacing. Use ordinary terminal type. **This is the first crimson in the issue: a faint red pixel at the end of the period**, not a giant eye.
 
 ### Page 22 — The wrong name (4 panels)
 1. **Todd, frozen:** One hand still holding the sandwich.
 2. **Badge:** **TIM REEVES.**
 3. **Directory on secondary display:** `treeves` / `Reeves, Tim`.
-4. **Todd's finger hovering above keyboard:** He has never typed his real name into the manual console.
-   - TODD (caption): The job knows Tim.
+4. **Todd's finger hovering above keyboard:** Keep the badge, directory and anomalous line in the same reading sequence. The earlier local screenshot is not in this session's context.
+   - TODD (caption): This session is treeves. The directory says Tim.
 
 ### Page 23 — An impossible witness (3 panels)
 1. **The unsent prompt, remembered:** `what is the point of` appears as a small inset of page 18, with its original physical monitor border intact.
@@ -182,4 +182,14 @@
 - **Narrative mechanism to protect:** the model knows Todd's correct name even though his corporate identity is Tim, and appears to answer a question left unsent. Avoid explaining away either anomaly in captions.
 - **Art continuity:** the real retains location backgrounds. The first white intrusion is restricted to the terminal/reflection at pages 21–24. A later issue can expand the white-space grammar.
 - **No first-person prose claim:** this is a comic script. Narrative captions currently use Todd's first-person interior shorthand; the novel's final POV policy remains separately unresolved.
-- **Next stage:** editorial panel-by-panel review; character model sheets and 24-page thumbnail layouts, then prose v10.
+- **Next stage:** author review of this v0.2 editorial pass; character model sheets and 24-page thumbnail layouts, then prose v10.
+
+## Editorial review — 2026-11-14
+
+Pages 1–4 establish the badge error, abandoned correction and infrastructure work. The correction flashback now falls in Todd's first month, matching v9, and the Oregon cutaway no longer puts a cooling-unit service task at his office desk. Pages 5–10 retain the theft and Chad's private fear; the source-history caption claims authorship rather than implying that the corporate repository reliably carries Todd's correct name. Pages 11–13 restore Eliza's spoken recognition of Todd and preserve Aria's alternating-Thursday appearance without obscuring her face to postpone a relationship decision. Pages 14–17 retain the move into night work and the evaluation. Pages 18–20 explicitly show Enter untouched, the local line erased and evaluation completion. Pages 21–24 establish the four-second interval and unsolicited output while retaining the white-space intrusion and root-shell ending.
+
+**Mechanism limit:** Todd's correct name exists outside the corporate directory: Eliza knows it and his local files can contain it. The comic establishes an unexpected name in this session, not proof that no software could obtain it. The unsubmitted prompt is Todd's basis for connecting the message to his private question; the issue does not prove mind-reading or explain the access path. Do not add a caption asserting that the whole workstation sent no network traffic while the remote evaluation was active.
+
+**Layout priorities:** Pages 14–17 repeat empty-office and screen views. Keep them only where each changes the room or Todd's attention; resolve their rhythm in thumbnails before finished art. The page 20–21 transition must preserve a quiet beat before the message. Page 24 ends on Todd taking an action; add no closing maxim.
+
+**Author decisions still open:** Martha's surname and family identity; Todd/Aria's relationship history. The draft uses the existing working label and stages their game without resolving either. Canonical prose v8 and archived v9 remain untouched. The missing October script remains unrecovered.
